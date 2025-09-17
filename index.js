@@ -30,13 +30,13 @@ async function loadBiologyData() {
             });
 
             // Flashcards
-            const flashcards = quiz.questions.map(q => {
-                const correct = q.options.find(opt => opt.is_correct);
-                return { question: q.question, answer: correct?.text || "No answer" };
-            });
+            // const flashcards = quiz.questions.map(q => {
+            //     const correct = q.options.find(opt => opt.is_correct);
+            //     return { question: q.question, answer: correct?.text || "No answer" };
+            // });
 
             subjects.biology.quizzes[quizKey] = quizQuestions;
-            subjects.biology.flashcards[quizKey] = flashcards;
+            // subjects.biology.flashcards[quizKey] = flashcards;
         });
 
         console.log("Biology data loaded:", subjects.biology);
@@ -61,18 +61,18 @@ function goBackToDashboard() {
     document.getElementById('dashboard').style.display = 'block';
 }
 
-function openFlashcardsList() {
-    showPage('flashcards-list-page');
-    const list = document.getElementById('flashcards-list');
-    list.innerHTML = '';
-    Object.keys(currentSubject.flashcards).forEach(key => {
-        const card = document.createElement('div');
-        card.className = 'quiz-card';
-        card.textContent = `Flashcards - ${key}`;
-        card.onclick = () => openFlashcards(key);
-        list.appendChild(card);
-    });
-}
+// function openFlashcardsList() {
+//     showPage('flashcards-list-page');
+//     const list = document.getElementById('flashcards-list');
+//     list.innerHTML = '';
+//     Object.keys(currentSubject.flashcards).forEach(key => {
+//         const card = document.createElement('div');
+//         card.className = 'quiz-card';
+//         card.textContent = `Flashcards - ${key}`;
+//         card.onclick = () => openFlashcards(key);
+//         list.appendChild(card);
+//     });
+// }
 
 function openQuizzesList() {
     showPage('quizzes-list-page');
@@ -90,46 +90,46 @@ function goBackToQuizzesList() {
     document.querySelectorAll('.page').forEach(p => p.style.display = 'none');
     document.getElementById('quizzes-list-page').style.display = 'block';
 }
-function goBackToFlashcardsList() {
-    document.querySelectorAll('.page').forEach(p => p.style.display = 'none');
-    document.getElementById('flashcards-list-page').style.display = 'block';
-}
+// function goBackToFlashcardsList() {
+//     document.querySelectorAll('.page').forEach(p => p.style.display = 'none');
+//     document.getElementById('flashcards-list-page').style.display = 'block';
+// }
 
 // -------------------- FLASHCARDS --------------------
-function openFlashcards(quizKey) {
-    currentQuizKey = quizKey;
-    currentCardIndex = 0;
-    showPage('flashcards-page');
-    updateFlashcard();
-}
+// function openFlashcards(quizKey) {
+//     currentQuizKey = quizKey;
+//     currentCardIndex = 0;
+//     showPage('flashcards-page');
+//     updateFlashcard();
+// }
 
-function updateFlashcard() {
-    const cards = currentSubject.flashcards[currentQuizKey];
-    if (!cards) return;
-    const card = cards[currentCardIndex];
+// function updateFlashcard() {
+//     const cards = currentSubject.flashcards[currentQuizKey];
+//     if (!cards) return;
+//     const card = cards[currentCardIndex];
 
-    document.getElementById('flashcard-question').textContent = card.question;
-    document.getElementById('flashcard-answer').textContent = card.answer;
-    document.getElementById('cardCounter').textContent = `${currentCardIndex + 1} / ${cards.length}`;
-}
+//     document.getElementById('flashcard-question').textContent = card.question;
+//     document.getElementById('flashcard-answer').textContent = card.answer;
+//     document.getElementById('cardCounter').textContent = `${currentCardIndex + 1} / ${cards.length}`;
+// }
 
-function nextCard() {
-    const cards = currentSubject.flashcards[currentQuizKey];
-    if (currentCardIndex < cards.length - 1) {
-        currentCardIndex++;
-        updateFlashcard();
-    }
-}
-function previousCard() {
-    if (currentCardIndex > 0) {
-        currentCardIndex--;
-        updateFlashcard();
-    }
-}
-// Flip the current flashcard
-function flipCard() {
-    document.getElementById('currentFlashcard').classList.toggle('flipped');
-}
+// function nextCard() {
+//     const cards = currentSubject.flashcards[currentQuizKey];
+//     if (currentCardIndex < cards.length - 1) {
+//         currentCardIndex++;
+//         updateFlashcard();
+//     }
+// }
+// function previousCard() {
+//     if (currentCardIndex > 0) {
+//         currentCardIndex--;
+//         updateFlashcard();
+//     }
+// }
+// // Flip the current flashcard
+// function flipCard() {
+//     document.getElementById('currentFlashcard').classList.toggle('flipped');
+// }
 
 // -------------------- QUIZZES --------------------
 function openQuiz(quizKey) {
