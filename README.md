@@ -1,26 +1,14 @@
 ## Project info
 
 
-**Edit a file directly in GitHub**
+## TODO:
+- improved the home page layout
+- make it so that you can select the quiz you would like to be tested on.
+- after selecting the quiz, user will go to the quiz page and the questions will be displayed one by one. answers will be displayed right after the user chose their options. 
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- quiz questions are in study_quiz_processed_questions_db.json
+- there will be comments for each quiz options too
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- wrong quetions will be asked again in a random order in the set of remaining questions
+- after all the questions are answered or the user decided to end the quiz, show some stats
+- remove unnecessary code
