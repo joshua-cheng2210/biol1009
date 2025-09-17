@@ -54,7 +54,7 @@ function showPage(pageId) {
 function showDashboard(subjectKey) {
     currentSubject = subjects[subjectKey];
     showPage('dashboard');
-    document.getElementById('dashboard-title').textContent = `${currentSubject.title} Dashboard`;
+    document.getElementById('dashboard-title').textContent = `BIOL 1009: General Biology`;
 }
 function goBackToDashboard() {
     document.querySelectorAll('.page').forEach(p => p.style.display = 'none');

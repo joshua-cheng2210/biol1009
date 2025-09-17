@@ -16,77 +16,15 @@
     <div id="dashboard" class="page active">
         <div class="container">
             <div class="page-header">
-                <h2 id="dashboard-title">Biology Dashboard</h2>
-                <p>Track your progress and practice</p>
+                <h2 id="dashboard-title">BIOL 1009: General Biology</h2>
+                <p>Select your topics</p>
             </div>
 
             <!-- Dashboard Cards -->
             <div class="dashboard-cards">
-                <!-- Flashcards Card -->
-                <!-- <div class="dashboard-card" onclick="openFlashcardsList()">
-                    <div class="progress-circle" style="--progress: 180deg;">
-                        <div class="progress-text">0%</div>
-                    </div>
-                    <h3>Flashcards</h3>
-                    <p>0 of 50 mastered</p>
-                </div> -->
-
-                <!-- Quiz Card -->
-                <div class="dashboard-card" onclick="openQuizzesList()">
-                    <div class="progress-circle" style="--progress: 288deg;">
-                        <div class="progress-text">0%</div>
-                    </div>
-                    <h3>Quizzes</h3>
-                    <p>0 of 50 mastered</p>
-                </div>
-            </div>
+            <div id="quizzes-list" class="quiz-list"></div>
         </div>
     </div>
-
-    <!-- Flashcards List Page -->
-    <!-- <div id="flashcards-list-page" class="page" style="display:none;">
-        <button class="back-button" onclick="goBackToDashboard()">
-            ← Back to Dashboard
-        </button>
-        <div class = "page-header">
-            <h2>Select a Quiz to Study</h2>
-        </div>
-        <div id="flashcards-list" class="quiz-list"></div>
-    </div> -->
-
-    <!-- Flashcards Study Page -->
-    <!-- <div id="flashcards-page" class="page" style="display:none;">
-        <button class="back-button" onclick="goBackToFlashcardsList()">
-            ← Back to Flashcards
-        </button>
-        <div class="flashcard-container">
-            <div class="flashcard" id="currentFlashcard" onclick="flipCard()">
-                <div class="flashcard-inner">
-                    <div class="flashcard-front">
-                        <h3 id="flashcard-question">Loading...</h3>
-                    </div>
-                    <div class="flashcard-back">
-                        <h3 id="flashcard-answer">Loading...</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="flashcard-nav">
-                <button class="nav-button" id="prevBtn" onclick="previousCard()">
-                    <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd" d="M11 1 3 8l8 7V1z" />
-                    </svg>
-                    Previous
-                </button>
-                <span id="cardCounter">0 / 0</span>
-                <button class="nav-button" id="nextBtn" onclick="nextCard()">
-                    Next
-                    <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd" d="M5 1l8 7-8 7V1z" />
-                    </svg>
-                </button>
-            </div>
-        </div>
-    </div> -->
 
     <!-- Quizzes List Page -->
     <div id="quizzes-list-page" class="page" style="display:none;">
@@ -101,7 +39,7 @@
 
     <!-- Quiz Study Page -->
     <div id="quiz-page" class="page" style="display:none;">
-        <button class="back-button" onclick="goBackToQuizzesList()">
+        <button class="back-button" onclick="goBackToDashboard()">
             ← Back to Quizzes
         </button>
         <div class="quiz-question">
@@ -120,7 +58,7 @@
     <div id="quiz-results" class="page" style="display:none;">
         <div class="score-circle"><span id="final-score">0%</span></div>
         <p>You scored <span id="score-text"></span></p>
-        <button onclick="openQuizzesList()">Back to Quizzes</button>
+        <button onclick="goBackToDashboard()">Back to Quizzes</button>
     </div>
 
     <script src="index.js"></script>
