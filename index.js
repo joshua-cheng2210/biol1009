@@ -55,24 +55,23 @@ function showDashboard(subjectKey) {
     currentSubject = subjects[subjectKey];
     showPage('dashboard');
     document.getElementById('dashboard-title').textContent = `BIOL 1009: General Biology`;
+
+    // Render quiz list on dashboard
+    const list = document.getElementById('dashboard-quizzes-list');
+    list.innerHTML = '';
+    Object.keys(currentSubject.quizzes).forEach(key => {
+        const card = document.createElement('div');
+        card.className = 'quiz-card';
+        card.textContent = `Quiz - ${key}`;
+        card.onclick = () => openQuiz(key);
+        list.appendChild(card);
+    });
 }
+
 function goBackToDashboard() {
     document.querySelectorAll('.page').forEach(p => p.style.display = 'none');
     document.getElementById('dashboard').style.display = 'block';
 }
-
-// function openFlashcardsList() {
-//     showPage('flashcards-list-page');
-//     const list = document.getElementById('flashcards-list');
-//     list.innerHTML = '';
-//     Object.keys(currentSubject.flashcards).forEach(key => {
-//         const card = document.createElement('div');
-//         card.className = 'quiz-card';
-//         card.textContent = `Flashcards - ${key}`;
-//         card.onclick = () => openFlashcards(key);
-//         list.appendChild(card);
-//     });
-// }
 
 function openQuizzesList() {
     showPage('quizzes-list-page');
@@ -90,46 +89,7 @@ function goBackToQuizzesList() {
     document.querySelectorAll('.page').forEach(p => p.style.display = 'none');
     document.getElementById('quizzes-list-page').style.display = 'block';
 }
-// function goBackToFlashcardsList() {
-//     document.querySelectorAll('.page').forEach(p => p.style.display = 'none');
-//     document.getElementById('flashcards-list-page').style.display = 'block';
-// }
 
-// -------------------- FLASHCARDS --------------------
-// function openFlashcards(quizKey) {
-//     currentQuizKey = quizKey;
-//     currentCardIndex = 0;
-//     showPage('flashcards-page');
-//     updateFlashcard();
-// }
-
-// function updateFlashcard() {
-//     const cards = currentSubject.flashcards[currentQuizKey];
-//     if (!cards) return;
-//     const card = cards[currentCardIndex];
-
-//     document.getElementById('flashcard-question').textContent = card.question;
-//     document.getElementById('flashcard-answer').textContent = card.answer;
-//     document.getElementById('cardCounter').textContent = `${currentCardIndex + 1} / ${cards.length}`;
-// }
-
-// function nextCard() {
-//     const cards = currentSubject.flashcards[currentQuizKey];
-//     if (currentCardIndex < cards.length - 1) {
-//         currentCardIndex++;
-//         updateFlashcard();
-//     }
-// }
-// function previousCard() {
-//     if (currentCardIndex > 0) {
-//         currentCardIndex--;
-//         updateFlashcard();
-//     }
-// }
-// // Flip the current flashcard
-// function flipCard() {
-//     document.getElementById('currentFlashcard').classList.toggle('flipped');
-// }
 
 // -------------------- QUIZZES --------------------
 function openQuiz(quizKey) {
@@ -188,7 +148,7 @@ function finishQuiz() {
 }
 
 // -------------------- INIT --------------------
-document.addEventListener('DOMContentLoaded', () => {
-    loadBiologyData();
+document.addEventListener('DOMContentLoaded', async() => {
+    await loadBiologyData();
     showDashboard('biology')
 });
