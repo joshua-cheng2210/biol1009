@@ -9369,5 +9369,1954 @@
       }
     ],
     "unique_questions": 1
+  },
+  {
+    "quiz_title": "SQ topic 3 level 1a (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
+    "questions": [
+      {
+        "question": "If I have trouble seeing a figure for a question, I should",
+        "unique": true,
+        "id": 129,
+        "options": [
+          {
+            "text": "assume the figure is missing from that question.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "re-size my browser window. If that doesn't work I should make sure I'm using Google chrome and have recently cleared the cache from my browser.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "unique": true,
+        "id": 130,
+        "options": [
+          {
+            "text": "a carboxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a methyl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a hydrocarbon group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carbonyl group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Carbon atoms typically complete their valence shells by",
+        "unique": true,
+        "id": 131,
+        "options": [
+          {
+            "text": "transferring four electrons from other atoms",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "forming ionic bonds with H+ cations",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "transferring four electrons to other atoms",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "forming four covalent bonds with other atoms",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Compounds with amino groups are known as",
+        "unique": true,
+        "id": 132,
+        "options": [
+          {
+            "text": "amides",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ketones",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "amines",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "aldehydes",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If two molecules have the same number of atoms of the same elements but different structures, the two molecules may be",
+        "unique": true,
+        "id": 133,
+        "options": [
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "All of these answers are correct",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "What is the best description of a carbonyl group?",
+        "unique": true,
+        "id": 134,
+        "options": [
+          {
+            "text": "A nitrogen and two hydrogens joined to a carbon by covalent bonds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "An oxygen joined to a carbon by a single covalent bond",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A carbon atom joined to an oxygen by a double covalent bond",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "A carbon joined to a hydroxyl group by a single covalent bond",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If two molecules have the same numbers of atoms of the same elements and the SAME covalent partnerships but different structures, the two molecules may be",
+        "unique": true,
+        "id": 135,
+        "options": [
+          {
+            "text": "Either enantiomers or geometric isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What functional group is commonly used in cells to transfer energy from one organic molecule to another?",
+        "unique": true,
+        "id": 136,
+        "options": [
+          {
+            "text": "carboxyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "phosphate",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "hydroxyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "sulfhydryl",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Compounds with carbonyl groups are known",
+        "unique": true,
+        "id": 137,
+        "options": [
+          {
+            "text": "alcohols and hydrocarbons",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "aldehydes and hydrocarbons",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ketones and hydrocarbons",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "aldehydes or ketones",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a hydrocarbon group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a hydroxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carbonyl group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as -O-H",
+        "unique": true,
+        "id": 138,
+        "options": [
+          {
+            "text": "a hydroxyl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a water group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydroxide group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 10
+  },
+  {
+    "quiz_title": "SQ topic 3 level 1b (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
+    "questions": [
+      {
+        "question": "The following functional group is known as",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a phosphorous group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "an oxygen phosphorous group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "an oxygen phosphate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a phosphate group",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Compounds with sulfhydryl groups are known as",
+        "unique": true,
+        "id": 139,
+        "options": [
+          {
+            "text": "thiols",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "hydrogenated sulfurs",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydrogen sulfurs",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "sulphates",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?",
+        "unique": true,
+        "id": 140,
+        "options": [
+          {
+            "text": "methyl and carboxyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydroxyl and carbonyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "amino and carbonyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "amino and carboxyl",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a methyl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a hydrocarbon group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carbonyl group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "an amino group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "an amide group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a nitrogen hydroxide group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydronitrogen group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the molecules listed below can form isomers? CH4 C3H8 C4H10",
+        "unique": true,
+        "id": 141,
+        "options": [
+          {
+            "text": "None of them can form isomers.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "All of them can form isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "CH4 cannot form isomers, but C3H8 and C4H10can form isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "CH4 and C3H8 cannot form isomers, but C4H10can form isomers",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as -S-H",
+        "unique": true,
+        "id": 142,
+        "options": [
+          {
+            "text": "a sulfhydryl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydrogen sulfide group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a sulfate group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If two molecules have the same number of atoms of the same elements but different structures, the two molecules may be",
+        "unique": false,
+        "id": 133,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "All of these answers are correct",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+        "unique": true,
+        "id": 143,
+        "options": [
+          {
+            "text": "are structural isomers.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are mirror images of one another.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "are mirror images of one another and have the same biological activity.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "have identical three-dimensional shapes.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Carbon atoms typically complete their valence shells by",
+        "unique": false,
+        "id": 131,
+        "options": [
+          {
+            "text": "forming four covalent bonds with other atoms",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "transferring four electrons from other atoms",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "forming ionic bonds with H+ cations",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "transferring four electrons to other atoms",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 5
+  },
+  {
+    "quiz_title": "SQ topic 3 level 1c (Chapter 4)",
+    "questions": [
+      {
+        "question": "Which chemical group is most likely to be responsible for an organic molecule behaving as a base?",
+        "unique": true,
+        "id": 144,
+        "options": [
+          {
+            "text": "carbonyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydroxyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "amino",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "carboxyl",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The central carbon in amino acids is asymmetric in all amino acids except:",
+        "unique": true,
+        "id": 145,
+        "options": [
+          {
+            "text": "alanine (R = -CH3)",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "glycine (R = -H)",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "all amino acids without exception",
+            "is_correct": false,
+            "comment": ""
+          },
+          {
+            "text": "aspartate (R = -CH2COOH)",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The two molecules shown in the figure below are best described as",
+        "unique": true,
+        "id": 146,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "unique": true,
+        "id": 147,
+        "options": [
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": ""
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": true,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Compounds with amino groups are known as",
+        "unique": false,
+        "id": 132,
+        "options": [
+          {
+            "text": "ketones",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "aldehydes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "amides",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "amines",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What is the best description of a carbonyl group?",
+        "unique": false,
+        "id": 134,
+        "options": [
+          {
+            "text": "A nitrogen and two hydrogens joined to a carbon by covalent bonds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "An oxygen joined to a carbon by a single covalent bond",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A carbon atom joined to an oxygen by a double covalent bond",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "A carbon joined to a hydroxyl group by a single covalent bond",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a hydroxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydrocarbon group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carbonyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Molecules consisting only of carbon and hydrogen are known as",
+        "unique": true,
+        "id": 148,
+        "options": [
+          {
+            "text": "hydrocarbons or carbohydrates",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "carbohydrates",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "lipids",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydrocarbons",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as -O-H",
+        "unique": false,
+        "id": 138,
+        "options": [
+          {
+            "text": "a carboxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydroxide group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a water group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydroxyl group",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      }
+    ],
+    "unique_questions": 5
+  },
+  {
+    "quiz_title": "SQ topic 3 level 1c (Chapter 4)_2",
+    "questions": [
+      {
+        "question": "Which action could produce a carbonyl group?",
+        "unique": true,
+        "id": 149,
+        "options": [
+          {
+            "text": "the addition of a thiol to a hydroxyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the replacement of the –O-H of a carboxyl group with hydrogen",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "the replacement of the nitrogen of an amine with oxygen",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the replacement of an H of a methyl group with oxygen",
+            "is_correct": false,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "an amide group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydronitrogen group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a nitrogen hydroxide group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "an amino group",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Which of the following structures makes sense?",
+        "unique": true,
+        "id": 150,
+        "options": [
+          {
+            "text": "O=C=O",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "H-C=O",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "H-C-H",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "H-C=C=O",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as -S-H",
+        "unique": false,
+        "id": 142,
+        "options": [
+          {
+            "text": "a sulfate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydrogen sulfide group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a sulfhydryl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Compounds with amino groups are known as",
+        "unique": false,
+        "id": 132,
+        "options": [
+          {
+            "text": "amines",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "ketones",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "amides",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "aldehydes",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Identify the asymmetric carbon in this molecule",
+        "unique": true,
+        "id": 151,
+        "options": [
+          {
+            "text": "It is the 3rd carbon from the left",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "It is the 2nd carbon from the left",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "It is the 1st carbon on the left",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "It is the 4th carbon from the left",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a carbonyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydroxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydrocarbon group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": ""
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+        "unique": false,
+        "id": 143,
+        "options": [
+          {
+            "text": "have identical three-dimensional shapes.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are mirror images of one another.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "are mirror images of one another and have the same biological activity.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are structural isomers.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 3
+  },
+  {
+    "quiz_title": "SQ topic 3 level 1c (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
+    "questions": [
+      {
+        "question": "The following functional group is known as",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a carboxyl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a carbonyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydrocarbon group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydroxyl group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Compounds with carbonyl groups are known",
+        "unique": false,
+        "id": 137,
+        "options": [
+          {
+            "text": "alcohols and hydrocarbons",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "aldehydes or ketones",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "aldehydes and hydrocarbons",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ketones and hydrocarbons",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Compounds with carboxyl groups are known as",
+        "unique": true,
+        "id": 152,
+        "options": [
+          {
+            "text": "aldehydes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "carboxylic acids",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "hydrocarbons",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ketones",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as -O-H",
+        "unique": false,
+        "id": 138,
+        "options": [
+          {
+            "text": "a carboxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydroxide group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydroxyl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a water group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Organic chemistry is defined as",
+        "unique": true,
+        "id": 153,
+        "options": [
+          {
+            "text": "the study of natural (as opposed to synthetic) compounds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the study of hydrocarbons",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the study of carbon compounds",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "the study of compounds made only by living cells",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+        "unique": false,
+        "id": 143,
+        "options": [
+          {
+            "text": "are structural isomers.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are mirror images of one another.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "have identical three-dimensional shapes.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are mirror images of one another and have the same biological activity.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements is FALSE?",
+        "unique": true,
+        "id": 154,
+        "options": [
+          {
+            "text": "Amino groups tend to act as bases.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Carboxyl groups tend to act as acids.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Hydroxyl groups can form hydrogen bonds.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "sulfhydryl groups act as bases.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": ""
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Compounds with sulfhydryl groups are known as",
+        "unique": false,
+        "id": 139,
+        "options": [
+          {
+            "text": "hydrogenated sulfurs",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "sulphates",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "thiols",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "hydrogen sulfurs",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a carboxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carbonyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydrocarbon group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a methyl group",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      }
+    ],
+    "unique_questions": 3
+  },
+  {
+    "quiz_title": "SQ topic 3 level 1d (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
+    "questions": [
+      {
+        "question": "The molecules shown below are best described as",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": ""
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": true,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If two molecules have the same numbers of atoms of the same elements and the SAME covalent partnerships but different structures, the two molecules may be",
+        "unique": false,
+        "id": 135,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Either enantiomers or geometric isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a hydrocarbon group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a methyl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a carbonyl group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What is the best description of a carbonyl group?",
+        "unique": false,
+        "id": 134,
+        "options": [
+          {
+            "text": "A nitrogen and two hydrogens joined to a carbon by covalent bonds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A carbon joined to a hydroxyl group by a single covalent bond",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "An oxygen joined to a carbon by a single covalent bond",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A carbon atom joined to an oxygen by a double covalent bond",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a phosphorous group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "an oxygen phosphate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a phosphate group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "an oxygen phosphorous group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Compounds with amino groups are known as",
+        "unique": false,
+        "id": 132,
+        "options": [
+          {
+            "text": "amines",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "amides",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ketones",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "aldehydes",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as -S-H",
+        "unique": false,
+        "id": 142,
+        "options": [
+          {
+            "text": "a sulfhydryl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a hydrogen sulfide group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a sulfate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If two molecules have the same number of atoms of the same elements but DIFFERENT covalent arrangements, the two molecules are",
+        "unique": true,
+        "id": 155,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "All of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If two molecules are mirror images of each other, the two molecules may be",
+        "unique": true,
+        "id": 156,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enantiomers or geometric isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 2
+  },
+  {
+    "quiz_title": "SQ topic 3 level 2 (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
+    "questions": [
+      {
+        "question": "Compounds with sulfhydryl groups are known as",
+        "unique": false,
+        "id": 139,
+        "options": [
+          {
+            "text": "hydrogen sulfurs",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "thiols",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "hydrogenated sulfurs",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "sulphates",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements is FALSE?",
+        "unique": false,
+        "id": 154,
+        "options": [
+          {
+            "text": "Amino groups tend to act as bases.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "sulfhydryl groups act as bases.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Carboxyl groups tend to act as acids.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Hydroxyl groups can form hydrogen bonds.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Molecules consisting only of carbon and hydrogen are known as",
+        "unique": false,
+        "id": 148,
+        "options": [
+          {
+            "text": "hydrocarbons or carbohydrates",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydrocarbons",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "lipids",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "carbohydrates",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as -O-H",
+        "unique": false,
+        "id": 138,
+        "options": [
+          {
+            "text": "a water group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydroxyl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a hydroxide group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?",
+        "unique": false,
+        "id": 140,
+        "options": [
+          {
+            "text": "amino and carboxyl",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "amino and carbonyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydroxyl and carbonyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "methyl and carboxyl",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Compounds with amino groups are known as",
+        "unique": false,
+        "id": 132,
+        "options": [
+          {
+            "text": "amides",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "amines",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "ketones",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "aldehydes",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following terms most accurately describes the shape of an ethylene molecule?",
+        "unique": true,
+        "id": 157,
+        "options": [
+          {
+            "text": "spherical",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "tetrahedral",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "cubical",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "flat",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "If two molecules are mirror images of each other, the two molecules may be",
+        "unique": false,
+        "id": 156,
+        "options": [
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enantiomers or geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The carbon skeletons of organic molecules may",
+        "unique": true,
+        "id": 158,
+        "options": [
+          {
+            "text": "all of these answers are correct",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "be branched",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "be cyclical",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "contain double bonds between the carbon atoms",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 2
   }
 ]
