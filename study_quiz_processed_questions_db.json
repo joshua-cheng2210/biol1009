@@ -3,7 +3,8 @@
     "quiz_title": "Quiz 1 (due Thursday, Sept. 11 at 11:59 PM): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "<p>What should you call your professor?</p>",
+        "question": "What should you call your professor?",
+        "question_image_url": "",
         "unique": true,
         "id": 1,
         "options": [
@@ -22,11 +23,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "True or false: If you end up missing one of the online lecture quizzes for a good reason, such as being sick, you should immediately contact the professor about your situation and request an extension on the quiz.",
+        "question_image_url": "",
         "unique": true,
         "id": 2,
         "options": [
@@ -40,11 +41,11 @@
             "is_correct": true,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "How final course grades will be determined",
+        "question_image_url": "",
         "unique": true,
         "id": 3,
         "options": [
@@ -68,11 +69,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Why is it important to spend some time answering study questions within a few hours, and again within a few days, of listening to the recordings for a topic?",
+        "question_image_url": "",
         "unique": true,
         "id": 4,
         "options": [
@@ -86,11 +87,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Studies have shown which of the following to be a particularly effective way for most students to learn new material?",
+        "question_image_url": "",
         "unique": true,
         "id": 5,
         "options": [
@@ -109,11 +110,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p><span>\"Brad has blown off going to his lab session four times. Chloe got covid and, due to having covid, missed four lab sections. Chloe has a note from her doctor stating that she was too sick to attend class during all four of the lab sessions that she missed.\"</span></p> <p><span>Assuming that both Brad and Chloe have done well on all the exams, quizzes, etc., who is on <span class=\"il\">track</span> to pass the course?</span></p>",
+        "question": "\"Brad has blown off going to his lab session four times. Chloe got covid and, due to having covid, missed four lab sections. Chloe has a note from her doctor stating that she was too sick to attend class during all four of the lab sessions that she missed.\" Assuming that both Brad and Chloe have done well on all the exams, quizzes, etc., who is on track to pass the course?",
+        "question_image_url": "",
         "unique": true,
         "id": 6,
         "options": [
@@ -132,11 +133,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p>Scholastic dishonesty, such as cheating on exams or plagiarism, is not tolerated in this course. BIOL 1009 is a required course for almost all students taking it. This means that the information covered in the course is information students will likely need to be successful in their future careers. As a result, committing scholastic dishonesty in this course is not only dis-honorable, but is also likely to negatively impact students' future careers.</p> <p>Because scholastic dishonesty is not tolerated in this course, students found to have committed scholastic dishonesty, such as cheating on an exam:</p>",
+        "question": "Scholastic dishonesty, such as cheating on exams or plagiarism, is not tolerated in this course. BIOL 1009 is a required course for almost all students taking it. This means that the information covered in the course is information students will likely need to be successful in their future careers. As a result, committing scholastic dishonesty in this course is not only dis-honorable, but is also likely to negatively impact students' future careers. Because scholastic dishonesty is not tolerated in this course, students found to have committed scholastic dishonesty, such as cheating on an exam:",
+        "question_image_url": "",
         "unique": true,
         "id": 7,
         "options": [
@@ -155,11 +156,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p>Which of the following statements is/are true?</p> <p>1) The lecture part of the course will cover 25 different topics during the semester. To access the material for each of these topics, students should click on the topic on the homepage of the course Canvas site. In other words, to access the material for Topic 1, click where it says \"Topic 1\".</p> <p>2) Students should complete the activities listed on the page for a particular topic by the date for that topic, shown near the end of the course syllabus.</p>",
+        "question": "Which of the following statements is/are true? 1) The lecture part of the course will cover 25 different topics during the semester. To access the material for each of these topics, students should click on the topic on the homepage of the course Canvas site. In other words, to access the material for Topic 1, click where it says \"Topic 1\". 2) Students should complete the activities listed on the page for a particular topic by the date for that topic, shown near the end of the course syllabus.",
+        "question_image_url": "",
         "unique": true,
         "id": 8,
         "options": [
@@ -183,11 +184,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Which of the following looks like a good study plan for an average student hoping to earn an above average grade of \"B\" or \"A\" in the course?",
+        "question_image_url": "",
         "unique": true,
         "id": 9,
         "options": [
@@ -201,11 +202,11 @@
             "is_correct": false,
             "comment": "This is unlikely to be enough time spent studying outside of class for an average student to earn a grade of \"B\" or \"A\"."
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Regarding the online quizzes",
+        "question_image_url": "",
         "unique": true,
         "id": 10,
         "options": [
@@ -239,11 +240,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p>Is the professor teaching the course available in real time to help you with the course material?</p>",
+        "question": "Is the professor teaching the course available in real time to help you with the course material?",
+        "question_image_url": "",
         "unique": true,
         "id": 11,
         "options": [
@@ -267,11 +268,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "According to University policy, how many total hours of effort should an average student need to spend each week during the semester to earn a grade of “C” in a 4 credit course, such as BIOL 1009?",
+        "question_image_url": "",
         "unique": true,
         "id": 12,
         "options": [
@@ -300,11 +301,11 @@
             "is_correct": true,
             "comment": "Correct! Please note that an average student should expect to spend more than 12 hours per week on the course to earn a grade of “B” or “A”. Correct! Please note that an average student should expect to spend more than 12 hours per week on the course to earn a grade of “B” or “A”."
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Repetition is essential to storing information and concepts in you long-term memory. Therefore,",
+        "question_image_url": "",
         "unique": true,
         "id": 13,
         "options": [
@@ -318,11 +319,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following is a true statement regarding recommend priorities in studying for BIOL 1009?",
+        "question_image_url": "",
         "unique": true,
         "id": 14,
         "options": [
@@ -346,11 +347,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Why is it a good idea to spend a few minutes reviewing the handout and your notes within a few hours, and again within a few days, of listening to the recordings for each topic?",
+        "question_image_url": "",
         "unique": true,
         "id": 15,
         "options": [
@@ -364,11 +365,11 @@
             "is_correct": true,
             "comment": "Nice work!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Regarding exams and online quizzes",
+        "question_image_url": "",
         "unique": true,
         "id": 16,
         "options": [
@@ -382,11 +383,11 @@
             "is_correct": true,
             "comment": "That's right!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Where can you find important information about the course?",
+        "question_image_url": "",
         "unique": true,
         "id": 17,
         "options": [
@@ -410,11 +411,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "When you receive emails from your professor, you should:",
+        "question_image_url": "",
         "unique": true,
         "id": 18,
         "options": [
@@ -433,11 +434,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "There will be assigned readings from the textbook for most or all of the course topics.",
+        "question_image_url": "",
         "unique": true,
         "id": 19,
         "options": [
@@ -456,11 +457,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "If you have trouble seeing a figure on a set of study questions, quiz or exam, you should:",
+        "question_image_url": "",
         "unique": true,
         "id": 20,
         "options": [
@@ -484,11 +485,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p>All exams must be taken in-person, on the day and time listed in the course syllabus. Valid excuses for a make-up exam are:</p>",
+        "question": "All exams must be taken in-person, on the day and time listed in the course syllabus. Valid excuses for a make-up exam are:",
+        "question_image_url": "",
         "unique": true,
         "id": 21,
         "options": [
@@ -512,11 +513,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p>What resources are available on the course Canvas website?</p>",
+        "question": "What resources are available on the course Canvas website?",
+        "question_image_url": "",
         "unique": true,
         "id": 22,
         "options": [
@@ -540,11 +541,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Which of the following looks like a good study plan for an average student hoping to earn an average grade of \"C\" in the course?",
+        "question_image_url": "",
         "unique": true,
         "id": 23,
         "options": [
@@ -563,11 +564,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "There will be a number of online quizzes throughout the semester.",
+        "question_image_url": "",
         "unique": true,
         "id": 24,
         "options": [
@@ -586,11 +587,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following statements is correct?",
+        "question_image_url": "",
         "unique": true,
         "id": 25,
         "options": [
@@ -614,11 +615,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "There will be a number of online quizzes throughout the semester.",
+        "question_image_url": "",
         "unique": false,
         "id": 24,
         "options": [
@@ -647,11 +648,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p><span>Each online quiz must be completed by a certain date.</span></p>",
+        "question": "Each online quiz must be completed by a certain date.",
+        "question_image_url": "",
         "unique": true,
         "id": 26,
         "options": [
@@ -675,11 +676,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Which of the following statements is correct?",
+        "question_image_url": "",
         "unique": false,
         "id": 25,
         "options": [
@@ -703,11 +704,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "If some of the course material is unclear,",
+        "question_image_url": "",
         "unique": true,
         "id": 27,
         "options": [
@@ -756,11 +757,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Regarding the online quizzes:",
+        "question_image_url": "",
         "unique": true,
         "id": 28,
         "options": [
@@ -784,8 +785,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       }
     ],
     "unique_questions": 28
@@ -794,7 +794,8 @@
     "quiz_title": "Quiz 2 (due Thursday, Sept. 11 at 11:59 PM): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "MgCl<sub>2</sub> is an example of",
+        "question": "MgCl2 is an example of",
+        "question_image_url": "",
         "unique": true,
         "id": 29,
         "options": [
@@ -818,11 +819,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Electron shells",
+        "question_image_url": "",
         "unique": true,
         "id": 30,
         "options": [
@@ -846,11 +847,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "When a reversible chemical reaction reaches equilibrium,",
+        "question_image_url": "",
         "unique": true,
         "id": 31,
         "options": [
@@ -874,11 +875,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "How many electrons do carbon atoms have in their valence shell?",
+        "question_image_url": "",
         "unique": true,
         "id": 32,
         "options": [
@@ -902,11 +903,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "How many electrons do nitrogen atoms have in their valence shell?",
+        "question_image_url": "",
         "unique": true,
         "id": 33,
         "options": [
@@ -930,11 +931,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "Pure water at room temperature has a concentration of 10<sup>-7</sup> hydrogen ions (H<sup>+</sup>) and 10<sup>-7</sup> hydroxyl ions (OH<sup>-</sup>). Why is this?",
+        "question": "Pure water at room temperature has a concentration of 10-7 hydrogen ions (H+) and 10-7 hydroxyl ions (OH-). Why is this?",
+        "question_image_url": "",
         "unique": true,
         "id": 34,
         "options": [
@@ -958,11 +959,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-8 </sup>M?",
+        "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-8 M?",
+        "question_image_url": "",
         "unique": true,
         "id": 35,
         "options": [
@@ -986,11 +987,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "If you mix a solid, hydrophilic substance “X” and a solid, hydrophobic substance “Y” with water",
+        "question_image_url": "",
         "unique": true,
         "id": 36,
         "options": [
@@ -1014,11 +1015,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following would you expect to dissolve poorly in water?",
+        "question_image_url": "",
         "unique": true,
         "id": 37,
         "options": [
@@ -1042,11 +1043,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
+        "question": "Discovery science",
+        "question_image_url": "",
         "unique": true,
         "id": 38,
         "options": [
@@ -1070,11 +1071,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
+        "question_image_url": "",
         "unique": true,
         "id": 39,
         "options": [
@@ -1098,11 +1099,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
+        "question": "A hypothesis",
+        "question_image_url": "",
         "unique": true,
         "id": 40,
         "options": [
@@ -1126,11 +1127,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
+        "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+        "question_image_url": "",
         "unique": true,
         "id": 41,
         "options": [
@@ -1154,11 +1155,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Polar molecules are often able to dissolve in water because",
+        "question_image_url": "",
         "unique": true,
         "id": 42,
         "options": [
@@ -1182,11 +1183,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-12 </sup>M?",
+        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
+        "question_image_url": "",
         "unique": true,
         "id": 43,
         "options": [
@@ -1210,11 +1211,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
+        "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH-]?",
+        "question_image_url": "",
         "unique": true,
         "id": 44,
         "options": [
@@ -1238,11 +1239,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "The charge on a water molecule is best described as being:",
+        "question_image_url": "",
         "unique": true,
         "id": 45,
         "options": [
@@ -1266,11 +1267,11 @@
             "is_correct": true,
             "comment": "Good work!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
+        "question": "A theory is",
+        "question_image_url": "",
         "unique": true,
         "id": 46,
         "options": [
@@ -1294,11 +1295,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
+        "question": "Qualitative data may be collected",
+        "question_image_url": "",
         "unique": true,
         "id": 47,
         "options": [
@@ -1322,11 +1323,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
+        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "question_image_url": "",
         "unique": true,
         "id": 48,
         "options": [
@@ -1350,11 +1351,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "Which of the following statements about valence shells is <strong>FALSE</strong>?",
+        "question": "Which of the following statements about valence shells is FALSE?",
+        "question_image_url": "",
         "unique": true,
         "id": 49,
         "options": [
@@ -1378,11 +1379,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "Which of the following statements about chemical reactions is <strong>FALSE</strong>?",
+        "question": "Which of the following statements about chemical reactions is FALSE?",
+        "question_image_url": "",
         "unique": true,
         "id": 50,
         "options": [
@@ -1406,11 +1407,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "When two atoms share a pair of electrons, they",
+        "question_image_url": "",
         "unique": true,
         "id": 51,
         "options": [
@@ -1434,11 +1435,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "When an electron is moved further from the nucleus",
+        "question_image_url": "",
         "unique": true,
         "id": 52,
         "options": [
@@ -1462,11 +1463,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p class=\"NormalText\">Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that</p>",
+        "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+        "question_image_url": "",
         "unique": true,
         "id": 53,
         "options": [
@@ -1490,8 +1491,7 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 25
@@ -1501,6 +1501,7 @@
     "questions": [
       {
         "question": "Which of the following looks like a good study plan for an average student hoping to earn an average grade of \"C\" in the course?",
+        "question_image_url": "",
         "unique": false,
         "id": 23,
         "options": [
@@ -1519,11 +1520,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Repetition is essential to storing information and concepts in you long-term memory. Therefore,",
+        "question_image_url": "",
         "unique": false,
         "id": 13,
         "options": [
@@ -1537,11 +1538,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following looks like a good study plan for an average student hoping to earn an above average grade of \"B\" or \"A\" in the course?",
+        "question_image_url": "",
         "unique": false,
         "id": 9,
         "options": [
@@ -1555,11 +1556,11 @@
             "is_correct": true,
             "comment": "Yes! However, it should be noted that each student is different and so somewhat different plans may work better for some students."
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "According to University policy, how many total hours of effort should an average student need to spend each week during the semester to earn a grade of “C” in a 4 credit course, such as BIOL 1009?",
+        "question_image_url": "",
         "unique": false,
         "id": 12,
         "options": [
@@ -1588,11 +1589,11 @@
             "is_correct": true,
             "comment": "Correct! Please note that an average student should expect to spend more than 12 hours per week on the course to earn a grade of “B” or “A”. Correct! Please note that an average student should expect to spend more than 12 hours per week on the course to earn a grade of “B” or “A”."
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Why is it important to spend some time answering study questions within a few hours, and again within a few days, of listening to the recordings for a topic?",
+        "question_image_url": "",
         "unique": false,
         "id": 4,
         "options": [
@@ -1606,11 +1607,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "If you have trouble seeing a figure on a set of study questions, quiz or exam, you should:",
+        "question_image_url": "",
         "unique": false,
         "id": 20,
         "options": [
@@ -1634,11 +1635,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Where can you find important information about the course?",
+        "question_image_url": "",
         "unique": false,
         "id": 17,
         "options": [
@@ -1662,11 +1663,11 @@
             "is_correct": true,
             "comment": "Good job!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "There will be a number of online quizzes throughout the semester.",
+        "question_image_url": "",
         "unique": false,
         "id": 24,
         "options": [
@@ -1685,11 +1686,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "How final course grades will be determined",
+        "question_image_url": "",
         "unique": false,
         "id": 3,
         "options": [
@@ -1713,11 +1714,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Regarding the online quizzes",
+        "question_image_url": "",
         "unique": false,
         "id": 10,
         "options": [
@@ -1751,8 +1752,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       }
     ],
     "unique_questions": 0
@@ -1762,6 +1762,7 @@
     "questions": [
       {
         "question": "How final course grades will be determined",
+        "question_image_url": "",
         "unique": false,
         "id": 3,
         "options": [
@@ -1785,11 +1786,11 @@
             "is_correct": true,
             "comment": "Good work!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p>All exams must be taken in-person, on the day and time listed in the course syllabus. Valid excuses for a make-up exam are:</p>",
+        "question": "All exams must be taken in-person, on the day and time listed in the course syllabus. Valid excuses for a make-up exam are:",
+        "question_image_url": "",
         "unique": false,
         "id": 21,
         "options": [
@@ -1813,11 +1814,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p>Scholastic dishonesty, such as cheating on exams or plagiarism, is not tolerated in this course. BIOL 1009 is a required course for almost all students taking it. This means that the information covered in the course is information students will likely need to be successful in their future careers. As a result, committing scholastic dishonesty in this course is not only dis-honorable, but is also likely to negatively impact students' future careers.</p> <p>Because scholastic dishonesty is not tolerated in this course, students found to have committed scholastic dishonesty, such as cheating on an exam:</p>",
+        "question": "Scholastic dishonesty, such as cheating on exams or plagiarism, is not tolerated in this course. BIOL 1009 is a required course for almost all students taking it. This means that the information covered in the course is information students will likely need to be successful in their future careers. As a result, committing scholastic dishonesty in this course is not only dis-honorable, but is also likely to negatively impact students' future careers. Because scholastic dishonesty is not tolerated in this course, students found to have committed scholastic dishonesty, such as cheating on an exam:",
+        "question_image_url": "",
         "unique": false,
         "id": 7,
         "options": [
@@ -1836,11 +1837,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Why is it a good idea to spend a few minutes reviewing the handout and your notes within a few hours, and again within a few days, of listening to the recordings for each topic?",
+        "question_image_url": "",
         "unique": false,
         "id": 15,
         "options": [
@@ -1854,11 +1855,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Why is it important to spend some time answering study questions within a few hours, and again within a few days, of listening to the recordings for a topic?",
+        "question_image_url": "",
         "unique": false,
         "id": 4,
         "options": [
@@ -1872,11 +1873,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Regarding the online quizzes",
+        "question_image_url": "",
         "unique": false,
         "id": 10,
         "options": [
@@ -1910,11 +1911,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Regarding the online quizzes:",
+        "question_image_url": "",
         "unique": false,
         "id": 28,
         "options": [
@@ -1938,11 +1939,11 @@
             "is_correct": true,
             "comment": "Nice work!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p><span>Each online quiz must be completed by a certain date.</span></p>",
+        "question": "Each online quiz must be completed by a certain date.",
+        "question_image_url": "",
         "unique": false,
         "id": 26,
         "options": [
@@ -1966,11 +1967,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "If some of the course material is unclear,",
+        "question_image_url": "",
         "unique": false,
         "id": 27,
         "options": [
@@ -2019,11 +2020,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p>What should you call your professor?</p>",
+        "question": "What should you call your professor?",
+        "question_image_url": "",
         "unique": false,
         "id": 1,
         "options": [
@@ -2042,8 +2043,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 0
@@ -2053,6 +2053,7 @@
     "questions": [
       {
         "question": "Regarding exams and online quizzes",
+        "question_image_url": "",
         "unique": false,
         "id": 16,
         "options": [
@@ -2066,11 +2067,11 @@
             "is_correct": true,
             "comment": "That's right!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p>Which of the following statements is/are true?</p> <p>1) The lecture part of the course will cover 25 different topics during the semester. To access the material for each of these topics, students should click on the topic on the homepage of the course Canvas site. In other words, to access the material for Topic 1, click where it says \"Topic 1\".</p> <p>2) Students should complete the activities listed on the page for a particular topic by the date for that topic, shown near the end of the course syllabus.</p>",
+        "question": "Which of the following statements is/are true? 1) The lecture part of the course will cover 25 different topics during the semester. To access the material for each of these topics, students should click on the topic on the homepage of the course Canvas site. In other words, to access the material for Topic 1, click where it says \"Topic 1\". 2) Students should complete the activities listed on the page for a particular topic by the date for that topic, shown near the end of the course syllabus.",
+        "question_image_url": "",
         "unique": false,
         "id": 8,
         "options": [
@@ -2094,11 +2095,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Regarding the online quizzes",
+        "question_image_url": "",
         "unique": false,
         "id": 10,
         "options": [
@@ -2132,11 +2133,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "There will be a number of online quizzes throughout the semester.",
+        "question_image_url": "",
         "unique": false,
         "id": 24,
         "options": [
@@ -2165,11 +2166,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "How final course grades will be determined",
+        "question_image_url": "",
         "unique": false,
         "id": 3,
         "options": [
@@ -2193,11 +2194,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "According to University policy, how many total hours of effort should an average student need to spend each week during the semester to earn a grade of “C” in a 4 credit course, such as BIOL 1009?",
+        "question_image_url": "",
         "unique": false,
         "id": 12,
         "options": [
@@ -2226,11 +2227,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "True or false: If you end up missing one of the online lecture quizzes for a good reason, such as being sick, you should immediately contact the professor about your situation and request an extension on the quiz.",
+        "question_image_url": "",
         "unique": false,
         "id": 2,
         "options": [
@@ -2244,11 +2245,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Why is it a good idea to spend a few minutes reviewing the handout and your notes within a few hours, and again within a few days, of listening to the recordings for each topic?",
+        "question_image_url": "",
         "unique": false,
         "id": 15,
         "options": [
@@ -2262,11 +2263,11 @@
             "is_correct": true,
             "comment": "Nice work!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "When you receive emails from your professor, you should:",
+        "question_image_url": "",
         "unique": false,
         "id": 18,
         "options": [
@@ -2285,11 +2286,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Why is it important to spend some time answering study questions within a few hours, and again within a few days, of listening to the recordings for a topic?",
+        "question_image_url": "",
         "unique": false,
         "id": 4,
         "options": [
@@ -2303,8 +2304,7 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       }
     ],
     "unique_questions": 0
@@ -2313,7 +2313,8 @@
     "quiz_title": "SQ topic 1a level 1d (course resources and policies): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "<p>Is the professor teaching the course available in real time to help you with the course material?</p>",
+        "question": "Is the professor teaching the course available in real time to help you with the course material?",
+        "question_image_url": "",
         "unique": false,
         "id": 11,
         "options": [
@@ -2337,11 +2338,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "When you receive emails from your professor, you should:",
+        "question_image_url": "",
         "unique": false,
         "id": 18,
         "options": [
@@ -2360,11 +2361,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Regarding the online quizzes:",
+        "question_image_url": "",
         "unique": false,
         "id": 28,
         "options": [
@@ -2388,11 +2389,11 @@
             "is_correct": true,
             "comment": "Nice work!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "There will be assigned readings from the textbook for most or all of the course topics.",
+        "question_image_url": "",
         "unique": false,
         "id": 19,
         "options": [
@@ -2411,11 +2412,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "If you have trouble seeing a figure on a set of study questions, quiz or exam, you should:",
+        "question_image_url": "",
         "unique": false,
         "id": 20,
         "options": [
@@ -2439,11 +2440,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Repetition is essential to storing information and concepts in you long-term memory. Therefore,",
+        "question_image_url": "",
         "unique": false,
         "id": 13,
         "options": [
@@ -2457,11 +2458,11 @@
             "is_correct": true,
             "comment": "Nice work!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Why is it important to spend some time answering study questions within a few hours, and again within a few days, of listening to the recordings for a topic?",
+        "question_image_url": "",
         "unique": false,
         "id": 4,
         "options": [
@@ -2475,11 +2476,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Regarding the online quizzes",
+        "question_image_url": "",
         "unique": false,
         "id": 10,
         "options": [
@@ -2513,11 +2514,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p><span>\"Brad has blown off going to his lab session four times. Chloe got covid and, due to having covid, missed four lab sections. Chloe has a note from her doctor stating that she was too sick to attend class during all four of the lab sessions that she missed.\"</span></p> <p><span>Assuming that both Brad and Chloe have done well on all the exams, quizzes, etc., who is on <span class=\"il\">track</span> to pass the course?</span></p>",
+        "question": "\"Brad has blown off going to his lab session four times. Chloe got covid and, due to having covid, missed four lab sections. Chloe has a note from her doctor stating that she was too sick to attend class during all four of the lab sessions that she missed.\" Assuming that both Brad and Chloe have done well on all the exams, quizzes, etc., who is on track to pass the course?",
+        "question_image_url": "",
         "unique": false,
         "id": 6,
         "options": [
@@ -2536,11 +2537,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p>What resources are available on the course Canvas website?</p>",
+        "question": "What resources are available on the course Canvas website?",
+        "question_image_url": "",
         "unique": false,
         "id": 22,
         "options": [
@@ -2564,8 +2565,7 @@
             "is_correct": true,
             "comment": "Correct. You will definitely want to access the course Canvas site on a regular basis. Correct. You will definitely want to access the course Canvas site on a regular basis."
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 0
@@ -2575,6 +2575,7 @@
     "questions": [
       {
         "question": "Where can you find important information about the course?",
+        "question_image_url": "",
         "unique": false,
         "id": 17,
         "options": [
@@ -2598,11 +2599,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Regarding the online quizzes",
+        "question_image_url": "",
         "unique": false,
         "id": 10,
         "options": [
@@ -2636,11 +2637,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Repetition is essential to storing information and concepts in you long-term memory. Therefore,",
+        "question_image_url": "",
         "unique": false,
         "id": 13,
         "options": [
@@ -2654,11 +2655,11 @@
             "is_correct": true,
             "comment": "Nice work!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "According to University policy, how many total hours of effort should an average student need to spend each week during the semester to earn a grade of “C” in a 4 credit course, such as BIOL 1009?",
+        "question_image_url": "",
         "unique": false,
         "id": 12,
         "options": [
@@ -2687,11 +2688,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Regarding the online quizzes:",
+        "question_image_url": "",
         "unique": false,
         "id": 28,
         "options": [
@@ -2715,11 +2716,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "How final course grades will be determined",
+        "question_image_url": "",
         "unique": false,
         "id": 3,
         "options": [
@@ -2743,11 +2744,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Regarding exams and online quizzes",
+        "question_image_url": "",
         "unique": false,
         "id": 16,
         "options": [
@@ -2761,11 +2762,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p><span>Each online quiz must be completed by a certain date.</span></p>",
+        "question": "Each online quiz must be completed by a certain date.",
+        "question_image_url": "",
         "unique": false,
         "id": 26,
         "options": [
@@ -2789,11 +2790,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Which of the following statements is correct?",
+        "question_image_url": "",
         "unique": false,
         "id": 25,
         "options": [
@@ -2817,11 +2818,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p>What resources are available on the course Canvas website?</p>",
+        "question": "What resources are available on the course Canvas website?",
+        "question_image_url": "",
         "unique": false,
         "id": 22,
         "options": [
@@ -2845,8 +2846,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 0
@@ -2855,7 +2855,8 @@
     "quiz_title": "SQ topic 1b level 1a (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
+        "question": "What are two methods of scientific inquiry?",
+        "question_image_url": "",
         "unique": true,
         "id": 54,
         "options": [
@@ -2879,11 +2880,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
+        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question_image_url": "",
         "unique": true,
         "id": 55,
         "options": [
@@ -2907,11 +2908,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
+        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "question_image_url": "",
         "unique": false,
         "id": 48,
         "options": [
@@ -2935,11 +2936,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is <b>NOT</b> an example of discovery science?</span><br>",
+        "question": "Which of the following is NOT an example of discovery science?",
+        "question_image_url": "",
         "unique": true,
         "id": 56,
         "options": [
@@ -2963,11 +2964,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
+        "question": "A theory is",
+        "question_image_url": "",
         "unique": false,
         "id": 46,
         "options": [
@@ -2991,11 +2992,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a “theory”</span><br>",
+        "question": "In science, a “theory”",
+        "question_image_url": "",
         "unique": true,
         "id": 57,
         "options": [
@@ -3019,11 +3020,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Quantitative data may be collected",
+        "question_image_url": "",
         "unique": true,
         "id": 58,
         "options": [
@@ -3047,11 +3048,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
+        "question": "What types of data may be collected when doing discovery science?",
+        "question_image_url": "",
         "unique": true,
         "id": 59,
         "options": [
@@ -3075,11 +3076,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
+        "question": "Discovery science",
+        "question_image_url": "",
         "unique": false,
         "id": 38,
         "options": [
@@ -3103,11 +3104,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a possible answer to a specific question is know as a</span><br>",
+        "question": "In science, a possible answer to a specific question is know as a",
+        "question_image_url": "",
         "unique": true,
         "id": 60,
         "options": [
@@ -3131,8 +3132,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 7
@@ -3141,7 +3141,8 @@
     "quiz_title": "SQ topic 1b level 1b (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
+        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question_image_url": "",
         "unique": false,
         "id": 55,
         "options": [
@@ -3165,11 +3166,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
+        "question": "What types of data may be collected when doing hypothesis-based science?",
+        "question_image_url": "",
         "unique": true,
         "id": 61,
         "options": [
@@ -3193,11 +3194,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
+        "question": "What types of data may be collected when doing discovery science?",
+        "question_image_url": "",
         "unique": false,
         "id": 59,
         "options": [
@@ -3221,11 +3222,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as</span>",
+        "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as",
+        "question_image_url": "",
         "unique": true,
         "id": 62,
         "options": [
@@ -3249,11 +3250,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
+        "question": "Which of the following is an example of qualitative data?",
+        "question_image_url": "",
         "unique": true,
         "id": 63,
         "options": [
@@ -3277,11 +3278,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
+        "question": "Which of the following best describes the logic of hypothesis-based science?",
+        "question_image_url": "",
         "unique": true,
         "id": 64,
         "options": [
@@ -3305,11 +3306,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Quantitative data may be collected",
+        "question_image_url": "",
         "unique": false,
         "id": 58,
         "options": [
@@ -3333,11 +3334,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
+        "question": "Qualitative data may be collected",
+        "question_image_url": "",
         "unique": false,
         "id": 47,
         "options": [
@@ -3361,11 +3362,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "During peer-review of a manuscript",
+        "question_image_url": "",
         "unique": true,
         "id": 65,
         "options": [
@@ -3389,11 +3390,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
+        "question": "A hypothesis",
+        "question_image_url": "",
         "unique": false,
         "id": 40,
         "options": [
@@ -3417,8 +3418,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 5
@@ -3427,7 +3427,8 @@
     "quiz_title": "SQ topic 1b level 1c (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is <b>NOT</b> an example of discovery science?</span><br>",
+        "question": "Which of the following is NOT an example of discovery science?",
+        "question_image_url": "",
         "unique": false,
         "id": 56,
         "options": [
@@ -3451,11 +3452,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
+        "question": "What types of data may be collected when doing hypothesis-based science?",
+        "question_image_url": "",
         "unique": false,
         "id": 61,
         "options": [
@@ -3479,11 +3480,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data? </span><br>",
+        "question": "Which of the following is an example of qualitative data?",
+        "question_image_url": "",
         "unique": false,
         "id": 63,
         "options": [
@@ -3507,11 +3508,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
+        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question_image_url": "",
         "unique": false,
         "id": 55,
         "options": [
@@ -3535,11 +3536,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
+        "question": "What types of data may be collected when doing discovery science?",
+        "question_image_url": "",
         "unique": false,
         "id": 59,
         "options": [
@@ -3563,11 +3564,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
+        "question": "Which of the following is an example of qualitative data?",
+        "question_image_url": "",
         "unique": false,
         "id": 63,
         "options": [
@@ -3591,11 +3592,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
+        "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+        "question_image_url": "",
         "unique": false,
         "id": 41,
         "options": [
@@ -3619,11 +3620,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of quantitative data? </span><br>",
+        "question": "Which of the following is an example of quantitative data?",
+        "question_image_url": "",
         "unique": true,
         "id": 66,
         "options": [
@@ -3647,11 +3648,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
+        "question": "Qualitative data may be collected",
+        "question_image_url": "",
         "unique": false,
         "id": 47,
         "options": [
@@ -3675,11 +3676,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
+        "question": "Which of the following best describes the logic of hypothesis-based science?",
+        "question_image_url": "",
         "unique": false,
         "id": 64,
         "options": [
@@ -3703,8 +3704,7 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 1
@@ -3713,7 +3713,8 @@
     "quiz_title": "SQ topic 1b level 1d (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
+        "question": "A hypothesis",
+        "question_image_url": "",
         "unique": false,
         "id": 40,
         "options": [
@@ -3737,11 +3738,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a possible answer to a specific question is know as a</span><br>",
+        "question": "In science, a possible answer to a specific question is know as a",
+        "question_image_url": "",
         "unique": false,
         "id": 60,
         "options": [
@@ -3765,11 +3766,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
+        "question": "What are two methods of scientific inquiry?",
+        "question_image_url": "",
         "unique": false,
         "id": 54,
         "options": [
@@ -3793,11 +3794,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
+        "question": "A hypothesis",
+        "question_image_url": "",
         "unique": false,
         "id": 40,
         "options": [
@@ -3821,11 +3822,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
+        "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+        "question_image_url": "",
         "unique": false,
         "id": 41,
         "options": [
@@ -3849,11 +3850,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a “theory”</span><br>",
+        "question": "In science, a “theory”",
+        "question_image_url": "",
         "unique": false,
         "id": 57,
         "options": [
@@ -3877,11 +3878,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
+        "question": "Which of the following is an example of qualitative data?",
+        "question_image_url": "",
         "unique": false,
         "id": 63,
         "options": [
@@ -3905,11 +3906,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
+        "question": "A theory is",
+        "question_image_url": "",
         "unique": false,
         "id": 46,
         "options": [
@@ -3933,11 +3934,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
+        "question": "Which of the following best describes the logic of hypothesis-based science?",
+        "question_image_url": "",
         "unique": false,
         "id": 64,
         "options": [
@@ -3961,11 +3962,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
+        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question_image_url": "",
         "unique": false,
         "id": 55,
         "options": [
@@ -3989,8 +3990,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 0
@@ -3999,7 +3999,8 @@
     "quiz_title": "SQ topic 1b level 2 (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements about hypotheses is <b>FALSE</b>?</span><br>",
+        "question": "Which of the following statements about hypotheses is FALSE?",
+        "question_image_url": "",
         "unique": true,
         "id": 67,
         "options": [
@@ -4023,11 +4024,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
+        "question": "What types of data may be collected when doing discovery science?",
+        "question_image_url": "",
         "unique": false,
         "id": 59,
         "options": [
@@ -4051,11 +4052,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
+        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "question_image_url": "",
         "unique": false,
         "id": 48,
         "options": [
@@ -4079,11 +4080,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
+        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question_image_url": "",
         "unique": false,
         "id": 55,
         "options": [
@@ -4107,11 +4108,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
+        "question": "What are two methods of scientific inquiry?",
+        "question_image_url": "",
         "unique": false,
         "id": 54,
         "options": [
@@ -4135,11 +4136,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Through careful experimentation or observations, it is possible to prove</span><br>",
+        "question": "Through careful experimentation or observations, it is possible to prove",
+        "question_image_url": "",
         "unique": true,
         "id": 68,
         "options": [
@@ -4163,11 +4164,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
+        "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+        "question_image_url": "",
         "unique": false,
         "id": 41,
         "options": [
@@ -4191,11 +4192,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
+        "question": "Qualitative data may be collected",
+        "question_image_url": "",
         "unique": false,
         "id": 47,
         "options": [
@@ -4219,11 +4220,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
+        "question": "Which of the following best describes the logic of hypothesis-based science?",
+        "question_image_url": "",
         "unique": false,
         "id": 64,
         "options": [
@@ -4247,11 +4248,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of quantitative data? </span><br>",
+        "question": "Which of the following is an example of quantitative data?",
+        "question_image_url": "",
         "unique": false,
         "id": 66,
         "options": [
@@ -4275,8 +4276,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 2
@@ -4285,7 +4285,8 @@
     "quiz_title": "SQ topic 1b level 2 (Chapter 1)",
     "questions": [
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
+        "question": "Which of the following is an example of qualitative data?",
+        "question_image_url": "",
         "unique": false,
         "id": 63,
         "options": [
@@ -4309,11 +4310,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
+        "question": "What types of data may be collected when doing hypothesis-based science?",
+        "question_image_url": "",
         "unique": false,
         "id": 61,
         "options": [
@@ -4337,11 +4338,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as</span>",
+        "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as",
+        "question_image_url": "",
         "unique": false,
         "id": 62,
         "options": [
@@ -4365,11 +4366,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
+        "question": "A hypothesis",
+        "question_image_url": "",
         "unique": false,
         "id": 40,
         "options": [
@@ -4393,11 +4394,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of quantitative data? </span><br>",
+        "question": "Which of the following is an example of quantitative data?",
+        "question_image_url": "",
         "unique": false,
         "id": 66,
         "options": [
@@ -4421,11 +4422,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
+        "question": "Discovery science",
+        "question_image_url": "",
         "unique": false,
         "id": 38,
         "options": [
@@ -4449,11 +4450,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
+        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "question_image_url": "",
         "unique": false,
         "id": 48,
         "options": [
@@ -4477,11 +4478,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
+        "question": "Qualitative data may be collected",
+        "question_image_url": "",
         "unique": false,
         "id": 47,
         "options": [
@@ -4505,11 +4506,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
+        "question": "A hypothesis",
+        "question_image_url": "",
         "unique": false,
         "id": 40,
         "options": [
@@ -4533,11 +4534,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
+        "question": "What are two methods of scientific inquiry?",
+        "question_image_url": "",
         "unique": false,
         "id": 54,
         "options": [
@@ -4561,8 +4562,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 0
@@ -4571,7 +4571,8 @@
     "quiz_title": "SQ topic 1b level 2 (Chapter 1)_2",
     "questions": [
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
+        "question": "A hypothesis",
+        "question_image_url": "",
         "unique": false,
         "id": 40,
         "options": [
@@ -4595,11 +4596,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
+        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+        "question_image_url": "",
         "unique": true,
         "id": 69,
         "options": [
@@ -4623,11 +4624,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a possible answer to a specific question is know as a</span><br>",
+        "question": "In science, a possible answer to a specific question is know as a",
+        "question_image_url": "",
         "unique": false,
         "id": 60,
         "options": [
@@ -4651,11 +4652,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Quantitative data may be collected",
+        "question_image_url": "",
         "unique": false,
         "id": 58,
         "options": [
@@ -4679,11 +4680,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a “theory”</span><br>",
+        "question": "In science, a “theory”",
+        "question_image_url": "",
         "unique": false,
         "id": 57,
         "options": [
@@ -4707,11 +4708,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
+        "question": "Which of the following is an example of qualitative data?",
+        "question_image_url": "",
         "unique": false,
         "id": 63,
         "options": [
@@ -4735,11 +4736,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
+        "question": "A theory is",
+        "question_image_url": "",
         "unique": false,
         "id": 46,
         "options": [
@@ -4763,11 +4764,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "During peer-review of a manuscript",
+        "question_image_url": "",
         "unique": false,
         "id": 65,
         "options": [
@@ -4791,11 +4792,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
+        "question": "Discovery science",
+        "question_image_url": "",
         "unique": false,
         "id": 38,
         "options": [
@@ -4819,11 +4820,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
+        "question": "What types of data may be collected when doing hypothesis-based science?",
+        "question_image_url": "",
         "unique": false,
         "id": 61,
         "options": [
@@ -4847,8 +4848,7 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 1
@@ -4857,7 +4857,8 @@
     "quiz_title": "SQ topic 1b level 2 (Chapter 1)_3",
     "questions": [
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
+        "question": "Which of the following best describes the logic of hypothesis-based science?",
+        "question_image_url": "",
         "unique": false,
         "id": 64,
         "options": [
@@ -4881,11 +4882,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements about hypotheses is <b>FALSE</b>?</span><br>",
+        "question": "Which of the following statements about hypotheses is FALSE?",
+        "question_image_url": "",
         "unique": false,
         "id": 67,
         "options": [
@@ -4909,11 +4910,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
+        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "question_image_url": "",
         "unique": false,
         "id": 48,
         "options": [
@@ -4937,11 +4938,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
+        "question_image_url": "",
         "unique": false,
         "id": 39,
         "options": [
@@ -4965,11 +4966,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
+        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+        "question_image_url": "",
         "unique": false,
         "id": 69,
         "options": [
@@ -4993,11 +4994,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
+        "question": "A hypothesis",
+        "question_image_url": "",
         "unique": false,
         "id": 40,
         "options": [
@@ -5021,11 +5022,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as</span>",
+        "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as",
+        "question_image_url": "",
         "unique": false,
         "id": 62,
         "options": [
@@ -5049,11 +5050,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
+        "question": "What types of data may be collected when doing hypothesis-based science?",
+        "question_image_url": "",
         "unique": false,
         "id": 61,
         "options": [
@@ -5077,11 +5078,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a possible answer to a specific question is know as a</span><br>",
+        "question": "In science, a possible answer to a specific question is know as a",
+        "question_image_url": "",
         "unique": false,
         "id": 60,
         "options": [
@@ -5105,11 +5106,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
+        "question": "Which of the following is an example of qualitative data?",
+        "question_image_url": "",
         "unique": false,
         "id": 63,
         "options": [
@@ -5133,8 +5134,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 0
@@ -5143,7 +5143,8 @@
     "quiz_title": "SQ topic 1b level 2 (Chapter 1)_4",
     "questions": [
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
+        "question": "What are two methods of scientific inquiry?",
+        "question_image_url": "",
         "unique": false,
         "id": 54,
         "options": [
@@ -5167,11 +5168,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
+        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "question_image_url": "",
         "unique": false,
         "id": 48,
         "options": [
@@ -5195,11 +5196,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
+        "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+        "question_image_url": "",
         "unique": false,
         "id": 41,
         "options": [
@@ -5223,11 +5224,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
+        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+        "question_image_url": "",
         "unique": false,
         "id": 69,
         "options": [
@@ -5251,11 +5252,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
+        "question": "A hypothesis",
+        "question_image_url": "",
         "unique": false,
         "id": 40,
         "options": [
@@ -5279,11 +5280,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
+        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question_image_url": "",
         "unique": false,
         "id": 55,
         "options": [
@@ -5307,11 +5308,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
+        "question": "What types of data may be collected when doing discovery science?",
+        "question_image_url": "",
         "unique": false,
         "id": 59,
         "options": [
@@ -5335,11 +5336,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Through careful experimentation or observations, it is possible to prove</span><br>",
+        "question": "Through careful experimentation or observations, it is possible to prove",
+        "question_image_url": "",
         "unique": false,
         "id": 68,
         "options": [
@@ -5363,11 +5364,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
+        "question": "What types of data may be collected when doing hypothesis-based science?",
+        "question_image_url": "",
         "unique": false,
         "id": 61,
         "options": [
@@ -5391,11 +5392,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
+        "question": "A theory is",
+        "question_image_url": "",
         "unique": false,
         "id": 46,
         "options": [
@@ -5419,8 +5420,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 0
@@ -5430,6 +5430,7 @@
     "questions": [
       {
         "question": "Quantitative data may be collected",
+        "question_image_url": "",
         "unique": false,
         "id": 58,
         "options": [
@@ -5453,11 +5454,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
+        "question": "A hypothesis",
+        "question_image_url": "",
         "unique": false,
         "id": 40,
         "options": [
@@ -5481,11 +5482,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
+        "question": "What types of data may be collected when doing discovery science?",
+        "question_image_url": "",
         "unique": false,
         "id": 59,
         "options": [
@@ -5509,11 +5510,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
+        "question": "Discovery science",
+        "question_image_url": "",
         "unique": false,
         "id": 38,
         "options": [
@@ -5537,11 +5538,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
+        "question": "Which of the following best describes the logic of hypothesis-based science?",
+        "question_image_url": "",
         "unique": false,
         "id": 64,
         "options": [
@@ -5565,11 +5566,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
+        "question_image_url": "",
         "unique": false,
         "id": 39,
         "options": [
@@ -5593,11 +5594,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
+        "question": "A theory is",
+        "question_image_url": "",
         "unique": false,
         "id": 46,
         "options": [
@@ -5621,11 +5622,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "During peer-review of a manuscript",
+        "question_image_url": "",
         "unique": false,
         "id": 65,
         "options": [
@@ -5649,11 +5650,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
+        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+        "question_image_url": "",
         "unique": false,
         "id": 69,
         "options": [
@@ -5677,11 +5678,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is <b>NOT</b> an example of discovery science?</span><br>",
+        "question": "Which of the following is NOT an example of discovery science?",
+        "question_image_url": "",
         "unique": false,
         "id": 56,
         "options": [
@@ -5705,8 +5706,7 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 0
@@ -5715,7 +5715,8 @@
     "quiz_title": "SQ topic 1b level 2 (Chapter 1)_6",
     "questions": [
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
+        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+        "question_image_url": "",
         "unique": false,
         "id": 69,
         "options": [
@@ -5739,11 +5740,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
+        "question": "Discovery science",
+        "question_image_url": "",
         "unique": false,
         "id": 38,
         "options": [
@@ -5767,11 +5768,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "During peer-review of a manuscript",
+        "question_image_url": "",
         "unique": false,
         "id": 65,
         "options": [
@@ -5795,11 +5796,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
+        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question_image_url": "",
         "unique": false,
         "id": 55,
         "options": [
@@ -5823,11 +5824,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Through careful experimentation or observations, it is possible to prove</span><br>",
+        "question": "Through careful experimentation or observations, it is possible to prove",
+        "question_image_url": "",
         "unique": false,
         "id": 68,
         "options": [
@@ -5851,11 +5852,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements about hypotheses is <b>FALSE</b>?</span><br>",
+        "question": "Which of the following statements about hypotheses is FALSE?",
+        "question_image_url": "",
         "unique": false,
         "id": 67,
         "options": [
@@ -5879,11 +5880,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
+        "question_image_url": "",
         "unique": false,
         "id": 39,
         "options": [
@@ -5907,11 +5908,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is <b>NOT</b> an example of discovery science?</span><br>",
+        "question": "Which of the following is NOT an example of discovery science?",
+        "question_image_url": "",
         "unique": false,
         "id": 56,
         "options": [
@@ -5935,11 +5936,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
+        "question": "A theory is",
+        "question_image_url": "",
         "unique": false,
         "id": 46,
         "options": [
@@ -5963,11 +5964,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
+        "question": "A hypothesis",
+        "question_image_url": "",
         "unique": false,
         "id": 40,
         "options": [
@@ -5991,8 +5992,7 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 0
@@ -6002,6 +6002,7 @@
     "questions": [
       {
         "question": "How many electrons do hydrogen atoms have in their valence shell?",
+        "question_image_url": "",
         "unique": true,
         "id": 70,
         "options": [
@@ -6025,11 +6026,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The order of chemical bonds from strongest to weakest is",
+        "question_image_url": "",
         "unique": true,
         "id": 71,
         "options": [
@@ -6053,11 +6054,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "When two atoms share a pair of electrons, they",
+        "question_image_url": "",
         "unique": false,
         "id": 51,
         "options": [
@@ -6081,11 +6082,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "If you make a model of a methane (CH<sub>4</sub>) molecule, the overall shape of the molecule will most closely resemble",
+        "question": "If you make a model of a methane (CH4) molecule, the overall shape of the molecule will most closely resemble",
+        "question_image_url": "",
         "unique": true,
         "id": 72,
         "options": [
@@ -6109,11 +6110,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Water is an example of",
+        "question_image_url": "",
         "unique": true,
         "id": 73,
         "options": [
@@ -6137,11 +6138,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "What is the maximum number of electrons in the 1<i>s</i> orbital of an atom?",
+        "question": "What is the maximum number of electrons in the 1s orbital of an atom?",
+        "question_image_url": "",
         "unique": true,
         "id": 74,
         "options": [
@@ -6165,11 +6166,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "If you mix a solid, hydrophilic substance “X” and a solid, hydrophobic substance “Y” with water",
+        "question_image_url": "",
         "unique": false,
         "id": 36,
         "options": [
@@ -6193,11 +6194,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following statements about moles is true?",
+        "question_image_url": "",
         "unique": true,
         "id": 75,
         "options": [
@@ -6221,11 +6222,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "What is the pH of a solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-4.5 </sup>M?",
+        "question": "What is the pH of a solution with a hydroxyl ion [OH-] concentration of 10-4.5 M?",
+        "question_image_url": "",
         "unique": true,
         "id": 76,
         "options": [
@@ -6249,11 +6250,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
+        "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH-]?",
+        "question_image_url": "",
         "unique": false,
         "id": 44,
         "options": [
@@ -6277,8 +6278,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 7
@@ -6288,6 +6288,7 @@
     "questions": [
       {
         "question": "How many covalent bonds do nitrogen atoms need to form with other atoms to complete their valence shell?",
+        "question_image_url": "",
         "unique": true,
         "id": 77,
         "options": [
@@ -6311,11 +6312,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "MgCl<sub>2</sub> is an example of",
+        "question": "MgCl2 is an example of",
+        "question_image_url": "",
         "unique": false,
         "id": 29,
         "options": [
@@ -6339,11 +6340,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "Which of the following statements about valence shells is <strong>FALSE</strong>?",
+        "question": "Which of the following statements about valence shells is FALSE?",
+        "question_image_url": "",
         "unique": false,
         "id": 49,
         "options": [
@@ -6367,11 +6368,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "The reactivity of an atom arises from",
+        "question_image_url": "",
         "unique": true,
         "id": 78,
         "options": [
@@ -6395,11 +6396,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Sodium is an example of",
+        "question_image_url": "",
         "unique": true,
         "id": 79,
         "options": [
@@ -6423,11 +6424,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following statements regarding atomic particles is correct?",
+        "question_image_url": "",
         "unique": true,
         "id": 80,
         "options": [
@@ -6451,11 +6452,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
+        "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH-]?",
+        "question_image_url": "",
         "unique": true,
         "id": 81,
         "options": [
@@ -6479,11 +6480,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "The bonds that are broken when water vaporizes are",
+        "question_image_url": "",
         "unique": true,
         "id": 82,
         "options": [
@@ -6507,11 +6508,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-1.5 </sup>M?",
+        "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-1.5 M?",
+        "question_image_url": "",
         "unique": true,
         "id": 83,
         "options": [
@@ -6535,11 +6536,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-12 </sup>M?",
+        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
+        "question_image_url": "",
         "unique": false,
         "id": 43,
         "options": [
@@ -6563,8 +6564,7 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 7
@@ -6574,6 +6574,7 @@
     "questions": [
       {
         "question": "Which of the following results from a transfer of electron(s) between atoms?",
+        "question_image_url": "",
         "unique": true,
         "id": 84,
         "options": [
@@ -6597,11 +6598,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The number of electrons needed to fill the different electron shells is",
+        "question_image_url": "",
         "unique": true,
         "id": 85,
         "options": [
@@ -6625,11 +6626,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The valence shell of an atom",
+        "question_image_url": "",
         "unique": true,
         "id": 86,
         "options": [
@@ -6653,11 +6654,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "How many electrons do hydrogen atoms have in their valence shell?",
+        "question_image_url": "",
         "unique": false,
         "id": 70,
         "options": [
@@ -6681,11 +6682,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Sodium is an example of",
+        "question_image_url": "",
         "unique": false,
         "id": 79,
         "options": [
@@ -6709,11 +6710,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The order of chemical bonds from strongest to weakest is",
+        "question_image_url": "",
         "unique": false,
         "id": 71,
         "options": [
@@ -6737,11 +6738,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "What gives rise to the cohesiveness of water molecules?",
+        "question_image_url": "",
         "unique": true,
         "id": 87,
         "options": [
@@ -6765,11 +6766,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "If the pH of a solution is decreased from 9 to 8, it means that the",
+        "question_image_url": "",
         "unique": true,
         "id": 88,
         "options": [
@@ -6793,11 +6794,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Polar molecules are often able to dissolve in water because",
+        "question_image_url": "",
         "unique": false,
         "id": 42,
         "options": [
@@ -6821,11 +6822,11 @@
             "is_correct": true,
             "comment": "Good work!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-12 </sup>M?",
+        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
+        "question_image_url": "",
         "unique": false,
         "id": 43,
         "options": [
@@ -6849,8 +6850,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 5
@@ -6860,6 +6860,7 @@
     "questions": [
       {
         "question": "If the pH of a solution is decreased from 9 to 8, it means that the",
+        "question_image_url": "",
         "unique": false,
         "id": 88,
         "options": [
@@ -6883,11 +6884,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "What causes water molecules to be polar molecules?",
+        "question_image_url": "",
         "unique": true,
         "id": 89,
         "options": [
@@ -6911,11 +6912,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The charge on a water molecule is best described as being:",
+        "question_image_url": "",
         "unique": false,
         "id": 45,
         "options": [
@@ -6939,11 +6940,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "A mole of water (H<sub>2</sub>O) molecules and a mole of glucose molecules (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)",
+        "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
+        "question_image_url": "",
         "unique": true,
         "id": 90,
         "options": [
@@ -6967,11 +6968,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Which of the following represents a polar bond?",
+        "question_image_url": "",
         "unique": true,
         "id": 91,
         "options": [
@@ -6995,11 +6996,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "When a sodium atom and a chlorine atom interact to complete their valence shells",
+        "question_image_url": "",
         "unique": true,
         "id": 92,
         "options": [
@@ -7023,11 +7024,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "Why does the structure shown below fail to make sense chemically?<br><br>H-C=C-H",
+        "question": "Why does the structure shown below fail to make sense chemically?H-C=C-H",
+        "question_image_url": "",
         "unique": true,
         "id": 93,
         "options": [
@@ -7051,11 +7052,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Which of the following is not a compound?",
+        "question_image_url": "",
         "unique": true,
         "id": 94,
         "options": [
@@ -7079,11 +7080,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The order of chemical bonds from strongest to weakest is",
+        "question_image_url": "",
         "unique": false,
         "id": 71,
         "options": [
@@ -7107,11 +7108,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "When two atoms share a pair of electrons, they",
+        "question_image_url": "",
         "unique": false,
         "id": 51,
         "options": [
@@ -7135,8 +7136,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       }
     ],
     "unique_questions": 6
@@ -7146,6 +7146,7 @@
     "questions": [
       {
         "question": "Which of the following do NOT comprise a significant fraction of the human body?",
+        "question_image_url": "",
         "unique": true,
         "id": 95,
         "options": [
@@ -7169,11 +7170,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "What is the maximum number of electrons in the 1<i>s</i> orbital of an atom?",
+        "question": "What is the maximum number of electrons in the 1s orbital of an atom?",
+        "question_image_url": "",
         "unique": false,
         "id": 74,
         "options": [
@@ -7197,11 +7198,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "The further on average an electron is from the nucleus",
+        "question_image_url": "",
         "unique": true,
         "id": 96,
         "options": [
@@ -7225,11 +7226,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "With regards to orbitals, which of the following statements is <strong><i>FALSE</i></strong>?<br><br>",
+        "question": "With regards to orbitals, which of the following statements is FALSE?",
+        "question_image_url": "",
         "unique": true,
         "id": 97,
         "options": [
@@ -7253,11 +7254,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "The valence shell of an atom",
+        "question_image_url": "",
         "unique": false,
         "id": 86,
         "options": [
@@ -7281,11 +7282,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The order of chemical bonds from easiest to hardest to break is",
+        "question_image_url": "",
         "unique": true,
         "id": 98,
         "options": [
@@ -7309,11 +7310,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 <i>M</i> (molar) solution of glucose?",
+        "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 M (molar) solution of glucose?",
+        "question_image_url": "",
         "unique": true,
         "id": 99,
         "options": [
@@ -7337,11 +7338,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "What is the pH of a solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-4 </sup>M?",
+        "question": "What is the pH of a solution with a hydroxyl ion [OH-] concentration of 10-4 M?",
+        "question_image_url": "",
         "unique": true,
         "id": 100,
         "options": [
@@ -7365,11 +7366,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "In humans, blood pH is around 7.4, and a decrease in blood pH to 6.4 would be fatal. A drop by 1 pH unit represents which of the following?",
+        "question_image_url": "",
         "unique": true,
         "id": 101,
         "options": [
@@ -7393,11 +7394,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "A mole of water (H<sub>2</sub>O) molecules and a mole of glucose molecules (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)",
+        "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
+        "question_image_url": "",
         "unique": false,
         "id": 90,
         "options": [
@@ -7421,8 +7422,7 @@
             "is_correct": true,
             "comment": "Good work!"
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 7
@@ -7431,7 +7431,8 @@
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_2",
     "questions": [
       {
-        "question": "The number of electron <strong>orbitals</strong> in the different electron shells is",
+        "question": "The number of electron orbitals in the different electron shells is",
+        "question_image_url": "",
         "unique": true,
         "id": 102,
         "options": [
@@ -7455,11 +7456,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "How many covalent bonds do carbon atoms need to form with other atoms to complete their valence shell?",
+        "question_image_url": "",
         "unique": true,
         "id": 103,
         "options": [
@@ -7483,11 +7484,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The lowest energy mechanism by which a carbon atom may complete its valence shell is to",
+        "question_image_url": "",
         "unique": true,
         "id": 104,
         "options": [
@@ -7511,11 +7512,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p class=\"NormalText\">Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that</p>",
+        "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+        "question_image_url": "",
         "unique": false,
         "id": 53,
         "options": [
@@ -7539,11 +7540,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "The bonds in a water molecule are",
+        "question_image_url": "",
         "unique": true,
         "id": 105,
         "options": [
@@ -7567,11 +7568,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "With regards to orbitals, which of the following statements is <strong><i>FALSE</i></strong>?<br><br>",
+        "question": "With regards to orbitals, which of the following statements is FALSE?",
+        "question_image_url": "",
         "unique": false,
         "id": 97,
         "options": [
@@ -7595,11 +7596,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Which of the following would you expect to dissolve poorly in water?",
+        "question_image_url": "",
         "unique": false,
         "id": 37,
         "options": [
@@ -7623,11 +7624,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Water has a high specific heat because",
+        "question_image_url": "",
         "unique": true,
         "id": 106,
         "options": [
@@ -7651,11 +7652,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "If the pH of a solution is increased from pH 5 to pH 7, it means that the",
+        "question_image_url": "",
         "unique": true,
         "id": 107,
         "options": [
@@ -7679,11 +7680,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-8 </sup>M?",
+        "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-8 M?",
+        "question_image_url": "",
         "unique": false,
         "id": 35,
         "options": [
@@ -7707,8 +7708,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 6
@@ -7717,7 +7717,8 @@
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_3",
     "questions": [
       {
-        "question": "How many electrons does it take to fill the <strong>first </strong>electron shell of a carbon atom?",
+        "question": "How many electrons does it take to fill the first electron shell of a carbon atom?",
+        "question_image_url": "",
         "unique": true,
         "id": 108,
         "options": [
@@ -7741,11 +7742,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Depending on how far an electron is moved from the nucleus",
+        "question_image_url": "",
         "unique": true,
         "id": 109,
         "options": [
@@ -7769,11 +7770,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "Which of the following statements about electrons is <strong>FALSE</strong>?<br>",
+        "question": "Which of the following statements about electrons is FALSE?",
+        "question_image_url": "",
         "unique": true,
         "id": 110,
         "options": [
@@ -7797,11 +7798,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "When atom “A” forms four single covalent bonds to complete its outermost electron shell, which is its 2<sup>nd</sup> electron shell, the electron orbitals within that shell will point towards the corners of",
+        "question": "When atom “A” forms four single covalent bonds to complete its outermost electron shell, which is its 2nd electron shell, the electron orbitals within that shell will point towards the corners of",
+        "question_image_url": "",
         "unique": true,
         "id": 111,
         "options": [
@@ -7825,11 +7826,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "If you make a model of a water molecule, the lines showing the relative positions of the covalent bonds will most closely resemble",
+        "question_image_url": "",
         "unique": true,
         "id": 112,
         "options": [
@@ -7853,11 +7854,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The reactivity of an atom arises from",
+        "question_image_url": "",
         "unique": false,
         "id": 78,
         "options": [
@@ -7881,11 +7882,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following statements about moles is true?",
+        "question_image_url": "",
         "unique": false,
         "id": 75,
         "options": [
@@ -7909,11 +7910,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The bonds that are broken when water vaporizes are",
+        "question_image_url": "",
         "unique": false,
         "id": 82,
         "options": [
@@ -7937,11 +7938,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "A solution with a pH of 10 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
+        "question": "A solution with a pH of 10 contains what concentration of hydroxyl ions [OH-]?",
+        "question_image_url": "",
         "unique": true,
         "id": 113,
         "options": [
@@ -7965,11 +7966,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "A mole of water (H<sub>2</sub>O) molecules and a mole of glucose molecules (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)",
+        "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
+        "question_image_url": "",
         "unique": false,
         "id": 90,
         "options": [
@@ -7993,8 +7994,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 6
@@ -8003,7 +8003,8 @@
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_4",
     "questions": [
       {
-        "question": "Which of the following statements about valence shells is <strong>FALSE</strong>?",
+        "question": "Which of the following statements about valence shells is FALSE?",
+        "question_image_url": "",
         "unique": false,
         "id": 49,
         "options": [
@@ -8027,11 +8028,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "The correct order of the following atoms, from most to least electronegative, is",
+        "question_image_url": "",
         "unique": true,
         "id": 114,
         "options": [
@@ -8055,11 +8056,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "How many electrons do hydrogen atoms have in their valence shell?",
+        "question_image_url": "",
         "unique": false,
         "id": 70,
         "options": [
@@ -8083,11 +8084,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "How many covalent bonds do carbon atoms need to form with other atoms to complete their valence shell?",
+        "question_image_url": "",
         "unique": false,
         "id": 103,
         "options": [
@@ -8111,11 +8112,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "Oxygen gas (O<sub>2</sub>) is an example of",
+        "question": "Oxygen gas (O2) is an example of",
+        "question_image_url": "",
         "unique": true,
         "id": 115,
         "options": [
@@ -8139,11 +8140,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "When a sodium atom and a chlorine atom interact to complete their valence shells",
+        "question_image_url": "",
         "unique": false,
         "id": 92,
         "options": [
@@ -8167,11 +8168,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "A mole of water (H<sub>2</sub>O) molecules and a mole of glucose molecules (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)",
+        "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
+        "question_image_url": "",
         "unique": false,
         "id": 90,
         "options": [
@@ -8195,11 +8196,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "In a single molecule of water, two hydrogen atoms are bonded to a single oxygen atom by",
+        "question_image_url": "",
         "unique": true,
         "id": 116,
         "options": [
@@ -8223,11 +8224,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "What gives rise to the cohesiveness of water molecules?",
+        "question_image_url": "",
         "unique": false,
         "id": 87,
         "options": [
@@ -8251,11 +8252,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H<sup>+</sup>]?",
+        "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H+]?",
+        "question_image_url": "",
         "unique": true,
         "id": 117,
         "options": [
@@ -8279,8 +8280,7 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 4
@@ -8290,6 +8290,7 @@
     "questions": [
       {
         "question": "When a sodium atom and a chlorine atom interact to complete their valence shells",
+        "question_image_url": "",
         "unique": false,
         "id": 92,
         "options": [
@@ -8313,11 +8314,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "With regards to orbitals, which of the following statements is <strong><i>FALSE</i></strong>?<br><br>",
+        "question": "With regards to orbitals, which of the following statements is FALSE?",
+        "question_image_url": "",
         "unique": false,
         "id": 97,
         "options": [
@@ -8341,11 +8342,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "How many electrons do carbon atoms have in their valence shell?",
+        "question_image_url": "",
         "unique": false,
         "id": 32,
         "options": [
@@ -8369,11 +8370,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following results from a transfer of electron(s) between atoms?",
+        "question_image_url": "",
         "unique": false,
         "id": 84,
         "options": [
@@ -8397,11 +8398,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "How many more electrons do nitrogen atoms need to complete their valence shell?",
+        "question_image_url": "",
         "unique": true,
         "id": 118,
         "options": [
@@ -8425,11 +8426,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "When we write “O=O”, the double line represents",
+        "question_image_url": "",
         "unique": true,
         "id": 119,
         "options": [
@@ -8453,11 +8454,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The bonds that are broken when water vaporizes are",
+        "question_image_url": "",
         "unique": false,
         "id": 82,
         "options": [
@@ -8481,11 +8482,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "In a single molecule of water, two hydrogen atoms are bonded to a single oxygen atom by",
+        "question_image_url": "",
         "unique": false,
         "id": 116,
         "options": [
@@ -8509,11 +8510,11 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-4 </sup>M?",
+        "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-4 M?",
+        "question_image_url": "",
         "unique": true,
         "id": 120,
         "options": [
@@ -8537,11 +8538,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "What causes water molecules to be polar molecules?",
+        "question_image_url": "",
         "unique": false,
         "id": 89,
         "options": [
@@ -8565,8 +8566,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       }
     ],
     "unique_questions": 3
@@ -8575,7 +8575,8 @@
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_6",
     "questions": [
       {
-        "question": "MgCl<sub>2</sub> is an example of",
+        "question": "MgCl2 is an example of",
+        "question_image_url": "",
         "unique": false,
         "id": 29,
         "options": [
@@ -8599,11 +8600,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "When a sodium atom and a chlorine atom interact to complete their valence shells",
+        "question_image_url": "",
         "unique": false,
         "id": 92,
         "options": [
@@ -8627,11 +8628,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "When two atoms share a pair of electrons, they",
+        "question_image_url": "",
         "unique": false,
         "id": 51,
         "options": [
@@ -8655,11 +8656,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p class=\"NormalText\">Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that</p>",
+        "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+        "question_image_url": "",
         "unique": false,
         "id": 53,
         "options": [
@@ -8683,11 +8684,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Sodium is an example of",
+        "question_image_url": "",
         "unique": false,
         "id": 79,
         "options": [
@@ -8711,11 +8712,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following results from a transfer of electron(s) between atoms?",
+        "question_image_url": "",
         "unique": false,
         "id": 84,
         "options": [
@@ -8739,11 +8740,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "You have a freshly prepared 1 <i>M</i> (molar) solution of glucose in water. You carefully pour out a 100 mL sample of that solution. How many glucose molecules are included in that 100 mL sample?",
+        "question": "You have a freshly prepared 1 M (molar) solution of glucose in water. You carefully pour out a 100 mL sample of that solution. How many glucose molecules are included in that 100 mL sample?",
+        "question_image_url": "",
         "unique": true,
         "id": 121,
         "options": [
@@ -8767,11 +8768,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Water has a high specific heat because",
+        "question_image_url": "",
         "unique": false,
         "id": 106,
         "options": [
@@ -8795,11 +8796,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following statements about moles is true?",
+        "question_image_url": "",
         "unique": false,
         "id": 75,
         "options": [
@@ -8823,11 +8824,11 @@
             "is_correct": true,
             "comment": "Good work!"
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "A solution with a pH of 2 contains what concentration of hydrogen ions [H<sup>+</sup>]?",
+        "question": "A solution with a pH of 2 contains what concentration of hydrogen ions [H+]?",
+        "question_image_url": "",
         "unique": true,
         "id": 122,
         "options": [
@@ -8851,8 +8852,7 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 2
@@ -8861,7 +8861,8 @@
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_7",
     "questions": [
       {
-        "question": "<p class=\"NormalText\">Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that</p>",
+        "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+        "question_image_url": "",
         "unique": false,
         "id": 53,
         "options": [
@@ -8885,11 +8886,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "The further on average an electron is from the nucleus",
+        "question_image_url": "",
         "unique": false,
         "id": 96,
         "options": [
@@ -8913,11 +8914,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "How many electrons do carbon atoms have in their valence shell?",
+        "question_image_url": "",
         "unique": false,
         "id": 32,
         "options": [
@@ -8941,11 +8942,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following statements is most broadly true of different elements?",
+        "question_image_url": "",
         "unique": true,
         "id": 123,
         "options": [
@@ -8969,11 +8970,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Depending on how far an electron is moved from the nucleus",
+        "question_image_url": "",
         "unique": false,
         "id": 109,
         "options": [
@@ -8997,11 +8998,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following is not a molecule?",
+        "question_image_url": "",
         "unique": true,
         "id": 124,
         "options": [
@@ -9025,11 +9026,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "Pure water at room temperature has a concentration of 10<sup>-7</sup> hydrogen ions (H<sup>+</sup>) and 10<sup>-7</sup> hydroxyl ions (OH<sup>-</sup>). Why is this?",
+        "question": "Pure water at room temperature has a concentration of 10-7 hydrogen ions (H+) and 10-7 hydroxyl ions (OH-). Why is this?",
+        "question_image_url": "",
         "unique": false,
         "id": 34,
         "options": [
@@ -9053,11 +9054,11 @@
             "is_correct": true,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-4 </sup>M?",
+        "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-4 M?",
+        "question_image_url": "",
         "unique": false,
         "id": 120,
         "options": [
@@ -9081,11 +9082,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "Which of the following statements about bases is <strong>FALSE</strong>?",
+        "question": "Which of the following statements about bases is FALSE?",
+        "question_image_url": "",
         "unique": true,
         "id": 125,
         "options": [
@@ -9109,11 +9110,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p class=\"NormalText\">How many molecules of glycerol (C<sub>3</sub>H<sub>8</sub>O<sub>3</sub>; molecular mass = 92) would be present in 1 L of a 1 <i>M</i> (molar) glycerol solution?</p>",
+        "question": "How many molecules of glycerol (C3H8O3; molecular mass = 92) would be present in 1 L of a 1 M (molar) glycerol solution?",
+        "question_image_url": "",
         "unique": true,
         "id": 126,
         "options": [
@@ -9137,8 +9138,7 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 4
@@ -9147,7 +9147,8 @@
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_8",
     "questions": [
       {
-        "question": "Which of the following statements about electrons is <strong>FALSE</strong>?<br>",
+        "question": "Which of the following statements about electrons is FALSE?",
+        "question_image_url": "",
         "unique": false,
         "id": 110,
         "options": [
@@ -9171,11 +9172,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Which of the following statements is most broadly true of different elements?",
+        "question_image_url": "",
         "unique": false,
         "id": 123,
         "options": [
@@ -9199,11 +9200,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following represents a polar bond?",
+        "question_image_url": "",
         "unique": false,
         "id": 91,
         "options": [
@@ -9227,11 +9228,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "What is the maximum number of electrons in the 1<i>s</i> orbital of an atom?",
+        "question": "What is the maximum number of electrons in the 1s orbital of an atom?",
+        "question_image_url": "",
         "unique": false,
         "id": 74,
         "options": [
@@ -9255,11 +9256,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "How many electrons does it take to fill the <strong>first </strong>electron shell of a carbon atom?",
+        "question": "How many electrons does it take to fill the first electron shell of a carbon atom?",
+        "question_image_url": "",
         "unique": false,
         "id": 108,
         "options": [
@@ -9283,11 +9284,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Atoms with incomplete valence shells may complete their shell by",
+        "question_image_url": "",
         "unique": true,
         "id": 127,
         "options": [
@@ -9311,11 +9312,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following statements about moles is true?",
+        "question_image_url": "",
         "unique": false,
         "id": 75,
         "options": [
@@ -9339,11 +9340,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
+        "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH-]?",
+        "question_image_url": "",
         "unique": false,
         "id": 81,
         "options": [
@@ -9367,11 +9368,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "If the pH of a solution is decreased from 9 to 8, it means that the",
+        "question_image_url": "",
         "unique": false,
         "id": 88,
         "options": [
@@ -9395,11 +9396,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The bonds that are broken when water vaporizes are",
+        "question_image_url": "",
         "unique": false,
         "id": 82,
         "options": [
@@ -9423,8 +9424,7 @@
             "is_correct": true,
             "comment": "Good work!"
           }
-        ],
-        "has_html": false
+        ]
       }
     ],
     "unique_questions": 1
@@ -9434,6 +9434,7 @@
     "questions": [
       {
         "question": "How many covalent bonds do hydrogen atoms need to form with other atoms to complete their valence shell?",
+        "question_image_url": "",
         "unique": true,
         "id": 128,
         "options": [
@@ -9457,11 +9458,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The valence shell of an atom",
+        "question_image_url": "",
         "unique": false,
         "id": 86,
         "options": [
@@ -9485,11 +9486,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "With regards to orbitals, which of the following statements is <strong><i>FALSE</i></strong>?<br><br>",
+        "question": "With regards to orbitals, which of the following statements is FALSE?",
+        "question_image_url": "",
         "unique": false,
         "id": 97,
         "options": [
@@ -9513,11 +9514,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "When we write “O=O”, the double line represents",
+        "question_image_url": "",
         "unique": false,
         "id": 119,
         "options": [
@@ -9541,11 +9542,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The further on average an electron is from the nucleus",
+        "question_image_url": "",
         "unique": false,
         "id": 96,
         "options": [
@@ -9569,11 +9570,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Which of the following do NOT comprise a significant fraction of the human body?",
+        "question_image_url": "",
         "unique": false,
         "id": 95,
         "options": [
@@ -9597,11 +9598,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 <i>M</i> (molar) solution of glucose?",
+        "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 M (molar) solution of glucose?",
+        "question_image_url": "",
         "unique": false,
         "id": 99,
         "options": [
@@ -9625,11 +9626,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H<sup>+</sup>]?",
+        "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H+]?",
+        "question_image_url": "",
         "unique": false,
         "id": 117,
         "options": [
@@ -9653,11 +9654,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "Which of the following statements about bases is <strong>FALSE</strong>?",
+        "question": "Which of the following statements about bases is FALSE?",
+        "question_image_url": "",
         "unique": false,
         "id": 125,
         "options": [
@@ -9681,11 +9682,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "In humans, blood pH is around 7.4, and a decrease in blood pH to 6.4 would be fatal. A drop by 1 pH unit represents which of the following?",
+        "question_image_url": "",
         "unique": false,
         "id": 101,
         "options": [
@@ -9709,8 +9710,7 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ],
-        "has_html": false
+        ]
       }
     ],
     "unique_questions": 1
@@ -9720,6 +9720,7 @@
     "questions": [
       {
         "question": "If I have trouble seeing a figure for a question, I should",
+        "question_image_url": "",
         "unique": true,
         "id": 129,
         "options": [
@@ -9733,11 +9734,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980181/files/4145195/download?verifier=x4RxY6e5vpfq3yWAEQWvhGQKXf6t6uN6xsEDBKpx\" alt=\"\">",
+        "question": "The following functional group is known as",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980181/files/4145195/download?verifier=x4RxY6e5vpfq3yWAEQWvhGQKXf6t6uN6xsEDBKpx",
         "unique": true,
         "id": 130,
         "options": [
@@ -9761,11 +9762,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Carbon atoms typically complete their valence shells by",
+        "question_image_url": "",
         "unique": true,
         "id": 131,
         "options": [
@@ -9789,11 +9790,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Compounds with amino groups are known as",
+        "question_image_url": "",
         "unique": true,
         "id": 132,
         "options": [
@@ -9817,11 +9818,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "If two molecules have the same number of atoms of the same elements but different structures, the two molecules may be",
+        "question_image_url": "",
         "unique": true,
         "id": 133,
         "options": [
@@ -9845,11 +9846,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "What is the best description of a carbonyl group?",
+        "question_image_url": "",
         "unique": true,
         "id": 134,
         "options": [
@@ -9873,11 +9874,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "If two molecules have the same numbers of atoms of the same elements and the SAME covalent partnerships but different structures, the two molecules may be",
+        "question_image_url": "",
         "unique": true,
         "id": 135,
         "options": [
@@ -9901,11 +9902,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "What functional group is commonly used in cells to transfer energy from one organic molecule to another?",
+        "question_image_url": "",
         "unique": true,
         "id": 136,
         "options": [
@@ -9929,11 +9930,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Compounds with carbonyl groups are known",
+        "question_image_url": "",
         "unique": true,
         "id": 137,
         "options": [
@@ -9957,11 +9958,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980177/files/4145192/download?verifier=xwmoPlfbzbCX18WrqAHF5J0W73rZQOsYdLpkQjZi\" alt=\"\"><br> <br>",
+        "question": "The following functional group is known as",
+        "question_image_url": "",
         "unique": false,
         "id": 130,
         "options": [
@@ -9985,11 +9986,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "The following functional group is known as<br> <br> -O-H",
+        "question": "The following functional group is known as -O-H",
+        "question_image_url": "",
         "unique": true,
         "id": 138,
         "options": [
@@ -10013,8 +10014,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 10
@@ -10023,7 +10023,8 @@
     "quiz_title": "SQ topic 3 level 1b (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980180/files/4145194/download?verifier=SQyCHIG9nsAi2GmmuFw9BOE5bPino2w6GTGOQe8r\" alt=\"\">",
+        "question": "The following functional group is known as",
+        "question_image_url": "",
         "unique": false,
         "id": 130,
         "options": [
@@ -10047,11 +10048,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Compounds with sulfhydryl groups are known as",
+        "question_image_url": "",
         "unique": true,
         "id": 139,
         "options": [
@@ -10075,11 +10076,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p>The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?</p> <p><img src=\"/assessment_questions/13311830/files/17370754/download?verifier=A9bYdeGtCdij3WyuNnYdr273StnEwTSqMgg2Fu3B\" alt=\"Chapter 4 questions 41, 42.jpg\" width=\"204\" height=\"119\"></p>",
+        "question": "The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/13311830/files/17370754/download?verifier=A9bYdeGtCdij3WyuNnYdr273StnEwTSqMgg2Fu3B",
         "unique": true,
         "id": 140,
         "options": [
@@ -10103,11 +10104,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980181/files/4145195/download?verifier=x4RxY6e5vpfq3yWAEQWvhGQKXf6t6uN6xsEDBKpx\" alt=\"\">",
+        "question": "The following functional group is known as",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/13311830/files/17370754/download?verifier=A9bYdeGtCdij3WyuNnYdr273StnEwTSqMgg2Fu3B",
         "unique": false,
         "id": 130,
         "options": [
@@ -10131,11 +10132,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980178/files/4145193/download?verifier=VrfI5ZVlUNwNzvMA3CuiHhwZAVsdBZr4kpwzH0ad\" alt=\"\">",
+        "question": "The following functional group is known as",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/13311830/files/17370754/download?verifier=A9bYdeGtCdij3WyuNnYdr273StnEwTSqMgg2Fu3B",
         "unique": false,
         "id": 130,
         "options": [
@@ -10159,11 +10160,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p>Which of the molecules listed below can form isomers?</p> CH<sub>4</sub> <br>C<sub>3</sub>H<sub>8</sub> <br>C<sub>4</sub>H<sub>10</sub>",
+        "question": "Which of the molecules listed below can form isomers? CH4 C3H8 C4H10",
+        "question_image_url": "",
         "unique": true,
         "id": 141,
         "options": [
@@ -10187,11 +10188,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "The following functional group is known as<br> <br> -S-H",
+        "question": "The following functional group is known as -S-H",
+        "question_image_url": "",
         "unique": true,
         "id": 142,
         "options": [
@@ -10215,11 +10216,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "If two molecules have the same number of atoms of the same elements but different structures, the two molecules may be",
+        "question_image_url": "",
         "unique": false,
         "id": 133,
         "options": [
@@ -10243,11 +10244,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p>Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that</p> <p><img src=\"/assessment_questions/13311828/files/17370677/download?verifier=l7JJHCP9FHv2yuMwpTVcUV9uzvf0LEQqqKxIGWw5\" alt=\"Chapter 4 question 39.jpg\" width=\"278\" height=\"132\"></p>",
+        "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/13311828/files/17370677/download?verifier=l7JJHCP9FHv2yuMwpTVcUV9uzvf0LEQqqKxIGWw5",
         "unique": true,
         "id": 143,
         "options": [
@@ -10271,11 +10272,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Carbon atoms typically complete their valence shells by",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/13311828/files/17370677/download?verifier=l7JJHCP9FHv2yuMwpTVcUV9uzvf0LEQqqKxIGWw5",
         "unique": false,
         "id": 131,
         "options": [
@@ -10299,8 +10300,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       }
     ],
     "unique_questions": 5
@@ -10310,6 +10310,7 @@
     "questions": [
       {
         "question": "Which chemical group is most likely to be responsible for an organic molecule behaving as a base?",
+        "question_image_url": "",
         "unique": true,
         "id": 144,
         "options": [
@@ -10333,11 +10334,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p>The central carbon in amino acids is asymmetric in all amino acids except:</p> <p><img src=\"/assessment_questions/13311832/files/17370801/download?verifier=58SxQ7ghj1vnpDNzdVHHSYGlCpMaV6o1KL8OltCm\" alt=\"Chapter 4 questions 41, 42.jpg\" width=\"190\" height=\"111\"></p>",
+        "question": "The central carbon in amino acids is asymmetric in all amino acids except:",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/13311832/files/17370801/download?verifier=58SxQ7ghj1vnpDNzdVHHSYGlCpMaV6o1KL8OltCm",
         "unique": true,
         "id": 145,
         "options": [
@@ -10361,11 +10362,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "The two molecules shown in the figure below are best described as<br><img src=\"/assessment_questions/3980155/files/4145179/download?verifier=s0qW8kzaTkKd7jzhnjkULutaI5WiJllPQ8PkfFdu\" alt=\"\">",
+        "question": "The two molecules shown in the figure below are best described as",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980155/files/4145179/download?verifier=s0qW8kzaTkKd7jzhnjkULutaI5WiJllPQ8PkfFdu",
         "unique": true,
         "id": 146,
         "options": [
@@ -10389,11 +10390,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980168/files/4145187/download?verifier=oC4hC7ABQjKodGcUfwqbIC3mv3mYAi3xlnRKGm1G\" alt=\"\">",
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980168/files/4145187/download?verifier=oC4hC7ABQjKodGcUfwqbIC3mv3mYAi3xlnRKGm1G",
         "unique": true,
         "id": 147,
         "options": [
@@ -10417,11 +10418,11 @@
             "is_correct": true,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Compounds with amino groups are known as",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980168/files/4145187/download?verifier=oC4hC7ABQjKodGcUfwqbIC3mv3mYAi3xlnRKGm1G",
         "unique": false,
         "id": 132,
         "options": [
@@ -10445,11 +10446,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980165/files/4145184/download?verifier=MBCg9oKlLPfracP9sfxSLmN56QEeWnynWn9cQwbr\" alt=\"\">",
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980168/files/4145187/download?verifier=oC4hC7ABQjKodGcUfwqbIC3mv3mYAi3xlnRKGm1G",
         "unique": false,
         "id": 147,
         "options": [
@@ -10473,11 +10474,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "What is the best description of a carbonyl group?",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980168/files/4145187/download?verifier=oC4hC7ABQjKodGcUfwqbIC3mv3mYAi3xlnRKGm1G",
         "unique": false,
         "id": 134,
         "options": [
@@ -10501,11 +10502,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980177/files/4145192/download?verifier=xwmoPlfbzbCX18WrqAHF5J0W73rZQOsYdLpkQjZi\" alt=\"\"><br> <br>",
+        "question": "The following functional group is known as",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980168/files/4145187/download?verifier=oC4hC7ABQjKodGcUfwqbIC3mv3mYAi3xlnRKGm1G",
         "unique": false,
         "id": 130,
         "options": [
@@ -10529,11 +10530,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Molecules consisting only of carbon and hydrogen are known as",
+        "question_image_url": "",
         "unique": true,
         "id": 148,
         "options": [
@@ -10557,11 +10558,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The following functional group is known as<br> <br> -O-H",
+        "question": "The following functional group is known as -O-H",
+        "question_image_url": "",
         "unique": false,
         "id": 138,
         "options": [
@@ -10585,8 +10586,7 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 5
@@ -10596,6 +10596,7 @@
     "questions": [
       {
         "question": "Which action could produce a carbonyl group?",
+        "question_image_url": "",
         "unique": true,
         "id": 149,
         "options": [
@@ -10619,11 +10620,11 @@
             "is_correct": false,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980178/files/4145193/download?verifier=VrfI5ZVlUNwNzvMA3CuiHhwZAVsdBZr4kpwzH0ad\" alt=\"\">",
+        "question": "The following functional group is known as",
+        "question_image_url": "",
         "unique": false,
         "id": 130,
         "options": [
@@ -10647,11 +10648,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Which of the following structures makes sense?",
+        "question_image_url": "",
         "unique": true,
         "id": 150,
         "options": [
@@ -10675,11 +10676,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The following functional group is known as<br> <br> -S-H",
+        "question": "The following functional group is known as -S-H",
+        "question_image_url": "",
         "unique": false,
         "id": 142,
         "options": [
@@ -10703,11 +10704,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Compounds with amino groups are known as",
+        "question_image_url": "",
         "unique": false,
         "id": 132,
         "options": [
@@ -10731,11 +10732,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "Identify the asymmetric carbon in this molecule<br><img src=\"/assessment_questions/3980190/files/4145198/download?verifier=EATZzOtu7KvwJdn0jmz5eQRaWJ8tirANjXxfe2N6\" alt=\"\">",
+        "question": "Identify the asymmetric carbon in this molecule",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980190/files/4145198/download?verifier=EATZzOtu7KvwJdn0jmz5eQRaWJ8tirANjXxfe2N6",
         "unique": true,
         "id": 151,
         "options": [
@@ -10759,11 +10760,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980177/files/4145192/download?verifier=xwmoPlfbzbCX18WrqAHF5J0W73rZQOsYdLpkQjZi\" alt=\"\"><br> <br>",
+        "question": "The following functional group is known as",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980190/files/4145198/download?verifier=EATZzOtu7KvwJdn0jmz5eQRaWJ8tirANjXxfe2N6",
         "unique": false,
         "id": 130,
         "options": [
@@ -10787,11 +10788,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "The molecules shown below are best described as<br> <br><img src=\"/assessment_questions/3980163/files/4145182/download?verifier=WkDZPKxauqWrv4DH8Ytj3PjPKCzs50UvPLNbdb3c\" alt=\"\">",
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980190/files/4145198/download?verifier=EATZzOtu7KvwJdn0jmz5eQRaWJ8tirANjXxfe2N6",
         "unique": false,
         "id": 147,
         "options": [
@@ -10815,11 +10816,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p>Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that</p> <p><img src=\"/assessment_questions/13311828/files/17370677/download?verifier=l7JJHCP9FHv2yuMwpTVcUV9uzvf0LEQqqKxIGWw5\" alt=\"Chapter 4 question 39.jpg\" width=\"278\" height=\"132\"></p>",
+        "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980190/files/4145198/download?verifier=EATZzOtu7KvwJdn0jmz5eQRaWJ8tirANjXxfe2N6",
         "unique": false,
         "id": 143,
         "options": [
@@ -10843,11 +10844,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980165/files/4145184/download?verifier=MBCg9oKlLPfracP9sfxSLmN56QEeWnynWn9cQwbr\" alt=\"\">",
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980190/files/4145198/download?verifier=EATZzOtu7KvwJdn0jmz5eQRaWJ8tirANjXxfe2N6",
         "unique": false,
         "id": 147,
         "options": [
@@ -10871,8 +10872,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 3
@@ -10881,7 +10881,8 @@
     "quiz_title": "SQ topic 3 level 1c (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980177/files/4145192/download?verifier=xwmoPlfbzbCX18WrqAHF5J0W73rZQOsYdLpkQjZi\" alt=\"\"><br> <br>",
+        "question": "The following functional group is known as",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980190/files/4145198/download?verifier=EATZzOtu7KvwJdn0jmz5eQRaWJ8tirANjXxfe2N6",
         "unique": false,
         "id": 130,
         "options": [
@@ -10905,11 +10906,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Compounds with carbonyl groups are known",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980190/files/4145198/download?verifier=EATZzOtu7KvwJdn0jmz5eQRaWJ8tirANjXxfe2N6",
         "unique": false,
         "id": 137,
         "options": [
@@ -10933,11 +10934,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "Compounds with carboxyl groups are known as",
+        "question_image_url": "",
         "unique": true,
         "id": 152,
         "options": [
@@ -10961,11 +10962,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The following functional group is known as<br> <br> -O-H",
+        "question": "The following functional group is known as -O-H",
+        "question_image_url": "",
         "unique": false,
         "id": 138,
         "options": [
@@ -10989,11 +10990,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Organic chemistry is defined as",
+        "question_image_url": "",
         "unique": true,
         "id": 153,
         "options": [
@@ -11017,11 +11018,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "<p>Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that</p> <p><img src=\"/assessment_questions/13311828/files/17370677/download?verifier=l7JJHCP9FHv2yuMwpTVcUV9uzvf0LEQqqKxIGWw5\" alt=\"Chapter 4 question 39.jpg\" width=\"278\" height=\"132\"></p>",
+        "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+        "question_image_url": "",
         "unique": false,
         "id": 143,
         "options": [
@@ -11045,11 +11046,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "Which of the following statements is <strong>FALSE</strong>?",
+        "question": "Which of the following statements is FALSE?",
+        "question_image_url": "",
         "unique": true,
         "id": 154,
         "options": [
@@ -11073,11 +11074,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980168/files/4145187/download?verifier=oC4hC7ABQjKodGcUfwqbIC3mv3mYAi3xlnRKGm1G\" alt=\"\">",
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "",
         "unique": false,
         "id": 147,
         "options": [
@@ -11101,11 +11102,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Compounds with sulfhydryl groups are known as",
+        "question_image_url": "",
         "unique": false,
         "id": 139,
         "options": [
@@ -11129,11 +11130,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980181/files/4145195/download?verifier=x4RxY6e5vpfq3yWAEQWvhGQKXf6t6uN6xsEDBKpx\" alt=\"\">",
+        "question": "The following functional group is known as",
+        "question_image_url": "",
         "unique": false,
         "id": 130,
         "options": [
@@ -11157,8 +11158,7 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       }
     ],
     "unique_questions": 3
@@ -11167,7 +11167,8 @@
     "quiz_title": "SQ topic 3 level 1d (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980165/files/4145184/download?verifier=MBCg9oKlLPfracP9sfxSLmN56QEeWnynWn9cQwbr\" alt=\"\">",
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "",
         "unique": false,
         "id": 147,
         "options": [
@@ -11191,11 +11192,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980166/files/4145185/download?verifier=BI8FAc3udQpVPO6U3Ak4UUI4QkCX2VERZac5QEaG\" alt=\"\">",
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "",
         "unique": false,
         "id": 147,
         "options": [
@@ -11219,11 +11220,11 @@
             "is_correct": true,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "If two molecules have the same numbers of atoms of the same elements and the SAME covalent partnerships but different structures, the two molecules may be",
+        "question_image_url": "",
         "unique": false,
         "id": 135,
         "options": [
@@ -11247,11 +11248,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980181/files/4145195/download?verifier=x4RxY6e5vpfq3yWAEQWvhGQKXf6t6uN6xsEDBKpx\" alt=\"\">",
+        "question": "The following functional group is known as",
+        "question_image_url": "",
         "unique": false,
         "id": 130,
         "options": [
@@ -11275,11 +11276,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "What is the best description of a carbonyl group?",
+        "question_image_url": "",
         "unique": false,
         "id": 134,
         "options": [
@@ -11303,11 +11304,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980180/files/4145194/download?verifier=SQyCHIG9nsAi2GmmuFw9BOE5bPino2w6GTGOQe8r\" alt=\"\">",
+        "question": "The following functional group is known as",
+        "question_image_url": "",
         "unique": false,
         "id": 130,
         "options": [
@@ -11331,11 +11332,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Compounds with amino groups are known as",
+        "question_image_url": "",
         "unique": false,
         "id": 132,
         "options": [
@@ -11359,11 +11360,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The following functional group is known as<br> <br> -S-H",
+        "question": "The following functional group is known as -S-H",
+        "question_image_url": "",
         "unique": false,
         "id": 142,
         "options": [
@@ -11387,11 +11388,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "If two molecules have the same number of atoms of the same elements but DIFFERENT covalent arrangements, the two molecules are",
+        "question_image_url": "",
         "unique": true,
         "id": 155,
         "options": [
@@ -11415,11 +11416,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "If two molecules are mirror images of each other, the two molecules may be",
+        "question_image_url": "",
         "unique": true,
         "id": 156,
         "options": [
@@ -11443,8 +11444,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       }
     ],
     "unique_questions": 2
@@ -11454,6 +11454,7 @@
     "questions": [
       {
         "question": "Compounds with sulfhydryl groups are known as",
+        "question_image_url": "",
         "unique": false,
         "id": 139,
         "options": [
@@ -11477,11 +11478,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "Which of the following statements is <strong>FALSE</strong>?",
+        "question": "Which of the following statements is FALSE?",
+        "question_image_url": "",
         "unique": false,
         "id": 154,
         "options": [
@@ -11505,11 +11506,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "The molecules shown below are best described as<br> <br><img src=\"/assessment_questions/3980164/files/4145183/download?verifier=6aIK6rYrPywuRcQdrZ1Xi0bRxZdZWO5jf9PUY042\" alt=\"\">",
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "",
         "unique": false,
         "id": 147,
         "options": [
@@ -11533,11 +11534,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Molecules consisting only of carbon and hydrogen are known as",
+        "question_image_url": "",
         "unique": false,
         "id": 148,
         "options": [
@@ -11561,11 +11562,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "The following functional group is known as<br> <br> -O-H",
+        "question": "The following functional group is known as -O-H",
+        "question_image_url": "",
         "unique": false,
         "id": 138,
         "options": [
@@ -11589,11 +11590,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
-        "question": "<p>The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?</p> <p><img src=\"/assessment_questions/13311830/files/17370754/download?verifier=A9bYdeGtCdij3WyuNnYdr273StnEwTSqMgg2Fu3B\" alt=\"Chapter 4 questions 41, 42.jpg\" width=\"204\" height=\"119\"></p>",
+        "question": "The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?",
+        "question_image_url": "",
         "unique": false,
         "id": 140,
         "options": [
@@ -11617,11 +11618,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "Compounds with amino groups are known as",
+        "question_image_url": "",
         "unique": false,
         "id": 132,
         "options": [
@@ -11645,11 +11646,11 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       },
       {
-        "question": "Which of the following terms most accurately describes the shape of an ethylene molecule?<br><br><img src=\"/assessment_questions/3980160/files/4145181/download?verifier=63L1CLh5kmRWo3lEwKM4Ashnoe1zV1Ue93yWwnrw\" alt=\"\">",
+        "question": "Which of the following terms most accurately describes the shape of an ethylene molecule?",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980160/files/4145181/download?verifier=63L1CLh5kmRWo3lEwKM4Ashnoe1zV1Ue93yWwnrw",
         "unique": true,
         "id": 157,
         "options": [
@@ -11673,11 +11674,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": true
+        ]
       },
       {
         "question": "If two molecules are mirror images of each other, the two molecules may be",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980160/files/4145181/download?verifier=63L1CLh5kmRWo3lEwKM4Ashnoe1zV1Ue93yWwnrw",
         "unique": false,
         "id": 156,
         "options": [
@@ -11701,11 +11702,11 @@
             "is_correct": true,
             "comment": ""
           }
-        ],
-        "has_html": false
+        ]
       },
       {
         "question": "The carbon skeletons of organic molecules may",
+        "question_image_url": "",
         "unique": true,
         "id": 158,
         "options": [
@@ -11729,8 +11730,7 @@
             "is_correct": false,
             "comment": null
           }
-        ],
-        "has_html": false
+        ]
       }
     ],
     "unique_questions": 2
