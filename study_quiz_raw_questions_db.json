@@ -4,7 +4,7 @@
       "quiz_title": "Quiz 1 (due Thursday, Sept. 11 at 11:59 PM): BIOL 1009 (070-082) General Biology (Fall 2025)",
       "questions": [
         {
-          "question": "What should you call your professor?",
+          "question": "<p>What should you call your professor?</p>",
           "answers": [
             {
               "text": "\"Ms. Gibson\"",
@@ -109,7 +109,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "\"Brad has blown off going to his lab session four times. Chloe got covid and, due to having covid, missed four lab sections. Chloe has a note from her doctor stating that she was too sick to attend class during all four of the lab sessions that she missed.\" Assuming that both Brad and Chloe have done well on all the exams, quizzes, etc., who is on track to pass the course?",
+          "question": "<p><span>\"Brad has blown off going to his lab session four times. Chloe got covid and, due to having covid, missed four lab sections. Chloe has a note from her doctor stating that she was too sick to attend class during all four of the lab sessions that she missed.\"</span></p> <p><span>Assuming that both Brad and Chloe have done well on all the exams, quizzes, etc., who is on <span class=\"il\">track</span> to pass the course?</span></p>",
           "answers": [
             {
               "text": "Both Brad and Chloe are on track to pass the course.",
@@ -131,7 +131,7 @@
           "general_comment": ""
         },
         {
-          "question": "Scholastic dishonesty, such as cheating on exams or plagiarism, is not tolerated in this course. BIOL 1009 is a required course for almost all students taking it. This means that the information covered in the course is information students will likely need to be successful in their future careers. As a result, committing scholastic dishonesty in this course is not only dis-honorable, but is also likely to negatively impact students' future careers. Because scholastic dishonesty is not tolerated in this course, students found to have committed scholastic dishonesty, such as cheating on an exam:",
+          "question": "<p>Scholastic dishonesty, such as cheating on exams or plagiarism, is not tolerated in this course. BIOL 1009 is a required course for almost all students taking it. This means that the information covered in the course is information students will likely need to be successful in their future careers. As a result, committing scholastic dishonesty in this course is not only dis-honorable, but is also likely to negatively impact students' future careers.</p> <p>Because scholastic dishonesty is not tolerated in this course, students found to have committed scholastic dishonesty, such as cheating on an exam:</p>",
           "answers": [
             {
               "text": "will receive a grade of \"0\" on the exam or assignment affected by the dishonesty and will be reported to the university's Office of Community Standards.",
@@ -153,7 +153,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following statements is/are true? 1) The lecture part of the course will cover 25 different topics during the semester. To access the material for each of these topics, students should click on the topic on the homepage of the course Canvas site. In other words, to access the material for Topic 1, click where it says \"Topic 1\". 2) Students should complete the activities listed on the page for a particular topic by the date for that topic, shown near the end of the course syllabus.",
+          "question": "<p>Which of the following statements is/are true?</p> <p>1) The lecture part of the course will cover 25 different topics during the semester. To access the material for each of these topics, students should click on the topic on the homepage of the course Canvas site. In other words, to access the material for Topic 1, click where it says \"Topic 1\".</p> <p>2) Students should complete the activities listed on the page for a particular topic by the date for that topic, shown near the end of the course syllabus.</p>",
           "answers": [
             {
               "text": "Neither 1 nor 2 is correct.",
@@ -234,7 +234,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "Is the professor teaching the course available in real time to help you with the course material?",
+          "question": "<p>Is the professor teaching the course available in real time to help you with the course material?</p>",
           "answers": [
             {
               "text": "There will be online office hours each week. Additional help is available by appointment.",
@@ -469,7 +469,7 @@
           "general_comment": ""
         },
         {
-          "question": "All exams must be taken in-person, on the day and time listed in the course syllabus. Valid excuses for a make-up exam are:",
+          "question": "<p>All exams must be taken in-person, on the day and time listed in the course syllabus. Valid excuses for a make-up exam are:</p>",
           "answers": [
             {
               "text": "being in a wedding.",
@@ -496,7 +496,7 @@
           "general_comment": ""
         },
         {
-          "question": "What resources are available on the course Canvas website?",
+          "question": "<p>What resources are available on the course Canvas website?</p>",
           "answers": [
             {
               "text": "All of these answers are correct.",
@@ -626,7 +626,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "Each online quiz must be completed by a certain date.",
+          "question": "<p><span>Each online quiz must be completed by a certain date.</span></p>",
           "answers": [
             {
               "text": "There is no way to know the deadlines for each quiz.",
@@ -764,7 +764,7 @@
       "quiz_title": "Quiz 2 (due Thursday, Sept. 11 at 11:59 PM): BIOL 1009 (070-082) General Biology (Fall 2025)",
       "questions": [
         {
-          "question": "MgCl2 is an example of",
+          "question": "MgCl<sub>2</sub> is an example of",
           "answers": [
             {
               "text": "a compound",
@@ -899,7 +899,7 @@
           "general_comment": ""
         },
         {
-          "question": "Pure water at room temperature has a concentration of 10-7 hydrogen ions (H+) and 10-7 hydroxyl ions (OH-). Why is this?",
+          "question": "Pure water at room temperature has a concentration of 10<sup>-7</sup> hydrogen ions (H<sup>+</sup>) and 10<sup>-7</sup> hydroxyl ions (OH<sup>-</sup>). Why is this?",
           "answers": [
             {
               "text": "Because at any given moment 1 in 1014 water molecules is broken apart into hydrogen and hydroxyl ions.",
@@ -926,7 +926,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-8 M?",
+          "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-8 </sup>M?",
           "answers": [
             {
               "text": "pH 2",
@@ -1007,7 +1007,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "Discovery science",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
           "answers": [
             {
               "text": "focuses on testing predictions",
@@ -1061,7 +1061,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "A hypothesis",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
           "answers": [
             {
               "text": "can NOT be proven to be correct or incorrect, regardless of experimental results",
@@ -1088,7 +1088,7 @@
           "general_comment": ""
         },
         {
-          "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
           "answers": [
             {
               "text": "some conceivable observation or experiment could reveal whether a given hypothesis is incorrect",
@@ -1142,7 +1142,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
+          "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-12 </sup>M?",
           "answers": [
             {
               "text": "pH 2",
@@ -1169,7 +1169,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH-]?",
+          "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
           "answers": [
             {
               "text": "0.01 moles/liter",
@@ -1223,7 +1223,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "A theory is",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
           "answers": [
             {
               "text": "a poorly supported idea that has little backing but might be correct",
@@ -1250,7 +1250,7 @@
           "general_comment": ""
         },
         {
-          "question": "Qualitative data may be collected",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
           "answers": [
             {
               "text": "when carrying out discovery science or hypothesis-based science",
@@ -1277,7 +1277,7 @@
           "general_comment": ""
         },
         {
-          "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
           "answers": [
             {
               "text": "qualitative science.",
@@ -1304,7 +1304,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following statements about valence shells is FALSE?",
+          "question": "Which of the following statements about valence shells is <strong>FALSE</strong>?",
           "answers": [
             {
               "text": "Electrons in the valence shell (i.e. valence electrons) are primarily responsible for the chemical behavior of atoms.",
@@ -1331,7 +1331,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following statements about chemical reactions is FALSE?",
+          "question": "Which of the following statements about chemical reactions is <strong>FALSE</strong>?",
           "answers": [
             {
               "text": "When hydrogen and oxygen combine to form water, the hydrogen and oxygen molecules are the “reactants” of the reaction.",
@@ -1412,7 +1412,7 @@
           "general_comment": ""
         },
         {
-          "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+          "question": "<p class=\"NormalText\">Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that</p>",
           "answers": [
             {
               "text": "an electron may move to an electron shell closer to the nucleus.",
@@ -1721,7 +1721,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "All exams must be taken in-person, on the day and time listed in the course syllabus. Valid excuses for a make-up exam are:",
+          "question": "<p>All exams must be taken in-person, on the day and time listed in the course syllabus. Valid excuses for a make-up exam are:</p>",
           "answers": [
             {
               "text": "needing to be at work during the exam times.",
@@ -1748,7 +1748,7 @@
           "general_comment": ""
         },
         {
-          "question": "Scholastic dishonesty, such as cheating on exams or plagiarism, is not tolerated in this course. BIOL 1009 is a required course for almost all students taking it. This means that the information covered in the course is information students will likely need to be successful in their future careers. As a result, committing scholastic dishonesty in this course is not only dis-honorable, but is also likely to negatively impact students' future careers. Because scholastic dishonesty is not tolerated in this course, students found to have committed scholastic dishonesty, such as cheating on an exam:",
+          "question": "<p>Scholastic dishonesty, such as cheating on exams or plagiarism, is not tolerated in this course. BIOL 1009 is a required course for almost all students taking it. This means that the information covered in the course is information students will likely need to be successful in their future careers. As a result, committing scholastic dishonesty in this course is not only dis-honorable, but is also likely to negatively impact students' future careers.</p> <p>Because scholastic dishonesty is not tolerated in this course, students found to have committed scholastic dishonesty, such as cheating on an exam:</p>",
           "answers": [
             {
               "text": "will receive a grade of \"0\" on the exam or assignment affected by the dishonesty and will be reported to the university's Office of Community Standards.",
@@ -1868,7 +1868,7 @@
           "general_comment": "Nice work!"
         },
         {
-          "question": "Each online quiz must be completed by a certain date.",
+          "question": "<p><span>Each online quiz must be completed by a certain date.</span></p>",
           "answers": [
             {
               "text": "There is no way to know the deadlines for each quiz.",
@@ -1947,7 +1947,7 @@
           "general_comment": "Good job!"
         },
         {
-          "question": "What should you call your professor?",
+          "question": "<p>What should you call your professor?</p>",
           "answers": [
             {
               "text": "\"Mrs. Gibson\"",
@@ -1991,7 +1991,7 @@
           "general_comment": "That's right!"
         },
         {
-          "question": "Which of the following statements is/are true? 1) The lecture part of the course will cover 25 different topics during the semester. To access the material for each of these topics, students should click on the topic on the homepage of the course Canvas site. In other words, to access the material for Topic 1, click where it says \"Topic 1\". 2) Students should complete the activities listed on the page for a particular topic by the date for that topic, shown near the end of the course syllabus.",
+          "question": "<p>Which of the following statements is/are true?</p> <p>1) The lecture part of the course will cover 25 different topics during the semester. To access the material for each of these topics, students should click on the topic on the homepage of the course Canvas site. In other words, to access the material for Topic 1, click where it says \"Topic 1\".</p> <p>2) Students should complete the activities listed on the page for a particular topic by the date for that topic, shown near the end of the course syllabus.</p>",
           "answers": [
             {
               "text": "Only 2 is correct.",
@@ -2224,7 +2224,7 @@
       "quiz_title": "SQ topic 1a level 1d (course resources and policies): BIOL 1009 (070-082) General Biology (Fall 2025)",
       "questions": [
         {
-          "question": "Is the professor teaching the course available in real time to help you with the course material?",
+          "question": "<p>Is the professor teaching the course available in real time to help you with the course material?</p>",
           "answers": [
             {
               "text": "There will be online office hours each week. Additional help is available by appointment.",
@@ -2420,7 +2420,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "\"Brad has blown off going to his lab session four times. Chloe got covid and, due to having covid, missed four lab sections. Chloe has a note from her doctor stating that she was too sick to attend class during all four of the lab sessions that she missed.\" Assuming that both Brad and Chloe have done well on all the exams, quizzes, etc., who is on track to pass the course?",
+          "question": "<p><span>\"Brad has blown off going to his lab session four times. Chloe got covid and, due to having covid, missed four lab sections. Chloe has a note from her doctor stating that she was too sick to attend class during all four of the lab sessions that she missed.\"</span></p> <p><span>Assuming that both Brad and Chloe have done well on all the exams, quizzes, etc., who is on <span class=\"il\">track</span> to pass the course?</span></p>",
           "answers": [
             {
               "text": "Neither. Both Brad and Chloe are not going to pass the course.",
@@ -2442,7 +2442,7 @@
           "general_comment": ""
         },
         {
-          "question": "What resources are available on the course Canvas website?",
+          "question": "<p>What resources are available on the course Canvas website?</p>",
           "answers": [
             {
               "text": "A copy of the course syllabus.",
@@ -2658,7 +2658,7 @@
           "general_comment": "That's right!"
         },
         {
-          "question": "Each online quiz must be completed by a certain date.",
+          "question": "<p><span>Each online quiz must be completed by a certain date.</span></p>",
           "answers": [
             {
               "text": "The deadlines for each online quiz will be determined later in the semester.",
@@ -2712,7 +2712,7 @@
           "general_comment": "Correct! This is one of several reasons that you will want to make a lot of use of the study questions."
         },
         {
-          "question": "What resources are available on the course Canvas website?",
+          "question": "<p>What resources are available on the course Canvas website?</p>",
           "answers": [
             {
               "text": "A copy of the course syllabus.",
@@ -2744,7 +2744,7 @@
       "quiz_title": "SQ topic 1b level 1a (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
       "questions": [
         {
-          "question": "What are two methods of scientific inquiry?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
           "answers": [
             {
               "text": "hypothesis-based science and experimental planning",
@@ -2771,7 +2771,7 @@
           "general_comment": ""
         },
         {
-          "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
           "answers": [
             {
               "text": "all of these answers are correct",
@@ -2798,7 +2798,7 @@
           "general_comment": ""
         },
         {
-          "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
           "answers": [
             {
               "text": "discovery science.",
@@ -2825,7 +2825,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following is NOT an example of discovery science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is <b>NOT</b> an example of discovery science?</span><br>",
           "answers": [
             {
               "text": "Some of Charles Darwin’s work that helped lead to the theory of natural selection",
@@ -2852,7 +2852,7 @@
           "general_comment": ""
         },
         {
-          "question": "A theory is",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
           "answers": [
             {
               "text": "not correct unless it is several years old",
@@ -2879,7 +2879,7 @@
           "general_comment": ""
         },
         {
-          "question": "In science, a “theory”",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a “theory”</span><br>",
           "answers": [
             {
               "text": "all of these answers are correct",
@@ -2933,7 +2933,7 @@
           "general_comment": ""
         },
         {
-          "question": "What types of data may be collected when doing discovery science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
           "answers": [
             {
               "text": "Qualitative data only",
@@ -2960,7 +2960,7 @@
           "general_comment": ""
         },
         {
-          "question": "Discovery science",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
           "answers": [
             {
               "text": "focuses on answering specific questions",
@@ -2987,7 +2987,7 @@
           "general_comment": ""
         },
         {
-          "question": "In science, a possible answer to a specific question is know as a",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a possible answer to a specific question is know as a</span><br>",
           "answers": [
             {
               "text": "theory",
@@ -3019,7 +3019,7 @@
       "quiz_title": "SQ topic 1b level 1b (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
       "questions": [
         {
-          "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
           "answers": [
             {
               "text": "theory",
@@ -3046,7 +3046,7 @@
           "general_comment": ""
         },
         {
-          "question": "What types of data may be collected when doing hypothesis-based science?",
+          "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
           "answers": [
             {
               "text": "Quantitative and qualitative data",
@@ -3073,7 +3073,7 @@
           "general_comment": ""
         },
         {
-          "question": "What types of data may be collected when doing discovery science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
           "answers": [
             {
               "text": "Only data that is partially qualitative and partially quantitative",
@@ -3100,7 +3100,7 @@
           "general_comment": ""
         },
         {
-          "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as</span>",
           "answers": [
             {
               "text": "prediction testing",
@@ -3127,7 +3127,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following is an example of qualitative data?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
           "answers": [
             {
               "text": "The fish swam in a zigzag motion.",
@@ -3154,7 +3154,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following best describes the logic of hypothesis-based science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
           "answers": [
             {
               "text": "If my hypothesis is correct, I can expect certain results.",
@@ -3208,7 +3208,7 @@
           "general_comment": ""
         },
         {
-          "question": "Qualitative data may be collected",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
           "answers": [
             {
               "text": "only when carrying out numerical science",
@@ -3262,7 +3262,7 @@
           "general_comment": "Good job!"
         },
         {
-          "question": "A hypothesis",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
           "answers": [
             {
               "text": "is a prediction scientists make based on many careful observations",
@@ -3294,7 +3294,7 @@
       "quiz_title": "SQ topic 1b level 1c (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
       "questions": [
         {
-          "question": "Which of the following is NOT an example of discovery science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is <b>NOT</b> an example of discovery science?</span><br>",
           "answers": [
             {
               "text": "Some of Jane Goodall’s work observing chimpanzee behavior",
@@ -3321,7 +3321,7 @@
           "general_comment": ""
         },
         {
-          "question": "What types of data may be collected when doing hypothesis-based science?",
+          "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
           "answers": [
             {
               "text": "Quantitative data only",
@@ -3348,7 +3348,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following is an example of qualitative data?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data? </span><br>",
           "answers": [
             {
               "text": "Records of precise water temperature",
@@ -3375,7 +3375,7 @@
           "general_comment": ""
         },
         {
-          "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
           "answers": [
             {
               "text": "prediction",
@@ -3402,7 +3402,7 @@
           "general_comment": ""
         },
         {
-          "question": "What types of data may be collected when doing discovery science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
           "answers": [
             {
               "text": "Quantitative and qualitative data",
@@ -3429,7 +3429,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following is an example of qualitative data?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
           "answers": [
             {
               "text": "The fish swam in a zigzag motion.",
@@ -3456,7 +3456,7 @@
           "general_comment": ""
         },
         {
-          "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
           "answers": [
             {
               "text": "there must be several options in the hypothesis to chose from, one of which is correct",
@@ -3483,7 +3483,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following is an example of quantitative data?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of quantitative data? </span><br>",
           "answers": [
             {
               "text": "Records of plant weights",
@@ -3510,7 +3510,7 @@
           "general_comment": ""
         },
         {
-          "question": "Qualitative data may be collected",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
           "answers": [
             {
               "text": "only when carrying out discovery science",
@@ -3537,7 +3537,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following best describes the logic of hypothesis-based science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
           "answers": [
             {
               "text": "If I generate a testable hypothesis, tests and observations will support it.",
@@ -3569,7 +3569,7 @@
       "quiz_title": "SQ topic 1b level 1d (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
       "questions": [
         {
-          "question": "A hypothesis",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
           "answers": [
             {
               "text": "is a prediction scientists make based on many careful observations",
@@ -3596,7 +3596,7 @@
           "general_comment": ""
         },
         {
-          "question": "In science, a possible answer to a specific question is know as a",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a possible answer to a specific question is know as a</span><br>",
           "answers": [
             {
               "text": "hypothesis",
@@ -3623,7 +3623,7 @@
           "general_comment": ""
         },
         {
-          "question": "What are two methods of scientific inquiry?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
           "answers": [
             {
               "text": "discovery science and experimental planning",
@@ -3650,7 +3650,7 @@
           "general_comment": ""
         },
         {
-          "question": "A hypothesis",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
           "answers": [
             {
               "text": "can NOT be proven to be correct",
@@ -3677,7 +3677,7 @@
           "general_comment": ""
         },
         {
-          "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
           "answers": [
             {
               "text": "there must be several options in the hypothesis to chose from, one of which is correct",
@@ -3704,7 +3704,7 @@
           "general_comment": ""
         },
         {
-          "question": "In science, a “theory”",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a “theory”</span><br>",
           "answers": [
             {
               "text": "is supported by a large body of evidence",
@@ -3731,7 +3731,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following is an example of qualitative data?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
           "answers": [
             {
               "text": "The fish swam in a zigzag motion.",
@@ -3758,7 +3758,7 @@
           "general_comment": ""
         },
         {
-          "question": "A theory is",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
           "answers": [
             {
               "text": "a well-supported concept that has broad explanatory power",
@@ -3785,7 +3785,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following best describes the logic of hypothesis-based science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
           "answers": [
             {
               "text": "If I generate a testable hypothesis, tests and observations will support it.",
@@ -3812,7 +3812,7 @@
           "general_comment": ""
         },
         {
-          "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
           "answers": [
             {
               "text": "theory",
@@ -3844,7 +3844,7 @@
       "quiz_title": "SQ topic 1b level 2 (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
       "questions": [
         {
-          "question": "Which of the following statements about hypotheses is FALSE?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements about hypotheses is <b>FALSE</b>?</span><br>",
           "answers": [
             {
               "text": "Hypotheses should be possible answers to specific questions.",
@@ -3871,7 +3871,7 @@
           "general_comment": ""
         },
         {
-          "question": "What types of data may be collected when doing discovery science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
           "answers": [
             {
               "text": "Only data that is partially qualitative and partially quantitative",
@@ -3898,7 +3898,7 @@
           "general_comment": ""
         },
         {
-          "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
           "answers": [
             {
               "text": "discovery science.",
@@ -3925,7 +3925,7 @@
           "general_comment": ""
         },
         {
-          "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
           "answers": [
             {
               "text": "theory",
@@ -3952,7 +3952,7 @@
           "general_comment": ""
         },
         {
-          "question": "What are two methods of scientific inquiry?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
           "answers": [
             {
               "text": "discovery science and hypothesis-based science",
@@ -3979,7 +3979,7 @@
           "general_comment": ""
         },
         {
-          "question": "Through careful experimentation or observations, it is possible to prove",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Through careful experimentation or observations, it is possible to prove</span><br>",
           "answers": [
             {
               "text": "a theory, but not a hypothesis",
@@ -4006,7 +4006,7 @@
           "general_comment": ""
         },
         {
-          "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
           "answers": [
             {
               "text": "only a controlled experiment can prove whether a hypothesis is correct or incorrect",
@@ -4033,7 +4033,7 @@
           "general_comment": ""
         },
         {
-          "question": "Qualitative data may be collected",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
           "answers": [
             {
               "text": "only when carrying out numerical science",
@@ -4060,7 +4060,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following best describes the logic of hypothesis-based science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
           "answers": [
             {
               "text": "If my prediction is correct, it will lead to a testable hypothesis.",
@@ -4087,7 +4087,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following is an example of quantitative data?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of quantitative data? </span><br>",
           "answers": [
             {
               "text": "Records of which beers taste bitter",
@@ -4119,7 +4119,7 @@
       "quiz_title": "SQ topic 1b level 2 (Chapter 1)",
       "questions": [
         {
-          "question": "Which of the following is an example of qualitative data?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
           "answers": [
             {
               "text": "The six pairs of robins hatched an average of three chicks.",
@@ -4146,7 +4146,7 @@
           "general_comment": ""
         },
         {
-          "question": "What types of data may be collected when doing hypothesis-based science?",
+          "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
           "answers": [
             {
               "text": "Quantitative and qualitative data",
@@ -4173,7 +4173,7 @@
           "general_comment": ""
         },
         {
-          "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as</span>",
           "answers": [
             {
               "text": "prediction testing",
@@ -4200,7 +4200,7 @@
           "general_comment": ""
         },
         {
-          "question": "A hypothesis",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
           "answers": [
             {
               "text": "can NOT be proven to be correct or incorrect, regardless of experimental results",
@@ -4227,7 +4227,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following is an example of quantitative data?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of quantitative data? </span><br>",
           "answers": [
             {
               "text": "Records of plant weights",
@@ -4254,7 +4254,7 @@
           "general_comment": ""
         },
         {
-          "question": "Discovery science",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
           "answers": [
             {
               "text": "focuses on testing predictions",
@@ -4281,7 +4281,7 @@
           "general_comment": ""
         },
         {
-          "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
           "answers": [
             {
               "text": "experimental science.",
@@ -4308,7 +4308,7 @@
           "general_comment": ""
         },
         {
-          "question": "Qualitative data may be collected",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
           "answers": [
             {
               "text": "when carrying out discovery science or hypothesis-based science",
@@ -4335,7 +4335,7 @@
           "general_comment": ""
         },
         {
-          "question": "A hypothesis",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
           "answers": [
             {
               "text": "is a prediction scientists make based on many careful observations",
@@ -4362,7 +4362,7 @@
           "general_comment": ""
         },
         {
-          "question": "What are two methods of scientific inquiry?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
           "answers": [
             {
               "text": "discovery science and hypothesis-based science",
@@ -4394,7 +4394,7 @@
       "quiz_title": "SQ topic 1b level 2 (Chapter 1)_2",
       "questions": [
         {
-          "question": "A hypothesis",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
           "answers": [
             {
               "text": "can NOT be proven to be correct or incorrect, regardless of experimental results",
@@ -4421,7 +4421,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
           "answers": [
             {
               "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
@@ -4448,7 +4448,7 @@
           "general_comment": ""
         },
         {
-          "question": "In science, a possible answer to a specific question is know as a",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a possible answer to a specific question is know as a</span><br>",
           "answers": [
             {
               "text": "hypothesis",
@@ -4502,7 +4502,7 @@
           "general_comment": ""
         },
         {
-          "question": "In science, a “theory”",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a “theory”</span><br>",
           "answers": [
             {
               "text": "tends to generate new hypotheses",
@@ -4529,7 +4529,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following is an example of qualitative data?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
           "answers": [
             {
               "text": "The six pairs of robins hatched an average of three chicks.",
@@ -4556,7 +4556,7 @@
           "general_comment": ""
         },
         {
-          "question": "A theory is",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
           "answers": [
             {
               "text": "a poorly supported idea that has little backing but might be correct",
@@ -4610,7 +4610,7 @@
           "general_comment": "Good job!"
         },
         {
-          "question": "Discovery science",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
           "answers": [
             {
               "text": "focuses on testing predictions",
@@ -4637,7 +4637,7 @@
           "general_comment": ""
         },
         {
-          "question": "What types of data may be collected when doing hypothesis-based science?",
+          "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
           "answers": [
             {
               "text": "Only data that is partially qualitative and partially quantitative",
@@ -4669,7 +4669,7 @@
       "quiz_title": "SQ topic 1b level 2 (Chapter 1)_3",
       "questions": [
         {
-          "question": "Which of the following best describes the logic of hypothesis-based science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
           "answers": [
             {
               "text": "If I generate a testable hypothesis, tests and observations will support it.",
@@ -4696,7 +4696,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following statements about hypotheses is FALSE?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements about hypotheses is <b>FALSE</b>?</span><br>",
           "answers": [
             {
               "text": "Hypotheses should be falsifiable.",
@@ -4723,7 +4723,7 @@
           "general_comment": ""
         },
         {
-          "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
           "answers": [
             {
               "text": "qualitative science.",
@@ -4777,7 +4777,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
           "answers": [
             {
               "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
@@ -4804,7 +4804,7 @@
           "general_comment": ""
         },
         {
-          "question": "A hypothesis",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
           "answers": [
             {
               "text": "can be proven to be correct or incorrect, depending on experimental results",
@@ -4831,7 +4831,7 @@
           "general_comment": ""
         },
         {
-          "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as</span>",
           "answers": [
             {
               "text": "prediction testing",
@@ -4858,7 +4858,7 @@
           "general_comment": ""
         },
         {
-          "question": "What types of data may be collected when doing hypothesis-based science?",
+          "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
           "answers": [
             {
               "text": "Quantitative and qualitative data",
@@ -4885,7 +4885,7 @@
           "general_comment": ""
         },
         {
-          "question": "In science, a possible answer to a specific question is know as a",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a possible answer to a specific question is know as a</span><br>",
           "answers": [
             {
               "text": "theory",
@@ -4912,7 +4912,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following is an example of qualitative data?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
           "answers": [
             {
               "text": "The six pairs of robins hatched an average of three chicks.",
@@ -4944,7 +4944,7 @@
       "quiz_title": "SQ topic 1b level 2 (Chapter 1)_4",
       "questions": [
         {
-          "question": "What are two methods of scientific inquiry?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
           "answers": [
             {
               "text": "discovery science and experimental planning",
@@ -4971,7 +4971,7 @@
           "general_comment": ""
         },
         {
-          "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
           "answers": [
             {
               "text": "experimental science.",
@@ -4998,7 +4998,7 @@
           "general_comment": ""
         },
         {
-          "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
           "answers": [
             {
               "text": "there must be several options in the hypothesis to chose from, one of which is correct",
@@ -5025,7 +5025,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
           "answers": [
             {
               "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
@@ -5052,7 +5052,7 @@
           "general_comment": ""
         },
         {
-          "question": "A hypothesis",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
           "answers": [
             {
               "text": "is the same thing as a theory",
@@ -5079,7 +5079,7 @@
           "general_comment": ""
         },
         {
-          "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
           "answers": [
             {
               "text": "theory",
@@ -5106,7 +5106,7 @@
           "general_comment": ""
         },
         {
-          "question": "What types of data may be collected when doing discovery science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
           "answers": [
             {
               "text": "Quantitative data only",
@@ -5133,7 +5133,7 @@
           "general_comment": ""
         },
         {
-          "question": "Through careful experimentation or observations, it is possible to prove",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Through careful experimentation or observations, it is possible to prove</span><br>",
           "answers": [
             {
               "text": "neither a hypothesis nor a theory",
@@ -5160,7 +5160,7 @@
           "general_comment": ""
         },
         {
-          "question": "What types of data may be collected when doing hypothesis-based science?",
+          "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
           "answers": [
             {
               "text": "Quantitative and qualitative data",
@@ -5187,7 +5187,7 @@
           "general_comment": ""
         },
         {
-          "question": "A theory is",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
           "answers": [
             {
               "text": "a well-supported concept that has broad explanatory power",
@@ -5246,7 +5246,7 @@
           "general_comment": ""
         },
         {
-          "question": "A hypothesis",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
           "answers": [
             {
               "text": "is a tentative answer to a question",
@@ -5273,7 +5273,7 @@
           "general_comment": ""
         },
         {
-          "question": "What types of data may be collected when doing discovery science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
           "answers": [
             {
               "text": "Qualitative data only",
@@ -5300,7 +5300,7 @@
           "general_comment": ""
         },
         {
-          "question": "Discovery science",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
           "answers": [
             {
               "text": "focuses on accurately describing natural structures or processes",
@@ -5327,7 +5327,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following best describes the logic of hypothesis-based science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
           "answers": [
             {
               "text": "If my hypothesis is correct, I can expect certain results.",
@@ -5381,7 +5381,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "A theory is",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
           "answers": [
             {
               "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
@@ -5435,7 +5435,7 @@
           "general_comment": "Good job!"
         },
         {
-          "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
           "answers": [
             {
               "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
@@ -5462,7 +5462,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following is NOT an example of discovery science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is <b>NOT</b> an example of discovery science?</span><br>",
           "answers": [
             {
               "text": "Observations that led to the conclusion that all organism are made of cells",
@@ -5494,7 +5494,7 @@
       "quiz_title": "SQ topic 1b level 2 (Chapter 1)_6",
       "questions": [
         {
-          "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
           "answers": [
             {
               "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
@@ -5521,7 +5521,7 @@
           "general_comment": ""
         },
         {
-          "question": "Discovery science",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
           "answers": [
             {
               "text": "focuses on accurately describing natural structures or processes",
@@ -5575,7 +5575,7 @@
           "general_comment": "Good job!"
         },
         {
-          "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
           "answers": [
             {
               "text": "theory",
@@ -5602,7 +5602,7 @@
           "general_comment": ""
         },
         {
-          "question": "Through careful experimentation or observations, it is possible to prove",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Through careful experimentation or observations, it is possible to prove</span><br>",
           "answers": [
             {
               "text": "neither a hypothesis nor a theory",
@@ -5629,7 +5629,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following statements about hypotheses is FALSE?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements about hypotheses is <b>FALSE</b>?</span><br>",
           "answers": [
             {
               "text": "Hypotheses should be possible answers to specific questions.",
@@ -5683,7 +5683,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "Which of the following is NOT an example of discovery science?",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is <b>NOT</b> an example of discovery science?</span><br>",
           "answers": [
             {
               "text": "Observations that led to the conclusion that all organism are made of cells",
@@ -5710,7 +5710,7 @@
           "general_comment": ""
         },
         {
-          "question": "A theory is",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
           "answers": [
             {
               "text": "a well-supported concept that has broad explanatory power",
@@ -5737,7 +5737,7 @@
           "general_comment": ""
         },
         {
-          "question": "A hypothesis",
+          "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
           "answers": [
             {
               "text": "can be proven to be correct or incorrect, depending on experimental results",
@@ -5850,7 +5850,7 @@
           "general_comment": ""
         },
         {
-          "question": "If you make a model of a methane (CH4) molecule, the overall shape of the molecule will most closely resemble",
+          "question": "If you make a model of a methane (CH<sub>4</sub>) molecule, the overall shape of the molecule will most closely resemble",
           "answers": [
             {
               "text": "a square",
@@ -5904,7 +5904,7 @@
           "general_comment": ""
         },
         {
-          "question": "What is the maximum number of electrons in the 1s orbital of an atom?",
+          "question": "What is the maximum number of electrons in the 1<i>s</i> orbital of an atom?",
           "answers": [
             {
               "text": "2.",
@@ -5985,7 +5985,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "What is the pH of a solution with a hydroxyl ion [OH-] concentration of 10-4.5 M?",
+          "question": "What is the pH of a solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-4.5 </sup>M?",
           "answers": [
             {
               "text": "pH 2",
@@ -6012,7 +6012,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH-]?",
+          "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
           "answers": [
             {
               "text": "2 moles/liter",
@@ -6071,7 +6071,7 @@
           "general_comment": ""
         },
         {
-          "question": "MgCl2 is an example of",
+          "question": "MgCl<sub>2</sub> is an example of",
           "answers": [
             {
               "text": "a molecule",
@@ -6098,7 +6098,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following statements about valence shells is FALSE?",
+          "question": "Which of the following statements about valence shells is <strong>FALSE</strong>?",
           "answers": [
             {
               "text": "Electrons in the valence shell (i.e. valence electrons) are primarily responsible for the chemical behavior of atoms.",
@@ -6206,7 +6206,7 @@
           "general_comment": ""
         },
         {
-          "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH-]?",
+          "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
           "answers": [
             {
               "text": "13 moles/liter",
@@ -6260,7 +6260,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-1.5 M?",
+          "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-1.5 </sup>M?",
           "answers": [
             {
               "text": "pH 4",
@@ -6287,7 +6287,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
+          "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-12 </sup>M?",
           "answers": [
             {
               "text": "pH 12",
@@ -6562,7 +6562,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
+          "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-12 </sup>M?",
           "answers": [
             {
               "text": "pH 2",
@@ -6675,7 +6675,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
+          "question": "A mole of water (H<sub>2</sub>O) molecules and a mole of glucose molecules (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)",
           "answers": [
             {
               "text": "have an equal number of molecules",
@@ -6756,7 +6756,7 @@
           "general_comment": ""
         },
         {
-          "question": "Why does the structure shown below fail to make sense chemically?H-C=C-H",
+          "question": "Why does the structure shown below fail to make sense chemically?<br><br>H-C=C-H",
           "answers": [
             {
               "text": "Each hydrogen atom only has 1 covalent bond.",
@@ -6896,7 +6896,7 @@
           "general_comment": ""
         },
         {
-          "question": "What is the maximum number of electrons in the 1s orbital of an atom?",
+          "question": "What is the maximum number of electrons in the 1<i>s</i> orbital of an atom?",
           "answers": [
             {
               "text": "1.",
@@ -6950,7 +6950,7 @@
           "general_comment": ""
         },
         {
-          "question": "With regards to orbitals, which of the following statements is FALSE?",
+          "question": "With regards to orbitals, which of the following statements is <strong><i>FALSE</i></strong>?<br><br>",
           "answers": [
             {
               "text": "An orbital is occupied by one or two electrons.",
@@ -7031,7 +7031,7 @@
           "general_comment": ""
         },
         {
-          "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 M (molar) solution of glucose?",
+          "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 <i>M</i> (molar) solution of glucose?",
           "answers": [
             {
               "text": "Dissolve 1 g of glucose in 1 L of water.",
@@ -7058,7 +7058,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "What is the pH of a solution with a hydroxyl ion [OH-] concentration of 10-4 M?",
+          "question": "What is the pH of a solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-4 </sup>M?",
           "answers": [
             {
               "text": "pH 2",
@@ -7112,7 +7112,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
+          "question": "A mole of water (H<sub>2</sub>O) molecules and a mole of glucose molecules (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)",
           "answers": [
             {
               "text": "have an equal number of atoms",
@@ -7144,7 +7144,7 @@
       "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_2",
       "questions": [
         {
-          "question": "The number of electron orbitals in the different electron shells is",
+          "question": "The number of electron <strong>orbitals</strong> in the different electron shells is",
           "answers": [
             {
               "text": "2 in the 1st shell and 4 in the second shell",
@@ -7225,7 +7225,7 @@
           "general_comment": ""
         },
         {
-          "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+          "question": "<p class=\"NormalText\">Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that</p>",
           "answers": [
             {
               "text": "an electron may move to an electron shell farther away from the nucleus.",
@@ -7279,7 +7279,7 @@
           "general_comment": ""
         },
         {
-          "question": "With regards to orbitals, which of the following statements is FALSE?",
+          "question": "With regards to orbitals, which of the following statements is <strong><i>FALSE</i></strong>?<br><br>",
           "answers": [
             {
               "text": "An orbital is occupied by one or two electrons.",
@@ -7387,7 +7387,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-8 M?",
+          "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-8 </sup>M?",
           "answers": [
             {
               "text": "pH 8",
@@ -7419,7 +7419,7 @@
       "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_3",
       "questions": [
         {
-          "question": "How many electrons does it take to fill the first electron shell of a carbon atom?",
+          "question": "How many electrons does it take to fill the <strong>first </strong>electron shell of a carbon atom?",
           "answers": [
             {
               "text": "2",
@@ -7473,7 +7473,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following statements about electrons is FALSE?",
+          "question": "Which of the following statements about electrons is <strong>FALSE</strong>?<br>",
           "answers": [
             {
               "text": "two electrons may occupy the same electron orbital",
@@ -7500,7 +7500,7 @@
           "general_comment": ""
         },
         {
-          "question": "When atom “A” forms four single covalent bonds to complete its outermost electron shell, which is its 2nd electron shell, the electron orbitals within that shell will point towards the corners of",
+          "question": "When atom “A” forms four single covalent bonds to complete its outermost electron shell, which is its 2<sup>nd</sup> electron shell, the electron orbitals within that shell will point towards the corners of",
           "answers": [
             {
               "text": "a rectangle",
@@ -7635,7 +7635,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "A solution with a pH of 10 contains what concentration of hydroxyl ions [OH-]?",
+          "question": "A solution with a pH of 10 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
           "answers": [
             {
               "text": "0.01 moles/liter",
@@ -7662,7 +7662,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
+          "question": "A mole of water (H<sub>2</sub>O) molecules and a mole of glucose molecules (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)",
           "answers": [
             {
               "text": "have an equal volume",
@@ -7694,7 +7694,7 @@
       "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_4",
       "questions": [
         {
-          "question": "Which of the following statements about valence shells is FALSE?",
+          "question": "Which of the following statements about valence shells is <strong>FALSE</strong>?",
           "answers": [
             {
               "text": "Electrons in the valence shell (i.e. valence electrons) are primarily responsible for the chemical behavior of atoms.",
@@ -7802,7 +7802,7 @@
           "general_comment": ""
         },
         {
-          "question": "Oxygen gas (O2) is an example of",
+          "question": "Oxygen gas (O<sub>2</sub>) is an example of",
           "answers": [
             {
               "text": "a compound",
@@ -7856,7 +7856,7 @@
           "general_comment": ""
         },
         {
-          "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
+          "question": "A mole of water (H<sub>2</sub>O) molecules and a mole of glucose molecules (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)",
           "answers": [
             {
               "text": "have about ten times as many molecules in the mole of glucose than in the mole of water",
@@ -7937,7 +7937,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H+]?",
+          "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H<sup>+</sup>]?",
           "answers": [
             {
               "text": "0.001 moles/liter",
@@ -7996,7 +7996,7 @@
           "general_comment": ""
         },
         {
-          "question": "With regards to orbitals, which of the following statements is FALSE?",
+          "question": "With regards to orbitals, which of the following statements is <strong><i>FALSE</i></strong>?<br><br>",
           "answers": [
             {
               "text": "An orbital is occupied by one or two electrons.",
@@ -8185,7 +8185,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-4 M?",
+          "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-4 </sup>M?",
           "answers": [
             {
               "text": "pH 4",
@@ -8244,7 +8244,7 @@
       "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_6",
       "questions": [
         {
-          "question": "MgCl2 is an example of",
+          "question": "MgCl<sub>2</sub> is an example of",
           "answers": [
             {
               "text": "an element",
@@ -8325,7 +8325,7 @@
           "general_comment": ""
         },
         {
-          "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+          "question": "<p class=\"NormalText\">Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that</p>",
           "answers": [
             {
               "text": "an electron may move to an electron shell farther away from the nucleus.",
@@ -8406,7 +8406,7 @@
           "general_comment": ""
         },
         {
-          "question": "You have a freshly prepared 1 M (molar) solution of glucose in water. You carefully pour out a 100 mL sample of that solution. How many glucose molecules are included in that 100 mL sample?",
+          "question": "You have a freshly prepared 1 <i>M</i> (molar) solution of glucose in water. You carefully pour out a 100 mL sample of that solution. How many glucose molecules are included in that 100 mL sample?",
           "answers": [
             {
               "text": "6.02 × 1024",
@@ -8487,7 +8487,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "A solution with a pH of 2 contains what concentration of hydrogen ions [H+]?",
+          "question": "A solution with a pH of 2 contains what concentration of hydrogen ions [H<sup>+</sup>]?",
           "answers": [
             {
               "text": "0.02 grams/liter",
@@ -8519,7 +8519,7 @@
       "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_7",
       "questions": [
         {
-          "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+          "question": "<p class=\"NormalText\">Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that</p>",
           "answers": [
             {
               "text": "an electron may move to an electron shell closer to the nucleus.",
@@ -8681,7 +8681,7 @@
           "general_comment": ""
         },
         {
-          "question": "Pure water at room temperature has a concentration of 10-7 hydrogen ions (H+) and 10-7 hydroxyl ions (OH-). Why is this?",
+          "question": "Pure water at room temperature has a concentration of 10<sup>-7</sup> hydrogen ions (H<sup>+</sup>) and 10<sup>-7</sup> hydroxyl ions (OH<sup>-</sup>). Why is this?",
           "answers": [
             {
               "text": "Because at any given moment 1 in 103.5 water molecules is broken apart into hydrogen and hydroxyl ions.",
@@ -8708,7 +8708,7 @@
           "general_comment": ""
         },
         {
-          "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-4 M?",
+          "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-4 </sup>M?",
           "answers": [
             {
               "text": "pH 10",
@@ -8735,7 +8735,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "Which of the following statements about bases is FALSE?",
+          "question": "Which of the following statements about bases is <strong>FALSE</strong>?",
           "answers": [
             {
               "text": "Some bases reduce H+ concentrations by accepting hydrogen ions.",
@@ -8762,7 +8762,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "How many molecules of glycerol (C3H8O3; molecular mass = 92) would be present in 1 L of a 1 M (molar) glycerol solution?",
+          "question": "<p class=\"NormalText\">How many molecules of glycerol (C<sub>3</sub>H<sub>8</sub>O<sub>3</sub>; molecular mass = 92) would be present in 1 L of a 1 <i>M</i> (molar) glycerol solution?</p>",
           "answers": [
             {
               "text": "14 × 6.02 × 1023",
@@ -8794,7 +8794,7 @@
       "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_8",
       "questions": [
         {
-          "question": "Which of the following statements about electrons is FALSE?",
+          "question": "Which of the following statements about electrons is <strong>FALSE</strong>?<br>",
           "answers": [
             {
               "text": "the closer an electron is to the nucleus, the more strongly the electron is attracted to the nucleus and therefore the more potential energy the electron has",
@@ -8875,7 +8875,7 @@
           "general_comment": "Yes! Oxygen is substantially more electronegative than carbon. As a result, the pair of electrons forming the covalent bond between oxygen and carbon will spend significantly more time closer to the oxygen atom than the carbon atom. This means the bond will be a polar covalent bond."
         },
         {
-          "question": "What is the maximum number of electrons in the 1s orbital of an atom?",
+          "question": "What is the maximum number of electrons in the 1<i>s</i> orbital of an atom?",
           "answers": [
             {
               "text": "4.",
@@ -8902,7 +8902,7 @@
           "general_comment": ""
         },
         {
-          "question": "How many electrons does it take to fill the first electron shell of a carbon atom?",
+          "question": "How many electrons does it take to fill the <strong>first </strong>electron shell of a carbon atom?",
           "answers": [
             {
               "text": "4",
@@ -8983,7 +8983,7 @@
           "general_comment": "Good work!"
         },
         {
-          "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH-]?",
+          "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
           "answers": [
             {
               "text": "0.1 moles/liter",
@@ -9123,7 +9123,7 @@
           "general_comment": ""
         },
         {
-          "question": "With regards to orbitals, which of the following statements is FALSE?",
+          "question": "With regards to orbitals, which of the following statements is <strong><i>FALSE</i></strong>?<br><br>",
           "answers": [
             {
               "text": "An orbital is occupied by one or two electrons.",
@@ -9231,7 +9231,7 @@
           "general_comment": ""
         },
         {
-          "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 M (molar) solution of glucose?",
+          "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 <i>M</i> (molar) solution of glucose?",
           "answers": [
             {
               "text": "Dissolve 180 g of glucose in 0.8 L of water, and then add more water until the total volume of the solution is 1 L.",
@@ -9258,7 +9258,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H+]?",
+          "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H<sup>+</sup>]?",
           "answers": [
             {
               "text": "1.5 moles/liter",
@@ -9285,7 +9285,7 @@
           "general_comment": "Nice job!"
         },
         {
-          "question": "Which of the following statements about bases is FALSE?",
+          "question": "Which of the following statements about bases is <strong>FALSE</strong>?",
           "answers": [
             {
               "text": "Bases cause the concentration of hydroxide (OH-) anions to increase and the concentration of H+ cations to decrease.",
@@ -9361,7 +9361,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as",
+          "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980181/files/4145195/download?verifier=x4RxY6e5vpfq3yWAEQWvhGQKXf6t6uN6xsEDBKpx\" alt=\"\">",
           "answers": [
             {
               "text": "a carboxyl group",
@@ -9577,7 +9577,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as",
+          "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980177/files/4145192/download?verifier=xwmoPlfbzbCX18WrqAHF5J0W73rZQOsYdLpkQjZi\" alt=\"\"><br> <br>",
           "answers": [
             {
               "text": "a hydrocarbon group",
@@ -9604,7 +9604,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as -O-H",
+          "question": "The following functional group is known as<br> <br> -O-H",
           "answers": [
             {
               "text": "a hydroxyl group",
@@ -9636,7 +9636,7 @@
       "quiz_title": "SQ topic 3 level 1b (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
       "questions": [
         {
-          "question": "The following functional group is known as",
+          "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980180/files/4145194/download?verifier=SQyCHIG9nsAi2GmmuFw9BOE5bPino2w6GTGOQe8r\" alt=\"\">",
           "answers": [
             {
               "text": "a phosphorous group",
@@ -9690,7 +9690,7 @@
           "general_comment": ""
         },
         {
-          "question": "The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?",
+          "question": "<p>The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?</p> <p><img src=\"/assessment_questions/13311830/files/17370754/download?verifier=A9bYdeGtCdij3WyuNnYdr273StnEwTSqMgg2Fu3B\" alt=\"Chapter 4 questions 41, 42.jpg\" width=\"204\" height=\"119\"></p>",
           "answers": [
             {
               "text": "methyl and carboxyl",
@@ -9717,7 +9717,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as",
+          "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980181/files/4145195/download?verifier=x4RxY6e5vpfq3yWAEQWvhGQKXf6t6uN6xsEDBKpx\" alt=\"\">",
           "answers": [
             {
               "text": "a methyl group",
@@ -9744,7 +9744,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as",
+          "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980178/files/4145193/download?verifier=VrfI5ZVlUNwNzvMA3CuiHhwZAVsdBZr4kpwzH0ad\" alt=\"\">",
           "answers": [
             {
               "text": "an amino group",
@@ -9771,7 +9771,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the molecules listed below can form isomers? CH4 C3H8 C4H10",
+          "question": "<p>Which of the molecules listed below can form isomers?</p> CH<sub>4</sub> <br>C<sub>3</sub>H<sub>8</sub> <br>C<sub>4</sub>H<sub>10</sub>",
           "answers": [
             {
               "text": "None of them can form isomers.",
@@ -9798,7 +9798,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as -S-H",
+          "question": "The following functional group is known as<br> <br> -S-H",
           "answers": [
             {
               "text": "a sulfhydryl group",
@@ -9852,7 +9852,7 @@
           "general_comment": ""
         },
         {
-          "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+          "question": "<p>Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that</p> <p><img src=\"/assessment_questions/13311828/files/17370677/download?verifier=l7JJHCP9FHv2yuMwpTVcUV9uzvf0LEQqqKxIGWw5\" alt=\"Chapter 4 question 39.jpg\" width=\"278\" height=\"132\"></p>",
           "answers": [
             {
               "text": "are structural isomers.",
@@ -9938,7 +9938,7 @@
           "general_comment": ""
         },
         {
-          "question": "The central carbon in amino acids is asymmetric in all amino acids except:",
+          "question": "<p>The central carbon in amino acids is asymmetric in all amino acids except:</p> <p><img src=\"/assessment_questions/13311832/files/17370801/download?verifier=58SxQ7ghj1vnpDNzdVHHSYGlCpMaV6o1KL8OltCm\" alt=\"Chapter 4 questions 41, 42.jpg\" width=\"190\" height=\"111\"></p>",
           "answers": [
             {
               "text": "alanine (R = -CH3)",
@@ -9965,7 +9965,7 @@
           "general_comment": ""
         },
         {
-          "question": "The two molecules shown in the figure below are best described as",
+          "question": "The two molecules shown in the figure below are best described as<br><img src=\"/assessment_questions/3980155/files/4145179/download?verifier=s0qW8kzaTkKd7jzhnjkULutaI5WiJllPQ8PkfFdu\" alt=\"\">",
           "answers": [
             {
               "text": "Enantiomers",
@@ -9992,7 +9992,7 @@
           "general_comment": ""
         },
         {
-          "question": "The molecules shown below are best described as",
+          "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980168/files/4145187/download?verifier=oC4hC7ABQjKodGcUfwqbIC3mv3mYAi3xlnRKGm1G\" alt=\"\">",
           "answers": [
             {
               "text": "Isotopes",
@@ -10046,7 +10046,7 @@
           "general_comment": ""
         },
         {
-          "question": "The molecules shown below are best described as",
+          "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980165/files/4145184/download?verifier=MBCg9oKlLPfracP9sfxSLmN56QEeWnynWn9cQwbr\" alt=\"\">",
           "answers": [
             {
               "text": "Structural isomers",
@@ -10100,7 +10100,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as",
+          "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980177/files/4145192/download?verifier=xwmoPlfbzbCX18WrqAHF5J0W73rZQOsYdLpkQjZi\" alt=\"\"><br> <br>",
           "answers": [
             {
               "text": "a hydroxyl group",
@@ -10154,7 +10154,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as -O-H",
+          "question": "The following functional group is known as<br> <br> -O-H",
           "answers": [
             {
               "text": "a carboxyl group",
@@ -10213,7 +10213,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as",
+          "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980178/files/4145193/download?verifier=VrfI5ZVlUNwNzvMA3CuiHhwZAVsdBZr4kpwzH0ad\" alt=\"\">",
           "answers": [
             {
               "text": "an amide group",
@@ -10267,7 +10267,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as -S-H",
+          "question": "The following functional group is known as<br> <br> -S-H",
           "answers": [
             {
               "text": "a sulfate group",
@@ -10321,7 +10321,7 @@
           "general_comment": ""
         },
         {
-          "question": "Identify the asymmetric carbon in this molecule",
+          "question": "Identify the asymmetric carbon in this molecule<br><img src=\"/assessment_questions/3980190/files/4145198/download?verifier=EATZzOtu7KvwJdn0jmz5eQRaWJ8tirANjXxfe2N6\" alt=\"\">",
           "answers": [
             {
               "text": "It is the 3rd carbon from the left",
@@ -10348,7 +10348,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as",
+          "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980177/files/4145192/download?verifier=xwmoPlfbzbCX18WrqAHF5J0W73rZQOsYdLpkQjZi\" alt=\"\"><br> <br>",
           "answers": [
             {
               "text": "a carbonyl group",
@@ -10375,7 +10375,7 @@
           "general_comment": ""
         },
         {
-          "question": "The molecules shown below are best described as",
+          "question": "The molecules shown below are best described as<br> <br><img src=\"/assessment_questions/3980163/files/4145182/download?verifier=WkDZPKxauqWrv4DH8Ytj3PjPKCzs50UvPLNbdb3c\" alt=\"\">",
           "answers": [
             {
               "text": "Isotopes",
@@ -10402,7 +10402,7 @@
           "general_comment": ""
         },
         {
-          "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+          "question": "<p>Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that</p> <p><img src=\"/assessment_questions/13311828/files/17370677/download?verifier=l7JJHCP9FHv2yuMwpTVcUV9uzvf0LEQqqKxIGWw5\" alt=\"Chapter 4 question 39.jpg\" width=\"278\" height=\"132\"></p>",
           "answers": [
             {
               "text": "have identical three-dimensional shapes.",
@@ -10429,7 +10429,7 @@
           "general_comment": ""
         },
         {
-          "question": "The molecules shown below are best described as",
+          "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980165/files/4145184/download?verifier=MBCg9oKlLPfracP9sfxSLmN56QEeWnynWn9cQwbr\" alt=\"\">",
           "answers": [
             {
               "text": "Enantiomers",
@@ -10461,7 +10461,7 @@
       "quiz_title": "SQ topic 3 level 1c (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
       "questions": [
         {
-          "question": "The following functional group is known as",
+          "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980177/files/4145192/download?verifier=xwmoPlfbzbCX18WrqAHF5J0W73rZQOsYdLpkQjZi\" alt=\"\"><br> <br>",
           "answers": [
             {
               "text": "a carboxyl group",
@@ -10542,7 +10542,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as -O-H",
+          "question": "The following functional group is known as<br> <br> -O-H",
           "answers": [
             {
               "text": "a carboxyl group",
@@ -10596,7 +10596,7 @@
           "general_comment": ""
         },
         {
-          "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+          "question": "<p>Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that</p> <p><img src=\"/assessment_questions/13311828/files/17370677/download?verifier=l7JJHCP9FHv2yuMwpTVcUV9uzvf0LEQqqKxIGWw5\" alt=\"Chapter 4 question 39.jpg\" width=\"278\" height=\"132\"></p>",
           "answers": [
             {
               "text": "are structural isomers.",
@@ -10623,7 +10623,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following statements is FALSE?",
+          "question": "Which of the following statements is <strong>FALSE</strong>?",
           "answers": [
             {
               "text": "Amino groups tend to act as bases.",
@@ -10650,7 +10650,7 @@
           "general_comment": ""
         },
         {
-          "question": "The molecules shown below are best described as",
+          "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980168/files/4145187/download?verifier=oC4hC7ABQjKodGcUfwqbIC3mv3mYAi3xlnRKGm1G\" alt=\"\">",
           "answers": [
             {
               "text": "Enantiomers",
@@ -10704,7 +10704,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as",
+          "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980181/files/4145195/download?verifier=x4RxY6e5vpfq3yWAEQWvhGQKXf6t6uN6xsEDBKpx\" alt=\"\">",
           "answers": [
             {
               "text": "a carboxyl group",
@@ -10736,7 +10736,7 @@
       "quiz_title": "SQ topic 3 level 1d (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
       "questions": [
         {
-          "question": "The molecules shown below are best described as",
+          "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980165/files/4145184/download?verifier=MBCg9oKlLPfracP9sfxSLmN56QEeWnynWn9cQwbr\" alt=\"\">",
           "answers": [
             {
               "text": "Isotopes",
@@ -10763,7 +10763,7 @@
           "general_comment": ""
         },
         {
-          "question": "The molecules shown below are best described as",
+          "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980166/files/4145185/download?verifier=BI8FAc3udQpVPO6U3Ak4UUI4QkCX2VERZac5QEaG\" alt=\"\">",
           "answers": [
             {
               "text": "Isotopes",
@@ -10817,7 +10817,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as",
+          "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980181/files/4145195/download?verifier=x4RxY6e5vpfq3yWAEQWvhGQKXf6t6uN6xsEDBKpx\" alt=\"\">",
           "answers": [
             {
               "text": "a hydrocarbon group",
@@ -10871,7 +10871,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as",
+          "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980180/files/4145194/download?verifier=SQyCHIG9nsAi2GmmuFw9BOE5bPino2w6GTGOQe8r\" alt=\"\">",
           "answers": [
             {
               "text": "a phosphorous group",
@@ -10925,7 +10925,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as -S-H",
+          "question": "The following functional group is known as<br> <br> -S-H",
           "answers": [
             {
               "text": "a sulfhydryl group",
@@ -11038,7 +11038,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following statements is FALSE?",
+          "question": "Which of the following statements is <strong>FALSE</strong>?",
           "answers": [
             {
               "text": "Amino groups tend to act as bases.",
@@ -11065,7 +11065,7 @@
           "general_comment": ""
         },
         {
-          "question": "The molecules shown below are best described as",
+          "question": "The molecules shown below are best described as<br> <br><img src=\"/assessment_questions/3980164/files/4145183/download?verifier=6aIK6rYrPywuRcQdrZ1Xi0bRxZdZWO5jf9PUY042\" alt=\"\">",
           "answers": [
             {
               "text": "Isotopes",
@@ -11119,7 +11119,7 @@
           "general_comment": ""
         },
         {
-          "question": "The following functional group is known as -O-H",
+          "question": "The following functional group is known as<br> <br> -O-H",
           "answers": [
             {
               "text": "a water group",
@@ -11146,7 +11146,7 @@
           "general_comment": ""
         },
         {
-          "question": "The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?",
+          "question": "<p>The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?</p> <p><img src=\"/assessment_questions/13311830/files/17370754/download?verifier=A9bYdeGtCdij3WyuNnYdr273StnEwTSqMgg2Fu3B\" alt=\"Chapter 4 questions 41, 42.jpg\" width=\"204\" height=\"119\"></p>",
           "answers": [
             {
               "text": "amino and carboxyl",
@@ -11200,7 +11200,7 @@
           "general_comment": ""
         },
         {
-          "question": "Which of the following terms most accurately describes the shape of an ethylene molecule?",
+          "question": "Which of the following terms most accurately describes the shape of an ethylene molecule?<br><br><img src=\"/assessment_questions/3980160/files/4145181/download?verifier=63L1CLh5kmRWo3lEwKM4Ashnoe1zV1Ue93yWwnrw\" alt=\"\">",
           "answers": [
             {
               "text": "spherical",

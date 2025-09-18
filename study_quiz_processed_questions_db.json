@@ -3,7 +3,7 @@
     "quiz_title": "Quiz 1 (due Thursday, Sept. 11 at 11:59 PM): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "What should you call your professor?",
+        "question": "<p>What should you call your professor?</p>",
         "unique": true,
         "id": 1,
         "options": [
@@ -108,7 +108,7 @@
         ]
       },
       {
-        "question": "\"Brad has blown off going to his lab session four times. Chloe got covid and, due to having covid, missed four lab sections. Chloe has a note from her doctor stating that she was too sick to attend class during all four of the lab sessions that she missed.\" Assuming that both Brad and Chloe have done well on all the exams, quizzes, etc., who is on track to pass the course?",
+        "question": "<p><span>\"Brad has blown off going to his lab session four times. Chloe got covid and, due to having covid, missed four lab sections. Chloe has a note from her doctor stating that she was too sick to attend class during all four of the lab sessions that she missed.\"</span></p> <p><span>Assuming that both Brad and Chloe have done well on all the exams, quizzes, etc., who is on <span class=\"il\">track</span> to pass the course?</span></p>",
         "unique": true,
         "id": 6,
         "options": [
@@ -130,7 +130,7 @@
         ]
       },
       {
-        "question": "Scholastic dishonesty, such as cheating on exams or plagiarism, is not tolerated in this course. BIOL 1009 is a required course for almost all students taking it. This means that the information covered in the course is information students will likely need to be successful in their future careers. As a result, committing scholastic dishonesty in this course is not only dis-honorable, but is also likely to negatively impact students' future careers. Because scholastic dishonesty is not tolerated in this course, students found to have committed scholastic dishonesty, such as cheating on an exam:",
+        "question": "<p>Scholastic dishonesty, such as cheating on exams or plagiarism, is not tolerated in this course. BIOL 1009 is a required course for almost all students taking it. This means that the information covered in the course is information students will likely need to be successful in their future careers. As a result, committing scholastic dishonesty in this course is not only dis-honorable, but is also likely to negatively impact students' future careers.</p> <p>Because scholastic dishonesty is not tolerated in this course, students found to have committed scholastic dishonesty, such as cheating on an exam:</p>",
         "unique": true,
         "id": 7,
         "options": [
@@ -152,7 +152,7 @@
         ]
       },
       {
-        "question": "Which of the following statements is/are true? 1) The lecture part of the course will cover 25 different topics during the semester. To access the material for each of these topics, students should click on the topic on the homepage of the course Canvas site. In other words, to access the material for Topic 1, click where it says \"Topic 1\". 2) Students should complete the activities listed on the page for a particular topic by the date for that topic, shown near the end of the course syllabus.",
+        "question": "<p>Which of the following statements is/are true?</p> <p>1) The lecture part of the course will cover 25 different topics during the semester. To access the material for each of these topics, students should click on the topic on the homepage of the course Canvas site. In other words, to access the material for Topic 1, click where it says \"Topic 1\".</p> <p>2) Students should complete the activities listed on the page for a particular topic by the date for that topic, shown near the end of the course syllabus.</p>",
         "unique": true,
         "id": 8,
         "options": [
@@ -233,7 +233,7 @@
         ]
       },
       {
-        "question": "Is the professor teaching the course available in real time to help you with the course material?",
+        "question": "<p>Is the professor teaching the course available in real time to help you with the course material?</p>",
         "unique": true,
         "id": 11,
         "options": [
@@ -468,7 +468,7 @@
         ]
       },
       {
-        "question": "All exams must be taken in-person, on the day and time listed in the course syllabus. Valid excuses for a make-up exam are:",
+        "question": "<p>All exams must be taken in-person, on the day and time listed in the course syllabus. Valid excuses for a make-up exam are:</p>",
         "unique": true,
         "id": 21,
         "options": [
@@ -495,7 +495,7 @@
         ]
       },
       {
-        "question": "What resources are available on the course Canvas website?",
+        "question": "<p>What resources are available on the course Canvas website?</p>",
         "unique": true,
         "id": 22,
         "options": [
@@ -625,7 +625,7 @@
         ]
       },
       {
-        "question": "Each online quiz must be completed by a certain date.",
+        "question": "<p><span>Each online quiz must be completed by a certain date.</span></p>",
         "unique": true,
         "id": 26,
         "options": [
@@ -764,7 +764,7 @@
     "quiz_title": "Quiz 2 (due Thursday, Sept. 11 at 11:59 PM): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "MgCl2 is an example of",
+        "question": "MgCl<sub>2</sub> is an example of",
         "unique": true,
         "id": 29,
         "options": [
@@ -899,7 +899,7 @@
         ]
       },
       {
-        "question": "Pure water at room temperature has a concentration of 10-7 hydrogen ions (H+) and 10-7 hydroxyl ions (OH-). Why is this?",
+        "question": "Pure water at room temperature has a concentration of 10<sup>-7</sup> hydrogen ions (H<sup>+</sup>) and 10<sup>-7</sup> hydroxyl ions (OH<sup>-</sup>). Why is this?",
         "unique": true,
         "id": 34,
         "options": [
@@ -926,7 +926,7 @@
         ]
       },
       {
-        "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-8 M?",
+        "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-8 </sup>M?",
         "unique": true,
         "id": 35,
         "options": [
@@ -1007,7 +1007,7 @@
         ]
       },
       {
-        "question": "Discovery science",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
         "unique": true,
         "id": 38,
         "options": [
@@ -1061,7 +1061,7 @@
         ]
       },
       {
-        "question": "A hypothesis",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
         "unique": true,
         "id": 40,
         "options": [
@@ -1088,7 +1088,7 @@
         ]
       },
       {
-        "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
         "unique": true,
         "id": 41,
         "options": [
@@ -1142,7 +1142,7 @@
         ]
       },
       {
-        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
+        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-12 </sup>M?",
         "unique": true,
         "id": 43,
         "options": [
@@ -1169,7 +1169,7 @@
         ]
       },
       {
-        "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH-]?",
+        "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
         "unique": true,
         "id": 44,
         "options": [
@@ -1223,7 +1223,7 @@
         ]
       },
       {
-        "question": "A theory is",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
         "unique": true,
         "id": 46,
         "options": [
@@ -1250,7 +1250,7 @@
         ]
       },
       {
-        "question": "Qualitative data may be collected",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
         "unique": true,
         "id": 47,
         "options": [
@@ -1277,7 +1277,7 @@
         ]
       },
       {
-        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
         "unique": true,
         "id": 48,
         "options": [
@@ -1304,7 +1304,7 @@
         ]
       },
       {
-        "question": "Which of the following statements about valence shells is FALSE?",
+        "question": "Which of the following statements about valence shells is <strong>FALSE</strong>?",
         "unique": true,
         "id": 49,
         "options": [
@@ -1331,7 +1331,7 @@
         ]
       },
       {
-        "question": "Which of the following statements about chemical reactions is FALSE?",
+        "question": "Which of the following statements about chemical reactions is <strong>FALSE</strong>?",
         "unique": true,
         "id": 50,
         "options": [
@@ -1412,7 +1412,7 @@
         ]
       },
       {
-        "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+        "question": "<p class=\"NormalText\">Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that</p>",
         "unique": true,
         "id": 53,
         "options": [
@@ -1723,7 +1723,7 @@
         ]
       },
       {
-        "question": "All exams must be taken in-person, on the day and time listed in the course syllabus. Valid excuses for a make-up exam are:",
+        "question": "<p>All exams must be taken in-person, on the day and time listed in the course syllabus. Valid excuses for a make-up exam are:</p>",
         "unique": false,
         "id": 21,
         "options": [
@@ -1750,7 +1750,7 @@
         ]
       },
       {
-        "question": "Scholastic dishonesty, such as cheating on exams or plagiarism, is not tolerated in this course. BIOL 1009 is a required course for almost all students taking it. This means that the information covered in the course is information students will likely need to be successful in their future careers. As a result, committing scholastic dishonesty in this course is not only dis-honorable, but is also likely to negatively impact students' future careers. Because scholastic dishonesty is not tolerated in this course, students found to have committed scholastic dishonesty, such as cheating on an exam:",
+        "question": "<p>Scholastic dishonesty, such as cheating on exams or plagiarism, is not tolerated in this course. BIOL 1009 is a required course for almost all students taking it. This means that the information covered in the course is information students will likely need to be successful in their future careers. As a result, committing scholastic dishonesty in this course is not only dis-honorable, but is also likely to negatively impact students' future careers.</p> <p>Because scholastic dishonesty is not tolerated in this course, students found to have committed scholastic dishonesty, such as cheating on an exam:</p>",
         "unique": false,
         "id": 7,
         "options": [
@@ -1870,7 +1870,7 @@
         ]
       },
       {
-        "question": "Each online quiz must be completed by a certain date.",
+        "question": "<p><span>Each online quiz must be completed by a certain date.</span></p>",
         "unique": false,
         "id": 26,
         "options": [
@@ -1949,7 +1949,7 @@
         ]
       },
       {
-        "question": "What should you call your professor?",
+        "question": "<p>What should you call your professor?</p>",
         "unique": false,
         "id": 1,
         "options": [
@@ -1994,7 +1994,7 @@
         ]
       },
       {
-        "question": "Which of the following statements is/are true? 1) The lecture part of the course will cover 25 different topics during the semester. To access the material for each of these topics, students should click on the topic on the homepage of the course Canvas site. In other words, to access the material for Topic 1, click where it says \"Topic 1\". 2) Students should complete the activities listed on the page for a particular topic by the date for that topic, shown near the end of the course syllabus.",
+        "question": "<p>Which of the following statements is/are true?</p> <p>1) The lecture part of the course will cover 25 different topics during the semester. To access the material for each of these topics, students should click on the topic on the homepage of the course Canvas site. In other words, to access the material for Topic 1, click where it says \"Topic 1\".</p> <p>2) Students should complete the activities listed on the page for a particular topic by the date for that topic, shown near the end of the course syllabus.</p>",
         "unique": false,
         "id": 8,
         "options": [
@@ -2228,7 +2228,7 @@
     "quiz_title": "SQ topic 1a level 1d (course resources and policies): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "Is the professor teaching the course available in real time to help you with the course material?",
+        "question": "<p>Is the professor teaching the course available in real time to help you with the course material?</p>",
         "unique": false,
         "id": 11,
         "options": [
@@ -2424,7 +2424,7 @@
         ]
       },
       {
-        "question": "\"Brad has blown off going to his lab session four times. Chloe got covid and, due to having covid, missed four lab sections. Chloe has a note from her doctor stating that she was too sick to attend class during all four of the lab sessions that she missed.\" Assuming that both Brad and Chloe have done well on all the exams, quizzes, etc., who is on track to pass the course?",
+        "question": "<p><span>\"Brad has blown off going to his lab session four times. Chloe got covid and, due to having covid, missed four lab sections. Chloe has a note from her doctor stating that she was too sick to attend class during all four of the lab sessions that she missed.\"</span></p> <p><span>Assuming that both Brad and Chloe have done well on all the exams, quizzes, etc., who is on <span class=\"il\">track</span> to pass the course?</span></p>",
         "unique": false,
         "id": 6,
         "options": [
@@ -2446,7 +2446,7 @@
         ]
       },
       {
-        "question": "What resources are available on the course Canvas website?",
+        "question": "<p>What resources are available on the course Canvas website?</p>",
         "unique": false,
         "id": 22,
         "options": [
@@ -2663,7 +2663,7 @@
         ]
       },
       {
-        "question": "Each online quiz must be completed by a certain date.",
+        "question": "<p><span>Each online quiz must be completed by a certain date.</span></p>",
         "unique": false,
         "id": 26,
         "options": [
@@ -2717,7 +2717,7 @@
         ]
       },
       {
-        "question": "What resources are available on the course Canvas website?",
+        "question": "<p>What resources are available on the course Canvas website?</p>",
         "unique": false,
         "id": 22,
         "options": [
@@ -2750,7 +2750,7 @@
     "quiz_title": "SQ topic 1b level 1a (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "What are two methods of scientific inquiry?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
         "unique": true,
         "id": 54,
         "options": [
@@ -2777,7 +2777,7 @@
         ]
       },
       {
-        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
         "unique": true,
         "id": 55,
         "options": [
@@ -2804,7 +2804,7 @@
         ]
       },
       {
-        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
         "unique": false,
         "id": 48,
         "options": [
@@ -2831,7 +2831,7 @@
         ]
       },
       {
-        "question": "Which of the following is NOT an example of discovery science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is <b>NOT</b> an example of discovery science?</span><br>",
         "unique": true,
         "id": 56,
         "options": [
@@ -2858,7 +2858,7 @@
         ]
       },
       {
-        "question": "A theory is",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
         "unique": false,
         "id": 46,
         "options": [
@@ -2885,7 +2885,7 @@
         ]
       },
       {
-        "question": "In science, a “theory”",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a “theory”</span><br>",
         "unique": true,
         "id": 57,
         "options": [
@@ -2939,7 +2939,7 @@
         ]
       },
       {
-        "question": "What types of data may be collected when doing discovery science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
         "unique": true,
         "id": 59,
         "options": [
@@ -2966,7 +2966,7 @@
         ]
       },
       {
-        "question": "Discovery science",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
         "unique": false,
         "id": 38,
         "options": [
@@ -2993,7 +2993,7 @@
         ]
       },
       {
-        "question": "In science, a possible answer to a specific question is know as a",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a possible answer to a specific question is know as a</span><br>",
         "unique": true,
         "id": 60,
         "options": [
@@ -3026,7 +3026,7 @@
     "quiz_title": "SQ topic 1b level 1b (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
         "unique": false,
         "id": 55,
         "options": [
@@ -3053,7 +3053,7 @@
         ]
       },
       {
-        "question": "What types of data may be collected when doing hypothesis-based science?",
+        "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
         "unique": true,
         "id": 61,
         "options": [
@@ -3080,7 +3080,7 @@
         ]
       },
       {
-        "question": "What types of data may be collected when doing discovery science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
         "unique": false,
         "id": 59,
         "options": [
@@ -3107,7 +3107,7 @@
         ]
       },
       {
-        "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as</span>",
         "unique": true,
         "id": 62,
         "options": [
@@ -3134,7 +3134,7 @@
         ]
       },
       {
-        "question": "Which of the following is an example of qualitative data?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
         "unique": true,
         "id": 63,
         "options": [
@@ -3161,7 +3161,7 @@
         ]
       },
       {
-        "question": "Which of the following best describes the logic of hypothesis-based science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
         "unique": true,
         "id": 64,
         "options": [
@@ -3215,7 +3215,7 @@
         ]
       },
       {
-        "question": "Qualitative data may be collected",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
         "unique": false,
         "id": 47,
         "options": [
@@ -3269,9 +3269,9 @@
         ]
       },
       {
-        "question": "A hypothesis",
-        "unique": false,
-        "id": 40,
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
+        "unique": true,
+        "id": 66,
         "options": [
           {
             "text": "is a prediction scientists make based on many careful observations",
@@ -3296,13 +3296,13 @@
         ]
       }
     ],
-    "unique_questions": 5
+    "unique_questions": 6
   },
   {
     "quiz_title": "SQ topic 1b level 1c (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "Which of the following is NOT an example of discovery science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is <b>NOT</b> an example of discovery science?</span><br>",
         "unique": false,
         "id": 56,
         "options": [
@@ -3329,7 +3329,7 @@
         ]
       },
       {
-        "question": "What types of data may be collected when doing hypothesis-based science?",
+        "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
         "unique": false,
         "id": 61,
         "options": [
@@ -3356,9 +3356,9 @@
         ]
       },
       {
-        "question": "Which of the following is an example of qualitative data?",
-        "unique": false,
-        "id": 63,
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data? </span><br>",
+        "unique": true,
+        "id": 67,
         "options": [
           {
             "text": "Records of precise water temperature",
@@ -3383,7 +3383,7 @@
         ]
       },
       {
-        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
         "unique": false,
         "id": 55,
         "options": [
@@ -3410,7 +3410,7 @@
         ]
       },
       {
-        "question": "What types of data may be collected when doing discovery science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
         "unique": false,
         "id": 59,
         "options": [
@@ -3437,7 +3437,7 @@
         ]
       },
       {
-        "question": "Which of the following is an example of qualitative data?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
         "unique": false,
         "id": 63,
         "options": [
@@ -3464,7 +3464,7 @@
         ]
       },
       {
-        "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
         "unique": false,
         "id": 41,
         "options": [
@@ -3491,9 +3491,9 @@
         ]
       },
       {
-        "question": "Which of the following is an example of quantitative data?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of quantitative data? </span><br>",
         "unique": true,
-        "id": 66,
+        "id": 68,
         "options": [
           {
             "text": "Records of plant weights",
@@ -3518,7 +3518,7 @@
         ]
       },
       {
-        "question": "Qualitative data may be collected",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
         "unique": false,
         "id": 47,
         "options": [
@@ -3545,7 +3545,7 @@
         ]
       },
       {
-        "question": "Which of the following best describes the logic of hypothesis-based science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
         "unique": false,
         "id": 64,
         "options": [
@@ -3572,15 +3572,15 @@
         ]
       }
     ],
-    "unique_questions": 1
+    "unique_questions": 2
   },
   {
     "quiz_title": "SQ topic 1b level 1d (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "A hypothesis",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
         "unique": false,
-        "id": 40,
+        "id": 66,
         "options": [
           {
             "text": "is a prediction scientists make based on many careful observations",
@@ -3605,7 +3605,7 @@
         ]
       },
       {
-        "question": "In science, a possible answer to a specific question is know as a",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a possible answer to a specific question is know as a</span><br>",
         "unique": false,
         "id": 60,
         "options": [
@@ -3632,7 +3632,7 @@
         ]
       },
       {
-        "question": "What are two methods of scientific inquiry?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
         "unique": false,
         "id": 54,
         "options": [
@@ -3659,7 +3659,7 @@
         ]
       },
       {
-        "question": "A hypothesis",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
         "unique": false,
         "id": 40,
         "options": [
@@ -3686,7 +3686,7 @@
         ]
       },
       {
-        "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
         "unique": false,
         "id": 41,
         "options": [
@@ -3713,7 +3713,7 @@
         ]
       },
       {
-        "question": "In science, a “theory”",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a “theory”</span><br>",
         "unique": false,
         "id": 57,
         "options": [
@@ -3740,7 +3740,7 @@
         ]
       },
       {
-        "question": "Which of the following is an example of qualitative data?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
         "unique": false,
         "id": 63,
         "options": [
@@ -3767,7 +3767,7 @@
         ]
       },
       {
-        "question": "A theory is",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
         "unique": false,
         "id": 46,
         "options": [
@@ -3794,7 +3794,7 @@
         ]
       },
       {
-        "question": "Which of the following best describes the logic of hypothesis-based science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
         "unique": false,
         "id": 64,
         "options": [
@@ -3821,7 +3821,7 @@
         ]
       },
       {
-        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
         "unique": false,
         "id": 55,
         "options": [
@@ -3854,9 +3854,9 @@
     "quiz_title": "SQ topic 1b level 2 (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "Which of the following statements about hypotheses is FALSE?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements about hypotheses is <b>FALSE</b>?</span><br>",
         "unique": true,
-        "id": 67,
+        "id": 69,
         "options": [
           {
             "text": "Hypotheses should be possible answers to specific questions.",
@@ -3881,7 +3881,7 @@
         ]
       },
       {
-        "question": "What types of data may be collected when doing discovery science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
         "unique": false,
         "id": 59,
         "options": [
@@ -3908,7 +3908,7 @@
         ]
       },
       {
-        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
         "unique": false,
         "id": 48,
         "options": [
@@ -3935,7 +3935,7 @@
         ]
       },
       {
-        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
         "unique": false,
         "id": 55,
         "options": [
@@ -3962,7 +3962,7 @@
         ]
       },
       {
-        "question": "What are two methods of scientific inquiry?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
         "unique": false,
         "id": 54,
         "options": [
@@ -3989,9 +3989,9 @@
         ]
       },
       {
-        "question": "Through careful experimentation or observations, it is possible to prove",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Through careful experimentation or observations, it is possible to prove</span><br>",
         "unique": true,
-        "id": 68,
+        "id": 70,
         "options": [
           {
             "text": "a theory, but not a hypothesis",
@@ -4016,7 +4016,7 @@
         ]
       },
       {
-        "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
         "unique": false,
         "id": 41,
         "options": [
@@ -4043,7 +4043,7 @@
         ]
       },
       {
-        "question": "Qualitative data may be collected",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
         "unique": false,
         "id": 47,
         "options": [
@@ -4070,7 +4070,7 @@
         ]
       },
       {
-        "question": "Which of the following best describes the logic of hypothesis-based science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
         "unique": false,
         "id": 64,
         "options": [
@@ -4097,9 +4097,9 @@
         ]
       },
       {
-        "question": "Which of the following is an example of quantitative data?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of quantitative data? </span><br>",
         "unique": false,
-        "id": 66,
+        "id": 68,
         "options": [
           {
             "text": "Records of which beers taste bitter",
@@ -4130,7 +4130,7 @@
     "quiz_title": "SQ topic 1b level 2 (Chapter 1)",
     "questions": [
       {
-        "question": "Which of the following is an example of qualitative data?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
         "unique": false,
         "id": 63,
         "options": [
@@ -4157,7 +4157,7 @@
         ]
       },
       {
-        "question": "What types of data may be collected when doing hypothesis-based science?",
+        "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
         "unique": false,
         "id": 61,
         "options": [
@@ -4184,7 +4184,7 @@
         ]
       },
       {
-        "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as</span>",
         "unique": false,
         "id": 62,
         "options": [
@@ -4211,7 +4211,7 @@
         ]
       },
       {
-        "question": "A hypothesis",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
         "unique": false,
         "id": 40,
         "options": [
@@ -4238,9 +4238,9 @@
         ]
       },
       {
-        "question": "Which of the following is an example of quantitative data?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of quantitative data? </span><br>",
         "unique": false,
-        "id": 66,
+        "id": 68,
         "options": [
           {
             "text": "Records of plant weights",
@@ -4265,7 +4265,7 @@
         ]
       },
       {
-        "question": "Discovery science",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
         "unique": false,
         "id": 38,
         "options": [
@@ -4292,7 +4292,7 @@
         ]
       },
       {
-        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
         "unique": false,
         "id": 48,
         "options": [
@@ -4319,7 +4319,7 @@
         ]
       },
       {
-        "question": "Qualitative data may be collected",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Qualitative data may be collected</span>",
         "unique": false,
         "id": 47,
         "options": [
@@ -4346,9 +4346,9 @@
         ]
       },
       {
-        "question": "A hypothesis",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
         "unique": false,
-        "id": 40,
+        "id": 66,
         "options": [
           {
             "text": "is a prediction scientists make based on many careful observations",
@@ -4373,7 +4373,7 @@
         ]
       },
       {
-        "question": "What are two methods of scientific inquiry?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
         "unique": false,
         "id": 54,
         "options": [
@@ -4406,7 +4406,7 @@
     "quiz_title": "SQ topic 1b level 2 (Chapter 1)_2",
     "questions": [
       {
-        "question": "A hypothesis",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
         "unique": false,
         "id": 40,
         "options": [
@@ -4433,9 +4433,9 @@
         ]
       },
       {
-        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
         "unique": true,
-        "id": 69,
+        "id": 71,
         "options": [
           {
             "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
@@ -4460,7 +4460,7 @@
         ]
       },
       {
-        "question": "In science, a possible answer to a specific question is know as a",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a possible answer to a specific question is know as a</span><br>",
         "unique": false,
         "id": 60,
         "options": [
@@ -4514,7 +4514,7 @@
         ]
       },
       {
-        "question": "In science, a “theory”",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a “theory”</span><br>",
         "unique": false,
         "id": 57,
         "options": [
@@ -4541,7 +4541,7 @@
         ]
       },
       {
-        "question": "Which of the following is an example of qualitative data?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
         "unique": false,
         "id": 63,
         "options": [
@@ -4568,7 +4568,7 @@
         ]
       },
       {
-        "question": "A theory is",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
         "unique": false,
         "id": 46,
         "options": [
@@ -4622,7 +4622,7 @@
         ]
       },
       {
-        "question": "Discovery science",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
         "unique": false,
         "id": 38,
         "options": [
@@ -4649,7 +4649,7 @@
         ]
       },
       {
-        "question": "What types of data may be collected when doing hypothesis-based science?",
+        "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
         "unique": false,
         "id": 61,
         "options": [
@@ -4682,7 +4682,7 @@
     "quiz_title": "SQ topic 1b level 2 (Chapter 1)_3",
     "questions": [
       {
-        "question": "Which of the following best describes the logic of hypothesis-based science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
         "unique": false,
         "id": 64,
         "options": [
@@ -4709,9 +4709,9 @@
         ]
       },
       {
-        "question": "Which of the following statements about hypotheses is FALSE?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements about hypotheses is <b>FALSE</b>?</span><br>",
         "unique": false,
-        "id": 67,
+        "id": 69,
         "options": [
           {
             "text": "Hypotheses should be falsifiable.",
@@ -4736,7 +4736,7 @@
         ]
       },
       {
-        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
         "unique": false,
         "id": 48,
         "options": [
@@ -4790,9 +4790,9 @@
         ]
       },
       {
-        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
         "unique": false,
-        "id": 69,
+        "id": 71,
         "options": [
           {
             "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
@@ -4817,7 +4817,7 @@
         ]
       },
       {
-        "question": "A hypothesis",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
         "unique": false,
         "id": 40,
         "options": [
@@ -4844,7 +4844,7 @@
         ]
       },
       {
-        "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as</span>",
         "unique": false,
         "id": 62,
         "options": [
@@ -4871,7 +4871,7 @@
         ]
       },
       {
-        "question": "What types of data may be collected when doing hypothesis-based science?",
+        "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
         "unique": false,
         "id": 61,
         "options": [
@@ -4898,7 +4898,7 @@
         ]
       },
       {
-        "question": "In science, a possible answer to a specific question is know as a",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">In science, a possible answer to a specific question is know as a</span><br>",
         "unique": false,
         "id": 60,
         "options": [
@@ -4925,7 +4925,7 @@
         ]
       },
       {
-        "question": "Which of the following is an example of qualitative data?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is an example of qualitative data?</span><br>",
         "unique": false,
         "id": 63,
         "options": [
@@ -4958,7 +4958,7 @@
     "quiz_title": "SQ topic 1b level 2 (Chapter 1)_4",
     "questions": [
       {
-        "question": "What are two methods of scientific inquiry?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What are two methods of scientific inquiry?</span><br>",
         "unique": false,
         "id": 54,
         "options": [
@@ -4985,7 +4985,7 @@
         ]
       },
       {
-        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as</span><br>",
         "unique": false,
         "id": 48,
         "options": [
@@ -5012,7 +5012,7 @@
         ]
       },
       {
-        "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that</span>",
         "unique": false,
         "id": 41,
         "options": [
@@ -5039,9 +5039,9 @@
         ]
       },
       {
-        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
         "unique": false,
-        "id": 69,
+        "id": 71,
         "options": [
           {
             "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
@@ -5066,9 +5066,9 @@
         ]
       },
       {
-        "question": "A hypothesis",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
         "unique": false,
-        "id": 40,
+        "id": 66,
         "options": [
           {
             "text": "is the same thing as a theory",
@@ -5093,7 +5093,7 @@
         ]
       },
       {
-        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
         "unique": false,
         "id": 55,
         "options": [
@@ -5120,7 +5120,7 @@
         ]
       },
       {
-        "question": "What types of data may be collected when doing discovery science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
         "unique": false,
         "id": 59,
         "options": [
@@ -5147,9 +5147,9 @@
         ]
       },
       {
-        "question": "Through careful experimentation or observations, it is possible to prove",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Through careful experimentation or observations, it is possible to prove</span><br>",
         "unique": false,
-        "id": 68,
+        "id": 70,
         "options": [
           {
             "text": "neither a hypothesis nor a theory",
@@ -5174,7 +5174,7 @@
         ]
       },
       {
-        "question": "What types of data may be collected when doing hypothesis-based science?",
+        "question": "<p></p> <p>What types of data may be collected when doing hypothesis-based science?</p>",
         "unique": false,
         "id": 61,
         "options": [
@@ -5201,7 +5201,7 @@
         ]
       },
       {
-        "question": "A theory is",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
         "unique": false,
         "id": 46,
         "options": [
@@ -5261,9 +5261,9 @@
         ]
       },
       {
-        "question": "A hypothesis",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span>",
         "unique": false,
-        "id": 40,
+        "id": 66,
         "options": [
           {
             "text": "is a tentative answer to a question",
@@ -5288,7 +5288,7 @@
         ]
       },
       {
-        "question": "What types of data may be collected when doing discovery science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">What types of data may be collected when doing discovery science?</span><br>",
         "unique": false,
         "id": 59,
         "options": [
@@ -5315,7 +5315,7 @@
         ]
       },
       {
-        "question": "Discovery science",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
         "unique": false,
         "id": 38,
         "options": [
@@ -5342,7 +5342,7 @@
         ]
       },
       {
-        "question": "Which of the following best describes the logic of hypothesis-based science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following best describes the logic of hypothesis-based science?</span>",
         "unique": false,
         "id": 64,
         "options": [
@@ -5396,7 +5396,7 @@
         ]
       },
       {
-        "question": "A theory is",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
         "unique": false,
         "id": 46,
         "options": [
@@ -5450,9 +5450,9 @@
         ]
       },
       {
-        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
         "unique": false,
-        "id": 69,
+        "id": 71,
         "options": [
           {
             "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
@@ -5477,7 +5477,7 @@
         ]
       },
       {
-        "question": "Which of the following is NOT an example of discovery science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is <b>NOT</b> an example of discovery science?</span><br>",
         "unique": false,
         "id": 56,
         "options": [
@@ -5510,9 +5510,9 @@
     "quiz_title": "SQ topic 1b level 2 (Chapter 1)_6",
     "questions": [
       {
-        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements best distinguishes hypotheses from theories in science?</span>",
         "unique": false,
-        "id": 69,
+        "id": 71,
         "options": [
           {
             "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
@@ -5537,7 +5537,7 @@
         ]
       },
       {
-        "question": "Discovery science",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Discovery science</span><br>",
         "unique": false,
         "id": 38,
         "options": [
@@ -5591,7 +5591,7 @@
         ]
       },
       {
-        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">An explanation that is broad in scope and is supported by a large body of evidence is known in science as a</span><br>",
         "unique": false,
         "id": 55,
         "options": [
@@ -5618,9 +5618,9 @@
         ]
       },
       {
-        "question": "Through careful experimentation or observations, it is possible to prove",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Through careful experimentation or observations, it is possible to prove</span><br>",
         "unique": false,
-        "id": 68,
+        "id": 70,
         "options": [
           {
             "text": "neither a hypothesis nor a theory",
@@ -5645,9 +5645,9 @@
         ]
       },
       {
-        "question": "Which of the following statements about hypotheses is FALSE?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following statements about hypotheses is <b>FALSE</b>?</span><br>",
         "unique": false,
-        "id": 67,
+        "id": 69,
         "options": [
           {
             "text": "Hypotheses should be possible answers to specific questions.",
@@ -5699,7 +5699,7 @@
         ]
       },
       {
-        "question": "Which of the following is NOT an example of discovery science?",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">Which of the following is <b>NOT</b> an example of discovery science?</span><br>",
         "unique": false,
         "id": 56,
         "options": [
@@ -5726,7 +5726,7 @@
         ]
       },
       {
-        "question": "A theory is",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A theory is</span>",
         "unique": false,
         "id": 46,
         "options": [
@@ -5753,7 +5753,7 @@
         ]
       },
       {
-        "question": "A hypothesis",
+        "question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">A hypothesis</span><br>",
         "unique": false,
         "id": 40,
         "options": [
@@ -5788,7 +5788,7 @@
       {
         "question": "How many electrons do hydrogen atoms have in their valence shell?",
         "unique": true,
-        "id": 70,
+        "id": 72,
         "options": [
           {
             "text": "4",
@@ -5815,7 +5815,7 @@
       {
         "question": "The order of chemical bonds from strongest to weakest is",
         "unique": true,
-        "id": 71,
+        "id": 73,
         "options": [
           {
             "text": "ionic bonds, covalent bonds, hydrogen bonds, van der Waals interactions",
@@ -5867,9 +5867,9 @@
         ]
       },
       {
-        "question": "If you make a model of a methane (CH4) molecule, the overall shape of the molecule will most closely resemble",
+        "question": "If you make a model of a methane (CH<sub>4</sub>) molecule, the overall shape of the molecule will most closely resemble",
         "unique": true,
-        "id": 72,
+        "id": 74,
         "options": [
           {
             "text": "a square",
@@ -5896,7 +5896,7 @@
       {
         "question": "Water is an example of",
         "unique": true,
-        "id": 73,
+        "id": 75,
         "options": [
           {
             "text": "neither a compound nor a molecule",
@@ -5921,9 +5921,9 @@
         ]
       },
       {
-        "question": "What is the maximum number of electrons in the 1s orbital of an atom?",
+        "question": "What is the maximum number of electrons in the 1<i>s</i> orbital of an atom?",
         "unique": true,
-        "id": 74,
+        "id": 76,
         "options": [
           {
             "text": "2.",
@@ -5977,7 +5977,7 @@
       {
         "question": "Which of the following statements about moles is true?",
         "unique": true,
-        "id": 75,
+        "id": 77,
         "options": [
           {
             "text": "One mole of hydrogen atoms weighs 1 g",
@@ -6002,9 +6002,9 @@
         ]
       },
       {
-        "question": "What is the pH of a solution with a hydroxyl ion [OH-] concentration of 10-4.5 M?",
+        "question": "What is the pH of a solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-4.5 </sup>M?",
         "unique": true,
-        "id": 76,
+        "id": 78,
         "options": [
           {
             "text": "pH 2",
@@ -6029,7 +6029,7 @@
         ]
       },
       {
-        "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH-]?",
+        "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
         "unique": false,
         "id": 44,
         "options": [
@@ -6064,7 +6064,7 @@
       {
         "question": "How many covalent bonds do nitrogen atoms need to form with other atoms to complete their valence shell?",
         "unique": true,
-        "id": 77,
+        "id": 79,
         "options": [
           {
             "text": "4",
@@ -6089,7 +6089,7 @@
         ]
       },
       {
-        "question": "MgCl2 is an example of",
+        "question": "MgCl<sub>2</sub> is an example of",
         "unique": false,
         "id": 29,
         "options": [
@@ -6116,7 +6116,7 @@
         ]
       },
       {
-        "question": "Which of the following statements about valence shells is FALSE?",
+        "question": "Which of the following statements about valence shells is <strong>FALSE</strong>?",
         "unique": false,
         "id": 49,
         "options": [
@@ -6145,7 +6145,7 @@
       {
         "question": "The reactivity of an atom arises from",
         "unique": true,
-        "id": 78,
+        "id": 80,
         "options": [
           {
             "text": "the difference in the potential energy of the valence and non-valence electron shells",
@@ -6172,7 +6172,7 @@
       {
         "question": "Sodium is an example of",
         "unique": true,
-        "id": 79,
+        "id": 81,
         "options": [
           {
             "text": "an element",
@@ -6199,7 +6199,7 @@
       {
         "question": "Which of the following statements regarding atomic particles is correct?",
         "unique": true,
-        "id": 80,
+        "id": 82,
         "options": [
           {
             "text": "Electrons are negatively charged, protons are neutral and neutrons are neutral.",
@@ -6224,9 +6224,9 @@
         ]
       },
       {
-        "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH-]?",
+        "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
         "unique": true,
-        "id": 81,
+        "id": 83,
         "options": [
           {
             "text": "13 moles/liter",
@@ -6253,7 +6253,7 @@
       {
         "question": "The bonds that are broken when water vaporizes are",
         "unique": true,
-        "id": 82,
+        "id": 84,
         "options": [
           {
             "text": "nonpolar covalent bonds",
@@ -6278,9 +6278,9 @@
         ]
       },
       {
-        "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-1.5 M?",
+        "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-1.5 </sup>M?",
         "unique": true,
-        "id": 83,
+        "id": 85,
         "options": [
           {
             "text": "pH 4",
@@ -6305,7 +6305,7 @@
         ]
       },
       {
-        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
+        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-12 </sup>M?",
         "unique": false,
         "id": 43,
         "options": [
@@ -6340,7 +6340,7 @@
       {
         "question": "Which of the following results from a transfer of electron(s) between atoms?",
         "unique": true,
-        "id": 84,
+        "id": 86,
         "options": [
           {
             "text": "a hydrogen bond",
@@ -6367,7 +6367,7 @@
       {
         "question": "The number of electrons needed to fill the different electron shells is",
         "unique": true,
-        "id": 85,
+        "id": 87,
         "options": [
           {
             "text": "2 in the 1st shel and, 8 in the 2nd shell",
@@ -6394,7 +6394,7 @@
       {
         "question": "The valence shell of an atom",
         "unique": true,
-        "id": 86,
+        "id": 88,
         "options": [
           {
             "text": "is always the lowest energy shell the atom has",
@@ -6421,7 +6421,7 @@
       {
         "question": "How many electrons do hydrogen atoms have in their valence shell?",
         "unique": false,
-        "id": 70,
+        "id": 72,
         "options": [
           {
             "text": "4",
@@ -6448,7 +6448,7 @@
       {
         "question": "Sodium is an example of",
         "unique": false,
-        "id": 79,
+        "id": 81,
         "options": [
           {
             "text": "an element",
@@ -6475,7 +6475,7 @@
       {
         "question": "The order of chemical bonds from strongest to weakest is",
         "unique": false,
-        "id": 71,
+        "id": 73,
         "options": [
           {
             "text": "ionic bonds, covalent bonds, hydrogen bonds, van der Waals interactions",
@@ -6502,7 +6502,7 @@
       {
         "question": "What gives rise to the cohesiveness of water molecules?",
         "unique": true,
-        "id": 87,
+        "id": 89,
         "options": [
           {
             "text": "Nonpolar covalent bonds",
@@ -6529,7 +6529,7 @@
       {
         "question": "If the pH of a solution is decreased from 9 to 8, it means that the",
         "unique": true,
-        "id": 88,
+        "id": 90,
         "options": [
           {
             "text": "concentration of H+ has increased tenfold (10X) compared to what it was at pH 9.",
@@ -6581,7 +6581,7 @@
         ]
       },
       {
-        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
+        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-12 </sup>M?",
         "unique": false,
         "id": 43,
         "options": [
@@ -6616,7 +6616,7 @@
       {
         "question": "If the pH of a solution is decreased from 9 to 8, it means that the",
         "unique": false,
-        "id": 88,
+        "id": 90,
         "options": [
           {
             "text": "the concentration of both OH- and H+ increased tenfold (10X) compared to what they were at pH 9",
@@ -6643,7 +6643,7 @@
       {
         "question": "What causes water molecules to be polar molecules?",
         "unique": true,
-        "id": 89,
+        "id": 91,
         "options": [
           {
             "text": "Oxygen is less electronegative than hydrogen.",
@@ -6695,9 +6695,9 @@
         ]
       },
       {
-        "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
+        "question": "A mole of water (H<sub>2</sub>O) molecules and a mole of glucose molecules (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)",
         "unique": true,
-        "id": 90,
+        "id": 92,
         "options": [
           {
             "text": "have an equal number of molecules",
@@ -6724,7 +6724,7 @@
       {
         "question": "Which of the following represents a polar bond?",
         "unique": true,
-        "id": 91,
+        "id": 93,
         "options": [
           {
             "text": "C-H",
@@ -6751,7 +6751,7 @@
       {
         "question": "When a sodium atom and a chlorine atom interact to complete their valence shells",
         "unique": true,
-        "id": 92,
+        "id": 94,
         "options": [
           {
             "text": "an electron is transferred from sodium to chlorine, turning the sodium atom into a cation and the chlorine atom into an anion and allowing the two atoms to form an ionic bond",
@@ -6776,9 +6776,9 @@
         ]
       },
       {
-        "question": "Why does the structure shown below fail to make sense chemically?H-C=C-H",
+        "question": "Why does the structure shown below fail to make sense chemically?<br><br>H-C=C-H",
         "unique": true,
-        "id": 93,
+        "id": 95,
         "options": [
           {
             "text": "Each hydrogen atom only has 1 covalent bond.",
@@ -6805,7 +6805,7 @@
       {
         "question": "Which of the following is not a compound?",
         "unique": true,
-        "id": 94,
+        "id": 96,
         "options": [
           {
             "text": "H2O",
@@ -6832,7 +6832,7 @@
       {
         "question": "The order of chemical bonds from strongest to weakest is",
         "unique": false,
-        "id": 71,
+        "id": 73,
         "options": [
           {
             "text": "covalent bonds, ionic bonds, hydrogen bonds, van der Waals interactions",
@@ -6892,7 +6892,7 @@
       {
         "question": "Which of the following do NOT comprise a significant fraction of the human body?",
         "unique": true,
-        "id": 95,
+        "id": 97,
         "options": [
           {
             "text": "hydrogen",
@@ -6917,9 +6917,9 @@
         ]
       },
       {
-        "question": "What is the maximum number of electrons in the 1s orbital of an atom?",
+        "question": "What is the maximum number of electrons in the 1<i>s</i> orbital of an atom?",
         "unique": false,
-        "id": 74,
+        "id": 76,
         "options": [
           {
             "text": "1.",
@@ -6946,7 +6946,7 @@
       {
         "question": "The further on average an electron is from the nucleus",
         "unique": true,
-        "id": 96,
+        "id": 98,
         "options": [
           {
             "text": "the greater its potential energy",
@@ -6971,9 +6971,9 @@
         ]
       },
       {
-        "question": "With regards to orbitals, which of the following statements is FALSE?",
+        "question": "With regards to orbitals, which of the following statements is <strong><i>FALSE</i></strong>?<br><br>",
         "unique": true,
-        "id": 97,
+        "id": 99,
         "options": [
           {
             "text": "An orbital is occupied by one or two electrons.",
@@ -7000,7 +7000,7 @@
       {
         "question": "The valence shell of an atom",
         "unique": false,
-        "id": 86,
+        "id": 88,
         "options": [
           {
             "text": "may correspond to the first, second, third, fourth, fifth, sixth or seventh electron shells, depending on how many electrons the atom has",
@@ -7027,7 +7027,7 @@
       {
         "question": "The order of chemical bonds from easiest to hardest to break is",
         "unique": true,
-        "id": 98,
+        "id": 100,
         "options": [
           {
             "text": "ionic bonds, covalent bonds, hydrogen bonds, van der Waals interactions",
@@ -7052,9 +7052,9 @@
         ]
       },
       {
-        "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 M (molar) solution of glucose?",
+        "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 <i>M</i> (molar) solution of glucose?",
         "unique": true,
-        "id": 99,
+        "id": 101,
         "options": [
           {
             "text": "Dissolve 1 g of glucose in 1 L of water.",
@@ -7079,9 +7079,9 @@
         ]
       },
       {
-        "question": "What is the pH of a solution with a hydroxyl ion [OH-] concentration of 10-4 M?",
+        "question": "What is the pH of a solution with a hydroxyl ion [OH<sup>-</sup>] concentration of 10<sup>-4 </sup>M?",
         "unique": true,
-        "id": 100,
+        "id": 102,
         "options": [
           {
             "text": "pH 2",
@@ -7108,7 +7108,7 @@
       {
         "question": "In humans, blood pH is around 7.4, and a decrease in blood pH to 6.4 would be fatal. A drop by 1 pH unit represents which of the following?",
         "unique": true,
-        "id": 101,
+        "id": 103,
         "options": [
           {
             "text": "ten times as many H+ ions in the solution",
@@ -7133,9 +7133,9 @@
         ]
       },
       {
-        "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
+        "question": "A mole of water (H<sub>2</sub>O) molecules and a mole of glucose molecules (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)",
         "unique": false,
-        "id": 90,
+        "id": 92,
         "options": [
           {
             "text": "have an equal number of atoms",
@@ -7166,9 +7166,9 @@
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_2",
     "questions": [
       {
-        "question": "The number of electron orbitals in the different electron shells is",
+        "question": "The number of electron <strong>orbitals</strong> in the different electron shells is",
         "unique": true,
-        "id": 102,
+        "id": 104,
         "options": [
           {
             "text": "2 in the 1st shell and 4 in the second shell",
@@ -7195,7 +7195,7 @@
       {
         "question": "How many covalent bonds do carbon atoms need to form with other atoms to complete their valence shell?",
         "unique": true,
-        "id": 103,
+        "id": 105,
         "options": [
           {
             "text": "4",
@@ -7222,7 +7222,7 @@
       {
         "question": "The lowest energy mechanism by which a carbon atom may complete its valence shell is to",
         "unique": true,
-        "id": 104,
+        "id": 106,
         "options": [
           {
             "text": "transfer the 4 electrons in its valence shell to other atoms or transfer 4 electrons from other atoms to its valence shell",
@@ -7247,7 +7247,7 @@
         ]
       },
       {
-        "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+        "question": "<p class=\"NormalText\">Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that</p>",
         "unique": false,
         "id": 53,
         "options": [
@@ -7276,7 +7276,7 @@
       {
         "question": "The bonds in a water molecule are",
         "unique": true,
-        "id": 105,
+        "id": 107,
         "options": [
           {
             "text": "hydrogen bonds",
@@ -7301,9 +7301,9 @@
         ]
       },
       {
-        "question": "With regards to orbitals, which of the following statements is FALSE?",
+        "question": "With regards to orbitals, which of the following statements is <strong><i>FALSE</i></strong>?<br><br>",
         "unique": false,
-        "id": 97,
+        "id": 99,
         "options": [
           {
             "text": "An orbital is occupied by one or two electrons.",
@@ -7357,7 +7357,7 @@
       {
         "question": "Water has a high specific heat because",
         "unique": true,
-        "id": 106,
+        "id": 108,
         "options": [
           {
             "text": "The bonds between the hydrogen and oxygen atoms in a water molecule are polar covalent bonds",
@@ -7384,7 +7384,7 @@
       {
         "question": "If the pH of a solution is increased from pH 5 to pH 7, it means that the",
         "unique": true,
-        "id": 107,
+        "id": 109,
         "options": [
           {
             "text": "concentration of H+ is one hundred times less than it was at pH 5.",
@@ -7409,7 +7409,7 @@
         ]
       },
       {
-        "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-8 M?",
+        "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-8 </sup>M?",
         "unique": false,
         "id": 35,
         "options": [
@@ -7442,9 +7442,9 @@
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_3",
     "questions": [
       {
-        "question": "How many electrons does it take to fill the first electron shell of a carbon atom?",
+        "question": "How many electrons does it take to fill the <strong>first </strong>electron shell of a carbon atom?",
         "unique": true,
-        "id": 108,
+        "id": 110,
         "options": [
           {
             "text": "2",
@@ -7471,7 +7471,7 @@
       {
         "question": "Depending on how far an electron is moved from the nucleus",
         "unique": true,
-        "id": 109,
+        "id": 111,
         "options": [
           {
             "text": "you can decrease its potential energy by any amount",
@@ -7496,9 +7496,9 @@
         ]
       },
       {
-        "question": "Which of the following statements about electrons is FALSE?",
+        "question": "Which of the following statements about electrons is <strong>FALSE</strong>?<br>",
         "unique": true,
-        "id": 110,
+        "id": 112,
         "options": [
           {
             "text": "two electrons may occupy the same electron orbital",
@@ -7523,9 +7523,9 @@
         ]
       },
       {
-        "question": "When atom “A” forms four single covalent bonds to complete its outermost electron shell, which is its 2nd electron shell, the electron orbitals within that shell will point towards the corners of",
+        "question": "When atom “A” forms four single covalent bonds to complete its outermost electron shell, which is its 2<sup>nd</sup> electron shell, the electron orbitals within that shell will point towards the corners of",
         "unique": true,
-        "id": 111,
+        "id": 113,
         "options": [
           {
             "text": "a rectangle",
@@ -7552,7 +7552,7 @@
       {
         "question": "If you make a model of a water molecule, the lines showing the relative positions of the covalent bonds will most closely resemble",
         "unique": true,
-        "id": 112,
+        "id": 114,
         "options": [
           {
             "text": "a straight line",
@@ -7579,7 +7579,7 @@
       {
         "question": "The reactivity of an atom arises from",
         "unique": false,
-        "id": 78,
+        "id": 80,
         "options": [
           {
             "text": "the potential energy of the valence shell",
@@ -7606,7 +7606,7 @@
       {
         "question": "Which of the following statements about moles is true?",
         "unique": false,
-        "id": 75,
+        "id": 77,
         "options": [
           {
             "text": "All of these answers are correct.",
@@ -7633,7 +7633,7 @@
       {
         "question": "The bonds that are broken when water vaporizes are",
         "unique": false,
-        "id": 82,
+        "id": 84,
         "options": [
           {
             "text": "hydrogen bonds",
@@ -7658,9 +7658,9 @@
         ]
       },
       {
-        "question": "A solution with a pH of 10 contains what concentration of hydroxyl ions [OH-]?",
+        "question": "A solution with a pH of 10 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
         "unique": true,
-        "id": 113,
+        "id": 115,
         "options": [
           {
             "text": "0.01 moles/liter",
@@ -7685,9 +7685,9 @@
         ]
       },
       {
-        "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
+        "question": "A mole of water (H<sub>2</sub>O) molecules and a mole of glucose molecules (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)",
         "unique": false,
-        "id": 90,
+        "id": 92,
         "options": [
           {
             "text": "have an equal volume",
@@ -7718,7 +7718,7 @@
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_4",
     "questions": [
       {
-        "question": "Which of the following statements about valence shells is FALSE?",
+        "question": "Which of the following statements about valence shells is <strong>FALSE</strong>?",
         "unique": false,
         "id": 49,
         "options": [
@@ -7747,7 +7747,7 @@
       {
         "question": "The correct order of the following atoms, from most to least electronegative, is",
         "unique": true,
-        "id": 114,
+        "id": 116,
         "options": [
           {
             "text": "oxygen, nitrogen, carbon, hydrogen",
@@ -7774,7 +7774,7 @@
       {
         "question": "How many electrons do hydrogen atoms have in their valence shell?",
         "unique": false,
-        "id": 70,
+        "id": 72,
         "options": [
           {
             "text": "8",
@@ -7801,7 +7801,7 @@
       {
         "question": "How many covalent bonds do carbon atoms need to form with other atoms to complete their valence shell?",
         "unique": false,
-        "id": 103,
+        "id": 105,
         "options": [
           {
             "text": "3",
@@ -7826,9 +7826,9 @@
         ]
       },
       {
-        "question": "Oxygen gas (O2) is an example of",
+        "question": "Oxygen gas (O<sub>2</sub>) is an example of",
         "unique": true,
-        "id": 115,
+        "id": 117,
         "options": [
           {
             "text": "a compound",
@@ -7855,7 +7855,7 @@
       {
         "question": "When a sodium atom and a chlorine atom interact to complete their valence shells",
         "unique": false,
-        "id": 92,
+        "id": 94,
         "options": [
           {
             "text": "an electron is transferred from sodium to chlorine, turning the sodium atom into a cation and the chlorine atom into an anion and allowing the two atoms to form an ionic bond",
@@ -7880,9 +7880,9 @@
         ]
       },
       {
-        "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
+        "question": "A mole of water (H<sub>2</sub>O) molecules and a mole of glucose molecules (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)",
         "unique": false,
-        "id": 90,
+        "id": 92,
         "options": [
           {
             "text": "have about ten times as many molecules in the mole of glucose than in the mole of water",
@@ -7909,7 +7909,7 @@
       {
         "question": "In a single molecule of water, two hydrogen atoms are bonded to a single oxygen atom by",
         "unique": true,
-        "id": 116,
+        "id": 118,
         "options": [
           {
             "text": "polar covalent bonds.",
@@ -7936,7 +7936,7 @@
       {
         "question": "What gives rise to the cohesiveness of water molecules?",
         "unique": false,
-        "id": 87,
+        "id": 89,
         "options": [
           {
             "text": "Hydrophobic interactions",
@@ -7961,9 +7961,9 @@
         ]
       },
       {
-        "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H+]?",
+        "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H<sup>+</sup>]?",
         "unique": true,
-        "id": 117,
+        "id": 119,
         "options": [
           {
             "text": "0.001 moles/liter",
@@ -7996,7 +7996,7 @@
       {
         "question": "When a sodium atom and a chlorine atom interact to complete their valence shells",
         "unique": false,
-        "id": 92,
+        "id": 94,
         "options": [
           {
             "text": "an electron is transferred from sodium to chlorine, turning the sodium atom into an anion and the chlorine atom into a cation and allowing the two atoms to form an ionic bond",
@@ -8021,9 +8021,9 @@
         ]
       },
       {
-        "question": "With regards to orbitals, which of the following statements is FALSE?",
+        "question": "With regards to orbitals, which of the following statements is <strong><i>FALSE</i></strong>?<br><br>",
         "unique": false,
-        "id": 97,
+        "id": 99,
         "options": [
           {
             "text": "An orbital is occupied by one or two electrons.",
@@ -8077,7 +8077,7 @@
       {
         "question": "Which of the following results from a transfer of electron(s) between atoms?",
         "unique": false,
-        "id": 84,
+        "id": 86,
         "options": [
           {
             "text": "an ionic bond",
@@ -8104,7 +8104,7 @@
       {
         "question": "How many more electrons do nitrogen atoms need to complete their valence shell?",
         "unique": true,
-        "id": 118,
+        "id": 120,
         "options": [
           {
             "text": "2",
@@ -8131,7 +8131,7 @@
       {
         "question": "When we write “O=O”, the double line represents",
         "unique": true,
-        "id": 119,
+        "id": 121,
         "options": [
           {
             "text": "two ionic bonds between the oxygen atoms",
@@ -8158,7 +8158,7 @@
       {
         "question": "The bonds that are broken when water vaporizes are",
         "unique": false,
-        "id": 82,
+        "id": 84,
         "options": [
           {
             "text": "ionic bonds",
@@ -8185,7 +8185,7 @@
       {
         "question": "In a single molecule of water, two hydrogen atoms are bonded to a single oxygen atom by",
         "unique": false,
-        "id": 116,
+        "id": 118,
         "options": [
           {
             "text": "nonpolar covalent bonds.",
@@ -8210,9 +8210,9 @@
         ]
       },
       {
-        "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-4 M?",
+        "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-4 </sup>M?",
         "unique": true,
-        "id": 120,
+        "id": 122,
         "options": [
           {
             "text": "pH 4",
@@ -8239,7 +8239,7 @@
       {
         "question": "What causes water molecules to be polar molecules?",
         "unique": false,
-        "id": 89,
+        "id": 91,
         "options": [
           {
             "text": "Water molecules can form hydrogen bonds with each other.",
@@ -8270,7 +8270,7 @@
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_6",
     "questions": [
       {
-        "question": "MgCl2 is an example of",
+        "question": "MgCl<sub>2</sub> is an example of",
         "unique": false,
         "id": 29,
         "options": [
@@ -8299,7 +8299,7 @@
       {
         "question": "When a sodium atom and a chlorine atom interact to complete their valence shells",
         "unique": false,
-        "id": 92,
+        "id": 94,
         "options": [
           {
             "text": "they form 1 polar covalent bond",
@@ -8351,7 +8351,7 @@
         ]
       },
       {
-        "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+        "question": "<p class=\"NormalText\">Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that</p>",
         "unique": false,
         "id": 53,
         "options": [
@@ -8380,7 +8380,7 @@
       {
         "question": "Sodium is an example of",
         "unique": false,
-        "id": 79,
+        "id": 81,
         "options": [
           {
             "text": "a molecule",
@@ -8407,7 +8407,7 @@
       {
         "question": "Which of the following results from a transfer of electron(s) between atoms?",
         "unique": false,
-        "id": 84,
+        "id": 86,
         "options": [
           {
             "text": "an ionic bond",
@@ -8432,9 +8432,9 @@
         ]
       },
       {
-        "question": "You have a freshly prepared 1 M (molar) solution of glucose in water. You carefully pour out a 100 mL sample of that solution. How many glucose molecules are included in that 100 mL sample?",
+        "question": "You have a freshly prepared 1 <i>M</i> (molar) solution of glucose in water. You carefully pour out a 100 mL sample of that solution. How many glucose molecules are included in that 100 mL sample?",
         "unique": true,
-        "id": 121,
+        "id": 123,
         "options": [
           {
             "text": "6.02 × 1024",
@@ -8461,7 +8461,7 @@
       {
         "question": "Water has a high specific heat because",
         "unique": false,
-        "id": 106,
+        "id": 108,
         "options": [
           {
             "text": "Water is an excellent solvent",
@@ -8488,7 +8488,7 @@
       {
         "question": "Which of the following statements about moles is true?",
         "unique": false,
-        "id": 75,
+        "id": 77,
         "options": [
           {
             "text": "One mole of hydrogen atoms weighs 1 g",
@@ -8513,9 +8513,9 @@
         ]
       },
       {
-        "question": "A solution with a pH of 2 contains what concentration of hydrogen ions [H+]?",
+        "question": "A solution with a pH of 2 contains what concentration of hydrogen ions [H<sup>+</sup>]?",
         "unique": true,
-        "id": 122,
+        "id": 124,
         "options": [
           {
             "text": "0.02 grams/liter",
@@ -8546,7 +8546,7 @@
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_7",
     "questions": [
       {
-        "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+        "question": "<p class=\"NormalText\">Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that</p>",
         "unique": false,
         "id": 53,
         "options": [
@@ -8575,7 +8575,7 @@
       {
         "question": "The further on average an electron is from the nucleus",
         "unique": false,
-        "id": 96,
+        "id": 98,
         "options": [
           {
             "text": "the more highly charged it is",
@@ -8629,7 +8629,7 @@
       {
         "question": "Which of the following statements is most broadly true of different elements?",
         "unique": true,
-        "id": 123,
+        "id": 125,
         "options": [
           {
             "text": "The chemical behavior of atoms is mostly dependent on the electrons in their second electron shell.",
@@ -8656,7 +8656,7 @@
       {
         "question": "Depending on how far an electron is moved from the nucleus",
         "unique": false,
-        "id": 109,
+        "id": 111,
         "options": [
           {
             "text": "you can decrease its potential energy by any amount",
@@ -8683,7 +8683,7 @@
       {
         "question": "Which of the following is not a molecule?",
         "unique": true,
-        "id": 124,
+        "id": 126,
         "options": [
           {
             "text": "CH4",
@@ -8708,7 +8708,7 @@
         ]
       },
       {
-        "question": "Pure water at room temperature has a concentration of 10-7 hydrogen ions (H+) and 10-7 hydroxyl ions (OH-). Why is this?",
+        "question": "Pure water at room temperature has a concentration of 10<sup>-7</sup> hydrogen ions (H<sup>+</sup>) and 10<sup>-7</sup> hydroxyl ions (OH<sup>-</sup>). Why is this?",
         "unique": false,
         "id": 34,
         "options": [
@@ -8735,9 +8735,9 @@
         ]
       },
       {
-        "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-4 M?",
+        "question": "What is the pH of a solution with a hydrogen ion [H<sup>+</sup>] concentration of 10<sup>-4 </sup>M?",
         "unique": false,
-        "id": 120,
+        "id": 122,
         "options": [
           {
             "text": "pH 10",
@@ -8762,9 +8762,9 @@
         ]
       },
       {
-        "question": "Which of the following statements about bases is FALSE?",
+        "question": "Which of the following statements about bases is <strong>FALSE</strong>?",
         "unique": true,
-        "id": 125,
+        "id": 127,
         "options": [
           {
             "text": "Some bases reduce H+ concentrations by accepting hydrogen ions.",
@@ -8789,9 +8789,9 @@
         ]
       },
       {
-        "question": "How many molecules of glycerol (C3H8O3; molecular mass = 92) would be present in 1 L of a 1 M (molar) glycerol solution?",
+        "question": "<p class=\"NormalText\">How many molecules of glycerol (C<sub>3</sub>H<sub>8</sub>O<sub>3</sub>; molecular mass = 92) would be present in 1 L of a 1 <i>M</i> (molar) glycerol solution?</p>",
         "unique": true,
-        "id": 126,
+        "id": 128,
         "options": [
           {
             "text": "14 × 6.02 × 1023",
@@ -8822,9 +8822,9 @@
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_8",
     "questions": [
       {
-        "question": "Which of the following statements about electrons is FALSE?",
+        "question": "Which of the following statements about electrons is <strong>FALSE</strong>?<br>",
         "unique": false,
-        "id": 110,
+        "id": 112,
         "options": [
           {
             "text": "the closer an electron is to the nucleus, the more strongly the electron is attracted to the nucleus and therefore the more potential energy the electron has",
@@ -8851,7 +8851,7 @@
       {
         "question": "Which of the following statements is most broadly true of different elements?",
         "unique": false,
-        "id": 123,
+        "id": 125,
         "options": [
           {
             "text": "The chemical behavior of atoms is mostly dependent on the electrons in their first electron shell.",
@@ -8878,7 +8878,7 @@
       {
         "question": "Which of the following represents a polar bond?",
         "unique": false,
-        "id": 91,
+        "id": 93,
         "options": [
           {
             "text": "O=O",
@@ -8903,9 +8903,9 @@
         ]
       },
       {
-        "question": "What is the maximum number of electrons in the 1s orbital of an atom?",
+        "question": "What is the maximum number of electrons in the 1<i>s</i> orbital of an atom?",
         "unique": false,
-        "id": 74,
+        "id": 76,
         "options": [
           {
             "text": "4.",
@@ -8930,9 +8930,9 @@
         ]
       },
       {
-        "question": "How many electrons does it take to fill the first electron shell of a carbon atom?",
+        "question": "How many electrons does it take to fill the <strong>first </strong>electron shell of a carbon atom?",
         "unique": false,
-        "id": 108,
+        "id": 110,
         "options": [
           {
             "text": "4",
@@ -8959,7 +8959,7 @@
       {
         "question": "Atoms with incomplete valence shells may complete their shell by",
         "unique": true,
-        "id": 127,
+        "id": 129,
         "options": [
           {
             "text": "all three of the other answers are correct, depending on the atom in question",
@@ -8986,7 +8986,7 @@
       {
         "question": "Which of the following statements about moles is true?",
         "unique": false,
-        "id": 75,
+        "id": 77,
         "options": [
           {
             "text": "All of these answers are correct.",
@@ -9011,9 +9011,9 @@
         ]
       },
       {
-        "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH-]?",
+        "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH<sup>-</sup>]?",
         "unique": false,
-        "id": 81,
+        "id": 83,
         "options": [
           {
             "text": "0.1 moles/liter",
@@ -9040,7 +9040,7 @@
       {
         "question": "If the pH of a solution is decreased from 9 to 8, it means that the",
         "unique": false,
-        "id": 88,
+        "id": 90,
         "options": [
           {
             "text": "concentration of OH- has increased tenfold (10X) compared to what it was at pH 9.",
@@ -9067,7 +9067,7 @@
       {
         "question": "The bonds that are broken when water vaporizes are",
         "unique": false,
-        "id": 82,
+        "id": 84,
         "options": [
           {
             "text": "nonpolar covalent bonds",
@@ -9100,7 +9100,7 @@
       {
         "question": "How many covalent bonds do hydrogen atoms need to form with other atoms to complete their valence shell?",
         "unique": true,
-        "id": 128,
+        "id": 130,
         "options": [
           {
             "text": "4",
@@ -9127,7 +9127,7 @@
       {
         "question": "The valence shell of an atom",
         "unique": false,
-        "id": 86,
+        "id": 88,
         "options": [
           {
             "text": "is always the lowest energy shell the atom has",
@@ -9152,9 +9152,9 @@
         ]
       },
       {
-        "question": "With regards to orbitals, which of the following statements is FALSE?",
+        "question": "With regards to orbitals, which of the following statements is <strong><i>FALSE</i></strong>?<br><br>",
         "unique": false,
-        "id": 97,
+        "id": 99,
         "options": [
           {
             "text": "An orbital is occupied by one or two electrons.",
@@ -9181,7 +9181,7 @@
       {
         "question": "When we write “O=O”, the double line represents",
         "unique": false,
-        "id": 119,
+        "id": 121,
         "options": [
           {
             "text": "two electrons shared by the oxygen atoms",
@@ -9208,7 +9208,7 @@
       {
         "question": "The further on average an electron is from the nucleus",
         "unique": false,
-        "id": 96,
+        "id": 98,
         "options": [
           {
             "text": "the greater its potential energy",
@@ -9235,7 +9235,7 @@
       {
         "question": "Which of the following do NOT comprise a significant fraction of the human body?",
         "unique": false,
-        "id": 95,
+        "id": 97,
         "options": [
           {
             "text": "hydrogen",
@@ -9260,9 +9260,9 @@
         ]
       },
       {
-        "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 M (molar) solution of glucose?",
+        "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 <i>M</i> (molar) solution of glucose?",
         "unique": false,
-        "id": 99,
+        "id": 101,
         "options": [
           {
             "text": "Dissolve 180 g of glucose in 0.8 L of water, and then add more water until the total volume of the solution is 1 L.",
@@ -9287,9 +9287,9 @@
         ]
       },
       {
-        "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H+]?",
+        "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H<sup>+</sup>]?",
         "unique": false,
-        "id": 117,
+        "id": 119,
         "options": [
           {
             "text": "1.5 moles/liter",
@@ -9314,9 +9314,9 @@
         ]
       },
       {
-        "question": "Which of the following statements about bases is FALSE?",
+        "question": "Which of the following statements about bases is <strong>FALSE</strong>?",
         "unique": false,
-        "id": 125,
+        "id": 127,
         "options": [
           {
             "text": "Bases cause the concentration of hydroxide (OH-) anions to increase and the concentration of H+ cations to decrease.",
@@ -9343,7 +9343,7 @@
       {
         "question": "In humans, blood pH is around 7.4, and a decrease in blood pH to 6.4 would be fatal. A drop by 1 pH unit represents which of the following?",
         "unique": false,
-        "id": 101,
+        "id": 103,
         "options": [
           {
             "text": "twice as many H+ ions in the solution",
@@ -9376,7 +9376,7 @@
       {
         "question": "If I have trouble seeing a figure for a question, I should",
         "unique": true,
-        "id": 129,
+        "id": 131,
         "options": [
           {
             "text": "assume the figure is missing from that question.",
@@ -9391,9 +9391,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as",
+        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980181/files/4145195/download?verifier=x4RxY6e5vpfq3yWAEQWvhGQKXf6t6uN6xsEDBKpx\" alt=\"\">",
         "unique": true,
-        "id": 130,
+        "id": 132,
         "options": [
           {
             "text": "a carboxyl group",
@@ -9420,7 +9420,7 @@
       {
         "question": "Carbon atoms typically complete their valence shells by",
         "unique": true,
-        "id": 131,
+        "id": 133,
         "options": [
           {
             "text": "transferring four electrons from other atoms",
@@ -9447,7 +9447,7 @@
       {
         "question": "Compounds with amino groups are known as",
         "unique": true,
-        "id": 132,
+        "id": 134,
         "options": [
           {
             "text": "amides",
@@ -9474,7 +9474,7 @@
       {
         "question": "If two molecules have the same number of atoms of the same elements but different structures, the two molecules may be",
         "unique": true,
-        "id": 133,
+        "id": 135,
         "options": [
           {
             "text": "Geometric isomers",
@@ -9501,7 +9501,7 @@
       {
         "question": "What is the best description of a carbonyl group?",
         "unique": true,
-        "id": 134,
+        "id": 136,
         "options": [
           {
             "text": "A nitrogen and two hydrogens joined to a carbon by covalent bonds",
@@ -9528,7 +9528,7 @@
       {
         "question": "If two molecules have the same numbers of atoms of the same elements and the SAME covalent partnerships but different structures, the two molecules may be",
         "unique": true,
-        "id": 135,
+        "id": 137,
         "options": [
           {
             "text": "Either enantiomers or geometric isomers",
@@ -9555,7 +9555,7 @@
       {
         "question": "What functional group is commonly used in cells to transfer energy from one organic molecule to another?",
         "unique": true,
-        "id": 136,
+        "id": 138,
         "options": [
           {
             "text": "carboxyl",
@@ -9582,7 +9582,7 @@
       {
         "question": "Compounds with carbonyl groups are known",
         "unique": true,
-        "id": 137,
+        "id": 139,
         "options": [
           {
             "text": "alcohols and hydrocarbons",
@@ -9607,9 +9607,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as",
-        "unique": false,
-        "id": 130,
+        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980177/files/4145192/download?verifier=xwmoPlfbzbCX18WrqAHF5J0W73rZQOsYdLpkQjZi\" alt=\"\"><br> <br>",
+        "unique": true,
+        "id": 140,
         "options": [
           {
             "text": "a hydrocarbon group",
@@ -9634,9 +9634,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as -O-H",
+        "question": "The following functional group is known as<br> <br> -O-H",
         "unique": true,
-        "id": 138,
+        "id": 141,
         "options": [
           {
             "text": "a hydroxyl group",
@@ -9661,15 +9661,15 @@
         ]
       }
     ],
-    "unique_questions": 10
+    "unique_questions": 11
   },
   {
     "quiz_title": "SQ topic 3 level 1b (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "The following functional group is known as",
-        "unique": false,
-        "id": 130,
+        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980180/files/4145194/download?verifier=SQyCHIG9nsAi2GmmuFw9BOE5bPino2w6GTGOQe8r\" alt=\"\">",
+        "unique": true,
+        "id": 142,
         "options": [
           {
             "text": "a phosphorous group",
@@ -9696,7 +9696,7 @@
       {
         "question": "Compounds with sulfhydryl groups are known as",
         "unique": true,
-        "id": 139,
+        "id": 143,
         "options": [
           {
             "text": "thiols",
@@ -9721,9 +9721,9 @@
         ]
       },
       {
-        "question": "The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?",
+        "question": "<p>The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?</p> <p><img src=\"/assessment_questions/13311830/files/17370754/download?verifier=A9bYdeGtCdij3WyuNnYdr273StnEwTSqMgg2Fu3B\" alt=\"Chapter 4 questions 41, 42.jpg\" width=\"204\" height=\"119\"></p>",
         "unique": true,
-        "id": 140,
+        "id": 144,
         "options": [
           {
             "text": "methyl and carboxyl",
@@ -9748,9 +9748,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as",
+        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980181/files/4145195/download?verifier=x4RxY6e5vpfq3yWAEQWvhGQKXf6t6uN6xsEDBKpx\" alt=\"\">",
         "unique": false,
-        "id": 130,
+        "id": 132,
         "options": [
           {
             "text": "a methyl group",
@@ -9775,9 +9775,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as",
-        "unique": false,
-        "id": 130,
+        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980178/files/4145193/download?verifier=VrfI5ZVlUNwNzvMA3CuiHhwZAVsdBZr4kpwzH0ad\" alt=\"\">",
+        "unique": true,
+        "id": 145,
         "options": [
           {
             "text": "an amino group",
@@ -9802,9 +9802,9 @@
         ]
       },
       {
-        "question": "Which of the molecules listed below can form isomers? CH4 C3H8 C4H10",
+        "question": "<p>Which of the molecules listed below can form isomers?</p> CH<sub>4</sub> <br>C<sub>3</sub>H<sub>8</sub> <br>C<sub>4</sub>H<sub>10</sub>",
         "unique": true,
-        "id": 141,
+        "id": 146,
         "options": [
           {
             "text": "None of them can form isomers.",
@@ -9829,9 +9829,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as -S-H",
+        "question": "The following functional group is known as<br> <br> -S-H",
         "unique": true,
-        "id": 142,
+        "id": 147,
         "options": [
           {
             "text": "a sulfhydryl group",
@@ -9858,7 +9858,7 @@
       {
         "question": "If two molecules have the same number of atoms of the same elements but different structures, the two molecules may be",
         "unique": false,
-        "id": 133,
+        "id": 135,
         "options": [
           {
             "text": "Enantiomers",
@@ -9883,9 +9883,9 @@
         ]
       },
       {
-        "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+        "question": "<p>Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that</p> <p><img src=\"/assessment_questions/13311828/files/17370677/download?verifier=l7JJHCP9FHv2yuMwpTVcUV9uzvf0LEQqqKxIGWw5\" alt=\"Chapter 4 question 39.jpg\" width=\"278\" height=\"132\"></p>",
         "unique": true,
-        "id": 143,
+        "id": 148,
         "options": [
           {
             "text": "are structural isomers.",
@@ -9912,7 +9912,7 @@
       {
         "question": "Carbon atoms typically complete their valence shells by",
         "unique": false,
-        "id": 131,
+        "id": 133,
         "options": [
           {
             "text": "forming four covalent bonds with other atoms",
@@ -9937,7 +9937,7 @@
         ]
       }
     ],
-    "unique_questions": 5
+    "unique_questions": 7
   },
   {
     "quiz_title": "SQ topic 3 level 1c (Chapter 4)",
@@ -9945,7 +9945,7 @@
       {
         "question": "Which chemical group is most likely to be responsible for an organic molecule behaving as a base?",
         "unique": true,
-        "id": 144,
+        "id": 149,
         "options": [
           {
             "text": "carbonyl",
@@ -9970,9 +9970,9 @@
         ]
       },
       {
-        "question": "The central carbon in amino acids is asymmetric in all amino acids except:",
+        "question": "<p>The central carbon in amino acids is asymmetric in all amino acids except:</p> <p><img src=\"/assessment_questions/13311832/files/17370801/download?verifier=58SxQ7ghj1vnpDNzdVHHSYGlCpMaV6o1KL8OltCm\" alt=\"Chapter 4 questions 41, 42.jpg\" width=\"190\" height=\"111\"></p>",
         "unique": true,
-        "id": 145,
+        "id": 150,
         "options": [
           {
             "text": "alanine (R = -CH3)",
@@ -9997,9 +9997,9 @@
         ]
       },
       {
-        "question": "The two molecules shown in the figure below are best described as",
+        "question": "The two molecules shown in the figure below are best described as<br><img src=\"/assessment_questions/3980155/files/4145179/download?verifier=s0qW8kzaTkKd7jzhnjkULutaI5WiJllPQ8PkfFdu\" alt=\"\">",
         "unique": true,
-        "id": 146,
+        "id": 151,
         "options": [
           {
             "text": "Enantiomers",
@@ -10024,9 +10024,9 @@
         ]
       },
       {
-        "question": "The molecules shown below are best described as",
+        "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980168/files/4145187/download?verifier=oC4hC7ABQjKodGcUfwqbIC3mv3mYAi3xlnRKGm1G\" alt=\"\">",
         "unique": true,
-        "id": 147,
+        "id": 152,
         "options": [
           {
             "text": "Isotopes",
@@ -10053,7 +10053,7 @@
       {
         "question": "Compounds with amino groups are known as",
         "unique": false,
-        "id": 132,
+        "id": 134,
         "options": [
           {
             "text": "ketones",
@@ -10078,9 +10078,9 @@
         ]
       },
       {
-        "question": "The molecules shown below are best described as",
-        "unique": false,
-        "id": 147,
+        "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980165/files/4145184/download?verifier=MBCg9oKlLPfracP9sfxSLmN56QEeWnynWn9cQwbr\" alt=\"\">",
+        "unique": true,
+        "id": 153,
         "options": [
           {
             "text": "Structural isomers",
@@ -10107,7 +10107,7 @@
       {
         "question": "What is the best description of a carbonyl group?",
         "unique": false,
-        "id": 134,
+        "id": 136,
         "options": [
           {
             "text": "A nitrogen and two hydrogens joined to a carbon by covalent bonds",
@@ -10132,9 +10132,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as",
+        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980177/files/4145192/download?verifier=xwmoPlfbzbCX18WrqAHF5J0W73rZQOsYdLpkQjZi\" alt=\"\"><br> <br>",
         "unique": false,
-        "id": 130,
+        "id": 140,
         "options": [
           {
             "text": "a hydroxyl group",
@@ -10161,7 +10161,7 @@
       {
         "question": "Molecules consisting only of carbon and hydrogen are known as",
         "unique": true,
-        "id": 148,
+        "id": 154,
         "options": [
           {
             "text": "hydrocarbons or carbohydrates",
@@ -10186,9 +10186,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as -O-H",
+        "question": "The following functional group is known as<br> <br> -O-H",
         "unique": false,
-        "id": 138,
+        "id": 141,
         "options": [
           {
             "text": "a carboxyl group",
@@ -10213,7 +10213,7 @@
         ]
       }
     ],
-    "unique_questions": 5
+    "unique_questions": 6
   },
   {
     "quiz_title": "SQ topic 3 level 1c (Chapter 4)_2",
@@ -10221,7 +10221,7 @@
       {
         "question": "Which action could produce a carbonyl group?",
         "unique": true,
-        "id": 149,
+        "id": 155,
         "options": [
           {
             "text": "the addition of a thiol to a hydroxyl",
@@ -10246,9 +10246,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as",
+        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980178/files/4145193/download?verifier=VrfI5ZVlUNwNzvMA3CuiHhwZAVsdBZr4kpwzH0ad\" alt=\"\">",
         "unique": false,
-        "id": 130,
+        "id": 145,
         "options": [
           {
             "text": "an amide group",
@@ -10275,7 +10275,7 @@
       {
         "question": "Which of the following structures makes sense?",
         "unique": true,
-        "id": 150,
+        "id": 156,
         "options": [
           {
             "text": "O=C=O",
@@ -10300,9 +10300,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as -S-H",
+        "question": "The following functional group is known as<br> <br> -S-H",
         "unique": false,
-        "id": 142,
+        "id": 147,
         "options": [
           {
             "text": "a sulfate group",
@@ -10329,7 +10329,7 @@
       {
         "question": "Compounds with amino groups are known as",
         "unique": false,
-        "id": 132,
+        "id": 134,
         "options": [
           {
             "text": "amines",
@@ -10354,9 +10354,9 @@
         ]
       },
       {
-        "question": "Identify the asymmetric carbon in this molecule",
+        "question": "Identify the asymmetric carbon in this molecule<br><img src=\"/assessment_questions/3980190/files/4145198/download?verifier=EATZzOtu7KvwJdn0jmz5eQRaWJ8tirANjXxfe2N6\" alt=\"\">",
         "unique": true,
-        "id": 151,
+        "id": 157,
         "options": [
           {
             "text": "It is the 3rd carbon from the left",
@@ -10381,9 +10381,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as",
+        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980177/files/4145192/download?verifier=xwmoPlfbzbCX18WrqAHF5J0W73rZQOsYdLpkQjZi\" alt=\"\"><br> <br>",
         "unique": false,
-        "id": 130,
+        "id": 140,
         "options": [
           {
             "text": "a carbonyl group",
@@ -10408,9 +10408,9 @@
         ]
       },
       {
-        "question": "The molecules shown below are best described as",
-        "unique": false,
-        "id": 147,
+        "question": "The molecules shown below are best described as<br> <br><img src=\"/assessment_questions/3980163/files/4145182/download?verifier=WkDZPKxauqWrv4DH8Ytj3PjPKCzs50UvPLNbdb3c\" alt=\"\">",
+        "unique": true,
+        "id": 158,
         "options": [
           {
             "text": "Isotopes",
@@ -10435,9 +10435,9 @@
         ]
       },
       {
-        "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+        "question": "<p>Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that</p> <p><img src=\"/assessment_questions/13311828/files/17370677/download?verifier=l7JJHCP9FHv2yuMwpTVcUV9uzvf0LEQqqKxIGWw5\" alt=\"Chapter 4 question 39.jpg\" width=\"278\" height=\"132\"></p>",
         "unique": false,
-        "id": 143,
+        "id": 148,
         "options": [
           {
             "text": "have identical three-dimensional shapes.",
@@ -10462,9 +10462,9 @@
         ]
       },
       {
-        "question": "The molecules shown below are best described as",
+        "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980165/files/4145184/download?verifier=MBCg9oKlLPfracP9sfxSLmN56QEeWnynWn9cQwbr\" alt=\"\">",
         "unique": false,
-        "id": 147,
+        "id": 153,
         "options": [
           {
             "text": "Enantiomers",
@@ -10489,15 +10489,15 @@
         ]
       }
     ],
-    "unique_questions": 3
+    "unique_questions": 4
   },
   {
     "quiz_title": "SQ topic 3 level 1c (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "The following functional group is known as",
+        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980177/files/4145192/download?verifier=xwmoPlfbzbCX18WrqAHF5J0W73rZQOsYdLpkQjZi\" alt=\"\"><br> <br>",
         "unique": false,
-        "id": 130,
+        "id": 140,
         "options": [
           {
             "text": "a carboxyl group",
@@ -10524,7 +10524,7 @@
       {
         "question": "Compounds with carbonyl groups are known",
         "unique": false,
-        "id": 137,
+        "id": 139,
         "options": [
           {
             "text": "alcohols and hydrocarbons",
@@ -10551,7 +10551,7 @@
       {
         "question": "Compounds with carboxyl groups are known as",
         "unique": true,
-        "id": 152,
+        "id": 159,
         "options": [
           {
             "text": "aldehydes",
@@ -10576,9 +10576,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as -O-H",
+        "question": "The following functional group is known as<br> <br> -O-H",
         "unique": false,
-        "id": 138,
+        "id": 141,
         "options": [
           {
             "text": "a carboxyl group",
@@ -10605,7 +10605,7 @@
       {
         "question": "Organic chemistry is defined as",
         "unique": true,
-        "id": 153,
+        "id": 160,
         "options": [
           {
             "text": "the study of natural (as opposed to synthetic) compounds",
@@ -10630,9 +10630,9 @@
         ]
       },
       {
-        "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+        "question": "<p>Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that</p> <p><img src=\"/assessment_questions/13311828/files/17370677/download?verifier=l7JJHCP9FHv2yuMwpTVcUV9uzvf0LEQqqKxIGWw5\" alt=\"Chapter 4 question 39.jpg\" width=\"278\" height=\"132\"></p>",
         "unique": false,
-        "id": 143,
+        "id": 148,
         "options": [
           {
             "text": "are structural isomers.",
@@ -10657,9 +10657,9 @@
         ]
       },
       {
-        "question": "Which of the following statements is FALSE?",
+        "question": "Which of the following statements is <strong>FALSE</strong>?",
         "unique": true,
-        "id": 154,
+        "id": 161,
         "options": [
           {
             "text": "Amino groups tend to act as bases.",
@@ -10684,9 +10684,9 @@
         ]
       },
       {
-        "question": "The molecules shown below are best described as",
+        "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980168/files/4145187/download?verifier=oC4hC7ABQjKodGcUfwqbIC3mv3mYAi3xlnRKGm1G\" alt=\"\">",
         "unique": false,
-        "id": 147,
+        "id": 152,
         "options": [
           {
             "text": "Enantiomers",
@@ -10713,7 +10713,7 @@
       {
         "question": "Compounds with sulfhydryl groups are known as",
         "unique": false,
-        "id": 139,
+        "id": 143,
         "options": [
           {
             "text": "hydrogenated sulfurs",
@@ -10738,9 +10738,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as",
+        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980181/files/4145195/download?verifier=x4RxY6e5vpfq3yWAEQWvhGQKXf6t6uN6xsEDBKpx\" alt=\"\">",
         "unique": false,
-        "id": 130,
+        "id": 132,
         "options": [
           {
             "text": "a carboxyl group",
@@ -10771,9 +10771,9 @@
     "quiz_title": "SQ topic 3 level 1d (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
-        "question": "The molecules shown below are best described as",
+        "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980165/files/4145184/download?verifier=MBCg9oKlLPfracP9sfxSLmN56QEeWnynWn9cQwbr\" alt=\"\">",
         "unique": false,
-        "id": 147,
+        "id": 153,
         "options": [
           {
             "text": "Isotopes",
@@ -10798,9 +10798,9 @@
         ]
       },
       {
-        "question": "The molecules shown below are best described as",
-        "unique": false,
-        "id": 147,
+        "question": "The molecules shown below are best described as<br><img src=\"/assessment_questions/3980166/files/4145185/download?verifier=BI8FAc3udQpVPO6U3Ak4UUI4QkCX2VERZac5QEaG\" alt=\"\">",
+        "unique": true,
+        "id": 162,
         "options": [
           {
             "text": "Isotopes",
@@ -10827,7 +10827,7 @@
       {
         "question": "If two molecules have the same numbers of atoms of the same elements and the SAME covalent partnerships but different structures, the two molecules may be",
         "unique": false,
-        "id": 135,
+        "id": 137,
         "options": [
           {
             "text": "Enantiomers",
@@ -10852,9 +10852,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as",
+        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980181/files/4145195/download?verifier=x4RxY6e5vpfq3yWAEQWvhGQKXf6t6uN6xsEDBKpx\" alt=\"\">",
         "unique": false,
-        "id": 130,
+        "id": 132,
         "options": [
           {
             "text": "a hydrocarbon group",
@@ -10881,7 +10881,7 @@
       {
         "question": "What is the best description of a carbonyl group?",
         "unique": false,
-        "id": 134,
+        "id": 136,
         "options": [
           {
             "text": "A nitrogen and two hydrogens joined to a carbon by covalent bonds",
@@ -10906,9 +10906,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as",
+        "question": "The following functional group is known as<br><img src=\"/assessment_questions/3980180/files/4145194/download?verifier=SQyCHIG9nsAi2GmmuFw9BOE5bPino2w6GTGOQe8r\" alt=\"\">",
         "unique": false,
-        "id": 130,
+        "id": 142,
         "options": [
           {
             "text": "a phosphorous group",
@@ -10935,7 +10935,7 @@
       {
         "question": "Compounds with amino groups are known as",
         "unique": false,
-        "id": 132,
+        "id": 134,
         "options": [
           {
             "text": "amines",
@@ -10960,9 +10960,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as -S-H",
+        "question": "The following functional group is known as<br> <br> -S-H",
         "unique": false,
-        "id": 142,
+        "id": 147,
         "options": [
           {
             "text": "a sulfhydryl group",
@@ -10989,7 +10989,7 @@
       {
         "question": "If two molecules have the same number of atoms of the same elements but DIFFERENT covalent arrangements, the two molecules are",
         "unique": true,
-        "id": 155,
+        "id": 163,
         "options": [
           {
             "text": "Enantiomers",
@@ -11016,7 +11016,7 @@
       {
         "question": "If two molecules are mirror images of each other, the two molecules may be",
         "unique": true,
-        "id": 156,
+        "id": 164,
         "options": [
           {
             "text": "Enantiomers",
@@ -11041,7 +11041,7 @@
         ]
       }
     ],
-    "unique_questions": 2
+    "unique_questions": 3
   },
   {
     "quiz_title": "SQ topic 3 level 2 (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
@@ -11049,7 +11049,7 @@
       {
         "question": "Compounds with sulfhydryl groups are known as",
         "unique": false,
-        "id": 139,
+        "id": 143,
         "options": [
           {
             "text": "hydrogen sulfurs",
@@ -11074,9 +11074,9 @@
         ]
       },
       {
-        "question": "Which of the following statements is FALSE?",
+        "question": "Which of the following statements is <strong>FALSE</strong>?",
         "unique": false,
-        "id": 154,
+        "id": 161,
         "options": [
           {
             "text": "Amino groups tend to act as bases.",
@@ -11101,9 +11101,9 @@
         ]
       },
       {
-        "question": "The molecules shown below are best described as",
-        "unique": false,
-        "id": 147,
+        "question": "The molecules shown below are best described as<br> <br><img src=\"/assessment_questions/3980164/files/4145183/download?verifier=6aIK6rYrPywuRcQdrZ1Xi0bRxZdZWO5jf9PUY042\" alt=\"\">",
+        "unique": true,
+        "id": 165,
         "options": [
           {
             "text": "Isotopes",
@@ -11130,7 +11130,7 @@
       {
         "question": "Molecules consisting only of carbon and hydrogen are known as",
         "unique": false,
-        "id": 148,
+        "id": 154,
         "options": [
           {
             "text": "hydrocarbons or carbohydrates",
@@ -11155,9 +11155,9 @@
         ]
       },
       {
-        "question": "The following functional group is known as -O-H",
+        "question": "The following functional group is known as<br> <br> -O-H",
         "unique": false,
-        "id": 138,
+        "id": 141,
         "options": [
           {
             "text": "a water group",
@@ -11182,9 +11182,9 @@
         ]
       },
       {
-        "question": "The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?",
+        "question": "<p>The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?</p> <p><img src=\"/assessment_questions/13311830/files/17370754/download?verifier=A9bYdeGtCdij3WyuNnYdr273StnEwTSqMgg2Fu3B\" alt=\"Chapter 4 questions 41, 42.jpg\" width=\"204\" height=\"119\"></p>",
         "unique": false,
-        "id": 140,
+        "id": 144,
         "options": [
           {
             "text": "amino and carboxyl",
@@ -11211,7 +11211,7 @@
       {
         "question": "Compounds with amino groups are known as",
         "unique": false,
-        "id": 132,
+        "id": 134,
         "options": [
           {
             "text": "amides",
@@ -11236,9 +11236,9 @@
         ]
       },
       {
-        "question": "Which of the following terms most accurately describes the shape of an ethylene molecule?",
+        "question": "Which of the following terms most accurately describes the shape of an ethylene molecule?<br><br><img src=\"/assessment_questions/3980160/files/4145181/download?verifier=63L1CLh5kmRWo3lEwKM4Ashnoe1zV1Ue93yWwnrw\" alt=\"\">",
         "unique": true,
-        "id": 157,
+        "id": 166,
         "options": [
           {
             "text": "spherical",
@@ -11265,7 +11265,7 @@
       {
         "question": "If two molecules are mirror images of each other, the two molecules may be",
         "unique": false,
-        "id": 156,
+        "id": 164,
         "options": [
           {
             "text": "Geometric isomers",
@@ -11292,7 +11292,7 @@
       {
         "question": "The carbon skeletons of organic molecules may",
         "unique": true,
-        "id": 158,
+        "id": 167,
         "options": [
           {
             "text": "all of these answers are correct",
@@ -11317,6 +11317,6 @@
         ]
       }
     ],
-    "unique_questions": 2
+    "unique_questions": 3
   }
 ]
