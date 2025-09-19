@@ -15,6 +15,7 @@
 
 # TODOs for Joshua (im currently working on scrapping the quiz questions from canvas)
 - some questions have images, scrape those images too - done
+- provide a unique question number only if the question and the question_image_url are the same
 - some answer options have images, scrape those too
 - some answer comments have images, scrape those too
 - these images are in url form. (and it downloads the img when fetched) - figure out a solution for this

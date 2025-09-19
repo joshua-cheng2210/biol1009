@@ -11450,6 +11450,292 @@
     "unique_questions": 2
   },
   {
+    "quiz_title": "SQ topic 3 level 1d (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)_2",
+    "questions": [
+      {
+        "question": "The central carbon in amino acids is asymmetric in all amino acids except:",
+        "question_image_url": "",
+        "unique": false,
+        "id": 145,
+        "options": [
+          {
+            "text": "all amino acids without exception",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "alanine (R = -CH3)",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "aspartate (R = -CH2COOH)",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "glycine (R = -H)",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Compounds with carboxyl groups are known as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 152,
+        "options": [
+          {
+            "text": "hydrocarbons",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "aldehydes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "carboxylic acids",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "ketones",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If two molecules have the same number of atoms of the same elements but DIFFERENT covalent arrangements, the two molecules are",
+        "question_image_url": "",
+        "unique": false,
+        "id": 155,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "All of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The two molecules shown in the figure below are best described as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 146,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements is FALSE?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 154,
+        "options": [
+          {
+            "text": "Amino groups tend to act as bases.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "sulfhydryl groups act as bases.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Carboxyl groups tend to act as acids.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Hydroxyl groups can form hydrogen bonds.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Compounds with hydroxyl groups are known as",
+        "question_image_url": "",
+        "unique": true,
+        "id": 157,
+        "options": [
+          {
+            "text": "thiols",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "aldehydes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "alcohols",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "ketones",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Geometric isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a hydroxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydrocarbon group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carbonyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Identify the asymmetric carbon in this molecule",
+        "question_image_url": "",
+        "unique": false,
+        "id": 151,
+        "options": [
+          {
+            "text": "It is the 4th carbon from the left",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "It is the 3rd carbon from the left",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "It is the 1st carbon on the left",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "It is the 2nd carbon from the left",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      }
+    ],
+    "unique_questions": 1
+  },
+  {
     "quiz_title": "SQ topic 3 level 2 (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
@@ -11652,7 +11938,7 @@
         "question": "Which of the following terms most accurately describes the shape of an ethylene molecule?",
         "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980160/files/4145181/download?verifier=63L1CLh5kmRWo3lEwKM4Ashnoe1zV1Ue93yWwnrw",
         "unique": true,
-        "id": 157,
+        "id": 158,
         "options": [
           {
             "text": "spherical",
@@ -11708,7 +11994,7 @@
         "question": "The carbon skeletons of organic molecules may",
         "question_image_url": "",
         "unique": true,
-        "id": 158,
+        "id": 159,
         "options": [
           {
             "text": "all of these answers are correct",
@@ -11734,5 +12020,4313 @@
       }
     ],
     "unique_questions": 2
+  },
+  {
+    "quiz_title": "SQ topic 3 level 2 (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)_2",
+    "questions": [
+      {
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as -S-H",
+        "question_image_url": "",
+        "unique": false,
+        "id": 142,
+        "options": [
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a sulfhydryl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a sulfate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydrogen sulfide group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If two molecules have the same numbers of atoms of the same elements and the SAME covalent partnerships but different structures, the two molecules may be",
+        "question_image_url": "",
+        "unique": false,
+        "id": 135,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Either enantiomers or geometric isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which chemical group is most likely to be responsible for an organic molecule behaving as a base?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 144,
+        "options": [
+          {
+            "text": "carboxyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "carbonyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydroxyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "amino",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+        "question_image_url": "",
+        "unique": false,
+        "id": 143,
+        "options": [
+          {
+            "text": "have identical three-dimensional shapes.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are structural isomers.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are mirror images of one another and have the same biological activity.",
+            "is_correct": false,
+            "comment": ""
+          },
+          {
+            "text": "are mirror images of one another.",
+            "is_correct": true,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a carbonyl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a carboxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydrocarbon group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydroxyl group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements is FALSE?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 154,
+        "options": [
+          {
+            "text": "Hydroxyl groups can form hydrogen bonds.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Amino groups tend to act as bases.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Carboxyl groups tend to act as acids.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "sulfhydryl groups act as bases.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The two molecules shown in the figure below are best described as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 146,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Identify the asymmetric carbon in this molecule",
+        "question_image_url": "",
+        "unique": false,
+        "id": 151,
+        "options": [
+          {
+            "text": "It is the 2nd carbon from the left",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "It is the 4th carbon from the left",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "It is the 1st carbon on the left",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "It is the 3rd carbon from the left",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the molecules listed below can form isomers? CH4 C3H8 C4H10",
+        "question_image_url": "",
+        "unique": false,
+        "id": 141,
+        "options": [
+          {
+            "text": "All of them can form isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "CH4 and C3H8 cannot form isomers, but C4H10can form isomers",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "CH4 cannot form isomers, but C3H8 and C4H10can form isomers",
+            "is_correct": false,
+            "comment": ""
+          },
+          {
+            "text": "None of them can form isomers.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 0
+  },
+  {
+    "quiz_title": "SQ topic 3 level 2 (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)_3",
+    "questions": [
+      {
+        "question": "Compounds with amino groups are known as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 132,
+        "options": [
+          {
+            "text": "amines",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "ketones",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "amides",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "aldehydes",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "When a carbon atom forms covalent bonds to 4 different atoms, those bonds angle towards the corners of an imaginary",
+        "question_image_url": "",
+        "unique": true,
+        "id": 160,
+        "options": [
+          {
+            "text": "cross",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "square",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "tetrahedron",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "box",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as -S-H",
+        "question_image_url": "",
+        "unique": false,
+        "id": 142,
+        "options": [
+          {
+            "text": "a hydrogen sulfide group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a sulfate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a sulfhydryl group",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 140,
+        "options": [
+          {
+            "text": "amino and carbonyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "amino and carboxyl",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "hydroxyl and carbonyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "methyl and carboxyl",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "an oxygen phosphate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a phosphate group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "an oxygen phosphorous group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a phosphorous group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Compounds with hydroxyl groups are known as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 157,
+        "options": [
+          {
+            "text": "ketones",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "thiols",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "alcohols",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "aldehydes",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Which action could produce a carbonyl group?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 149,
+        "options": [
+          {
+            "text": "the addition of a thiol to a hydroxyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the replacement of an H of a methyl group with oxygen",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the replacement of the –O-H of a carboxyl group with hydrogen",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "the replacement of the nitrogen of an amine with oxygen",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following terms most accurately describes the shape of an ethylene molecule?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 158,
+        "options": [
+          {
+            "text": "flat",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "spherical",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "tetrahedral",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "cubical",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 1
+  },
+  {
+    "quiz_title": "SQ topic 3 level 2 (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)_4",
+    "questions": [
+      {
+        "question": "Which of the following hydrocarbons has a double bond in its carbon skeleton?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 161,
+        "options": [
+          {
+            "text": "C2H4",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "C3H8",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "C2H2",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "C2H6",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Geometric isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If two molecules have the same numbers of atoms of the same elements and the SAME covalent partnerships but different structures, the two molecules may be",
+        "question_image_url": "",
+        "unique": false,
+        "id": 135,
+        "options": [
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": "The molecules could be either enantiomers or geometric isomers."
+          },
+          {
+            "text": "Either enantiomers or geometric isomers",
+            "is_correct": true,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If two molecules are mirror images of each other, the two molecules may be",
+        "question_image_url": "",
+        "unique": false,
+        "id": 156,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Enantiomers or geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What functional group is commonly used in cells to transfer energy from one organic molecule to another?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 136,
+        "options": [
+          {
+            "text": "phosphate",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "carboxyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "sulfhydryl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydroxyl",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as -S-H",
+        "question_image_url": "",
+        "unique": false,
+        "id": 142,
+        "options": [
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a sulfate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydrogen sulfide group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a sulfhydryl group",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as -O-H",
+        "question_image_url": "",
+        "unique": false,
+        "id": 138,
+        "options": [
+          {
+            "text": "a hydroxyl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a hydroxide group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a water group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a carboxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carbonyl group",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a hydroxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydrocarbon group",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Organic chemistry is defined as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 153,
+        "options": [
+          {
+            "text": "the study of natural (as opposed to synthetic) compounds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the study of carbon compounds",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "the study of hydrocarbons",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the study of compounds made only by living cells",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a hydroxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carbonyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydrocarbon group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      }
+    ],
+    "unique_questions": 1
+  },
+  {
+    "quiz_title": "SQ topic 3 level 2 (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)_5",
+    "questions": [
+      {
+        "question": "If two molecules have the same number of atoms of the same elements but DIFFERENT covalent arrangements, the two molecules are",
+        "question_image_url": "",
+        "unique": false,
+        "id": 155,
+        "options": [
+          {
+            "text": "All of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If two molecules are mirror images of each other, the two molecules may be",
+        "question_image_url": "",
+        "unique": false,
+        "id": 156,
+        "options": [
+          {
+            "text": "Enantiomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enantiomers or geometric isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which chemical group is most likely to be responsible for an organic molecule behaving as a base?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 144,
+        "options": [
+          {
+            "text": "hydroxyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "carbonyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "amino",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "carboxyl",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The molecules shown below are best described as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 147,
+        "options": [
+          {
+            "text": "Structural isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Isotopes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The following functional group is known as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 130,
+        "options": [
+          {
+            "text": "a hydroxyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hydrocarbon group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carbonyl group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "If two molecules have the same numbers of atoms of the same elements and the SAME covalent partnerships but different structures, the two molecules may be",
+        "question_image_url": "",
+        "unique": false,
+        "id": 135,
+        "options": [
+          {
+            "text": "Structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Either enantiomers or geometric isomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Enantiomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Geometric isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements is FALSE?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 154,
+        "options": [
+          {
+            "text": "Amino groups tend to act as bases.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Hydroxyl groups can form hydrogen bonds.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "sulfhydryl groups act as bases.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Carboxyl groups tend to act as acids.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What functional group is commonly used in cells to transfer energy from one organic molecule to another?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 136,
+        "options": [
+          {
+            "text": "hydroxyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "carboxyl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "sulfhydryl",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "phosphate",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      }
+    ],
+    "unique_questions": 0
+  },
+  {
+    "quiz_title": "SQ topic 4 level 1a (Chapter 5): BIOL 1009 (070-082) General Biology (Fall 2025)",
+    "questions": [
+      {
+        "question": "If I have trouble seeing a figure for a particular question, I should:",
+        "question_image_url": "",
+        "unique": true,
+        "id": 162,
+        "options": [
+          {
+            "text": "re-size my browser window. If that doesn't work I should make sure I'm using Google chrome and have recently cleared the cache from my browser.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "assume the question is missing a figure.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Polysaccharides, nucleic acids, and proteins are similar in that they",
+        "question_image_url": "",
+        "unique": true,
+        "id": 163,
+        "options": [
+          {
+            "text": "are synthesized from monomers by dehydration reactions",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "are decomposed into their subunits by dehydration reactions",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are synthesized from monomers by the process of hydrolysis",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "all contain nitrogen in their monomer building blocks",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following are NOT components of nucleotides?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 164,
+        "options": [
+          {
+            "text": "a sugar",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a phosphate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a nitrogenous base",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "an “R” group attached to a central carbon atom",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "What is the correct formula for a monosaccharide that is 4 carbons long?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 165,
+        "options": [
+          {
+            "text": "C4H4O2",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "C4H8O8",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "C4H8O4",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "C4H4O4",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "On what basis are different molecules grouped as “lipids”?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 166,
+        "options": [
+          {
+            "text": "Compounds designated as lipids are grouped together because they are formed from fatty acids.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Compounds designated as lipids are grouped together because they have a glycerol backbone.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Compounds designated as lipids are grouped together because they mix poorly, if at all, with water.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Compounds designated as lipids are grouped together because they are located in membranes.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The proportion of Hydrogen to Oxygen to Carbon in a monosaccharide is",
+        "question_image_url": "",
+        "unique": true,
+        "id": 167,
+        "options": [
+          {
+            "text": "1:1:2",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "1:1:1",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "1:2:1",
+            "is_correct": false,
+            "comment": ""
+          },
+          {
+            "text": "2:1:1",
+            "is_correct": true,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What maintains the secondary structure of a protein?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 168,
+        "options": [
+          {
+            "text": "Ionic bonds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Hydrogen bonds",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Peptide bonds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Disulfide bonds",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements is FALSE?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 154,
+        "options": [
+          {
+            "text": "Nucleotides are the monomers from which nucleic acids are formed.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Fatty acids are the monomers from which lipid molecules are formed.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Amino acids are the monomers from which proteins are formed.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Sugars are the monomers from which polysaccharides are formed.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements about the nucleotides used in RNA synthesis is correct?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 169,
+        "options": [
+          {
+            "text": "The nucleotides used in RNA synthesis have ribose as their sugar component and do not include nucleotides that have thymine as their nitrogenous base.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "The nucleotides used in RNA synthesis have deoxyribose as their sugar component and do not include nucleotides that have uracil as their nitrogenous base.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The nucleotides used in RNA synthesis have deoxyribose as their sugar component and do not include nucleotides that have thymine as their nitrogenous base.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The nucleotides used in RNA synthesis have ribose as their sugar component and do not include nucleotides that have uracil as their nitrogenous base.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following is NOT found in RNA molecules?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 170,
+        "options": [
+          {
+            "text": "uracil",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "thymine",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "cytosine",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "guanine",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "In the double helix structure of nucleic acids, cytosine hydrogen bonds to",
+        "question_image_url": "",
+        "unique": true,
+        "id": 171,
+        "options": [
+          {
+            "text": "Guanine",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Thymine",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Adenine",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Deoxyribose",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 10
+  },
+  {
+    "quiz_title": "SQ topic 4 level 1b (Chapter 5): BIOL 1009 (070-082) General Biology (Fall 2025)",
+    "questions": [
+      {
+        "question": "What maintains the secondary structure of a protein?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 168,
+        "options": [
+          {
+            "text": "Peptide bonds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Hydrogen bonds",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Ionic bonds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Disulfide bonds",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements about the nucleotides used in DNA synthesis is correct?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 172,
+        "options": [
+          {
+            "text": "The nucleotides used in DNA synthesis have deoxyribose as their sugar component and do not include nucleotides that have uracil as their nitrogenous base.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "The nucleotides used in DNA synthesis have ribose as their sugar component and do not include nucleotides that have thymine as their nitrogenous base.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The nucleotides used in DNA synthesis have deoxyribose as their sugar component and do not include nucleotides that have thymine as their nitrogenous base.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The nucleotides used in DNA synthesis have ribose as their sugar component and do not include nucleotides that have uracil as their nitrogenous base.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Nucleotides in a single DNA chain are joined together by",
+        "question_image_url": "",
+        "unique": true,
+        "id": 173,
+        "options": [
+          {
+            "text": "a covalent bond between the phosphate group of one nucleotide and the sugar group of the next nucleotide",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "hydrogen bonds between the phosphate group of one nucleotide and the sugar group of the next nucleotide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a covalent bond between the nitrogenous base of one nucleotide and the nitrogenous base of the next nucleotide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydrogen bonds between the nitrogenous base of one nucleotide and the nitrogenous base of the next nucleotide",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "On what basis are different molecules grouped as “lipids”?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 166,
+        "options": [
+          {
+            "text": "Compounds designated as lipids are grouped together because they mix poorly, if at all, with water.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Compounds designated as lipids are grouped together because they have a glycerol backbone.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Compounds designated as lipids are grouped together because they are located in membranes.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Compounds designated as lipids are grouped together because they are formed from fatty acids.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Polysaccharides, nucleic acids, and proteins are similar in that they",
+        "question_image_url": "",
+        "unique": false,
+        "id": 163,
+        "options": [
+          {
+            "text": "are decomposed into their subunits by dehydration reactions",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are synthesized from monomers by the process of hydrolysis",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are synthesized from monomers by dehydration reactions",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "all contain nitrogen in their monomer building blocks",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following is NOT found in DNA molecules?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 174,
+        "options": [
+          {
+            "text": "uracil",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "thymine",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "guanine",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "cytosine",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "In the figure of a DNA molecule shown below, the parts of the molecules labeled “A”, “B” and “C” correspond to",
+        "question_image_url": "https://canvas.umn.edu/assessment_questions/assessment_questions/3980319/files/4145227/download?verifier=ovyR6hO6aE66BR0cNx7eEALD6ND3Gfj9P0gNFQrG",
+        "unique": true,
+        "id": 175,
+        "options": [
+          {
+            "text": "A = a deoxyribose, B = a nitrogenous base and C = a phosphate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A = a deoxyribose, B = a phosphate group and C = a nitrogenous base",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A = a phosphate group, B = deoxyribose and C = a nitrogenous base",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A = a phosphate group, B = a nitrogenous base and C = deoxyribose",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "What would be the sequence of the RNA molecule made using the following DNA strand as a template? 5’ TCTGAA 3’",
+        "question_image_url": "",
+        "unique": true,
+        "id": 176,
+        "options": [
+          {
+            "text": "5’ TTCAGA 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’AGACTT 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’ UUCAGA 3’",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "5’ AGACUU 3’",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If you were asked to build a polymer that is two monomers long (ok, that wouldn’t really be a polymer, but let’s ignore that for the moment), and you could use two different types of monomers, “A” and “B”, how many different polymers could you build?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 177,
+        "options": [
+          {
+            "text": "2",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "3",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "4",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "1",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What is a triacylglycerol?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 178,
+        "options": [
+          {
+            "text": "A molecule formed from three alcohols by dehydration reactions.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A lipid that makes up much of the plasma membrane",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A lipid made with three fatty acids and glycerol",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "A protein with a tertiary structure",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 7
+  },
+  {
+    "quiz_title": "SQ topic 4 level 1c (Chapter 5): BIOL 1009 (070-082) General Biology (Fall 2025)",
+    "questions": [
+      {
+        "question": "What maintains the secondary structure of a protein?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 168,
+        "options": [
+          {
+            "text": "Disulfide bonds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Hydrogen bonds",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Ionic bonds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Peptide bonds",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following are NOT polymers:",
+        "question_image_url": "",
+        "unique": true,
+        "id": 179,
+        "options": [
+          {
+            "text": "Polysaccharides",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Lipids",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Proteins",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Nucleic acids",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What is the correct formula for a monosaccharide that is 4 carbons long?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 165,
+        "options": [
+          {
+            "text": "C4H4O4",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "C4H8O4",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "C4H4O2",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "C4H8O8",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "When two amino acids are joined to form a dipeptide,",
+        "question_image_url": "",
+        "unique": true,
+        "id": 180,
+        "options": [
+          {
+            "text": "a dehydration reaction leads to the formation of a peptide bond between the two amino acids",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a peptidization reaction leads to the formation of an amino bond between the two amino acids",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a dehydration reaction leads to the formation of an amino bond between the two amino acids",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a peptidization reaction leads to the formation of a peptide bond between the two amino acids",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following are examples of types of secondary structures of proteins?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 181,
+        "options": [
+          {
+            "text": "alpha helices and disulfide bridges",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "beta pleated sheets and peptide bonds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "peptide bonds and disulfide bridges",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "alpha helices and beta pleated sheets.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The DNA molecules in our cells are composed of two chains held together by",
+        "question_image_url": "",
+        "unique": true,
+        "id": 182,
+        "options": [
+          {
+            "text": "ionic bonds between phosphate and sugar groups",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ionic bonds between nitrogenous bases",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydrogen bonds between nitrogenous bases",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "hydrogen bonds between phosphate and sugar groups",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What functional groups are found in sugar molecules?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 183,
+        "options": [
+          {
+            "text": "a carboxyl group, multiple hydroxyl groups and a phosphate group.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carbonyl group, multiple hydroxyl groups and a phosphate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carbonyl group and multiple hydroxyl groups",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a carboxyl group and multiple hydroxyl groups",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements about enzymes is true?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 184,
+        "options": [
+          {
+            "text": "Enzymes regulate reactions by slowing them down to prevent premature exhaustion of substrates.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enzymes speed up chemical reactions and need to be replenished as they are used up in the reactions.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enzymes alter the relative concentrations of products and reactants that are present at equilibrium.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enzymes speed up chemical reactions without being used up in the reactions.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "What would be the sequence of the DNA molecule made using the following DNA strand as a template? 5’ AATTCGC 3’",
+        "question_image_url": "",
+        "unique": true,
+        "id": 185,
+        "options": [
+          {
+            "text": "5’ TTAAGCG 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’ GCGAATT 3’",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "5’ GCGAAUU 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’ UUAAGCG 3’",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following help form the tertiary structure of a protein?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 186,
+        "options": [
+          {
+            "text": "ionic bonds between amino acids with oppositely charged side chains",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "disulfide bridges between the sulfhydryl groups on cysteine amino acids",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "clustering of amino acids with nonpolar side chains in the interior of the protein, out of contact with water",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 8
+  },
+  {
+    "quiz_title": "SQ topic 4 level 1d (Chapter 5)",
+    "questions": [
+      {
+        "question": "The quaternary structure of a protein refers to",
+        "question_image_url": "",
+        "unique": true,
+        "id": 187,
+        "options": [
+          {
+            "text": "the 3-dimensional shape of a polypeptide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "its amino acid sequence",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the folded and coiled segment of a polypeptide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the overall shape of the protein formed by the aggregation of the polypeptides in the protein",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "L-methionine and D-methionine are examples of",
+        "question_image_url": "",
+        "unique": true,
+        "id": 188,
+        "options": [
+          {
+            "text": "geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "enantiomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "structural isomers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements is FALSE?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 154,
+        "options": [
+          {
+            "text": "Amino acids are the monomers from which proteins are formed.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Nucleotides are the monomers from which nucleic acids are formed.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Sugars are the monomers from which polysaccharides are formed.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Fatty acids are the monomers from which lipid molecules are formed.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "If someone wants to eat lots of carbohydrates in preparation for running a marathon, that person could",
+        "question_image_url": "",
+        "unique": true,
+        "id": 189,
+        "options": [
+          {
+            "text": "eat lots of sugars",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "eat lots of monosaccharides",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "eat lots of polysaccharides",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following are storage polysaccharides?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 190,
+        "options": [
+          {
+            "text": "glycogen and starch",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "cellulose and chitin",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "glycogen and cellulose",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "starch and chitin",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What would be the sequence of the RNA molecule made using the following DNA strand as a template? 5’ AATTCGC 3’",
+        "question_image_url": "",
+        "unique": true,
+        "id": 191,
+        "options": [
+          {
+            "text": "5’ GCGAAUU 3’",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "5’ GCGAATT 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’ TTAAGCG 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’ UUAAGCG 3’",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following pairings between nucleotides is INCORRECT?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 192,
+        "options": [
+          {
+            "text": "Guanine pairs with cytosine",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Adenine pairs with guanine",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Adenine pairs with thymine",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Adenine pairs with uracil",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Lipids that contain one or more C=C double bonds are referred to as",
+        "question_image_url": "",
+        "unique": true,
+        "id": 193,
+        "options": [
+          {
+            "text": "unsaturated fats",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "saturated fats",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "phospholipids",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "triacylglycerols",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following are NOT polymers:",
+        "question_image_url": "",
+        "unique": false,
+        "id": 179,
+        "options": [
+          {
+            "text": "Proteins",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Nucleic acids",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Polysaccharides",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Lipids",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "What would be the sequence of the DNA molecule made using the following DNA strand as a template? 5’ GAGGCTT 3’",
+        "question_image_url": "",
+        "unique": true,
+        "id": 194,
+        "options": [
+          {
+            "text": "5’ CUCCGAA 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’ AAGCCTC 3’",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "5’ AAGCCUC 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’ CTCCGAA 3’",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 8
+  },
+  {
+    "quiz_title": "SQ topic 4 level 1d (Chapter 5): BIOL 1009 (070-082) General Biology (Fall 2025)",
+    "questions": [
+      {
+        "question": "Which of the following statements about enzymes is true?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 184,
+        "options": [
+          {
+            "text": "Enzymes regulate reactions by slowing them down to prevent premature exhaustion of substrates.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enzymes speed up chemical reactions without being used up in the reactions.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Enzymes alter the relative concentrations of products and reactants that are present at equilibrium.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enzymes speed up chemical reactions and need to be replenished as they are used up in the reactions.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "A general term for the repeating units that are assembled to form polymers is:",
+        "question_image_url": "",
+        "unique": true,
+        "id": 195,
+        "options": [
+          {
+            "text": "monomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "buildmers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "polyblocks",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "domains",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following are examples of types of secondary structures of proteins?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 181,
+        "options": [
+          {
+            "text": "peptide bonds and disulfide bridges",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "alpha helices and disulfide bridges",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "alpha helices and beta pleated sheets.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "beta pleated sheets and peptide bonds",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The proportion of Hydrogen to Oxygen to Carbon in a monosaccharide is",
+        "question_image_url": "",
+        "unique": false,
+        "id": 167,
+        "options": [
+          {
+            "text": "1:1:2",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "1:2:1",
+            "is_correct": false,
+            "comment": ""
+          },
+          {
+            "text": "1:1:1",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "2:1:1",
+            "is_correct": true,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What functional groups are found in sugar molecules?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 183,
+        "options": [
+          {
+            "text": "a carbonyl group, multiple hydroxyl groups and a phosphate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group and multiple hydroxyl groups",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group, multiple hydroxyl groups and a phosphate group.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carbonyl group and multiple hydroxyl groups",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Glucose and fructose are examples of",
+        "question_image_url": "",
+        "unique": true,
+        "id": 196,
+        "options": [
+          {
+            "text": "geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "stereoisomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "structural isomers",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "What would be the sequence of the DNA molecule made using the following DNA strand as a template? 5’ TCTGAA 3’",
+        "question_image_url": "",
+        "unique": true,
+        "id": 197,
+        "options": [
+          {
+            "text": "5’AGACTT 3’",
+            "is_correct": false,
+            "comment": ""
+          },
+          {
+            "text": "5’ AGACUU 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’ TTCAGA 3’",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "5’ UUCAGA 3’",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The secondary structure of a protein refers to",
+        "question_image_url": "",
+        "unique": true,
+        "id": 198,
+        "options": [
+          {
+            "text": "the 3-dimensional shape of a polypeptide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the folded and coiled segment of a polypeptide",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "the overall shape of the protein formed by the aggregation of the polypeptides in the protein",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "its amino acid sequence",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following are storage polysaccharides?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 190,
+        "options": [
+          {
+            "text": "glycogen and starch",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "cellulose and chitin",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "glycogen and cellulose",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "starch and chitin",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Why do we care about protein folding?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 199,
+        "options": [
+          {
+            "text": "Accumulation of mis-folded proteins is associated with Alzheimer’s disease.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enzymes catalyze many critical reactions in our bodies and won’t work if mis-folded.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "All of these answers are correct.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Accumulation of mis-folded proteins is associated with Parkinson’s disease.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 5
+  },
+  {
+    "quiz_title": "SQ topic 4 level 1d (Chapter 5): BIOL 1009 (070-082) General Biology (Fall 2025)_2",
+    "questions": [
+      {
+        "question": "Which of the following help form the tertiary structure of a protein?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 186,
+        "options": [
+          {
+            "text": "all of these answers are correct",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "ionic bonds between amino acids with oppositely charged side chains",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "clustering of amino acids with nonpolar side chains in the interior of the protein, out of contact with water",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "disulfide bridges between the sulfhydryl groups on cysteine amino acids",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Polysaccharides, nucleic acids, and proteins are similar in that they",
+        "question_image_url": "",
+        "unique": false,
+        "id": 163,
+        "options": [
+          {
+            "text": "are decomposed into their subunits by dehydration reactions",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are synthesized from monomers by the process of hydrolysis",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are synthesized from monomers by dehydration reactions",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "all contain nitrogen in their monomer building blocks",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Why do we care about protein folding?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 199,
+        "options": [
+          {
+            "text": "Enzymes catalyze many critical reactions in our bodies and won’t work if mis-folded.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Accumulation of mis-folded proteins is associated with Parkinson’s disease.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "All of these answers are correct.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Accumulation of mis-folded proteins is associated with Alzheimer’s disease.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following best summarizes the relationship between dehydration reactions and hydrolysis?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 200,
+        "options": [
+          {
+            "text": "Dehydration reactions assemble polymers and hydrolysis reactions break down polymers.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Dehydration reactions generally occur during anabolism and hydrolysis reactions generally occur during catabolism.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Macromolecular synthesis occurs through the removal of water and digestion occurs through the addition of water.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "All of these answers are correct",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements about enzymes is true?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 184,
+        "options": [
+          {
+            "text": "Enzymes speed up chemical reactions and need to be replenished as they are used up in the reactions.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enzymes alter the relative concentrations of products and reactants that are present at equilibrium.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enzymes regulate reactions by slowing them down to prevent premature exhaustion of substrates.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enzymes speed up chemical reactions without being used up in the reactions.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The tertiary structure of a protein refers to",
+        "question_image_url": "",
+        "unique": true,
+        "id": 201,
+        "options": [
+          {
+            "text": "the folded and coiled segment of a polypeptide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the overall shape of the protein formed by the aggregation of the polypeptides in the protein",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the 3-dimensional shape of a polypeptide",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "its amino acid sequence",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following provides the most accurate definition of a polymer?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 202,
+        "options": [
+          {
+            "text": "A polymer is a long molecule consisting of many similar or identical building blocks held together by van der Waals forces.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A polymer is a long molecule consisting of many similar or identical building blocks linked by covalent or ionic bonds.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A polymer is a long molecule consisting of many similar or identical building blocks linked by covalent bonds.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "A polymer is a long molecule consisting of many similar or identical building blocks linked by hydrogen bonds.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What functional groups are found in sugar molecules?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 183,
+        "options": [
+          {
+            "text": "a carbonyl group, multiple hydroxyl groups and a phosphate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group, multiple hydroxyl groups and a phosphate group.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group and multiple hydroxyl groups",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carbonyl group and multiple hydroxyl groups",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Lipids that are commonly found in membranes include",
+        "question_image_url": "",
+        "unique": true,
+        "id": 203,
+        "options": [
+          {
+            "text": "phospholipids and triacylglycerol",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "triacylglycerols, sterols and phospholipids",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "triacylglycerol and sterols",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "phospholipids and sterols",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "If you were asked to build a polymer that is 30 monomers long, and you could use two different types of monomers, “A” and “B”, how many different polymers could you build?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 204,
+        "options": [
+          {
+            "text": "60",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "~ 1 billion",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "30",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "~ 1,000",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 5
+  },
+  {
+    "quiz_title": "SQ topic 4 level 2 (Chapter 5)",
+    "questions": [
+      {
+        "question": "In the figure of a DNA molecule shown below, the parts of the molecules labeled “A”, “B” and “C” correspond to",
+        "question_image_url": "",
+        "unique": false,
+        "id": 175,
+        "options": [
+          {
+            "text": "A = a deoxyribose, B = a phosphate group and C = a nitrogenous base",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A = a deoxyribose, B = a nitrogenous base and C = a phosphate group",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A = a phosphate group, B = a nitrogenous base and C = deoxyribose",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "A = a phosphate group, B = deoxyribose and C = a nitrogenous base",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "L-methionine and D-methionine are examples of",
+        "question_image_url": "",
+        "unique": false,
+        "id": 188,
+        "options": [
+          {
+            "text": "geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "enantiomers",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "The amino acid sequence of a protein allows you to determine",
+        "question_image_url": "",
+        "unique": true,
+        "id": 205,
+        "options": [
+          {
+            "text": "the tertiary structure of that protein",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the secondary structure of that protein",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the quaternary structure of that protein",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the primary structure of the protein",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "What would be the sequence of the RNA molecule made using the following DNA strand as a template? 5’ GAGGCTT 3’",
+        "question_image_url": "",
+        "unique": true,
+        "id": 206,
+        "options": [
+          {
+            "text": "5’ CUCCGAA 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’ AAGCCTC 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’ AAGCCUC 3’",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "5’ CTCCGAA 3’",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The word “hydrolysis” was formed from two words,",
+        "question_image_url": "",
+        "unique": true,
+        "id": 207,
+        "options": [
+          {
+            "text": "“hydro”, meaning “water”, and “lysis”, meaning “lie together”",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "“hydro”, meaning “hydraulic”, and “lysis”, meaning “break”",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "“hydro”, meaning “water”, and “lysis”, meaning “break”",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "“hydro”, meaning “hydraulic”, and “lysis”, meaning “lie together”",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What maintains the secondary structure of a protein?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 168,
+        "options": [
+          {
+            "text": "Hydrogen bonds",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Ionic bonds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Peptide bonds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Disulfide bonds",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Lipids that are commonly found in membranes include",
+        "question_image_url": "",
+        "unique": false,
+        "id": 203,
+        "options": [
+          {
+            "text": "phospholipids and sterols",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "phospholipids and triacylglycerol",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "triacylglycerol and sterols",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "triacylglycerols, sterols and phospholipids",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The covalent linkages between nucleotides forming a DNA molecule are known as",
+        "question_image_url": "",
+        "unique": true,
+        "id": 208,
+        "options": [
+          {
+            "text": "glycosidic linkages",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "polynucleotide linkages",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "phosphodiester bonds",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "amide linkages",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If you were asked to build a polymer that is 20 monomers long (note that this would be an unusually short polymer), and you could use four different types of monomers, “A”, “B”, “C” and “D”, how many different polymers could you build?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 209,
+        "options": [
+          {
+            "text": "~ 1 million",
+            "is_correct": false,
+            "comment": ""
+          },
+          {
+            "text": "~1012",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "~ 1,000",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "80",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "A general term for the repeating units that are assembled to form polymers is:",
+        "question_image_url": "",
+        "unique": false,
+        "id": 195,
+        "options": [
+          {
+            "text": "domains",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "monomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "polyblocks",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "buildmers",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 5
+  },
+  {
+    "quiz_title": "SQ topic 4 level 2 (Chapter 5)_2",
+    "questions": [
+      {
+        "question": "Which of the following best summarizes the relationship between dehydration reactions and hydrolysis?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 200,
+        "options": [
+          {
+            "text": "All of these answers are correct",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Dehydration reactions generally occur during anabolism and hydrolysis reactions generally occur during catabolism.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Dehydration reactions assemble polymers and hydrolysis reactions break down polymers.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Macromolecular synthesis occurs through the removal of water and digestion occurs through the addition of water.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements is FALSE?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 154,
+        "options": [
+          {
+            "text": "Amino acids are the monomers from which proteins are formed.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Nucleotides are the monomers from which nucleic acids are formed.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Sugars are the monomers from which polysaccharides are formed.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Fatty acids are the monomers from which lipid molecules are formed.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements best describes how fats are synthesized?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 210,
+        "options": [
+          {
+            "text": "Fats are synthesized from glycerol and fatty acid molecules via hydrolysis reactions.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Fats are synthesized from glycerol and fatty alcohol molecules via dehydration reactions.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Fats are synthesized from glycerol and fatty acid molecules via dehydration reactions.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Fats are synthesized from glycerol and fatty alcohol molecules via hydrolysis reactions.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What would be the sequence of the DNA molecule made using the following DNA strand as a template? 5’ TCTGAA 3’",
+        "question_image_url": "",
+        "unique": false,
+        "id": 197,
+        "options": [
+          {
+            "text": "5’ UUCAGA 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’ TTCAGA 3’",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "5’ AGACUU 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’AGACTT 3’",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements about protein structure is most accurate?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 211,
+        "options": [
+          {
+            "text": "Secondary and tertiary structures are determined by interactions between amino acid side chains.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Secondary structure is determined by interactions between amino acid side chains and tertiary structure is determined by interactions between the repeating constituents of the polypeptide backbone.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Secondary and tertiary structures are determined by interactions between the repeating constituents of the polypeptide backbone.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Secondary structure is determined by interactions between the repeating constituents of the polypeptide backbone and tertiary structure is determined by interactions between amino acid side chains.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "What is the likely order of the following molecules, in order of largest to smallest?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 212,
+        "options": [
+          {
+            "text": "Monosaccharide, disaccharide, polysaccharide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Disaccharide, monosaccharide, polysaccharide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Polysaccharide, disaccharide, monosaccharide",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Polysaccharide, monosaccharide, disaccharide",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following is NOT found in RNA molecules?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 170,
+        "options": [
+          {
+            "text": "cytosine",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "uracil",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "thymine",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "guanine",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "In the figure of a DNA molecule shown below, the parts of the molecules labeled “A”, “B” and “C” correspond to",
+        "question_image_url": "",
+        "unique": false,
+        "id": 175,
+        "options": [
+          {
+            "text": "A = a deoxyribose, B = a phosphate group and C = a nitrogenous base",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A = a phosphate group, B = deoxyribose and C = a nitrogenous base",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A = a deoxyribose, B = a nitrogenous base and C = a phosphate group",
+            "is_correct": false,
+            "comment": ""
+          },
+          {
+            "text": "A = a phosphate group, B = a nitrogenous base and C = deoxyribose",
+            "is_correct": true,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The subunit of polypeptides contains all of the following EXCEPT",
+        "question_image_url": "",
+        "unique": true,
+        "id": 213,
+        "options": [
+          {
+            "text": "an \"R\" group connected to one of the carbons.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a carboxyl group.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a phosphate.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "nitrogen.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Unsaturated fats",
+        "question_image_url": "",
+        "unique": true,
+        "id": 214,
+        "options": [
+          {
+            "text": "are missing at least one hydrogen atom",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "contain at least one branched fatty acid molecule",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "contain at least one covalent double bond joining two carbon atoms (i.e. C=C)",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "contain at least on cyclical fatty acid molecule",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 5
+  },
+  {
+    "quiz_title": "SQ topic 4 level 2 (Chapter 5)_3",
+    "questions": [
+      {
+        "question": "How many water molecules are needed to completely hydrolyze a polymer that is 18 nucleotides long?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 215,
+        "options": [
+          {
+            "text": "9",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "1",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "18",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "17",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "If you were asked to build a polymer that is two monomers long (ok, that wouldn’t really be a polymer, but let’s ignore that for the moment), and you could use two different types of monomers, “A” and “B”, how many different polymers could you build?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 177,
+        "options": [
+          {
+            "text": "2",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "4",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "3",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "1",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The quaternary structure of a protein refers to",
+        "question_image_url": "",
+        "unique": false,
+        "id": 187,
+        "options": [
+          {
+            "text": "the overall shape of the protein formed by the aggregation of the polypeptides in the protein",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "the folded and coiled segment of a polypeptide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the 3-dimensional shape of a polypeptide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "its amino acid sequence",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Nucleotides in a single DNA chain are joined together by",
+        "question_image_url": "",
+        "unique": false,
+        "id": 173,
+        "options": [
+          {
+            "text": "a covalent bond between the nitrogenous base of one nucleotide and the nitrogenous base of the next nucleotide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a covalent bond between the phosphate group of one nucleotide and the sugar group of the next nucleotide",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "hydrogen bonds between the phosphate group of one nucleotide and the sugar group of the next nucleotide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydrogen bonds between the nitrogenous base of one nucleotide and the nitrogenous base of the next nucleotide",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following is NOT found in RNA molecules?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 170,
+        "options": [
+          {
+            "text": "thymine",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "uracil",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "guanine",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "cytosine",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following best summarizes the relationship between dehydration reactions and hydrolysis?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 200,
+        "options": [
+          {
+            "text": "Dehydration reactions generally occur during anabolism and hydrolysis reactions generally occur during catabolism.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "All of these answers are correct",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Dehydration reactions assemble polymers and hydrolysis reactions break down polymers.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Macromolecular synthesis occurs through the removal of water and digestion occurs through the addition of water.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following help form the tertiary structure of a protein?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 186,
+        "options": [
+          {
+            "text": "all of these answers are correct",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "ionic bonds between amino acids with oppositely charged side chains",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "disulfide bridges between the sulfhydryl groups on cysteine amino acids",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "clustering of amino acids with nonpolar side chains in the interior of the protein, out of contact with water",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "A dehydration reaction joins two glucose molecules to form maltose. The formula for glucose is C6H12O6. What is the correct formula for maltose?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 216,
+        "options": [
+          {
+            "text": "C12H22O12",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "C12H24O12",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "C12H22O11",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "C12H23O11",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If starch and cellulose are both polymers of glucose, how come people can digest starch but not cellulose?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 217,
+        "options": [
+          {
+            "text": "The glucose monomers that form starch are joined together by different covalent bonds than the glucose monomers that form cellulose and the enzymes in our bodies that are able to hydrolyze (break) the covalent bonds between the glucose monomers in starch are not able to hydrolyze the covalent bonds between the glucose monomers in cellulose.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "When glucose monomers are joined by dehydration reactions to form cellulose, the glucose monomers are converted into xylose molecules that are impossible for us to digest.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "When glucose monomers are joined by dehydration reactions to form cellulose, the glucose monomers are converted into non-sugar molecules that are impossible for us to digest.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "When glucose monomers are joined by dehydration reactions to form cellulose, the glucose monomers are converted into lactose molecules, which are hard for many people to digest.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If you were asked to build a polymer that is 20 monomers long (note that this would be an unusually short polymer), and you could use four different types of monomers, “A”, “B”, “C” and “D”, how many different polymers could you build?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 209,
+        "options": [
+          {
+            "text": "80",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "~ 1 million",
+            "is_correct": false,
+            "comment": ""
+          },
+          {
+            "text": "~ 1,000",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "~1012",
+            "is_correct": true,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 3
+  },
+  {
+    "quiz_title": "SQ topic 4 level 2 (Chapter 5)_4",
+    "questions": [
+      {
+        "question": "The tertiary structure of a protein refers to",
+        "question_image_url": "",
+        "unique": false,
+        "id": 201,
+        "options": [
+          {
+            "text": "its amino acid sequence",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the folded and coiled segment of a polypeptide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the overall shape of the protein formed by the aggregation of the polypeptides in the protein",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the 3-dimensional shape of a polypeptide",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Which of the following most accurately describes the structure of a membrane formed by phospholipids?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 218,
+        "options": [
+          {
+            "text": "The phospholipids are arranged in a bilayer, with their hydrocarbon tails on the outside of the bilayer and their phosphate groups pointing toward the interior of the membrane.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The phospholipids are arranged in a bilayer, with their hydrocarbon tails pointing toward the interior of the membrane and their phosphate groups on the outside of the bilayer.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "The phospholipids are arranged in a monolayer, with their hydrocarbon tails on the outside of the cell and their phosphate groups pointing toward the interior of the cell.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The phospholipids are arranged in a monolayer, with their hydrocarbon tails pointing toward the interior of the cell and their phosphate groups on the outside of the cell.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "In the double helix structure of nucleic acids, cytosine hydrogen bonds to",
+        "question_image_url": "",
+        "unique": false,
+        "id": 171,
+        "options": [
+          {
+            "text": "Adenine",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Deoxyribose",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Guanine",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Thymine",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The word “hydrolysis” was formed from two words,",
+        "question_image_url": "",
+        "unique": false,
+        "id": 207,
+        "options": [
+          {
+            "text": "“hydro”, meaning “hydraulic”, and “lysis”, meaning “break”",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "“hydro”, meaning “water”, and “lysis”, meaning “lie together”",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "“hydro”, meaning “water”, and “lysis”, meaning “break”",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "“hydro”, meaning “hydraulic”, and “lysis”, meaning “lie together”",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The subunit of polypeptides contains all of the following EXCEPT",
+        "question_image_url": "",
+        "unique": false,
+        "id": 213,
+        "options": [
+          {
+            "text": "a carboxyl group.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a phosphate.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "nitrogen.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "an \"R\" group connected to one of the carbons.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Unsaturated fats",
+        "question_image_url": "",
+        "unique": false,
+        "id": 214,
+        "options": [
+          {
+            "text": "are missing at least one hydrogen atom",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "contain at least one covalent double bond joining two carbon atoms (i.e. C=C)",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "contain at least one branched fatty acid molecule",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "contain at least on cyclical fatty acid molecule",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following help form the tertiary structure of a protein?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 186,
+        "options": [
+          {
+            "text": "all of these answers are correct",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "clustering of amino acids with nonpolar side chains in the interior of the protein, out of contact with water",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ionic bonds between amino acids with oppositely charged side chains",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "disulfide bridges between the sulfhydryl groups on cysteine amino acids",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Nucleotides in a single DNA chain are joined together by",
+        "question_image_url": "",
+        "unique": false,
+        "id": 173,
+        "options": [
+          {
+            "text": "a covalent bond between the phosphate group of one nucleotide and the sugar group of the next nucleotide",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "hydrogen bonds between the nitrogenous base of one nucleotide and the nitrogenous base of the next nucleotide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a covalent bond between the nitrogenous base of one nucleotide and the nitrogenous base of the next nucleotide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydrogen bonds between the phosphate group of one nucleotide and the sugar group of the next nucleotide",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Lipids that contain one or more C=C double bonds are referred to as",
+        "question_image_url": "",
+        "unique": false,
+        "id": 193,
+        "options": [
+          {
+            "text": "saturated fats",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "unsaturated fats",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "phospholipids",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "triacylglycerols",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following pairings between nucleotides is INCORRECT?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 192,
+        "options": [
+          {
+            "text": "Adenine pairs with uracil",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Guanine pairs with cytosine",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Adenine pairs with guanine",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Adenine pairs with thymine",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 1
+  },
+  {
+    "quiz_title": "SQ topic 4 level 2 (Chapter 5)_5",
+    "questions": [
+      {
+        "question": "What is the likely order of the following molecules, in order of largest to smallest?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 212,
+        "options": [
+          {
+            "text": "Monosaccharide, disaccharide, polysaccharide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Disaccharide, monosaccharide, polysaccharide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Polysaccharide, disaccharide, monosaccharide",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Polysaccharide, monosaccharide, disaccharide",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following provides the most accurate definition of a polymer?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 202,
+        "options": [
+          {
+            "text": "A polymer is a long molecule consisting of many similar or identical building blocks held together by van der Waals forces.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A polymer is a long molecule consisting of many similar or identical building blocks linked by covalent or ionic bonds.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A polymer is a long molecule consisting of many similar or identical building blocks linked by covalent bonds.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "A polymer is a long molecule consisting of many similar or identical building blocks linked by hydrogen bonds.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What would be the sequence of the DNA molecule made using the following DNA strand as a template? 5’ GAGGCTT 3’",
+        "question_image_url": "",
+        "unique": false,
+        "id": 194,
+        "options": [
+          {
+            "text": "5’ AAGCCUC 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’ AAGCCTC 3’",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "5’ CUCCGAA 3’",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5’ CTCCGAA 3’",
+            "is_correct": false,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "L-methionine and D-methionine are examples of",
+        "question_image_url": "",
+        "unique": false,
+        "id": 188,
+        "options": [
+          {
+            "text": "structural isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "geometric isomers",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "enantiomers",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Nucleotides in a single DNA chain are joined together by",
+        "question_image_url": "",
+        "unique": false,
+        "id": 173,
+        "options": [
+          {
+            "text": "a covalent bond between the nitrogenous base of one nucleotide and the nitrogenous base of the next nucleotide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydrogen bonds between the nitrogenous base of one nucleotide and the nitrogenous base of the next nucleotide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hydrogen bonds between the phosphate group of one nucleotide and the sugar group of the next nucleotide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a covalent bond between the phosphate group of one nucleotide and the sugar group of the next nucleotide",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Why do we care about protein folding?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 199,
+        "options": [
+          {
+            "text": "All of these answers are correct.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Accumulation of mis-folded proteins is associated with Alzheimer’s disease.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Enzymes catalyze many critical reactions in our bodies and won’t work if mis-folded.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Accumulation of mis-folded proteins is associated with Parkinson’s disease.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following most accurately describes the structure of a membrane formed by phospholipids?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 218,
+        "options": [
+          {
+            "text": "The phospholipids are arranged in a bilayer, with their hydrocarbon tails pointing toward the interior of the membrane and their phosphate groups on the outside of the bilayer.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "The phospholipids are arranged in a bilayer, with their hydrocarbon tails on the outside of the bilayer and their phosphate groups pointing toward the interior of the membrane.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The phospholipids are arranged in a monolayer, with their hydrocarbon tails pointing toward the interior of the cell and their phosphate groups on the outside of the cell.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The phospholipids are arranged in a monolayer, with their hydrocarbon tails on the outside of the cell and their phosphate groups pointing toward the interior of the cell.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which term includes all the other terms on the list?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 219,
+        "options": [
+          {
+            "text": "monosaccharide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "carbohydrate",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "starch",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "polysaccharide",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If you were asked to build a polymer that is 20 monomers long (note that this would be an unusually short polymer), and you could use four different types of monomers, “A”, “B”, “C” and “D”, how many different polymers could you build?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 209,
+        "options": [
+          {
+            "text": "~ 1 million",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "~1012",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "80",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "~ 1,000",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements about the nucleotides used in RNA synthesis is correct?",
+        "question_image_url": "",
+        "unique": false,
+        "id": 169,
+        "options": [
+          {
+            "text": "The nucleotides used in RNA synthesis have ribose as their sugar component and do not include nucleotides that have thymine as their nitrogenous base.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "The nucleotides used in RNA synthesis have deoxyribose as their sugar component and do not include nucleotides that have thymine as their nitrogenous base.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The nucleotides used in RNA synthesis have deoxyribose as their sugar component and do not include nucleotides that have uracil as their nitrogenous base.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The nucleotides used in RNA synthesis have ribose as their sugar component and do not include nucleotides that have uracil as their nitrogenous base.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "unique_questions": 1
   }
 ]
