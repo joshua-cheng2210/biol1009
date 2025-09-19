@@ -16,21 +16,8 @@
 # TODOs for Joshua (im currently working on scrapping the quiz questions from canvas)
 - some questions have images, scrape those images too - done
 - provide a unique question number only if the question and the question_image_url are the same - done
-- scrape the neutral comments too
-
-<div class="quiz_comment">
-<p class="correct_comments">Good work!</p>
-<p class="neutral_comments">First, remember that nucleic acid strands bind to each other with
-an anti-parallel orientation.&nbsp; In other words, they bind so that the 5’ end of one
-strand is hydrogen bonded to the 3’ end of the other strand.&nbsp; Also, remember that U
-(for RNA) or T (for DNA) hydrogen bonds with A, and G hydrogen bonds with C.&nbsp; So, you
-have:<br>
-<br>DNA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-5’ GAGGCTT
-3’<br>RNA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-3’ CUCCGAA 5’<br> <br>If you then follow the convention of writing nucleic acid molecules
-down starting at their 5’ end, the sequence for the RNA molecule is: 5’ AAGCCUC 3’</p>
-</div>
+- scrape the neutral comments for the questions too - done
+- scrape the neutral comments for the questions' options too
 - some answer options have images, scrape those too
 - some answer comments have images, scrape those too
 - these images are in url form. (and it downloads the img when fetched) - figure out a solution for this

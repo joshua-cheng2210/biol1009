@@ -23,7 +23,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "True or false: If you end up missing one of the online lecture quizzes for a good reason, such as being sick, you should immediately contact the professor about your situation and request an extension on the quiz.",
@@ -41,7 +43,9 @@
             "is_correct": true,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "How final course grades will be determined",
@@ -69,7 +73,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Grades in BIOL 1009 are determined using \"guaranteed point cutoffs\". This means that every student in the course who earns more than a certain number of points is guaranteed to receive at least a certain letter grade. In other words, the cutoffs will NOT be raised, even if that means that every student earns a final course grade of \"A\". The course syllabus describes the number of points that may be earned for each course activity and lists the number of points that need to be earned (i.e. the \"guaranteed point cutoffs\") in order to earn different final course grades. Please note that grades are NOT curved in BIOL 1009. You can download a copy of the course syllabus from the course Canvas page."
       },
       {
         "question": "Why is it important to spend some time answering study questions within a few hours, and again within a few days, of listening to the recordings for a topic?",
@@ -87,7 +93,9 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Studies have shown that reviewing the material within a few hours, and then again within a few days and again within a few weeks, is critical to getting the material into your long-term memory. That’s why it is strongly recommended that you start answering study questions within a few hours after listening to the recordings for a topic, again at the end of each week and again before each exam."
       },
       {
         "question": "Studies have shown which of the following to be a particularly effective way for most students to learn new material?",
@@ -110,7 +118,9 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "In one study, different groups of students were shown a list of vocabulary words. The students were then divided into three groups. The first group of students kept studying (reading over) the list of vocabulary words. The second group alternated between reading over the list of words and being tested on them. The third group kept being tested on the list of words. The first group of students did the worst on tests of the vocabulary words. Interestingly, the second and third groups of students did about equally well. This study suggests that repeatedly going over and over study questions is generally a more effective method of learning new material than repeatedly going over the reading (either from the textbook or from your notes). (And, going over your notes is likely to be more effective than going over the textbook)."
       },
       {
         "question": "\"Brad has blown off going to his lab session four times. Chloe got covid and, due to having covid, missed four lab sections. Chloe has a note from her doctor stating that she was too sick to attend class during all four of the lab sessions that she missed.\" Assuming that both Brad and Chloe have done well on all the exams, quizzes, etc., who is on track to pass the course?",
@@ -133,7 +143,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "The lab is a critical part of BIOL 1009. The only way to get the lab experience is to be present in lab. For that reason, to pass the course students may miss no more than three lab sessions for ANY reason."
       },
       {
         "question": "Scholastic dishonesty, such as cheating on exams or plagiarism, is not tolerated in this course. BIOL 1009 is a required course for almost all students taking it. This means that the information covered in the course is information students will likely need to be successful in their future careers. As a result, committing scholastic dishonesty in this course is not only dis-honorable, but is also likely to negatively impact students' future careers. Because scholastic dishonesty is not tolerated in this course, students found to have committed scholastic dishonesty, such as cheating on an exam:",
@@ -156,7 +168,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Integrity is taken seriously in this course. The minimum penalty for students caught cheating or committing some other form of scholastic dishonesty will be a grade of \"0\" on the assignment or exam in question, with no second chances or opportunities to make up any of the lost points. In addition, 100% of students caught cheating or committing some other form of scholastic dishonesty will be reported to the UMN Office of Community Standards."
       },
       {
         "question": "Which of the following statements is/are true? 1) The lecture part of the course will cover 25 different topics during the semester. To access the material for each of these topics, students should click on the topic on the homepage of the course Canvas site. In other words, to access the material for Topic 1, click where it says \"Topic 1\". 2) Students should complete the activities listed on the page for a particular topic by the date for that topic, shown near the end of the course syllabus.",
@@ -184,7 +198,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "Which of the following looks like a good study plan for an average student hoping to earn an above average grade of \"B\" or \"A\" in the course?",
@@ -202,7 +218,9 @@
             "is_correct": false,
             "comment": "This is unlikely to be enough time spent studying outside of class for an average student to earn a grade of \"B\" or \"A\"."
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "Regarding the online quizzes",
@@ -240,7 +258,9 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "You may use any resource you would like to help you answer the quiz questions, EXCEPT you may NOT try to get the TAs to answer the quiz questions for you."
       },
       {
         "question": "Is the professor teaching the course available in real time to help you with the course material?",
@@ -268,7 +288,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": ""
       },
       {
         "question": "According to University policy, how many total hours of effort should an average student need to spend each week during the semester to earn a grade of “C” in a 4 credit course, such as BIOL 1009?",
@@ -301,7 +323,9 @@
             "is_correct": true,
             "comment": "Correct! Please note that an average student should expect to spend more than 12 hours per week on the course to earn a grade of “B” or “A”. Correct! Please note that an average student should expect to spend more than 12 hours per week on the course to earn a grade of “B” or “A”."
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "For an average student to achieve an average grade in this course, the University Senate expects them to put forth three hours of learning effort per credit per week over a full semester. This means that to earn a grade of “C” in BIOL 1009 (a 4 credit course), a student should expect to spend approximately 12 hours per week on coursework. An average student should expect to spend additional hours of effort to earn a grade of “B” or “A” in the course."
       },
       {
         "question": "Repetition is essential to storing information and concepts in you long-term memory. Therefore,",
@@ -319,7 +343,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Staying on top of the material will greatly increase your chances of doing well in the course. In addition, going back over the material at strategic intervals will greatly increase the chances that you will not only do well on exams for this course, but will also remember the material for years to come. That means students who get the material into their long-term memories will avoid the time and frustration associated with having to re-learn material, and will therefore likely have an easier time being successful in future biology classes."
       },
       {
         "question": "Which of the following is a true statement regarding recommend priorities in studying for BIOL 1009?",
@@ -347,7 +373,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "It is highly recommended that students focus on mastering the material covered in the recordings and handouts and focus a lot less on the material covered in the textbook. Although the textbook is a useful resource for learning the course material, it contains a LOT of material, more than what students are typically expected to learn. The material that will be the focus of the quizzes and exams is covered in the recordings and handouts. Therefore, focusing on the material covered in the recordings and handouts is the most efficient way to prepare to do well on quizzes and exams. Studies show that, for most students, the most effective way to master this material is by answering questions, such as study questions."
       },
       {
         "question": "Why is it a good idea to spend a few minutes reviewing the handout and your notes within a few hours, and again within a few days, of listening to the recordings for each topic?",
@@ -365,7 +393,9 @@
             "is_correct": true,
             "comment": "Nice work!"
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Studies have shown that reviewing the material within a few hours, and then again within a few days and again within a few weeks, is important to getting the material into your long-term memory. That’s why it is recommended that you review the information (go over the handouts and your notes and answer some study questions) within a few hours after watching the recordings for a topic, again at the end of the week and again before each exam."
       },
       {
         "question": "Regarding exams and online quizzes",
@@ -383,7 +413,9 @@
             "is_correct": true,
             "comment": "That's right!"
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "It is to your advantage to answer every single question on the quizzes and exams, even if you don’t know the answer, so please DO answer every question."
       },
       {
         "question": "Where can you find important information about the course?",
@@ -411,7 +443,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "The syllabus contains a lot of important information regarding the course. Please read through the syllabus carefully and then refer back to it when you have questions. The syllabus describes course policies, what to do if you have a documented learning disability, have to miss an exam, etc. The syllabus also lists all the assigned readings for the course, the due dates for each quiz and the dates of the exams."
       },
       {
         "question": "When you receive emails from your professor, you should:",
@@ -434,7 +468,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "A large percentage of issues students run into during BIOL 1009 could be avoided by carefully reading each email sent by your professor. And, your professor will be very grateful not to have to write dozens of emails each week repeating information that was already sent to everyone in one or more emails."
       },
       {
         "question": "There will be assigned readings from the textbook for most or all of the course topics.",
@@ -457,7 +493,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "The assigned readings for each topic are already listed in the course syllabus. You can download a copy of the course syllabus from the course Canvas page."
       },
       {
         "question": "If you have trouble seeing a figure on a set of study questions, quiz or exam, you should:",
@@ -485,7 +523,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "All exams must be taken in-person, on the day and time listed in the course syllabus. Valid excuses for a make-up exam are:",
@@ -513,7 +553,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "All exams must be taken, in person, during the time windows listed in the syllabus. Make-up exams will only be granted for university-approved reasons. Those reasons include being too sick to take the exam or being out of town for military service or certain university-approved activities (e.g., varsity sports competitions). Being unavailable due to work, family commitments, vacations, weddings, etc are not valid reasons for requesting a make-up exam."
       },
       {
         "question": "What resources are available on the course Canvas website?",
@@ -541,7 +583,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "A lot of critical information and some very useful resources will be available on the course Canvas site. You will definitely want/need to access this site on a regular basis throughout the semester."
       },
       {
         "question": "Which of the following looks like a good study plan for an average student hoping to earn an average grade of \"C\" in the course?",
@@ -564,7 +608,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "There will be a number of online quizzes throughout the semester.",
@@ -587,7 +633,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "You are free to get help from other students, but may not simply ask a TA to answer the questions for you. Try to answer several sets of study questions before taking the quiz. The study questions are drawn from the same question bank as the quiz questions. Remember that you can take each quiz up to three times, so if you take it once and aren’t happy with your score, you can always go back to answering the study questions until you feel prepared to take the quiz a second or third time."
       },
       {
         "question": "Which of the following statements is correct?",
@@ -615,7 +663,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Approximately 50% of the exam questions will be taken from the study questions. So, if you keep answering the study questions until you are able to answer most or all of them correctly, you can greatly improve your score on exams."
       },
       {
         "question": "Each online quiz must be completed by a certain date.",
@@ -643,7 +693,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": ""
       },
       {
         "question": "If some of the course material is unclear,",
@@ -696,7 +748,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "There are many resources available to BIOL 1009 students. The TAs will be available to help many hours each week. You can arrange a time to meet with the professor. There are many resources posted on the course Canvas site. The web and your textbook are also very useful resources. Also, there is free tutoring available through UMN SMART Learning Commons."
       },
       {
         "question": "Regarding the online quizzes:",
@@ -724,7 +778,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Quizzes must be taken on time by the dates listed on the last page of the course syllabus. Because “stuff happens”, each student's three lowest quiz scores will automatically be dropped. So, if you do miss a quiz for any reason, that quiz will simply count as one of your three dropped quizzes and you won't have to take a zero on that quiz. To avoid missing quizzes, it is strongly recommended that you take each quiz at least once at least a day before that quiz is due. Conversely, it is strongly recommended that you NOT wait until shortly before a quiz is due to attempt it for the first time. Remember, you can take each quiz up to three times with only your highest score counting, so it makes sense to take each quiz at least once a day or two before it's due so it won't matter so much if it slips your mind the day it's due."
       }
     ],
     "unique_questions": 28
@@ -758,7 +814,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": null
       },
       {
         "question": "Electron shells",
@@ -786,7 +844,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "The energy level of an electron is dependent on its distance from the nucleus. Electrons may have only certain average distances from the nucleus and only certain energy levels."
       },
       {
         "question": "When a reversible chemical reaction reaches equilibrium,",
@@ -814,7 +874,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "At equilibrium, the forward and reverse reactions occur at the same rate. This does not mean that the concentrations of reactants and products are equal. Typically one will be significantly higher than the other. But, the relative concentrations of the reactants and products will cease to change. For example, if A and B are converted to C and D, and C and D are converted to A and B in the reverse reaction, then equilibrium is reached when the rate of conversion of A and B to C and D is the same as the rate of conversion of C and D to A and B. If the reaction of A and B to form C and D is more energetically favorable than the reaction of C and D to form A and B, equilibrium may not be reached until the concentrations of C and D are significantly higher than the concentrations of A and B. At that point, even though individual molecules of A and B may be more likely to react to form molecules of C and D, because there are so many more molecules of C and D the rate at which molecules of C and D are converted to A and B becomes the same as the rate at which molecules of A and B are converted to C and D. For example, imagine a test tube in which there are 1,000 molecules each of A and B and that 10% of them interact per minute to form C and D. That would mean that the rate of conversion of A and B to C and D is 100 per minute. If the there are 10,000 molecules each of C and D in the test tube and 1% of them react per minute to form A and B, the rate of conversion of C and D to A and B would also be 100 per minute, indicating that the system is at equilibrium. If you removed some of the molecules of C and D from the test tube, right after you removed the C and D the rate of conversion of A and B to C and D would be unchanged, but the rate of conversion of C and D would decrease. So, the system would no longer be at equilibrium as the rate of conversion of A and B to C and D would be higher than the rate of conversion of C and D to A and B. Because of this, the relative concentrations of A and B versus C and D would also be changing, with C and D increasing relative to A and B. Eventually, the concentrations of C and D would increase enough and the concentrations of A and B would decrease enough so that the rates of the forward and reverse reactions would become equal, meaning that equilibrium would be re-established."
       },
       {
         "question": "How many electrons do carbon atoms have in their valence shell?",
@@ -842,7 +904,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": null
       },
       {
         "question": "How many electrons do nitrogen atoms have in their valence shell?",
@@ -870,7 +934,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": null
       },
       {
         "question": "Pure water at room temperature has a concentration of 10-7 hydrogen ions (H+) and 10-7 hydroxyl ions (OH-). Why is this?",
@@ -898,7 +964,9 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-8 M?",
@@ -926,7 +994,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "The pH of a solution is equal to the negative logarithm (base 10) of the hydrogen ion concentration. In other words, pH = - log [H+]. The base 10 logarithm of 10-8 is -8, so the negative logarithm of 10-8is 8. Therefore, the pH of this solution is 8."
       },
       {
         "question": "If you mix a solid, hydrophilic substance “X” and a solid, hydrophobic substance “Y” with water",
@@ -954,7 +1024,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "“X” will likely dissolve in the water because hydrophilic (“water loving”) substances tend to dissolve in water whereas “Y” will likely not dissolve in water because hydrophobic (“water fearing) substances tend not to dissolve in water. A liquid solvent, such as water, dissolves solutes, such as “X”, to form solutions."
       },
       {
         "question": "Which of the following would you expect to dissolve poorly in water?",
@@ -982,7 +1054,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Water molecules are polar molecules as they carry partial positive and negative charges on different parts of the molecule. As a result, water molecules will tend to interact with other molecules that carry partial or full charges, including molecules with polar bonds, negatively charged molecules and atoms and positively charged molecules and anions."
       },
       {
         "question": "Discovery science",
@@ -1010,7 +1084,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "Discovery science describes natural structures and processes as accurately as possible through careful observations and data analysis. Discovery science does NOT involve formulating hypotheses, making predictions based on those hypotheses and then testing those predictions. That is part of the process followed when doing hypothesis-based science."
       },
       {
         "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
@@ -1038,7 +1114,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Experiments are designed to test predictions. The prediction being tested is based on a hypothesis. Therefore, if the prediction is shown to be false, that result indicates that the hypothesis on which the prediction was based is also false. Carrying out experiments does not ensure that a hypothesis will be supported. Because hypotheses are only POSSIBLE answers to questions, many hypotheses turn out to be incorrect. In addition, it is not possible to prove that a hypothesis is correct as there will always be alternative explanations for why testing showed that a particular prediction was correct. Experiments don’t necessarily give investigators systematic unbiased results; it depends on how the experiments are designed and conducted. Similarly, it is difficult or impossible to ensure that variables being tested are measured without error."
       },
       {
         "question": "A hypothesis",
@@ -1066,7 +1144,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "It is not possible to PROVE that a hypothesis is correct. Instead the results of tests (experiments) may only show that a particular hypothesis is false. For example, if your hypothesis for why a flashlight isn’t working is that the batteries are dead, you might predict that replacing the batteries will fix the flashlight. If you then test your prediction by replacing the batteries and find that the flashlight still does not work, you have disproven your original prediction that replacing the batteries would fix the flashlight and have thus shown your hypothesis to be incorrect (false). However, if the flashlight works after you replace the batteries, that finding does not prove that your hypothesis was correct. This is because you can still come up with alternative hypotheses for why the flashlight now works. For example, you could hypothesize that the reason the flashlight wasn’t working previously was because the original batteries were inserted incorrectly. Then, when you replaced the batteries, you inserted the new batteries correctly and so fixed the flashlight. If that is the case, then your original hypothesis that the old batteries were dead would be false. The bottom line is that we can never rule out that there might be a different hypothesis that also explains all of the available experimental results and that is actually the correct hypothesis."
       },
       {
         "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
@@ -1094,7 +1174,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "Polar molecules are often able to dissolve in water because",
@@ -1122,7 +1204,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
@@ -1150,7 +1234,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Remember that the concentration of hydroxyl ions times the concentration of hydrogen ions always equals 10-14 in aqueous solutions (at least around room temperature). So, if the hydroxyl ion concentration is 10-12, the hydrogen ion concentration must be 10-14/10-12 = 10-2. The pH of a solution is equal to the negative logarithm (base 10) of the hydrogen ion concentration. The base 10 logarithm of 10-2 is -2, so the negative logarithm of 10-2 is 2. Therefore, the pH of this solution is 2."
       },
       {
         "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH-]?",
@@ -1178,7 +1264,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "The pH of a solution is equal to the negative logarithm (base 10) of the hydrogen ion concentration in moles per liter. In other words, pH = - log [H+]. So, in this case: 12 = - log [H+]. Or, -12 = log [H+]. Or, 10-12 M = [H+]. Furthermore, the concentration of hydroxyl ions times the concentration of hydrogen ions always equals 10-14 in aqueous solutions (at least around room temperature). So, if the hydrogen ion concentration is 10-12M (moles per liter), the hydroxyl ion concentration must be 10-14/10-12= 10-2 M, or 0.01 M, or 0.01 moles/liter."
       },
       {
         "question": "The charge on a water molecule is best described as being:",
@@ -1206,7 +1294,9 @@
             "is_correct": true,
             "comment": "Good work!"
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "A theory is",
@@ -1234,7 +1324,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "Qualitative data may be collected",
@@ -1262,7 +1354,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Both quantitative and qualitative data may be collected when doing either discovery science or hypothesis-based science. Quantitative data are numerical measurements. Qualitative data are not numerical measurements. For example, data showing the precise weights of different dogs would be quantitative data. Data describing how friendly different dogs are would be qualitative data."
       },
       {
         "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
@@ -1290,7 +1384,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "",
+        "neutral_comments": null
       },
       {
         "question": "Which of the following statements about valence shells is FALSE?",
@@ -1318,7 +1414,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "Each atom has only one valence shell, corresponding to its outermost electron shell. Because the electrons in the valence shell are the outermost electrons and the energy level of an electron increases the further it is from the nucleus, the valence shell is the highest energy electron shell an atom has. Also, because atoms react to complete their valence shells, the valence electrons are primarily responsible for the chemical behavior of atoms."
       },
       {
         "question": "Which of the following statements about chemical reactions is FALSE?",
@@ -1346,7 +1444,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "When two atoms share a pair of electrons, they",
@@ -1374,7 +1474,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Excellent",
+        "neutral_comments": null
       },
       {
         "question": "When an electron is moved further from the nucleus",
@@ -1402,7 +1504,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "The further an electron is from the nucleus, the greater its potential energy. Think of it this way. Negatively charged electrons are attracted to the positively charged protons in the nucleus. So, it takes work to increase the separation between an electron and the nucleus. Some of the energy spent in doing this work is stored in the form of increasing the potential energy of the moved electron. This is conceptually similar to increasing the potential energy of a ball by carrying it higher up a hill."
       },
       {
         "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
@@ -1430,7 +1534,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": ""
       }
     ],
     "unique_questions": 25
@@ -1454,7 +1560,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "All the figures are definitely present. Sometimes students need to re-size their browser window in order to view a particular figure. Using Google chrome can also help as can clearing the cache from your browser. If none of these things work, please contact UMN IT help."
       },
       {
         "question": "Organic chemistry is defined as",
@@ -1482,7 +1590,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
@@ -1510,7 +1620,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "Molecules consisting only of carbon and hydrogen are known as",
@@ -1538,7 +1650,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "What would be the sequence of the DNA molecule made using the following DNA strand as a template? 5’ TCTGAA 3’",
@@ -1566,7 +1680,9 @@
             "is_correct": false,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "First, remember that nucleic acid strands bind to each other with an anti-parallel orientation. In other words, they bind so that the 5’ end of one strand is hydrogen bonded to the 3’ end of the other strand. Also, remember that U (for RNA) or T (for DNA) hydrogen bonds with A, and G hydrogen bonds with C. So, you have: DNA 5’ TCTGAA 3’DNA 3’ AGACTT 5’ If you then follow the convention of writing nucleic acid molecules down starting at their 5’ end, the sequence for the RNA molecule is: 5’ TTCAGA 3’"
       },
       {
         "question": "Lipids that contain one or more C=C double bonds are referred to as",
@@ -1594,7 +1710,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Lipids that contain one or more C=C double bonds are referred to as unsaturated fats or lipids. Triacylglycerols are made by attaching three fatty acid molecules to a glycerol molecule. The fatty acids used in synthesis of triacylglycerols may or may not contain C=C double bonds. Similarly, phospholipids contain two fatty acid molecules, a glycerol molecule and a head group. The fatty acids used in synthesis of phospholipids may or may not contain C=C double bonds."
       },
       {
         "question": "How many water molecules are needed to completely hydrolyze a polymer that is 18 nucleotides long?",
@@ -1622,7 +1740,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "Think of it this way: How many water molecules would be needed to completely hydrolyze a “polymer” that is just two nucleotides long? You would need just one, to split the one bond joining the two monomers, right? So, how many water molecules would you need to completely hydrolyze a “polymer” that is 3 monomers long? The answer is that you would need 2 water molecules, one to split the bond between the 1stand 2nd monomers and the other to hydrolyze the bond between the 2ndand 3rd monomers. So, you to completely hydrolyze a polymer takes one less water molecule than the number of monomers in the polymer."
       },
       {
         "question": "What would be the sequence of the RNA molecule made using the following DNA strand as a template? 5’ AATTCGC 3’",
@@ -1650,7 +1770,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "First, remember that nucleic acid strands bind to each other with an anti-parallel orientation. In other words, they bind so that the 5’ end of one strand is hydrogen bonded to the 3’ end of the other strand. Also, remember that U (for RNA) or T (for DNA) hydrogen bonds with A, and G hydrogen bonds with C. So, you have: DNA 5’ AATTCGC 3’RNA 3’ UUAAGCG 5’ If you then follow the convention of writing nucleic acid molecules down starting at their 5’ end, the sequence for the RNA molecule is: 5’ GCGAAUU 3’"
       },
       {
         "question": "What is the best description of a carbonyl group?",
@@ -1678,7 +1800,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "If two molecules have the same number of atoms of the same elements but different structures, the two molecules may be",
@@ -1706,7 +1830,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "Isomers of any type (structural isomers, geometric isomers and enantiomers) all meet the criteria of having the same number of atoms of the same elements but different structures. Structural isomers have the further criteria that, for two molecules to be structural isomers of each other, they must differ in their covalent partnerships. In contrast, molecules that are geometric isomers or enantiomers do NOT differ in their covalent partnerships. Geometric isomers differ in the arrangement of atoms around a double bond. Enantiomers differ in the arrangement of atoms covalently bound to a central, asymmetric carbon and are mirror images of each other. Please see figure 4.7 in your textbook for a figure showing all three types of isomer."
       },
       {
         "question": "Which of the following structures makes sense?",
@@ -1734,7 +1860,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Remember that carbon atoms need to form four covalent bonds in order to complete their valence shell. In some of the molecules, a carbon atom is shown as only forming two or three covalent bonds, which is incorrect."
       },
       {
         "question": "A general term for the repeating units that are assembled to form polymers is:",
@@ -1762,7 +1890,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "If you were asked to build a polymer that is two monomers long (ok, that wouldn’t really be a polymer, but let’s ignore that for the moment), and you could use two different types of monomers, “A” and “B”, how many different polymers could you build?",
@@ -1790,7 +1920,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "You could build 4 different polymers: A-A, B-B, A-B and B-A. You might wonder if A-B and B-A are really the same thing. They are not the same thing because one end of a polymer has a hydrogen attached and the other end of the polymer has a hydroxyl group. In other words, you could write the above molecules as: H-O-A-B-H and H-O-B-A-H, which makes it clear that they are not the same molecule."
       },
       {
         "question": "What would be the sequence of the DNA molecule made using the following DNA strand as a template? 5’ GAGGCTT 3’",
@@ -1818,7 +1950,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "First, remember that nucleic acid strands bind to each other with an anti-parallel orientation. In other words, they bind so that the 5’ end of one strand is hydrogen bonded to the 3’ end of the other strand. Also, remember that U (for RNA) or T (for DNA) hydrogen bonds with A, and G hydrogen bonds with C. So, you have: DNA 5’ GAGGCTT 3’DNA 3’ CTCCGAA 5’ If you then follow the convention of writing nucleic acid molecules down starting at their 5’ end, the sequence for the RNA molecule is: 5’ AAGCCTC 3’"
       },
       {
         "question": "Lipids that are commonly found in membranes include",
@@ -1846,7 +1980,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Phospholipids and sterols are common in membranes. In contrast, triacylglycerol molecules are typically found in fat and are rare in membranes."
       },
       {
         "question": "If someone wants to eat lots of carbohydrates in preparation for running a marathon, that person could",
@@ -1874,7 +2010,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Carbohydrates include both sugars and polymers of sugars, or polysaccharides."
       },
       {
         "question": "The following functional group is known as",
@@ -1902,7 +2040,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "Which action could produce a carbonyl group?",
@@ -1930,7 +2070,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Shown below is a diagram of a carboxyl group. Carboxyl groups consist of a carbon atom that is double bonded to an oxygen atom and also covalently bound to a hydroxyl (OH) group.If you replace the –O-H of this group with a hydrogen, you getwhich is an aldehyde, which has a carbonyl group. Carbonyl groups consist of a carbon atom joined to an oxygen atom by a double covalent bond."
       },
       {
         "question": "What functional group is commonly used in cells to transfer energy from one organic molecule to another?",
@@ -1958,7 +2100,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?",
@@ -1986,7 +2130,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "If you were asked to build a polymer that is 20 monomers long (note that this would be an unusually short polymer), and you could use four different types of monomers, “A”, “B”, “C” and “D”, how many different polymers could you build?",
@@ -2014,7 +2160,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Think of it this way: If you were asked to build a polymer that was just one monomer long (ok, that wouldn’t be a polymer, but let’s ignore that for the moment), and you had only “A” and “B” monomers available to use, you would be able to build just two different “polymers”: A and B. If you were asked to build a polymer that was just 2 monomers long (again, that wouldn’t be a polymer, but let’s ignore that for the moment), and had only “A” and “B” monomers available, you would be able to build just 4 different “polymers”: AA, AB, BA and BB. If you were asked to build a polymer that was just 3 monomers long (again, that wouldn’t be a polymer, but let’s ignore that for the moment), and had only “A” and “B” monomers available, you would be able to build just 8 different “polymers”: AAA, AAB, ABA, BAA, ABB, BAB. BBA and BBB. Are you seeing a pattern here? The answer to this type of question may be found using the following formula: Number of different polymers that may be formed = XY, where “X” is the number of different types of monomers available and “Y” is the number of monomers in the polymer. So, if you were asked to build a polymer that is 20 monomers long, and you could use four different types of monomers, the number of different polymers you could build would be: 420 = ~ 1 x 1012"
       },
       {
         "question": "Glucose and fructose are examples of",
@@ -2042,7 +2190,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Glucose and fructose have the same molecular formula (C6H12O6), but different shapes, so you can see that they are isomers of some sort. To determine what type of isomers they represent, first look to see if the two molecules (glucose and fructose), share the same covalent partnerships. If you look at them, you will see that they do not share the same covalent partnerships. For example, the position of the carbon:oxygen double bond (C=O) is different for glucose and fructose. This means that glucose and fructose are examples of structural isomers. The other two types of isomers we studied, geometric isomers and enantiomers, do NOT differ in their covalent partnerships."
       },
       {
         "question": "Unsaturated fats",
@@ -2070,7 +2220,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "The structural level of a protein that is least affected by a disruption in hydrogen bonding is the",
@@ -2098,7 +2250,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "Monosaccharides are added to growing polysaccharide chains via condensation (dehydration) reactions. Which of the following also occur via condensation (dehydration) reactions?",
@@ -2126,7 +2280,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "All of the reactions we discussed involving synthesis of large biological molecules take place via a type of condensation reaction known as a dehydration reaction that involves the loss of a water molecule (hence the name “dehydration” for water removal)."
       }
     ],
     "unique_questions": 25
@@ -2160,7 +2316,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "These two molecules have the same formula (C2N2O2H2), meaning they have the same number of atoms of the same elements, but different 3-dimensional shapes. So, they are isomers of some sort. Because they have the same covalent arrangements of their atoms (i.e. which atoms are attached to which other atoms), they are not structural isomers. For example, both carbon atoms in both molecules are attached to one N=O group and one hydrogen atom. However, the two molecules do have different structures. Remember that double covalent bonds are inflexible. So, the above molecules cannot rotate around their double bonds in the way that they could if the two carbon atoms were only joined by single covalent bonds. So, in the molecule on the left, the two N=O groups will always be on the opposite sides of the double bond, whereas the two N=O groups will always be on the same side of the double bond in the molecule on the right. Molecules such as these two, which have the same covalent partnerships but different spatial arrangements, are known as geometric isomers. The molecule on the left, which has the two groups that are not hydrogen atoms (i.e. the N=O groups) on opposite sides of the double bond between the carbon atoms is known as a trans isomer. The molecule on the right, which has the two groups that are not hydrogen atoms (i.e. the N=O groups) on the same side of the double bond between the carbon atoms is known as a cis isomer."
       },
       {
         "question": "Which of the following statements is FALSE?",
@@ -2188,7 +2346,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "If anything, a sulfhydryl group will tend to act as an acid, rather than as a base."
       },
       {
         "question": "Polysaccharides, nucleic acids, and proteins are similar in that they",
@@ -2216,7 +2376,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "The subunit of polypeptides contains all of the following EXCEPT",
@@ -2244,7 +2406,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "What is the correct formula for a monosaccharide that is 4 carbons long?",
@@ -2272,7 +2436,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "Monosaccharides have equal numbers of carbon and oxygen atoms and twice as many hydrogen atoms as carbon or oxygen atoms. So, if the monosaccharide has 4 carbons it must also have 4 oxygen atoms and twice that many, or 8, hydrogen atoms."
       },
       {
         "question": "What is the likely order of the following molecules, in order of largest to smallest?",
@@ -2300,7 +2466,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "You can figure out the correct order by realizing that “poly” means “many”, “di” means “two” and “mono” means “one”."
       },
       {
         "question": "Which of the following statements best describes how fats are synthesized?",
@@ -2328,7 +2496,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "If two molecules are mirror images of each other, the two molecules may be",
@@ -2356,7 +2526,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "Isomers of any type (structural isomers, geometric isomers and enantiomers) must all meet the criteria of having the same number of atoms of the same elements but different structures. Structural isomers have the further criteria that, for two molecules to be structural isomers of each other, they must differ in their covalent partnerships. In contrast, molecules that are geometric isomers or enantiomers do NOT differ in their covalent partnerships. Geometric isomers differ in the arrangement of atoms around a double bond. Enantiomers differ in the arrangement of atoms covalently bound to a central, asymmetric carbon and are mirror images of each other. Please see figure 4.7 in your textbook for a figure showing all three types of isomer."
       },
       {
         "question": "The molecules shown below are best described as",
@@ -2384,7 +2556,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "These two molecules have the same formula (C2O2H4), meaning they have the same number of atoms of the same elements, but have different 3-dimensional shapes. So, they are isomers of some sort. Because they have the same covalent arrangements of their atoms (i.e. which atoms are attached to which other atoms), they are not structural isomers. For example, both carbon atoms in both molecules are attached to one hydroxyl (OH) group and one hydrogen atom. However, the two molecules do have different structures. Remember that double covalent bonds are inflexible. So, the above molecules cannot rotate around their double bonds in the way that they could if the two carbon atoms were only joined by single covalent bonds. So, in the molecule on the left, the two hydroxyl (OH) groups will always be on the opposite sides of the double bond, whereas the two hydroxyl groups will always be on the same side of the double bond in the molecule on the right. Molecules such as these two, which have the same covalent partnerships but different spatial arrangements, are known as geometric isomers. The molecule on the left, which has the two groups that are not hydrogen atoms (i.e. the hydroxyl groups) on opposite sides of the double bond between the carbon atoms is known as a trans isomer. The molecule on the right, which has the two groups that are not hydrogen atoms (i.e. the hydroxyl groups) on the same side of the double bond between the carbon atoms is known as a cis isomer."
       },
       {
         "question": "The primary structure of a protein refers to",
@@ -2412,7 +2586,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "If starch and cellulose are both polymers of glucose, how come people can digest starch but not cellulose?",
@@ -2440,7 +2616,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "Which of the molecules listed below can form isomers? CH4 C3H8 C4H10",
@@ -2468,7 +2646,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "CH4 and C3H8 cannot form isomers. To see this, try drawing C3H8 molecules with different structures, remembering that each molecule you draw must have 3 carbon atoms and 8 hydrogen atoms and that each carbon atom must form 4 covalent bonds and each hydrogen atom must form 1 covalent bond. You will find that you can only draw one structure. In contrast, C4H10 can form isomers. For example, the two molecules shown below are structural isomers of C4H10."
       },
       {
         "question": "The molecules shown below are best described as",
@@ -2496,7 +2676,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "These two molecules have the same formula (C3N2O2H3), meaning they have the same number of atoms of the same elements, but different 3-dimensional shapes. So, they are isomers of some sort. Because they have the same covalent arrangements of their atoms (i.e. which atoms are attached to which other atoms), they are not structural isomers. In addition, because these molecules do not have 2 carbon atoms joined by a double bond, they cannot be geometric isomers. Instead, they are “enantiomers”. Enantiomers are mirror images of each other and cannot be superimposed on each other. This is quite similar to how our hands are mirror images of each other, but cannot be superimposed on each other. For example, imagine the palms of your hands as being carbon atom and the four fingers on each hand representing covalent bonds to 4 different groups. There is no way to place one hand on the other hand so that all four of your fingers will match up. Note that enantiomers only occur in molecules that have an asymmetric carbon. For a carbon to be asymmetric, it must form covalent bonds to 4 different groups. In the molecule on the left above, the asymmetric carbon is the carbon furthest to the left. In the molecule on the right above, the asymmetric carbon is the carbon furthest to the right."
       },
       {
         "question": "Compounds with hydroxyl groups are known as",
@@ -2524,7 +2706,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "On what basis are different molecules grouped as “lipids”?",
@@ -2552,7 +2736,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "Which of the following are NOT components of nucleotides?",
@@ -2580,7 +2766,9 @@
             "is_correct": false,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "An “R” group attached to a central atom is a component of an amino acid rather than a nucleotide."
       },
       {
         "question": "Which of the following statements about the nucleotides used in RNA synthesis is correct?",
@@ -2608,7 +2796,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       }
     ],
     "unique_questions": 17
@@ -2642,7 +2832,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "You are joining two molecules of glucose to form maltose, so maltose will have twice as many atoms of each element as glucose, except that you have to remember that a water molecule is lost during the dehydration reaction. So, maltose will have 12 carbon atoms, but only 22 hydrogen atoms instead of 24 because of the two hydrogen atoms lost during formation of the water molecule. Similarly, maltose will have 11 oxygen atoms instead of 12, as one oxygen atom is used to form the water molecule."
       },
       {
         "question": "The covalent linkages between nucleotides forming a DNA molecule are known as",
@@ -2670,7 +2862,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "Nucleotides in a single DNA chain are joined together by",
@@ -2698,7 +2892,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "If two molecules have the same numbers of atoms of the same elements and the SAME covalent partnerships but different structures, the two molecules may be",
@@ -2726,7 +2922,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "Isomers of any type (structural isomers, geometric isomers and enantiomers) must all meet the criteria of having the same number of atoms of the same elements but different structures. Structural isomers have the further criteria that, for two molecules to be structural isomers of each other, they must differ in their covalent partnerships. In contrast, molecules that are geometric isomers or enantiomers do NOT differ in their covalent partnerships. Geometric isomers differ in the arrangement of atoms around a double bond. Enantiomers differ in the arrangement of atoms covalently bound to a central, asymmetric carbon and are mirror images of each other. Please see figure 4.7 in your textbook for a figure showing all three types of isomer."
       },
       {
         "question": "Identify the asymmetric carbon in this molecule",
@@ -2754,7 +2952,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Asymmetric carbons are carbons that are covalently bonded to 4 different groups. The 1st carbon on the left in this molecule is bonded to only 3 different groups (a hydrogen atom, an oxygen atom and a hydrocarbon chain). The 3rd carbon is also bonded to only 3 different groups (two hydrogen atoms, a short hydrocarbon chain and the part of the molecule that is to the left of that carbon atom). The 4th carbon from the left is only bound to 3 different groups (2 hydrogen atoms, a methyl group and the rest of the molecule that is to the left of the 4th carbon). The 5th (last) carbon from the left is only bonded to 2 different groups as it forms covalent bonds with 3 hydrogen atoms and the rest of the molecule that is to the left of the 5th carbon. In contrast, the 2nd carbon from the left is bound to 4 different groups: a COH group, a hydrogen atom, an OH group and a short hydrocarbon chain. Each of the four different groups to which the second carbon from the left is bound is shown circled in red in the figure below."
       },
       {
         "question": "Which of the following terms most accurately describes the shape of an ethylene molecule?",
@@ -2782,7 +2982,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "The double bond between the two carbon atoms means that all the covalent bonds formed by the carbon atoms lie in a single plane. Therefore this molecule is flat. Remember that the covalent bonds formed by carbon atoms point towards the 4 corners of a tetrahedron only when the carbon atom makes bonds to 4 other atoms. In this molecule, the carbon atoms are making covalent bonds to just 3 other atoms, because the two carbon atoms are forming a double covalent bond with each other."
       },
       {
         "question": "Which of the following pairings between nucleotides is INCORRECT?",
@@ -2810,7 +3012,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "In DNA, adenine pairs with thymine and guanine pairs with cytosine. In RNA, adenine pairs with uracil instead of thymine."
       },
       {
         "question": "The tertiary structure of a protein refers to",
@@ -2838,7 +3042,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "The central carbon in amino acids is asymmetric in all amino acids except:",
@@ -2866,7 +3072,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "The molecules shown below are best described as",
@@ -2894,7 +3102,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "These two molecules have the same formula (C2O2H4), meaning they have the same number of atoms of the same elements, but have different 3-dimensional shapes. So, they are isomers of some sort. However, despite the fact that they have a carbon-carbon double bond, they are NOT geometric isomers. Geometric isomers have the same covalent arrangements of their atoms. The pair of molecules shown above do NOT have the same covalent arrangement of their atoms. For the molecule shown on the left, each of the carbon atoms is covalently bound to one hydrogen atom and one hydroxyl (OH) group. For the molecule shown on the right, one carbon atom is covalently bound to two hydroxyl groups and the other carbon atom is covalently bound to two hydrogen atoms. So, the two molecules do not have the same covalent arrangements of their atoms. Because they differ in the covalent arrangements of their atoms (i.e. which atoms are attached to which other atoms), they are examples of the type of isomers known structural isomers."
       },
       {
         "question": "If you were asked to build a polymer that is 30 monomers long, and you could use two different types of monomers, “A” and “B”, how many different polymers could you build?",
@@ -2922,7 +3132,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Think of it this way: If you were asked to build a polymer that was just one monomer long (ok, that wouldn’t be a polymer, but let’s ignore that for the moment), you would be able to build just two different “polymers”: A and B. If you were asked to build a polymer that was just 2 monomers long (again, that wouldn’t be a polymer, but let’s ignore that for the moment), you would be able to build just 4 different “polymers”: AA, AB, BA and BB. If you were asked to build a polymer that was just 3 monomers long (again, that wouldn’t be a polymer, but let’s ignore that for the moment), you would be able to build just 8 different “polymers”: AAA, AAB, ABA, BAA, ABB, BAB. BBA and BBB. Are you seeing a pattern here? The answer to this type of question may be found using the following formula: Number of different polymers that may be formed = XY, where “X” is the number of different types of monomers available and “Y” is the number of monomers in the polymer. So, if you were asked to build a polymer that is 30 monomers long, and you could use two different types of monomers, “A” and “B”, the number of different polymers you could build would be: 230 = ~ 1,000,000,000"
       },
       {
         "question": "What is a triacylglycerol?",
@@ -2950,7 +3162,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Tricacylglycerols are lipids made with three fatty acids and glycerol. They are generally used in fat storage, rather than to make membranes."
       }
     ],
     "unique_questions": 12
@@ -3009,7 +3223,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "",
+        "neutral_comments": null
       },
       {
         "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
@@ -3037,7 +3253,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "Theories are broad in scope; hypotheses are generally narrow in scope. Theories are typically supported by a larger body of evidence than any one hypothesis. Predictions are made based on hypotheses. For example, if your hypothesis is that your phone doesn’t work because the battery is dead, you might make the prediction that re-charging your phone will fix it."
       },
       {
         "question": "Which of the following is NOT an example of discovery science?",
@@ -3065,7 +3283,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Correct! Because this study involves testing a prediction that is based on a specific hypothesis, it is not an example of discovery science. Instead, it is an example of hypothesis-based science",
+        "neutral_comments": "Discovery science describes natural structures and processes as accurately as possible through careful observations and data analysis. Discovery science does NOT involve formulating hypotheses, making predictions based on those hypotheses and then testing those predictions. That is part of the process followed when doing hypothesis-based science."
       },
       {
         "question": "In science, a “theory”",
@@ -3093,7 +3313,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "The word “theory” does not the mean the same thing when talking about science as it does when talking about everyday life. In everyday life, “theory” is often used to mean an untested speculation. In science, a “theory” is an explanation that is broad in scope, generates new hypotheses and is supported by a large body of evidence."
       },
       {
         "question": "Quantitative data may be collected",
@@ -3121,7 +3343,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Both quantitative and qualitative data may be collected when doing either discovery science or hypothesis-based science. Quantitative data are numerical measurements. Qualitative data are not numerical measurements. For example, data showing the precise weights of different dogs would be quantitative data. Data describing how friendly different dogs are would be qualitative data."
       },
       {
         "question": "What types of data may be collected when doing discovery science?",
@@ -3149,7 +3373,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice work!",
+        "neutral_comments": "Both quantitative and qualitative data may be collected when doing either discovery science or hypothesis-based science. Quantitative data are numerical measurements. Qualitative data are not numerical measurements. For example, data showing the precise weights of different dogs would be quantitative data. Data describing how friendly different dogs are would be qualitative data."
       },
       {
         "question": "In science, a possible answer to a specific question is know as a",
@@ -3177,7 +3403,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "In hypothesis-based science, specific questions are asked based on prior observations or information. The tentative (possible) answers to those questions are known as “hypotheses”. Predictions are then made based on those hypotheses and the predictions are tested. Theories are broader in scope than hypotheses and so are not possible answers to specific questions, although they may be answers to really broad questions."
       }
     ],
     "unique_questions": 7
@@ -3211,7 +3439,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Both quantitative and qualitative data may be collected when doing either discovery science or hypothesis-based science. Quantitative data are numerical measurements. Qualitative data are not numerical measurements. For example, data showing the precise weights of different dogs would be quantitative data. Data describing how friendly different dogs are would be qualitative data."
       },
       {
         "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as",
@@ -3239,7 +3469,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "During peer review, typically two to three experts in the field read the manuscript and determine whether it is suitable for publication. These experts base their opinion on whether the experiments were done in a rigorous manner, the data carefully analyzed and the interpretations of the data described in the manuscript justified by the data."
       },
       {
         "question": "Which of the following is an example of qualitative data?",
@@ -3267,7 +3499,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Quantitative data are numerical measurements. Qualitative data are not numerical measurements. All of the possible answers involve numerical data, except for the data describing the fish as swimming in a zigzag motion."
       },
       {
         "question": "Which of the following best describes the logic of hypothesis-based science?",
@@ -3295,7 +3529,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "A hypothesis is a possible answer to a specific question. Predictions are made based on the hypothesis and those predictions are tested (e.g. by carrying out appropriate experiments). Because hypotheses are only POSSIBLE answers to questions, and you will often have multiple hypotheses for each question that you ask, the data you obtain will not necessarily support a particular hypothesis."
       },
       {
         "question": "During peer-review of a manuscript",
@@ -3323,7 +3559,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "During peer review, typically two to three experts in the field read the manuscript and determine whether it is suitable for publication. These experts base their opinions on whether the experiments were done in a rigorous manner, the data carefully analyzed and the interpretations of the data described in the manuscript justified by the data."
       }
     ],
     "unique_questions": 5
@@ -3357,7 +3595,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Correct! Plant weights are measured as numerical values (e.g. how many gram or ounces each plant weighed).",
+        "neutral_comments": "Quantitative data are numerical measurements. Qualitative data are not numerical measurements. For example, data showing the precise weights of different dogs would be quantitative data. Data describing how friendly different dogs are would be qualitative data."
       }
     ],
     "unique_questions": 1
@@ -3396,7 +3636,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "It is not possible to PROVE that a hypothesis is correct. Instead the results of tests (experiments) may only show that a particular hypothesis is false. For example, if your hypothesis for why a flashlight isn’t working is that the batteries are dead, you might predict that replacing the batteries will fix the flashlight. If you then test your prediction by replacing the batteries and find that the flashlight still does not work, you have disproven your original prediction that replacing the batteries would fix the flashlight and have thus shown your hypothesis to be incorrect (false). However, if the flashlight works after you replace the batteries, that finding does not prove that your prediction was correct and thus does not prove that your hypothesis was correct. This is because you can still come up with alternative hypotheses for why the flashlight now works. For example, you could hypothesize that the reason the flashlight wasn’t working previously was because the original batteries were inserted incorrectly. Then, when you replaced the batteries, you inserted the new batteries correctly and so fixed the flashlight. If that is the case, then your original hypothesis that the old batteries were dead would be false."
       },
       {
         "question": "Through careful experimentation or observations, it is possible to prove",
@@ -3424,7 +3666,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "It is not possible to PROVE that a theory or hypothesis is correct. Instead the results of tests (experiments) may only show that a particular theory or hypothesis is false. For example, if your hypothesis for why a flashlight isn’t working is that the batteries are dead, you might predict that replacing the batteries will fix the flashlight. If you then test your prediction by replacing the batteries and find that the flashlight still does not work, you have disproven your original prediction that replacing the batteries would fix the flashlight and have thus shown your hypothesis to be incorrect (false). However, if the flashlight works after you replace the batteries, that finding does not prove that your prediction was correct and thus does not prove that your hypothesis was correct. This is because you can still come up with alternative hypotheses for why the flashlight now works. For example, you could hypothesize that the reason the flashlight wasn’t working previously was because the original batteries were inserted incorrectly. Then, when you replaced the batteries, you inserted them correctly and so fixed the flashlight. If that is the case, then your original hypothesis that the old batteries were dead would be false. The bottom line is that we can never rule out that there might be a different hypothesis that also explains all of the available experimental results and that is actually the correct hypothesis."
       }
     ],
     "unique_questions": 2
@@ -3463,7 +3707,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Neither theories nor hypotheses can be proven correct beyond a shadow of a doubt. Although theories are supported by a large body of evidence, they sometimes need to be modified as new data become available. Theories are broader in scope than hypotheses."
       }
     ],
     "unique_questions": 1
@@ -3517,7 +3763,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": null
       },
       {
         "question": "The order of chemical bonds from strongest to weakest is",
@@ -3545,7 +3793,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "Covalent bonds are the strongest bonds, followed by ionic bonds, than hydrogen bonds, and finally van der Waals interactions"
       },
       {
         "question": "If you make a model of a methane (CH4) molecule, the overall shape of the molecule will most closely resemble",
@@ -3573,7 +3823,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "The carbon atom will form one covalent bond with each of the 4 hydrogen atoms. Each of the pairs of electrons forming these covalent bonds will be in one of the 4 orbitals that lie within the 2nd electron shell, and that point towards the 4 corners of a tetrahedron. This gives the molecule a roughly pyramidal shape."
       },
       {
         "question": "Water is an example of",
@@ -3601,7 +3853,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Molecules are substances that consist of two or more atoms joined by covalent bonds. This definition applies to water, as water molecules consist of two hydrogen atoms, each joined to an oxygen atom by a covalent bond. Compounds are defined as substances consisting of two or more different elements combined in a fixed ratio. Water combines the elements hydrogen and oxygen in a fixed ratio, with two hydrogen atoms for every oxygen atom."
       },
       {
         "question": "What is the maximum number of electrons in the 1s orbital of an atom?",
@@ -3629,7 +3883,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Correct!",
+        "neutral_comments": null
       },
       {
         "question": "Which of the following statements about moles is true?",
@@ -3657,7 +3913,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "All of these answers are correct. A mole is 6.02 X 1023. A hydrogen atom weighs one Dalton so one mole of hydrogen atoms weighs 1 g. One mole of hydrogen molecules (H2) weighs 2 g. This is because hydrogen molecules have the formula: H2. Therefore, the molecular weight of hydrogen molecules is 2 Daltons and a mole of hydrogen molecules will weigh 2 g."
       },
       {
         "question": "What is the pH of a solution with a hydroxyl ion [OH-] concentration of 10-4.5 M?",
@@ -3685,7 +3943,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Remember that the concentration of hydroxyl ions times the concentration of hydrogen ions always equals 10-14 M (moles per liter) in aqueous solutions (at least around room temperature). So, if the hydroxyl ion concentration is 10-4.5 M, the hydrogen ion concentration must be 10-14/10-4.5= 10-9.5 M. The pH of a solution is equal to the negative logarithm (base 10) of the hydrogen ion concentration. The base 10 logarithm of 10-9.5 is -9.5, so the negative logarithm of 10-9.5is 9.5. Therefore, the pH of this solution is 9.5."
       }
     ],
     "unique_questions": 7
@@ -3719,7 +3979,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Excellent",
+        "neutral_comments": "Nitrogen atoms have 5 electrons in their valence shell, which is the 2ndelectron shell. The total number of electrons needed to fill the 2ndelectron shell is 8, so nitrogen needs to form 3 covalent bonds with other atoms so that it has 3 pairs of electrons that it is sharing via covalent bonds and one pair of electrons that it is not sharing, for a total of 4 pairs of electrons, or 8 total electrons."
       },
       {
         "question": "The reactivity of an atom arises from",
@@ -3747,7 +4009,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "Sodium is an example of",
@@ -3775,7 +4039,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "Elements, such as sodium, are substances that cannot be broken down to other substances by chemical reactions."
       },
       {
         "question": "Which of the following statements regarding atomic particles is correct?",
@@ -3803,7 +4069,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Correct!",
+        "neutral_comments": null
       },
       {
         "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH-]?",
@@ -3831,7 +4099,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "The pH of a solution is equal to the negative logarithm (base 10) of the hydrogen ion concentration in moles per liter. In other words, pH = - log [H+]. So, in this case: 13 = - log [H+]. Or, -13 = log [H+]. Or, 10-13 M = [H+]. Furthermore, the concentration of hydroxyl ions times the concentration of hydrogen ions always equals 10-14 in aqueous solutions (at least around room temperature). So, if the hydrogen ion concentration is 10-13M (moles per liter), the hydroxyl ion concentration must be 10-14/10-13= 10-1 M, or 0.1 M, or 0.1 moles/liter."
       },
       {
         "question": "The bonds that are broken when water vaporizes are",
@@ -3859,7 +4129,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "When water vaporizes, the bonds within individual water molecules (which are polar covalent bonds), are not broken. Instead, it is the bonds BETWEEN different water molecules that are broken. The bonds between different water molecules are hydrogen bonds."
       },
       {
         "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-1.5 M?",
@@ -3887,7 +4159,9 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "The pH of a solution is equal to the negative logarithm (base 10) of the hydrogen ion concentration. In other words, pH = - log [H+]. The base 10 logarithm of 10-1.5 is -1.5, so the negative logarithm of 10-1.5 is 1.5. Therefore, the pH of this solution is 1.5."
       }
     ],
     "unique_questions": 7
@@ -3921,7 +4195,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": null
       },
       {
         "question": "The number of electrons needed to fill the different electron shells is",
@@ -3949,7 +4225,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": null
       },
       {
         "question": "The valence shell of an atom",
@@ -3977,7 +4255,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": null
       },
       {
         "question": "What gives rise to the cohesiveness of water molecules?",
@@ -4005,7 +4285,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Water molecules stick to each other because the oxygen atom in a water molecule carries a partial negative charge and the two hydrogen atoms each carry a partial positive charge. As a result, the partially positively charged hydrogen atoms of one water molecule are attracted to the partially negatively charged oxygen atoms of other water molecules. The reason that the hydrogen atoms carry partial positive charges and the oxygen atoms carry partial negative charges is that the covalent bonds within a water molecule are polar. Each electron pair forming a covalent bond between an oxygen atom and a hydrogen atom spends more time near oxygen than near hydrogen, as oxygen atoms are more electronegative than hydrogen atoms."
       },
       {
         "question": "If the pH of a solution is decreased from 9 to 8, it means that the",
@@ -4033,7 +4315,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": ""
       }
     ],
     "unique_questions": 5
@@ -4067,7 +4351,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
@@ -4095,7 +4381,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6) will have an equal number of molecules (6.02 X 1023). Because there are more atoms in each glucose molecule than in each water molecule, a mole of glucose molecules will have more atoms than a mole of water molecules. A mole of water molecules and a mole of glucose molecules will not have an equal volume as 6.02 X 1023 molecules of glucose will not take up the same amount of space as 6.02 X 1023 molecules of water."
       },
       {
         "question": "Which of the following represents a polar bond?",
@@ -4123,7 +4411,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": null
       },
       {
         "question": "When a sodium atom and a chlorine atom interact to complete their valence shells",
@@ -4151,7 +4441,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "Chlorine is so much more electronegative than sodium that, rather than sharing a pair of electrons, the lone electron in the valence (= 3rd) shell of sodium is transferred to chlorine. That leaves the sodium cation with no electrons in the 3rd electron shell and a full set (8) of electrons in the 2nd electron shell. The 1 electron transferred to the chlorine atom is sufficient to complete the valence shell of that atom. Because chlorine now has one more electron than it has protons, the chlorine anion will have a charge of negative 1. Negatively charged ions are called “anions” and positively charged ions are called “cations”."
       },
       {
         "question": "Why does the structure shown below fail to make sense chemically?H-C=C-H",
@@ -4179,7 +4471,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "Carbon atoms need to form 4 covalent bonds, rather than just 3, to complete their valence shell. Carbon is only slightly more electronegative than hydrogen and so will not remove electrons from hydrogen. In addition, removing 4 electrons from hydrogen atoms to complete its valence shell would leave carbon with 4 more electrons than protons, which is energetically extremely unfavorable."
       },
       {
         "question": "Which of the following is not a compound?",
@@ -4207,7 +4501,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "Compounds are substances consisting of two or more different elements combined in a fixed ratio. This criteria applies to all of the examples below, with the exception of H2 which consists only of atoms of a single element, hydrogen."
       }
     ],
     "unique_questions": 6
@@ -4241,7 +4537,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": null
       },
       {
         "question": "The further on average an electron is from the nucleus",
@@ -4269,7 +4567,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "The further an electron is from the nucleus, the greater its potential energy. Think of it this way. Negatively charged electrons are attracted to the positively charged protons in the nucleus. So, it takes work to increase the separation between an electron and the nucleus. Some of the energy spent in doing this work is stored in the form of increasing the potential energy of the moved electron. This is conceptually similar to increasing the potential energy of a ball by carrying it higher up a hill."
       },
       {
         "question": "With regards to orbitals, which of the following statements is FALSE?",
@@ -4297,7 +4597,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Electrons do not follow defined paths and the position of an electron cannot be precisely known. Instead, we can only say that there is a high probability of a particular electron being located somewhere within a space defined by the orbital for that electron."
       },
       {
         "question": "The order of chemical bonds from easiest to hardest to break is",
@@ -4325,7 +4627,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 M (molar) solution of glucose?",
@@ -4353,7 +4657,9 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": ""
       },
       {
         "question": "What is the pH of a solution with a hydroxyl ion [OH-] concentration of 10-4 M?",
@@ -4381,7 +4687,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Remember that the concentration of hydroxyl ions times the concentration of hydrogen ions always equals 10-14 in aqueous solutions (at least around room temperature). So, if the hydroxyl ion concentration is 10-4M (moles per liter), the hydrogen ion concentration must be 10-14/10-4= 10-10 M. The pH of a solution is equal to the negative logarithm (base 10) of the hydrogen ion concentration. The base 10 logarithm of 10-10 is -10, so the negative logarithm of 10-10is 10. Therefore, the pH of this solution is 10."
       },
       {
         "question": "In humans, blood pH is around 7.4, and a decrease in blood pH to 6.4 would be fatal. A drop by 1 pH unit represents which of the following?",
@@ -4409,7 +4717,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": ""
       }
     ],
     "unique_questions": 7
@@ -4443,7 +4753,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "The first electron shell has one orbital and the second electron shell has four orbitals. Each orbital can contain a maximum of two electrons. Therefore the first electron shell can contain up to two electrons and the second electron shell can contain up to eight electrons."
       },
       {
         "question": "How many covalent bonds do carbon atoms need to form with other atoms to complete their valence shell?",
@@ -4471,7 +4783,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Excellent",
+        "neutral_comments": "Carbon atoms have 4 electrons in their valence shell, which is the 2ndelectron shell. The total number of electrons needed to fill the 2ndelectron shell is 8, so carbon needs to form 4 covalent bonds so that it is sharing a total of 8 electrons (2 electrons per covalent bond)."
       },
       {
         "question": "The lowest energy mechanism by which a carbon atom may complete its valence shell is to",
@@ -4499,7 +4813,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Excellent",
+        "neutral_comments": "Forming only 2 covalent bonds with other atoms would not be sufficient for a carbon atom to complete its shell, as carbon atoms have 4 electrons in their valence shell (= the 2nd electron shell) and 8 electrons are needed to complete that shell. In theory the outermost shell could be completed by transferring 4 electrons from other atoms, but in practice this would leave the carbon atom with 4 more electrons than protons which is very unfavorable energetically. In theory the outermost shell could also be completed by transferring 4 electrons FROM carbon to other atoms, in which case the carbon atom would have no electrons in its 2nd shell and 2 electrons in its 1st shell, which would make the 1st shell its outermost, or valence, shell and that shell would be complete since it only takes 2 electrons to fill the 1st electron shell. However, this situation would leave the carbon atom with 4 less electrons than protons, which is a big difference in the number of electrons and protons and is extremely unstable in this case."
       },
       {
         "question": "The bonds in a water molecule are",
@@ -4527,7 +4843,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "Water has a high specific heat because",
@@ -4555,7 +4873,9 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "If the pH of a solution is increased from pH 5 to pH 7, it means that the",
@@ -4583,7 +4903,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": ""
       }
     ],
     "unique_questions": 6
@@ -4617,7 +4939,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Excellent",
+        "neutral_comments": "The atoms of all elements need 2 electrons to complete their first electron shell."
       },
       {
         "question": "Depending on how far an electron is moved from the nucleus",
@@ -4645,7 +4969,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "The potential energy of electrons increases the further they are from the nucleus. However, electrons may only occupy certain defined orbitals that have certain defined average distances from the nucleus and thus certain energy levels. Think of it like a ball being moved up or down a set of steps. If a ball is moved up two steps its energy level will increase twice as much as if it is moved up one step (assuming the steps are of equal height). However, it is not feasible to increase the potential energy of the ball by 0.5 or 1.5 steps."
       },
       {
         "question": "Which of the following statements about electrons is FALSE?",
@@ -4673,7 +4999,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "It is true that the closer an electron is to the nucleus, the more strongly the electron is attracted to the nucleus. However, it is NOT true that an electron has more potential energy when it is closer to the nucleus. In fact, it will have less potential energy the closer it gets to the nucleus. Think of it this way, the further from the earth you send a rocket, the less strongly it is attracted to the earth by gravity, but the more potential energy it has."
       },
       {
         "question": "When atom “A” forms four single covalent bonds to complete its outermost electron shell, which is its 2nd electron shell, the electron orbitals within that shell will point towards the corners of",
@@ -4701,7 +5029,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "If you make a model of a water molecule, the lines showing the relative positions of the covalent bonds will most closely resemble",
@@ -4729,7 +5059,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "In a water molecule, each hydrogen atom is connected to the one oxygen atom by a covalent bond. The oxygen atom thus has a complete valence shell, with 2 pairs of electrons shared in covalent bonds and 2 unshared pairs of electrons. Since the 4 orbitals occupied by these 4 pairs of electrons point towards the 4 corners of a tetrahedron, the 2 pairs of electrons that form the 2 covalent bonds will point towards 2 of the corners of a tetrahedron and will thus form roughly a wide “V” shape."
       },
       {
         "question": "A solution with a pH of 10 contains what concentration of hydroxyl ions [OH-]?",
@@ -4757,7 +5089,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "The pH of a solution is equal to the negative logarithm (base 10) of the hydrogen ion concentration in moles per liter. In other words, pH = - log [H+]. So, in this case: 10 = - log [H+]. Or, -10 = log [H+]. Or, 10-10 M = [H+]. Furthermore, the concentration of hydroxyl ions times the concentration of hydrogen ions always equals 10-14 in aqueous solutions (at least around room temperature). So, if the hydrogen ion concentration is 10-10M (moles per liter), the hydroxyl ion concentration must be 10-14/10-10= 10-4 M, or 0.0001 M, or 0.0001 moles/liter."
       }
     ],
     "unique_questions": 6
@@ -4791,7 +5125,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "Oxygen gas (O2) is an example of",
@@ -4819,7 +5155,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Molecules are substances that consist of two or more atoms joined by covalent bonds. This definition applies to oxygen gas, as oxygen gas consists of two oxygen atoms that are joined to each other by two covalent bonds. Compounds are defined as substances consisting of two or more different elements combined in a fixed ratio. Because the atoms in oxygen gas all belong to the same element (oxygen), oxygen gas is not a compound."
       },
       {
         "question": "In a single molecule of water, two hydrogen atoms are bonded to a single oxygen atom by",
@@ -4847,7 +5185,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H+]?",
@@ -4875,7 +5215,9 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "The pH of a solution is equal to the negative logarithm (base 10) of the hydrogen ion concentration in moles per liter. In other words, pH = - log [H+]. So, in this case: 1.5 = - log [H+]. Or, -1.5 = log [H+]. Or, 10-1.5 = [H+]. Or, 0.03 moles/liter = [H+]. Note that you do NOT need to know the exact value of 10-1.5 to identify the correct answer for this question. If you realize that 10-1.5 is between 10-1(= 0.1) and 10-2 (= 0.01) in value, than you will see that the only answer that lies within this range is 0.03 moles/liter."
       }
     ],
     "unique_questions": 4
@@ -4909,7 +5251,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Excellent",
+        "neutral_comments": "Nitrogen atoms have 7 electrons. 2 of those electrons fill the 1stelectron shell and the other 5 fill 5 of the 8 spots in the 2nd electron shell, which is outermost shell and thus the valence shell for nitrogen. Nitrogen thus needs 3 more electrons to fill its valence shell."
       },
       {
         "question": "When we write “O=O”, the double line represents",
@@ -4937,7 +5281,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Excellent",
+        "neutral_comments": "When drawing molecular structures, lines represent covalent bonds. So, a double line represents a double covalent bond between two atoms."
       },
       {
         "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-4 M?",
@@ -4965,7 +5311,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "The pH of a solution is equal to the negative logarithm (base 10) of the hydrogen ion concentration. In other words, pH = - log [H+]. The base 10 logarithm of 10-4 is -4, so the negative logarithm of 10-4is 4. Therefore, the pH of this solution is 4."
       }
     ],
     "unique_questions": 3
@@ -4999,7 +5347,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Remember that a mole is a number just like a “dozen” is a number. A “dozen” means “12”, and a “mole” means “6.02 X 1023”. A one molar solution has one mole of solute molecules per liter of solution, or 6.02 X 1023 molecules of solute per liter of solution. So, a 0.1 liters of a 1 molar solution will have 0.1 moles of solute molecules. 0.1 moles X (6.02 X 1023 molecules/mole) = 6.02 X 1022 molecules."
       },
       {
         "question": "A solution with a pH of 2 contains what concentration of hydrogen ions [H+]?",
@@ -5027,7 +5377,9 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "The pH of a solution is equal to the negative logarithm (base 10) of the hydrogen ion concentration in moles per liter. In other words, pH = - log [H+]. So, in this case: 2 = - log [H+]. Or, -2 = log [H+]. Or, 10-2 = [H+]. Or, 0.01 M = [H+]."
       }
     ],
     "unique_questions": 2
@@ -5061,7 +5413,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "The chemical behavior of atoms is mostly dependent on their valence electrons, which are the electrons in their outermost, or valence, electron shell. Depending on the number of electrons the atoms of a particular element have, the electrons may be sufficient to fill only the 1st electron shell, leaving the 1st shell as the outermost shell. Atoms of elements with more electrons may have sufficient electrons to fill the first electron shell and to partially or fully fill the 2nd shell, but not to place any electrons in the 3rd electron shell. In that case, the 2ndshell would be the outermost shell that has electrons and would thus be the valence shell."
       },
       {
         "question": "Which of the following is not a molecule?",
@@ -5089,7 +5443,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "Molecules consist of two or more atoms that are joined by covalent bonds. The atoms may be of the same (e.g. H2) or different (e.g. CH4or H2O) elements. NaCl is a compound consisting of Na+cations and Cl- anions joined by ionic, rather than covalent, bonds."
       },
       {
         "question": "Which of the following statements about bases is FALSE?",
@@ -5117,7 +5473,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": ""
       },
       {
         "question": "How many molecules of glycerol (C3H8O3; molecular mass = 92) would be present in 1 L of a 1 M (molar) glycerol solution?",
@@ -5145,7 +5503,9 @@
             "is_correct": true,
             "comment": "Nice job!"
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "A one molar solution contains 1 mole of solute per liter of solution. So, 1 L of a 1 molar solution will contain 1 mole of solute. Remember that a mole is a number just like a “dozen” is a number. A “dozen” means “12”, and a “mole” means “6.02 X 1023”. So, 1 L of a 1 molar glycerol solution will have 1 mole, or 6.02 X 1023, glycerol molecules."
       }
     ],
     "unique_questions": 4
@@ -5179,7 +5539,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good job!",
+        "neutral_comments": "Depending on the atom in question, the atom may complete its valence shell by sharing one or more pairs of electrons with one or more other atoms (thus forming one or more covalent bonds with those atoms) or by transferring one or more electrons to other atoms or by transferring one or more electrons from another atom."
       }
     ],
     "unique_questions": 1
@@ -5213,7 +5575,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Excellent",
+        "neutral_comments": "Hydrogen atoms have 1 electron in their valence shell, which is the 1stelectron shell. The total number of electrons needed to fill the 1stelectron shell is 2, so hydrogen needs to form one covalent bond with another atom in order to fill its valence shell. Alternatively, hydrogen can “fill” its valence shell by transferring its one electron to another atom. You might expect that hydrogen could also fill its valence shell by transferring an electron FROM another atom, but that would leave the hydrogen with 2 electrons and only one proton which, it turns out, is energetically unfavorable."
       }
     ],
     "unique_questions": 1
@@ -5237,7 +5601,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "All the figures are present for questions that include figures. Sometimes a student might need to re-size their browser window to see the figure for a particular question."
       },
       {
         "question": "The following functional group is known as",
@@ -5265,7 +5631,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "Carbon atoms typically complete their valence shells by",
@@ -5293,7 +5661,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Transferring four electrons to other atoms would leave the carbon atom with a charge of plus 4, which would make it quite unstable. Similarly, transferring four electrons from other atoms would leave the carbon atom with a charge of negative 4, which would also make it quite unstable. Instead, carbon atoms complete their valence shell by forming four covalent bonds."
       },
       {
         "question": "Compounds with amino groups are known as",
@@ -5321,7 +5691,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "Compounds with carbonyl groups are known",
@@ -5349,7 +5721,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "The following functional group is known as",
@@ -5377,7 +5751,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "The following functional group is known as -O-H",
@@ -5405,7 +5781,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       }
     ],
     "unique_questions": 7
@@ -5439,7 +5817,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "Compounds with sulfhydryl groups are known as",
@@ -5467,7 +5847,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "The following functional group is known as -S-H",
@@ -5495,7 +5877,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       }
     ],
     "unique_questions": 3
@@ -5529,7 +5913,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "If anything, hydroxyl and carboxyl groups will tend to act as acids."
       },
       {
         "question": "The two molecules shown in the figure below are best described as",
@@ -5557,7 +5943,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "These two molecules have the same formula (C4H10), meaning they have the same number of atoms of the same elements (i.e. they each have 4 carbon atoms and 10 hydrogen atoms), but different 3-dimensional shapes. So, they are isomers of some sort. Because they differ in the covalent arrangements of their atoms (i.e. which atoms are attached to which other atoms), they are examples of the type of isomers known structural isomers."
       },
       {
         "question": "The molecules shown below are best described as",
@@ -5585,7 +5973,9 @@
             "is_correct": true,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "These two molecules have the same formula (CN2O2H4), meaning they have the same number of atoms of the same elements, but different 3-dimensional shapes. So, they are isomers of some sort. Because they have the same covalent arrangements of their atoms (i.e. which atoms are attached to which other atoms), they are not structural isomers. In addition, because these molecules do not have 2 carbon atoms joined by a double bond, they cannot be geometric isomers. Instead, they are “enantiomers”. Enantiomers are mirror images of each other and cannot be superimposed on each other. This is quite similar to how our hands are mirror images of each other, but cannot be superimposed on each other. For example, imagine the palms of your hands as being carbon atom and the four fingers on each hand representing covalent bonds to 4 different groups. There is no way to place one hand on the other hand so that all four of your fingers will match up. Note that enantiomers only occur in molecules that have an asymmetric carbon. For a carbon to be asymmetric, it must form covalent bonds to 4 different groups."
       }
     ],
     "unique_questions": 3
@@ -5619,7 +6009,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "These two molecules have the same formula (CO2H4), meaning they have the same number of atoms of the same elements, but different 3-dimensional shapes. So, they are isomers of some sort. Because they differ in the covalent arrangements of their atoms (i.e. which atoms are covalently bound to which other atoms), they are examples of the type of isomers known structural isomers."
       }
     ],
     "unique_questions": 1
@@ -5653,7 +6045,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       }
     ],
     "unique_questions": 1
@@ -5687,7 +6081,9 @@
             "is_correct": true,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "These two molecules have the same formula (C2N2O2H2), meaning they have the same number of atoms of the same elements, but different 3-dimensional shapes. So, they are isomers of some sort. Because they differ in the covalent arrangements of their atoms (i.e. which atoms are attached to which other atoms), they are examples of the type of isomers known structural isomers. For example, both carbon atoms in the molecule on the left are attached to one N=O and one hydrogen. In contrast, one of the carbon atoms in the molecule on the right is attached to 2 N=O groups and the other carbon atom is attached to 2 hydrogen atoms. Note that, despite the fact that these two molecules have a carbon-carbon double bond and are isomers, they are NOT geometric isomers. Geometric isomers have the same covalent arrangements of their atoms. The pair of molecules shown above do NOT have the same covalent arrangement of their atoms."
       },
       {
         "question": "If two molecules have the same number of atoms of the same elements but DIFFERENT covalent arrangements, the two molecules are",
@@ -5715,7 +6111,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "Isomers of any type (structural isomers, geometric isomers and enantiomers) must all meet the criteria of having the same number of atoms of the same elements but different structures. Structural isomers have the further criteria that, for two molecules to be structural isomers of each other, they must differ in their covalent partnerships. In contrast, molecules that are geometric isomers or enantiomers do NOT differ in their covalent partnerships. Geometric isomers differ in the arrangement of atoms around a double bond. Enantiomers differ in the arrangement of atoms covalently bound to a central, asymmetric carbon and are mirror images of each other. Please see figure 4.7 in your textbook for a figure showing all three types of isomer."
       }
     ],
     "unique_questions": 2
@@ -5754,7 +6152,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       }
     ],
     "unique_questions": 1
@@ -5788,7 +6188,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       }
     ],
     "unique_questions": 1
@@ -5822,7 +6224,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "When a carbon atom forms 4 single covalent bonds, those bonds angle towards the corners of an imaginary tetrahedron. A tetrahedron looks like a pyramid with a triangular base. For example, the four covalent bonds from the carbon in the methane molecule pictured below angle towards the corners of a tetrahedron."
       }
     ],
     "unique_questions": 1
@@ -5856,7 +6260,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "To find the right answer, try drawing the different molecules, remembering that each carbon atom must have a total of 4 covalent bonds and each hydrogen atom must form just a single covalent bond."
       }
     ],
     "unique_questions": 1
@@ -5885,7 +6291,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "All the figures are present for each question. Occasionally a student needs to re-size their browser window to be able to see a figure for a particular question."
       },
       {
         "question": "The proportion of Hydrogen to Oxygen to Carbon in a monosaccharide is",
@@ -5913,7 +6321,9 @@
             "is_correct": true,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": null
       },
       {
         "question": "What maintains the secondary structure of a protein?",
@@ -5941,7 +6351,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "The secondary structure of a protein is maintained by hydrogen bonds between the repeating parts of the polypeptide backbone (i.e. the C=O from the carboxyl group and the N-H from the amino group). The R groups on the amino acids are not responsible for the secondary structure of proteins."
       },
       {
         "question": "Which of the following is NOT found in RNA molecules?",
@@ -5969,7 +6381,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "RNA molecules have uracil instead of thymine."
       },
       {
         "question": "In the double helix structure of nucleic acids, cytosine hydrogen bonds to",
@@ -5997,7 +6411,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       }
     ],
     "unique_questions": 5
@@ -6031,7 +6447,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "Which of the following is NOT found in DNA molecules?",
@@ -6059,7 +6477,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "DNA molecules have thymine instead of uracil."
       },
       {
         "question": "In the figure of a DNA molecule shown below, the parts of the molecules labeled “A”, “B” and “C” correspond to",
@@ -6087,7 +6507,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "What would be the sequence of the RNA molecule made using the following DNA strand as a template? 5’ TCTGAA 3’",
@@ -6115,7 +6537,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "First, remember that nucleic acid strands bind to each other with an anti-parallel orientation. In other words, they bind so that the 5’ end of one strand is hydrogen bonded to the 3’ end of the other strand. Also, remember that U (for RNA) or T (for DNA) hydrogen bonds with A, and G hydrogen bonds with C. So, you have: DNA 5’ TCTGAA 3’RNA 3’ AGACUU 5’ If you then follow the convention of writing nucleic acid molecules down starting at their 5’ end, the sequence for the RNA molecule is: 5’ UUCAGA 3’"
       }
     ],
     "unique_questions": 4
@@ -6149,7 +6573,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Lipids are large biological molecules. However they are not polymers because they are not composed of repeating units of simple monomers. In contrast, polysaccharides are polymers composed of repeating monomers (= monosaccharides), polypeptides (proteins) are polymers composed of repeating monomers (= amino acids) and nucleic acids are polymers composed of monomers (nucleotides)."
       },
       {
         "question": "When two amino acids are joined to form a dipeptide,",
@@ -6177,7 +6603,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "Which of the following are examples of types of secondary structures of proteins?",
@@ -6205,7 +6633,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": null,
+        "neutral_comments": "Alpha helices and beta pleated sheets are examples of secondary structures found in proteins. In contrast, disulfide bridges play a role in formation of protein tertiary structure and peptide bonds link adjacent amino acids and so play a role in primary structure."
       },
       {
         "question": "The DNA molecules in our cells are composed of two chains held together by",
@@ -6233,7 +6663,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "What functional groups are found in sugar molecules?",
@@ -6261,7 +6693,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "Which of the following statements about enzymes is true?",
@@ -6289,7 +6723,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "What would be the sequence of the DNA molecule made using the following DNA strand as a template? 5’ AATTCGC 3’",
@@ -6317,7 +6753,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "First, remember that nucleic acid strands bind to each other with an anti-parallel orientation. In other words, they bind so that the 5’ end of one strand is hydrogen bonded to the 3’ end of the other strand. Also, remember that U (for RNA) or T (for DNA) hydrogen bonds with A, and G hydrogen bonds with C. So, you have: DNA 5’ AATTCGC 3’DNA 3’ TTAAGCG 5’ If you then follow the convention of writing nucleic acid molecules down starting at their 5’ end, the sequence for the RNA molecule is: 5’ GCGAATT 3’"
       },
       {
         "question": "Which of the following help form the tertiary structure of a protein?",
@@ -6345,7 +6783,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "All of the types of bonds/interactions listed below play a role in determining the tertiary structure of proteins, although it should be pointed out that not all proteins have disulfide bridges. Also, hydrogen bonds between the side chains of some amino acids and van der Waals interactions also play a role in determining tertiary structure."
       }
     ],
     "unique_questions": 8
@@ -6379,7 +6819,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "L-methionine and D-methionine are examples of",
@@ -6407,7 +6849,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "All amino acids except glycine have an asymmetric carbon, meaning a carbon atom that is covalently bound to 4 different groups. In the case of all amino acids except glycine, those groups are: a carboxyl group, an amino group, a hydrogen and an \"R\" group. The reason that glycine does not have an asymmetric carbon is because the R group of glycine is hydrogen. So, the central carbon of a glycine molecule is only bound to 3 different groups, since it is bound to two hydrogen atoms. Molecules with asymmetric carbons may occur as two different isomers, known as enantiomers. Enantiomers have the same covalent partnerships (i.e. they do NOT differ in which elements are covalently bound to which other elements), but are instead mirror images of each other. L-methionine and D-methionine meet this definition and so are enantiomers. Please see figure 4.7 in your book for a figure illustrating the different types of isomers."
       },
       {
         "question": "Which of the following are storage polysaccharides?",
@@ -6435,7 +6879,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": "Glycogen and starch are storage polysaccharides. Cellulose and chitin are structural polysaccharides."
       }
     ],
     "unique_questions": 3
@@ -6469,7 +6915,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "Why do we care about protein folding?",
@@ -6497,7 +6945,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       }
     ],
     "unique_questions": 2
@@ -6531,7 +6981,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       },
       {
         "question": "Which of the following provides the most accurate definition of a polymer?",
@@ -6559,7 +7011,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job",
+        "neutral_comments": null
       }
     ],
     "unique_questions": 2
@@ -6593,7 +7047,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       },
       {
         "question": "What would be the sequence of the RNA molecule made using the following DNA strand as a template? 5’ GAGGCTT 3’",
@@ -6621,7 +7077,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "First, remember that nucleic acid strands bind to each other with an anti-parallel orientation. In other words, they bind so that the 5’ end of one strand is hydrogen bonded to the 3’ end of the other strand. Also, remember that U (for RNA) or T (for DNA) hydrogen bonds with A, and G hydrogen bonds with C. So, you have: DNA 5’ GAGGCTT 3’RNA 3’ CUCCGAA 5’ If you then follow the convention of writing nucleic acid molecules down starting at their 5’ end, the sequence for the RNA molecule is: 5’ AAGCCUC 3’"
       },
       {
         "question": "The word “hydrolysis” was formed from two words,",
@@ -6649,7 +7107,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Nice job!",
+        "neutral_comments": null
       }
     ],
     "unique_questions": 3
@@ -6683,7 +7143,9 @@
             "is_correct": true,
             "comment": ""
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": null
       }
     ],
     "unique_questions": 1
@@ -6722,7 +7184,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "In the picture shown below the hydrocarbon tails of the phospholipid molecules are labeled as “hydrophobic tail” and the phosphate groups are part of the “hydrophilic head”."
       }
     ],
     "unique_questions": 1
@@ -6756,7 +7220,9 @@
             "is_correct": false,
             "comment": null
           }
-        ]
+        ],
+        "correct_comments": "Good work!",
+        "neutral_comments": "All types of sugars and polysaccharides are considered to be carbohydrates."
       }
     ],
     "unique_questions": 1
