@@ -19,6 +19,7 @@
 - scrape the neutral comments for the questions too - done
 - scrape the neutral comments for the questions' options too
 - some answer options have images, scrape those too
+- don't clean the text of the neutral comments?
 - some answer comments have images, scrape those too
 - these images are in url form. (and it downloads the img when fetched) - figure out a solution for this
 - display those images onto the quiz webite too

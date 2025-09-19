@@ -19099,6 +19099,1186 @@
           "neutral_comments": null
         }
       ]
+    },
+    {
+      "quiz_title": "SQ topics 1-4 level 1b (chapters 1-5)",
+      "questions": [
+        {
+          "question": "A hypothesis",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "is the same thing as a theory",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "is a specific question formulated by scientists after making many careful observations",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "is a prediction scientists make based on many careful observations",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "is a tentative answer to a question",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "is a tentative answer to a question",
+          "correct_comments": "Good job!",
+          "neutral_comments": "A hypothesis is a tentative answer to a question. Ideally, hypothesis-based science is carried out in the following steps: 1) Make observations. 2) Ask a question about those observations. 3) Form one or more hypotheses (= tentative answers to the question). 4) Make predictions based on the hypotheses. 5) Test predictions (e.g. by doing experiments). 6) Determine whether the results of the tests do or do not falsify the hypothesis. NOTE: It is not possible to PROVE that a hypothesis is correct. Instead, depending on the results, tests (experiments) may only show that a particular hypothesis is false."
+        },
+        {
+          "question": "Which of the following would you expect to dissolve poorly in water?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "A substance with a lot of nonpolar covalent bonds",
+              "is_correct": true,
+              "comment": "Good work!"
+            },
+            {
+              "text": "A substance with a lot of polar covalent bonds",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Anions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Cations",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "A substance with a lot of nonpolar covalent bonds",
+          "correct_comments": null,
+          "neutral_comments": "Water molecules are polar molecules as they carry partial positive and negative charges on different parts of the molecule. As a result, water molecules will tend to interact with other molecules that carry partial or full charges, including molecules with polar bonds, negatively charged molecules and atoms and positively charged molecules and anions."
+        },
+        {
+          "question": "The central carbon in amino acids is asymmetric in all amino acids except:",
+          "question_image_url": "https://canvas.umn.edu/assessment_questions/13311832/files/17370801/download?verifier=58SxQ7ghj1vnpDNzdVHHSYGlCpMaV6o1KL8OltCm",
+          "answers": [
+            {
+              "text": "all amino acids without exception",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "aspartate (R = -CH2COOH)",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "glycine (R = -H)",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "alanine (R = -CH3)",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "glycine (R = -H)",
+          "correct_comments": null,
+          "neutral_comments": null
+        },
+        {
+          "question": "Thalidomide and L-dopa, shown below, are examples of pharmaceutical drugs that occur as enantiomers, or molecules that",
+          "question_image_url": "https://canvas.umn.edu/assessment_questions/13311828/files/17370677/download?verifier=l7JJHCP9FHv2yuMwpTVcUV9uzvf0LEQqqKxIGWw5",
+          "answers": [
+            {
+              "text": "are structural isomers.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "are mirror images of one another.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "are mirror images of one another and have the same biological activity.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "have identical three-dimensional shapes.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "are mirror images of one another.",
+          "correct_comments": null,
+          "neutral_comments": null
+        },
+        {
+          "question": "Which of the following most accurately describes the structure of a membrane formed by phospholipids?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "The phospholipids are arranged in a bilayer, with their hydrocarbon tails pointing toward the interior of the membrane and their phosphate groups on the outside of the bilayer.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "The phospholipids are arranged in a monolayer, with their hydrocarbon tails pointing toward the interior of the cell and their phosphate groups on the outside of the cell.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The phospholipids are arranged in a bilayer, with their hydrocarbon tails on the outside of the bilayer and their phosphate groups pointing toward the interior of the membrane.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The phospholipids are arranged in a monolayer, with their hydrocarbon tails on the outside of the cell and their phosphate groups pointing toward the interior of the cell.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "The phospholipids are arranged in a bilayer, with their hydrocarbon tails pointing toward the interior of the membrane and their phosphate groups on the outside of the bilayer.",
+          "correct_comments": "Good work!",
+          "neutral_comments": "In the picture shown below the hydrocarbon tails of the phospholipid molecules are labeled as “hydrophobic tail” and the phosphate groups are part of the “hydrophilic head”."
+        },
+        {
+          "question": "If you were asked to build a polymer that is two monomers long (ok, that wouldn’t really be a polymer, but let’s ignore that for the moment), and you could use two different types of monomers, “A” and “B”, how many different polymers could you build?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "1",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "4",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "3",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "2",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "4",
+          "correct_comments": "Nice job!",
+          "neutral_comments": "You could build 4 different polymers: A-A, B-B, A-B and B-A. You might wonder if A-B and B-A are really the same thing. They are not the same thing because one end of a polymer has a hydrogen attached and the other end of the polymer has a hydroxyl group. In other words, you could write the above molecules as: H-O-A-B-H and H-O-B-A-H, which makes it clear that they are not the same molecule."
+        },
+        {
+          "question": "Depending on how far an electron is moved from the nucleus",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "you can increase its potential energy by any amount",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "you can decrease its potential energy by only certain amounts",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "you can decrease its potential energy by any amount",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "you can increase its potential energy by only certain amounts",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "you can increase its potential energy by only certain amounts",
+          "correct_comments": "Nice job!",
+          "neutral_comments": "The potential energy of electrons increases the further they are from the nucleus. However, electrons may only occupy certain defined orbitals that have certain defined average distances from the nucleus and thus certain energy levels. Think of it like a ball being moved up or down a set of steps. If a ball is moved up two steps its energy level will increase twice as much as if it is moved up one step (assuming the steps are of equal height). However, it is not feasible to increase the potential energy of the ball by 0.5 or 1.5 steps."
+        },
+        {
+          "question": "Saturated fats",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "have fatty acid chains that pack together closely and so tend to be liquids at room temperature",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "have fatty acid chains that pack together closely and so tend to be solids at room temperature",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "have fatty acid chains that pack together loosely and so tend to be solids at room temperature",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "have fatty acid chains that pack together loosely and so tend to be liquids at room temperature",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "have fatty acid chains that pack together closely and so tend to be solids at room temperature",
+          "correct_comments": "Nice job!",
+          "neutral_comments": null
+        },
+        {
+          "question": "The tertiary structure of a protein refers to",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "its amino acid sequence",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the overall shape of the protein formed by the aggregation of the polypeptides in the protein",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the 3-dimensional shape of a polypeptide",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "the folded and coiled segment of a polypeptide",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "the 3-dimensional shape of a polypeptide",
+          "correct_comments": "Good work!",
+          "neutral_comments": null
+        },
+        {
+          "question": "The general structure of amino acids is shown in this figure. What functional groups are highlighted in salmon and yellow, respectively?",
+          "question_image_url": "https://canvas.umn.edu/assessment_questions/13311830/files/17370754/download?verifier=A9bYdeGtCdij3WyuNnYdr273StnEwTSqMgg2Fu3B",
+          "answers": [
+            {
+              "text": "amino and carbonyl",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "amino and carboxyl",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "hydroxyl and carbonyl",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "methyl and carboxyl",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "amino and carboxyl",
+          "correct_comments": null,
+          "neutral_comments": null
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 1-4 level 1b (chapters 1-5)_2",
+      "questions": [
+        {
+          "question": "Which of the following best describes the logic of hypothesis-based science?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "If my observations are accurate, they will support my hypothesis.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "If my hypothesis is correct, I can expect certain results.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "If my prediction is correct, it will lead to a testable hypothesis.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "If I generate a testable hypothesis, tests and observations will support it.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "If my hypothesis is correct, I can expect certain results.",
+          "correct_comments": "Nice job!",
+          "neutral_comments": "A hypothesis is a possible answer to a specific question. Predictions are made based on the hypothesis and those predictions are tested (e.g. by carrying out appropriate experiments). Because hypotheses are only POSSIBLE answers to questions, and you will often have multiple hypotheses for each question that you ask, the data you obtain will not necessarily support a particular hypothesis."
+        },
+        {
+          "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH-]?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "10-12 moles/liter",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "2 moles/liter",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "0.12 moles/liter",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "0.01 moles/liter",
+              "is_correct": true,
+              "comment": "Nice job!"
+            }
+          ],
+          "correct_answer": "0.01 moles/liter",
+          "correct_comments": null,
+          "neutral_comments": "The pH of a solution is equal to the negative logarithm (base 10) of the hydrogen ion concentration in moles per liter. In other words, pH = - log [H+]. So, in this case: 12 = - log [H+]. Or, -12 = log [H+]. Or, 10-12 M = [H+]. Furthermore, the concentration of hydroxyl ions times the concentration of hydrogen ions always equals 10-14 in aqueous solutions (at least around room temperature). So, if the hydrogen ion concentration is 10-12M (moles per liter), the hydroxyl ion concentration must be 10-14/10-12= 10-2 M, or 0.01 M, or 0.01 moles/liter."
+        },
+        {
+          "question": "When a carbon atom forms covalent bonds to 4 different atoms, those bonds angle towards the corners of an imaginary",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "cross",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "tetrahedron",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "square",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "box",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "tetrahedron",
+          "correct_comments": "Nice job!",
+          "neutral_comments": "When a carbon atom forms 4 single covalent bonds, those bonds angle towards the corners of an imaginary tetrahedron. A tetrahedron looks like a pyramid with a triangular base. For example, the four covalent bonds from the carbon in the methane molecule pictured below angle towards the corners of a tetrahedron."
+        },
+        {
+          "question": "Which of the following statements is FALSE?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Carboxyl groups tend to act as acids.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "sulfhydryl groups act as bases.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "Hydroxyl groups can form hydrogen bonds.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Amino groups tend to act as bases.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "sulfhydryl groups act as bases.",
+          "correct_comments": "Nice job!",
+          "neutral_comments": "If anything, a sulfhydryl group will tend to act as an acid, rather than as a base."
+        },
+        {
+          "question": "If you were asked to build a polymer that is 30 monomers long, and you could use two different types of monomers, “A” and “B”, how many different polymers could you build?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "~ 1,000",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "~ 1 billion",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "30",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "60",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "~ 1 billion",
+          "correct_comments": "Nice job!",
+          "neutral_comments": "Think of it this way: If you were asked to build a polymer that was just one monomer long (ok, that wouldn’t be a polymer, but let’s ignore that for the moment), you would be able to build just two different “polymers”: A and B. If you were asked to build a polymer that was just 2 monomers long (again, that wouldn’t be a polymer, but let’s ignore that for the moment), you would be able to build just 4 different “polymers”: AA, AB, BA and BB. If you were asked to build a polymer that was just 3 monomers long (again, that wouldn’t be a polymer, but let’s ignore that for the moment), you would be able to build just 8 different “polymers”: AAA, AAB, ABA, BAA, ABB, BAB. BBA and BBB. Are you seeing a pattern here? The answer to this type of question may be found using the following formula: Number of different polymers that may be formed = XY, where “X” is the number of different types of monomers available and “Y” is the number of monomers in the polymer. So, if you were asked to build a polymer that is 30 monomers long, and you could use two different types of monomers, “A” and “B”, the number of different polymers you could build would be: 230 = ~ 1,000,000,000"
+        },
+        {
+          "question": "The quaternary structure of a protein refers to",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "the overall shape of the protein formed by the aggregation of the polypeptides in the protein",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "its amino acid sequence",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the 3-dimensional shape of a polypeptide",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the folded and coiled segment of a polypeptide",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "the overall shape of the protein formed by the aggregation of the polypeptides in the protein",
+          "correct_comments": "Good work!",
+          "neutral_comments": null
+        },
+        {
+          "question": "How many electrons does it take to fill the first electron shell of a carbon atom?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "4",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "8",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "1",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "2",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "2",
+          "correct_comments": "Excellent",
+          "neutral_comments": "The atoms of all elements need 2 electrons to complete their first electron shell."
+        },
+        {
+          "question": "How many water molecules are needed to completely hydrolyze a polymer that is 18 nucleotides long?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "9",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "18",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "1",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "17",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "17",
+          "correct_comments": "Good work!",
+          "neutral_comments": "Think of it this way: How many water molecules would be needed to completely hydrolyze a “polymer” that is just two nucleotides long? You would need just one, to split the one bond joining the two monomers, right? So, how many water molecules would you need to completely hydrolyze a “polymer” that is 3 monomers long? The answer is that you would need 2 water molecules, one to split the bond between the 1stand 2nd monomers and the other to hydrolyze the bond between the 2ndand 3rd monomers. So, you to completely hydrolyze a polymer takes one less water molecule than the number of monomers in the polymer."
+        },
+        {
+          "question": "Which of the following statements about protein structure is most accurate?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Secondary and tertiary structures are determined by interactions between the repeating constituents of the polypeptide backbone.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Secondary and tertiary structures are determined by interactions between amino acid side chains.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Secondary structure is determined by interactions between amino acid side chains and tertiary structure is determined by interactions between the repeating constituents of the polypeptide backbone.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Secondary structure is determined by interactions between the repeating constituents of the polypeptide backbone and tertiary structure is determined by interactions between amino acid side chains.",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "Secondary structure is determined by interactions between the repeating constituents of the polypeptide backbone and tertiary structure is determined by interactions between amino acid side chains.",
+          "correct_comments": "Good work!",
+          "neutral_comments": null
+        },
+        {
+          "question": "Compounds with carbonyl groups are known",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "ketones and hydrocarbons",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "aldehydes and hydrocarbons",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "alcohols and hydrocarbons",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "aldehydes or ketones",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "aldehydes or ketones",
+          "correct_comments": "Nice job!",
+          "neutral_comments": null
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 1-4 level 1b (chapters 1-5)_3",
+      "questions": [
+        {
+          "question": "Discovery science",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "focuses on formulating hypotheses",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "focuses on accurately describing natural structures or processes",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "focuses on answering specific questions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "focuses on testing predictions",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "focuses on accurately describing natural structures or processes",
+          "correct_comments": "Good job!",
+          "neutral_comments": "Discovery science describes natural structures and processes as accurately as possible through careful observations and data analysis. Discovery science does NOT involve formulating hypotheses, making predictions based on those hypotheses and then testing those predictions. That is part of the process followed when doing hypothesis-based science."
+        },
+        {
+          "question": "The charge on a water molecule is best described as being:",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Somewhat less than minus one near the oxygen atom and plus one near each of the hydrogen atoms.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Minus one near the oxygen atom and plus one near each of the hydrogen atoms.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Somewhat less than minus one near the oxygen atom and somewhat less than plus one near each of the hydrogen atoms.",
+              "is_correct": true,
+              "comment": "Good work!"
+            },
+            {
+              "text": "Minus one near the oxygen atom and somewhat less than plus one near each of the hydrogen atoms.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Somewhat less than minus one near the oxygen atom and somewhat less than plus one near each of the hydrogen atoms.",
+          "correct_comments": null,
+          "neutral_comments": null
+        },
+        {
+          "question": "The following functional group is known as",
+          "question_image_url": "https://canvas.umn.edu/assessment_questions/3980176/files/4145191/download?verifier=bl14LOhhSGgYwOrq02W8b37YZ7R5OH3EgfrztmGm",
+          "answers": [
+            {
+              "text": "a hydroxyl group",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "a carbonyl group",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "a carboxyl group",
+              "is_correct": false,
+              "comment": ""
+            },
+            {
+              "text": "a hydrocarbon group",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "a carbonyl group",
+          "correct_comments": null,
+          "neutral_comments": null
+        },
+        {
+          "question": "Which of the molecules listed below can form isomers? CH4 C3H8 C4H10",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "All of them can form isomers",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "CH4 cannot form isomers, but C3H8 and C4H10can form isomers",
+              "is_correct": false,
+              "comment": ""
+            },
+            {
+              "text": "None of them can form isomers.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "CH4 and C3H8 cannot form isomers, but C4H10can form isomers",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "CH4 and C3H8 cannot form isomers, but C4H10can form isomers",
+          "correct_comments": null,
+          "neutral_comments": "CH4 and C3H8 cannot form isomers. To see this, try drawing C3H8 molecules with different structures, remembering that each molecule you draw must have 3 carbon atoms and 8 hydrogen atoms and that each carbon atom must form 4 covalent bonds and each hydrogen atom must form 1 covalent bond. You will find that you can only draw one structure. In contrast, C4H10 can form isomers. For example, the two molecules shown below are structural isomers of C4H10."
+        },
+        {
+          "question": "Which of the following statements is FALSE?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Nucleotides are the monomers from which nucleic acids are formed.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Fatty acids are the monomers from which lipid molecules are formed.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "Amino acids are the monomers from which proteins are formed.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Sugars are the monomers from which polysaccharides are formed.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Fatty acids are the monomers from which lipid molecules are formed.",
+          "correct_comments": "Nice job!",
+          "neutral_comments": "Fatty acids are important in lipid formation, but are not monomers as monomers are simple molecules, many of which are combined to form a polymer. In contrast, fatty acids are fairly large molecules and few of them are used to make a lipid molecule. For example, just two fatty acid molecules are used in the synthesis of a typical membrane lipid molecule (e.g. a phospholipid) and just three fatty acid molecules are used to make a typical lipid molecule in fat (e.g. a triacylglycerol molecule). In addition, monomers are linked together like cars forming a train to form a polymer. In contrast, the fatty acid molecules that are used to form lipids are not joined to each other. For example, the three fatty acid molecules used to form a triacylglycerol molecule (a type of lipid molecule) are each joined separately to different parts of a glycerol molecule. So, remember that lipids are the one type of biological macromolecule we will discuss that are NOT polymers because they are NOT composed of monomers."
+        },
+        {
+          "question": "What would be the sequence of the RNA molecule made using the following DNA strand as a template? 5’ TCTGAA 3’",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "5’ TTCAGA 3’",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "5’ UUCAGA 3’",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "5’AGACTT 3’",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "5’ AGACUU 3’",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "5’ UUCAGA 3’",
+          "correct_comments": "Good work!",
+          "neutral_comments": "First, remember that nucleic acid strands bind to each other with an anti-parallel orientation. In other words, they bind so that the 5’ end of one strand is hydrogen bonded to the 3’ end of the other strand. Also, remember that U (for RNA) or T (for DNA) hydrogen bonds with A, and G hydrogen bonds with C. So, you have: DNA 5’ TCTGAA 3’RNA 3’ AGACUU 5’ If you then follow the convention of writing nucleic acid molecules down starting at their 5’ end, the sequence for the RNA molecule is: 5’ UUCAGA 3’"
+        },
+        {
+          "question": "How many electrons do oxygen atoms have in their valence shell?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "6",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "2",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "4",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "1",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "6",
+          "correct_comments": "Good job!",
+          "neutral_comments": null
+        },
+        {
+          "question": "In the figure of a DNA molecule shown below, the parts of the molecules labeled “A”, “B” and “C” correspond to",
+          "question_image_url": "https://canvas.umn.edu/assessment_questions/3980319/files/4145227/download?verifier=ovyR6hO6aE66BR0cNx7eEALD6ND3Gfj9P0gNFQrG",
+          "answers": [
+            {
+              "text": "A = a deoxyribose, B = a phosphate group and C = a nitrogenous base",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "A = a phosphate group, B = deoxyribose and C = a nitrogenous base",
+              "is_correct": false,
+              "comment": ""
+            },
+            {
+              "text": "A = a deoxyribose, B = a nitrogenous base and C = a phosphate group",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "A = a phosphate group, B = a nitrogenous base and C = deoxyribose",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "A = a phosphate group, B = a nitrogenous base and C = deoxyribose",
+          "correct_comments": null,
+          "neutral_comments": null
+        },
+        {
+          "question": "Monosaccharides are added to growing polysaccharide chains via condensation (dehydration) reactions. Which of the following also occur via condensation (dehydration) reactions?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "All of these answers are correct",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "Attaching fatty acids to glycerol molecules",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Attaching nucleotides to growing DNA molecules",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Attaching amino acids to growing polypeptide chains",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "All of these answers are correct",
+          "correct_comments": "Nice job!",
+          "neutral_comments": "All of the reactions we discussed involving synthesis of large biological molecules take place via a type of condensation reaction known as a dehydration reaction that involves the loss of a water molecule (hence the name “dehydration” for water removal)."
+        },
+        {
+          "question": "The molecules shown below are best described as",
+          "question_image_url": "https://canvas.umn.edu/assessment_questions/3980164/files/4145183/download?verifier=6aIK6rYrPywuRcQdrZ1Xi0bRxZdZWO5jf9PUY042",
+          "answers": [
+            {
+              "text": "Structural isomers",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "Geometric isomers",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Enantiomers",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Isotopes",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Structural isomers",
+          "correct_comments": "Good work!",
+          "neutral_comments": "These two molecules have the same formula (C2O2H4), meaning they have the same number of atoms of the same elements, but have different 3-dimensional shapes. So, they are isomers of some sort. However, despite the fact that they have a carbon-carbon double bond, they are NOT geometric isomers. Geometric isomers have the same covalent arrangements of their atoms. The pair of molecules shown above do NOT have the same covalent arrangement of their atoms. For the molecule shown on the left, each of the carbon atoms is covalently bound to one hydrogen atom and one hydroxyl (OH) group. For the molecule shown on the right, one carbon atom is covalently bound to two hydroxyl groups and the other carbon atom is covalently bound to two hydrogen atoms. So, the two molecules do not have the same covalent arrangements of their atoms. Because they differ in the covalent arrangements of their atoms (i.e. which atoms are attached to which other atoms), they are examples of the type of isomers known structural isomers."
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 1-4 level 1b (chapters 1-5)_4",
+      "questions": [
+        {
+          "question": "A hypothesis",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "is a tentative answer to a question",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "is a prediction scientists make based on many careful observations",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "is the same thing as a theory",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "is a specific question formulated by scientists after making many careful observations",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "is a tentative answer to a question",
+          "correct_comments": "Good job!",
+          "neutral_comments": "A hypothesis is a tentative answer to a question. Ideally, hypothesis-based science is carried out in the following steps: 1) Make observations. 2) Ask a question about those observations. 3) Form one or more hypotheses (= tentative answers to the question). 4) Make predictions based on the hypotheses. 5) Test predictions (e.g. by doing experiments). 6) Determine whether the results of the tests do or do not falsify the hypothesis. NOTE: It is not possible to PROVE that a hypothesis is correct. Instead, depending on the results, tests (experiments) may only show that a particular hypothesis is false."
+        },
+        {
+          "question": "Water has a high specific heat because",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Much of the energy absorbed by water goes to breaking hydrogen bonds between water molecules, rather than to raising the temperature of the water.",
+              "is_correct": true,
+              "comment": "Nice job!"
+            },
+            {
+              "text": "The bonds between the hydrogen and oxygen atoms in a water molecule are polar covalent bonds",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Water is an excellent solvent",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Liquid water is denser than frozen water (i.e. ice)",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Much of the energy absorbed by water goes to breaking hydrogen bonds between water molecules, rather than to raising the temperature of the water.",
+          "correct_comments": null,
+          "neutral_comments": null
+        },
+        {
+          "question": "If two molecules have the same number of atoms of the same elements but different structures, the two molecules may be",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "All of these answers are correct",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "Enantiomers",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Structural isomers",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Geometric isomers",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "All of these answers are correct",
+          "correct_comments": "Good work!",
+          "neutral_comments": "Isomers of any type (structural isomers, geometric isomers and enantiomers) all meet the criteria of having the same number of atoms of the same elements but different structures. Structural isomers have the further criteria that, for two molecules to be structural isomers of each other, they must differ in their covalent partnerships. In contrast, molecules that are geometric isomers or enantiomers do NOT differ in their covalent partnerships. Geometric isomers differ in the arrangement of atoms around a double bond. Enantiomers differ in the arrangement of atoms covalently bound to a central, asymmetric carbon and are mirror images of each other. Please see figure 4.7 in your textbook for a figure showing all three types of isomer."
+        },
+        {
+          "question": "What functional group is commonly used in cells to transfer energy from one organic molecule to another?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "sulfhydryl",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "phosphate",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "hydroxyl",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "carboxyl",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "phosphate",
+          "correct_comments": null,
+          "neutral_comments": null
+        },
+        {
+          "question": "In the figure of a DNA molecule shown below, the parts of the molecules labeled “A”, “B” and “C” correspond to",
+          "question_image_url": "https://canvas.umn.edu/assessment_questions/3980319/files/4145227/download?verifier=ovyR6hO6aE66BR0cNx7eEALD6ND3Gfj9P0gNFQrG",
+          "answers": [
+            {
+              "text": "A = a deoxyribose, B = a phosphate group and C = a nitrogenous base",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "A = a deoxyribose, B = a nitrogenous base and C = a phosphate group",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "A = a phosphate group, B = a nitrogenous base and C = deoxyribose",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "A = a phosphate group, B = deoxyribose and C = a nitrogenous base",
+              "is_correct": false,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "A = a phosphate group, B = a nitrogenous base and C = deoxyribose",
+          "correct_comments": null,
+          "neutral_comments": null
+        },
+        {
+          "question": "Nucleotides in a single DNA chain are joined together by",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "a covalent bond between the nitrogenous base of one nucleotide and the nitrogenous base of the next nucleotide",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "hydrogen bonds between the nitrogenous base of one nucleotide and the nitrogenous base of the next nucleotide",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "a covalent bond between the phosphate group of one nucleotide and the sugar group of the next nucleotide",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "hydrogen bonds between the phosphate group of one nucleotide and the sugar group of the next nucleotide",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "a covalent bond between the phosphate group of one nucleotide and the sugar group of the next nucleotide",
+          "correct_comments": "Good work!",
+          "neutral_comments": null
+        },
+        {
+          "question": "With regards to orbitals, which of the following statements is FALSE?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "An orbital is a defined path that an electron follows as it orbits the nucleus.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "An orbital is a region surrounding the nucleus where the probability of finding an electron is high.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "An orbital can be depicted as a cloud where an electron may be located.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "An orbital is occupied by one or two electrons.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "An orbital is a defined path that an electron follows as it orbits the nucleus.",
+          "correct_comments": "Nice job!",
+          "neutral_comments": "Electrons do not follow defined paths and the position of an electron cannot be precisely known. Instead, we can only say that there is a high probability of a particular electron being located somewhere within a space defined by the orbital for that electron."
+        },
+        {
+          "question": "If starch and cellulose are both polymers of glucose, how come people can digest starch but not cellulose?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "The glucose monomers that form starch are joined together by different covalent bonds than the glucose monomers that form cellulose and the enzymes in our bodies that are able to hydrolyze (break) the covalent bonds between the glucose monomers in starch are not able to hydrolyze the covalent bonds between the glucose monomers in cellulose.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "When glucose monomers are joined by dehydration reactions to form cellulose, the glucose monomers are converted into lactose molecules, which are hard for many people to digest.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "When glucose monomers are joined by dehydration reactions to form cellulose, the glucose monomers are converted into non-sugar molecules that are impossible for us to digest.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "When glucose monomers are joined by dehydration reactions to form cellulose, the glucose monomers are converted into xylose molecules that are impossible for us to digest.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "The glucose monomers that form starch are joined together by different covalent bonds than the glucose monomers that form cellulose and the enzymes in our bodies that are able to hydrolyze (break) the covalent bonds between the glucose monomers in starch are not able to hydrolyze the covalent bonds between the glucose monomers in cellulose.",
+          "correct_comments": "Nice job!",
+          "neutral_comments": null
+        },
+        {
+          "question": "Which of the following most accurately describes the structure of a membrane formed by phospholipids?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "The phospholipids are arranged in a monolayer, with their hydrocarbon tails on the outside of the cell and their phosphate groups pointing toward the interior of the cell.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The phospholipids are arranged in a bilayer, with their hydrocarbon tails pointing toward the interior of the membrane and their phosphate groups on the outside of the bilayer.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "The phospholipids are arranged in a monolayer, with their hydrocarbon tails pointing toward the interior of the cell and their phosphate groups on the outside of the cell.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The phospholipids are arranged in a bilayer, with their hydrocarbon tails on the outside of the bilayer and their phosphate groups pointing toward the interior of the membrane.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "The phospholipids are arranged in a bilayer, with their hydrocarbon tails pointing toward the interior of the membrane and their phosphate groups on the outside of the bilayer.",
+          "correct_comments": "Good work!",
+          "neutral_comments": "In the picture shown below the hydrocarbon tails of the phospholipid molecules are labeled as “hydrophobic tail” and the phosphate groups are part of the “hydrophilic head”."
+        },
+        {
+          "question": "Compounds with amino groups are known as",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "ketones",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "aldehydes",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "amines",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "amides",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "amines",
+          "correct_comments": "Nice job!",
+          "neutral_comments": null
+        }
+      ]
     }
   ]
 }
