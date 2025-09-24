@@ -20,6 +20,12 @@
 - scrape the neutral comments for the questions' options too
 - some answer options have images, scrape those too
 - don't clean the text of the neutral comments?
+
+--> typical example: https://canvas.umn.edu/courses/511424/quizzes/1055567/history?version=3 (SQ topic 3 level 2 attempt 3, question 9)
+
+quiz_title: 
+SQ topic 3 level 2 (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)_3
+
 - some answer comments have images, scrape those too
 - these images are in url form. (and it downloads the img when fetched) - figure out a solution for this
 - display those images onto the quiz webite too
