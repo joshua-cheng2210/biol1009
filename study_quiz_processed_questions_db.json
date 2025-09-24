@@ -8730,5 +8730,269 @@
       }
     ],
     "unique_questions": 22
+  },
+  {
+    "quiz_title": "Quiz 1",
+    "questions": [
+      {
+        "question": "Studies have shown which of the following to be a particularly effective way for most students to learn new material?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 298,
+        "options": [
+          {
+            "text": "repeatedly going over their notes about the material",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "repeatedly going back over textbook readings about the material",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "repeatedly answering questions about the material",
+            "is_correct": true,
+            "comment": "Nice job!"
+          }
+        ],
+        "neutral_comments": "In one study, different groups of students were shown a list of vocabulary words. The students were then divided into three groups. The first group of students kept studying (reading over) the list of vocabulary words. The second group alternated between reading over the list of words and being tested on them. The third group kept being tested on the list of words. The first group of students did the worst on tests of the vocabulary words. Interestingly, the second and third groups of students did about equally well. This study suggests that repeatedly going over and over study questions is generally a more effective method of learning new material than repeatedly going over the reading (either from the textbook or from your notes). (And, going over your notes is likely to be more effective than going over the textbook)."
+      },
+      {
+        "question": "Which of the following is a true statement regarding recommend priorities in studying for BIOL 1009?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 299,
+        "options": [
+          {
+            "text": "Your primary focus should be on the material covered in the textbook. For most students, the best way to master this material is to spend a large percentage of their study time on reading the textbook.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Your primary focus should be on the material covered in the recordings and handouts. For most students, the best way to master this material is to spend a large percentage of their study time on answering the study questions.",
+            "is_correct": true,
+            "comment": "Correct!"
+          },
+          {
+            "text": "Your primary focus should be on the material covered in the textbook. For most students, the best way to master this material is to spend a large percentage of their study time on reading the handouts over and over.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Your primary focus should be on the material covered in the recordings and handouts. For most students, the best way to master this material is to spend a large percentage of their study time on reading the handouts over and over.",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": "It is highly recommended that students focus on mastering the material covered in the recordings and handouts and focus a lot less on the material covered in the textbook. Although the textbook is a useful resource for learning the course material, it contains a LOT of material, more than what students are typically expected to learn. The material that will be the focus of the quizzes and exams is covered in the recordings and handouts. Therefore, focusing on the material covered in the recordings and handouts is the most efficient way to prepare to do well on quizzes and exams. Studies show that, for most students, the most effective way to master this material is by answering questions, such as study questions."
+      }
+    ],
+    "unique_questions": 2
+  },
+  {
+    "quiz_title": "Quiz 2",
+    "questions": [
+      {
+        "question": "When a reversible chemical reaction reaches equilibrium,",
+        "question_image_url": "",
+        "unique": true,
+        "id": 300,
+        "options": [
+          {
+            "text": "the forward and reverse reactions stop",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the relative concentrations of reactants and products continues to change",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the concentrations of reactants and products are equal",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the forward and reverse reactions occur at the same rate",
+            "is_correct": true,
+            "comment": ""
+          }
+        ],
+        "neutral_comments": "At equilibrium, the forward and reverse reactions occur at the same rate. This does not mean that the concentrations of reactants and products are equal. Typically one will be significantly higher than the other. But, the relative concentrations of the reactants and products will cease to change. For example, if A and B are converted to C and D, and C and D are converted to A and B in the reverse reaction, then equilibrium is reached when the rate of conversion of A and B to C and D is the same as the rate of conversion of C and D to A and B. If the reaction of A and B to form C and D is more energetically favorable than the reaction of C and D to form A and B, equilibrium may not be reached until the concentrations of C and D are significantly higher than the concentrations of A and B. At that point, even though individual molecules of A and B may be more likely to react to form molecules of C and D, because there are so many more molecules of C and D the rate at which molecules of C and D are converted to A and B becomes the same as the rate at which molecules of A and B are converted to C and D. For example, imagine a test tube in which there are 1,000 molecules each of A and B and that 10% of them interact per minute to form C and D. That would mean that the rate of conversion of A and B to C and D is 100 per minute. If the there are 10,000 molecules each of C and D in the test tube and 1% of them react per minute to form A and B, the rate of conversion of C and D to A and B would also be 100 per minute, indicating that the system is at equilibrium. If you removed some of the molecules of C and D from the test tube, right after you removed the C and D the rate of conversion of A and B to C and D would be unchanged, but the rate of conversion of C and D would decrease. So, the system would no longer be at equilibrium as the rate of conversion of A and B to C and D would be higher than the rate of conversion of C and D to A and B. Because of this, the relative concentrations of A and B versus C and D would also be changing, with C and D increasing relative to A and B. Eventually, the concentrations of C and D would increase enough and the concentrations of A and B would decrease enough so that the rates of the forward and reverse reactions would become equal, meaning that equilibrium would be re-established."
+      },
+      {
+        "question": "How many electrons do nitrogen atoms have in their valence shell?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 301,
+        "options": [
+          {
+            "text": "2",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "4",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "3",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      },
+      {
+        "question": "Which of the following statements about chemical reactions is <strong>FALSE</strong>?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 302,
+        "options": [
+          {
+            "text": "When hydrogen and oxygen combine to form water, the hydrogen and oxygen molecules are the “reactants” of the reaction.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "When hydrogen and oxygen combine to form water, the water molecules are the “products” of the reaction.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Chemical reactions may only proceed in one direction.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Chemical reactions involve the making and breaking of chemical bonds.",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      },
+      {
+        "question": "When an electron is moved further from the nucleus",
+        "question_image_url": "",
+        "unique": true,
+        "id": 303,
+        "options": [
+          {
+            "text": "its potential energy may change, depending on how the electron was moved",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "its potential energy is unchanged",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "it loses potential energy",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "it gains potential energy",
+            "is_correct": true,
+            "comment": ""
+          }
+        ],
+        "neutral_comments": "The further an electron is from the nucleus, the greater its potential energy. Think of it this way. Negatively charged electrons are attracted to the positively charged protons in the nucleus. So, it takes work to increase the separation between an electron and the nucleus. Some of the energy spent in doing this work is stored in the form of increasing the potential energy of the moved electron. This is conceptually similar to increasing the potential energy of a ball by carrying it higher up a hill."
+      }
+    ],
+    "unique_questions": 4
+  },
+  {
+    "quiz_title": "Quiz 3",
+    "questions": [
+      {
+        "question": "If I have trouble seeing a figure, I should:",
+        "question_image_url": "",
+        "unique": true,
+        "id": 304,
+        "options": [
+          {
+            "text": "Assume that the figure is missing from that question.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Re-size my browser window. If that doesn't work I should make sure I'm using Google chrome and have recently cleared the cache from my browser.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ],
+        "neutral_comments": "All the figures are definitely present. Sometimes students need to re-size their browser window in order to view a particular figure. Using Google chrome can also help as can clearing the cache from your browser. If none of these things work, please contact UMN IT help."
+      },
+      {
+        "question": "The structural level of a protein that is least affected by a disruption in hydrogen bonding is the",
+        "question_image_url": "",
+        "unique": true,
+        "id": 305,
+        "options": [
+          {
+            "text": "quaternary level",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "tertiary level",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "secondary level",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "primary level",
+            "is_correct": true,
+            "comment": ""
+          }
+        ],
+        "neutral_comments": null
+      },
+      {
+        "question": "The primary structure of a protein refers to",
+        "question_image_url": "",
+        "unique": true,
+        "id": 306,
+        "options": [
+          {
+            "text": "the 3-dimensional shape of a polypeptide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the folded and coiled segment of a polypeptide",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "its amino acid sequence",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "the overall shape of the protein formed by the aggregation of the polypeptides in the protein",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      }
+    ],
+    "unique_questions": 3
   }
 ]
