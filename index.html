@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="index.css">
-    
+
 </head>
 
 <body>
@@ -17,40 +17,40 @@
         <div class="container">
             <div class="page-header">
                 <h2 id="dashboard-title">BIOL 1009: General Biology</h2>
-                <p>Select your topics</p>
             </div>
 
             <!-- Dashboard Cards -->
             <div class="dashboard-cards">
-            <div id="dashboard-quizzes-list" class="quiz-list"></div>
+                <div id="dashboard-quizzes-list" class="quiz-list"></div>
+                
+            </div>
         </div>
-    </div>
 
-    <!-- Quiz Study Page -->
-    <div id="quiz-page" class="page" style="display:none;">
-        <button class="back-button" onclick="goBackToDashboard()">
-            ← Back to Quizzes
-        </button>
-        <div class="quiz-question">
-            <h3 id="question-text"></h3>
-            <div id="quiz-options"></div>
+        <!-- Quiz Study Page -->
+        <div id="quiz-page" class="page" style="display:none;">
+            <button class="back-button" onclick="goBackToDashboard()">
+                ← Back to Quizzes
+            </button>
+            <div class="quiz-question">
+                <h3 id="question-text"></h3>
+                <div id="quiz-options"></div>
+            </div>
+            <button class="nav-button" id="nextBtn" onclick="nextQuestion()">
+                Next
+                <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M5 1l8 7-8 7V1z" />
+                </svg>
+            </button>
         </div>
-        <button class="nav-button" id="nextBtn" onclick="nextQuestion()">
-            Next
-            <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
-                <path fill-rule="evenodd" d="M5 1l8 7-8 7V1z" />
-            </svg>
-        </button>
-    </div>
 
-    <!-- Quiz Results -->
-    <div id="quiz-results" class="page" style="display:none;">
-        <div class="score-circle"><span id="final-score">0%</span></div>
-        <p>You scored <span id="score-text"></span></p>
-        <button onclick="goBackToDashboard()">Back to Quizzes</button>
-    </div>
+        <!-- Quiz Results -->
+        <div id="quiz-results" class="page" style="display:none;">
+            <div class="score-circle"><span id="final-score">0%</span></div>
+            <p>You scored <span id="score-text"></span></p>
+            <button onclick="goBackToDashboard()">Back to Quizzes</button>
+        </div>
 
-    <script src="index.js"></script>
+        <script src="index.js"></script>
 
 </body>
 

@@ -62,7 +62,7 @@ function showDashboard(subjectKey) {
     Object.keys(currentSubject.quizzes).forEach(key => {
         const card = document.createElement('div');
         card.className = 'quiz-card';
-        card.textContent = `Quiz - ${key}`;
+        card.textContent = `${key}`;
         card.onclick = () => openQuiz(key);
         list.appendChild(card);
     });
@@ -93,6 +93,7 @@ function goBackToQuizzesList() {
 
 // -------------------- QUIZZES --------------------
 function openQuiz(quizKey) {
+    console.log(quizKey);
     currentQuizKey = quizKey;
     currentQuizIndex = 0;
     quizScore = 0;
@@ -114,8 +115,9 @@ function updateQuiz() {
         div.onclick = () => selectAnswer(i);
         options.appendChild(div);
     });
+    console.log(quiz);
 
-    document.getElementById('nextQuestionBtn').textContent =
+    document.getElementById('nextBtn').textContent =
         currentQuizIndex === quiz.length - 1 ? "Finish" : "Next";
 }
 

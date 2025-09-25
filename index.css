@@ -268,7 +268,7 @@
             margin: 0 auto 1rem;
             position: relative;
         }
-
+ 
         .progress-circle::before {
             content: '';
             width: 80px;
