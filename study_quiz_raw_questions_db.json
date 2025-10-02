@@ -32991,6 +32991,3809 @@
           "all_comments": "Microtubules, microfilaments and intermediate filaments are all composed of proteins.  Plant cell walls are composed of polysaccharides."
         }
       ]
+    },
+    {
+      "quiz_title": "SQ topics 5-7 level 1a (chapters 5 + 6)",
+      "questions": [
+        {
+          "question": "Which of the following statements about electron microscopy (em) is correct?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "In transmission em the electron beam is focused across the surface of the specimen or through the specimen.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "In scanning em the electron beam is focused across the surface of the specimen or through the specimen.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "In scanning em the electron beam is focused across the surface of the specimen",
+              "is_correct": true,
+              "comment": "Nice work!"
+            },
+            {
+              "text": "In transmission em the electron beam is focused across the surface of the specimen",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "In scanning em the electron beam is focused across the surface of the specimen",
+          "neutral_comments": null,
+          "all_comments": "\nNice work!\n\n"
+        },
+        {
+          "question": "Which structure is the site of the synthesis of protein that may be exported from the cell?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Golgi vesicles",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "mitochondrion",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "rough endoplasmic reticulum",
+              "is_correct": true,
+              "comment": "Nice job!"
+            },
+            {
+              "text": "smooth endoplasmic reticulum",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "rough endoplasmic reticulum",
+          "neutral_comments": "Secreted proteins are synthesized by ribosomes bound to the rough endoplasmic reticulum. Remember that the rough ER gets its name from the fact that it has a “rough” appearance when looked at using a microscope. The reason is has a “rough” appearance is because of the ribosomes that are bound to it. After proteins destined for export are synthesized by ribosomes bound to the rough ER, vesicles bud off of the rough endoplasmic reticulum and transport those proteins to the Golgi apparatus where they are modified. Vesicles than bud off of the Golgi apparatus and transport the proteins to the plasma membrane. The vesicles fuse with the plasma membrane, releasing the proteins to the outside of the cell.",
+          "all_comments": "Secreted proteins are synthesized by ribosomes bound to the rough endoplasmic reticulum.  Remember that the rough ER gets its name from the fact that it has a “rough” appearance when looked at using a microscope.  The reason is has a “rough” appearance is because of the ribosomes that are bound to it.  After proteins destined for export are synthesized by ribosomes bound to the rough ER, vesicles bud off of the rough endoplasmic reticulum and transport those proteins to the Golgi apparatus where they are modified.  Vesicles than bud off of the Golgi apparatus and transport the proteins to the plasma membrane.  The vesicles fuse with the plasma membrane, releasing the proteins to the outside of the cell."
+        },
+        {
+          "question": "In animal cells, hydrolytic enzymes are packaged to prevent general destruction of cellular components. Which of the following organelles functions in this compartmentalization?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "chloroplast",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "lysosome",
+              "is_correct": true,
+              "comment": "Nice job!"
+            },
+            {
+              "text": "central vacuole",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "mitochondrion",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "lysosome",
+          "neutral_comments": null,
+          "all_comments": "\nNice job!\n\n"
+        },
+        {
+          "question": "Which structure-function pair is <b>FALSE</b>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "microtubule; muscle contraction",
+              "is_correct": true,
+              "comment": "Nice work!"
+            },
+            {
+              "text": "ribosome; protein synthesis",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "lysosome; intracellular digestion",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Golgi apparatus; protein trafficking",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "microtubule; muscle contraction",
+          "neutral_comments": "The components of the cytoskeleton that function in muscle contraction are microfilaments rather than microtubules.",
+          "all_comments": "The components of the cytoskeleton that function in muscle contraction are microfilaments rather than microtubules."
+        },
+        {
+          "question": "Of the following, which cell structure would likely be most easily visualized using a high quality light microscope?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "ribosome",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "microtubule",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "microfilament",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "mitochondrion",
+              "is_correct": true,
+              "comment": "Nice work!"
+            }
+          ],
+          "correct_answer": "mitochondrion",
+          "neutral_comments": "Because the magnifying power and resolution of light microscopes are limited, they can most easily visualize larger cellular structures, such as mitochondria.",
+          "all_comments": "Because the magnifying power and resolution of light microscopes are limited, they can most easily visualize larger cellular structures, such as mitochondria."
+        },
+        {
+          "question": "Desmosomes function to",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "create spaces between cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "fasten cells together into strong sheets",
+              "is_correct": true,
+              "comment": "Nice work!"
+            },
+            {
+              "text": "provide cytoplasmic channels between cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "prevent leakage of extracellular fluid between neighboring cells",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "fasten cells together into strong sheets",
+          "neutral_comments": null,
+          "all_comments": "\nNice work!\n\n"
+        },
+        {
+          "question": "Which of the following membrane activities requires a direct input of energy from ATP hydrolysis?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "facilitated diffusion",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "movement of glucose molecules",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "movement of water into a cell",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Nat+ ions moving out of the cell, up their concentration gradient",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "Nat+ ions moving out of the cell, up their concentration gradient",
+          "neutral_comments": null,
+          "all_comments": "Nice work!"
+        },
+        {
+          "question": "Why do grocery stores spray vegetables with water?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "The cells of the vegetables will absorb water and expand against their cell walls, making the vegetables crisper.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "The water will be hypotonic relative to the interacellular fluid of the vegetables, allowing the cells to excrete excess ions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The water will help keep the vegetable’s cell membranes fluid.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The water will be hypertonic relative to the intracellular fluid of the vegetables, allowing the cells to lose excess water.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "The cells of the vegetables will absorb water and expand against their cell walls, making the vegetables crisper.",
+          "neutral_comments": "Water will be hypotonic compared with the fluid inside the vegetable cells. That means there will be a lower concentration of free water molecules inside the vegetable cells, leading to a net flow of water molecules from outside to inside of the cells. This will cause the cells to expand against their cell walls, making the vegetables crisper.",
+          "all_comments": "Good job!Water will be hypotonic compared with the fluid inside the vegetable cells.  That means there will be a lower concentration of free water molecules inside the vegetable cells, leading to a net flow of water molecules from outside to inside of the cells.  This will cause the cells to expand against their cell walls, making the vegetables crisper."
+        },
+        {
+          "question": "What are the membrane structures that function in active transport?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "glycolipids",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "peripheral proteins",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "integral proteins",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "cholesterol",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "integral proteins",
+          "neutral_comments": "Active transport is carried out by proteins. To transport a molecule across a membrane, the protein will need to be in the membrane and will therefore need to be an integral membrane protein.",
+          "all_comments": "Nice work!Active transport is carried out by proteins.  To transport a molecule across a membrane, the protein will need to be in the membrane and will therefore need to be an integral membrane protein."
+        },
+        {
+          "question": "Why would a doctor inject a dilute salt solution rather than pure water into the bloodstream of a patient who has suffered severe blood loss?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Because pure water might cause the patient’s red blood cells to burst.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "Because salt will assist in co-transport of needed nutrients into the patient’s cells.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Because salt will help prevent bacterial infections.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Because pure water might cause the patient’s red blood cells to shrink.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Because pure water might cause the patient’s red blood cells to burst.",
+          "neutral_comments": "Pure water, which by definition contains no solutes, will be hypotonic compared to the solution inside of the patient’s red blood cells, which contain lots of solutes. That means that adding pure water to the patient’s blood stream will cause there to be more water molecules interacting with solute molecules inside of the red blood cells than outside. That in turn means that there will be fewer free water molecules inside of the patient’s red blood cells than outside of them. Water will thus flow into the red blood cells, causing the cells to swell and possibly burst. So, the doctor uses a dilute salt solution to avoid this problem.",
+          "all_comments": "Nice work!Pure water, which by definition contains no solutes, will be hypotonic compared to the solution inside of the patient’s red blood cells, which contain lots of solutes.  That means that adding pure water to the patient’s blood stream will cause there to be more water molecules interacting with solute molecules inside of the red blood cells than outside.  That in turn means that there will be fewer free water molecules inside of the patient’s red blood cells than outside of them.  Water will thus flow into the red blood cells, causing the cells to swell and possibly burst.  So, the doctor uses a dilute salt solution to avoid this problem."
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 5-7 level 1b (chapters 5 + 6)",
+      "questions": [
+        {
+          "question": "Use the diagram below to help answer this question. The diagram shows a U-tube, with the two arms of the tube separated at the bottom by a selectively permeable barrier. This selectively permeable barrier is permeable to water but not to any ions. If you add 1 liter of an aqueous solution containing 1 mole of MgCl<sub>2</sub> to side “A” and you add 1 liter of an aqueous solution containing 1 mole of NaCl to side “B”, <b>immediately after adding the solutions to the U-tube,</b><br> <br> <span style=\"color: #000000;\"><img src=\"/assessment_questions/3980360/files/4145247/download?verifier=R3xQzClTyhlMm0fvoltbTfEnqge69Zkafg8olJzn\" alt=\"\"></span>",
+          "question_image_url": "https://canvas.umn.edu/assessment_questions/3980360/files/4145247/download?verifier=R3xQzClTyhlMm0fvoltbTfEnqge69Zkafg8olJzn",
+          "answers": [
+            {
+              "text": "the solution in side “A” will be hypertonic compared with the solution in side “B”",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "the solution in side “A” will be isotonic compared with the solution in side “B”",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "there will be more free water molecules on side “A”",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the solution in side “A” will be hypotonic compared with the solution in side “B”",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "the solution in side “A” will be hypertonic compared with the solution in side “B”",
+          "neutral_comments": "MgCl2 and NaCl are both salts that will dissociate into their constituent ions when they come in contact with water. So, the 1 mole of MgCl2 will dissociate to form 1 mole of Mg++ and 2 moles of Cl- and the 1 mole of NaCl will dissociate to form 1 mole of Na+and 1 mole of Cl-. That means that, immediately after the solutions are added to the two sides of the tube, there will be a higher concentration of solute molecules on side A than on side B, so side A will be hypertonic compared with side B. The fact that there will be more solute molecules on side A also means that more of the water molecules on side A will be interacting with solute molecules and therefore there will be fewer free water molecules on side A.",
+          "all_comments": "Nice work!MgCl2 and NaCl are both salts that will dissociate into their constituent ions when they come in contact with water.  So, the 1 mole of MgCl2 will dissociate to form 1 mole of Mg++ and 2 moles of Cl- and the 1 mole of NaCl will dissociate to form 1 mole of Na+and 1 mole of Cl-.  That means that, immediately after the solutions are added to the two sides of the tube, there will be a higher concentration of solute molecules on side A than on side B, so side A will be hypertonic compared with side B.  The fact that there will be more solute molecules on side A also means that more of the water molecules on side A will be interacting with solute molecules and therefore there will be fewer free water molecules on side A."
+        },
+        {
+          "question": "Use the diagram below to help answer this question. The diagram shows a U-tube, with the two arms of the tube separated at the bottom by a selectively permeable barrier. This selectively permeable barrier is permeable to water, but not to glucose. If you add 1 liter of an aqueous solution containing 1 mole of glucose to side “A” and you add 1 liter of an aqueous solution containing 1 mole of glucose to side “B”, <br> <br> <br> <span style=\"color: #000000;\"><img src=\"/assessment_questions/3980374/files/4145253/download?verifier=qajPvqHdlW56jI6blFxYZEom1U0qWoEcnUPJN4E0\" alt=\"\"></span>",
+          "question_image_url": "https://canvas.umn.edu/assessment_questions/3980374/files/4145253/download?verifier=qajPvqHdlW56jI6blFxYZEom1U0qWoEcnUPJN4E0",
+          "answers": [
+            {
+              "text": "there will be no movement of water molecules across the membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "there will be a net flow of water from side “B” to side “A”",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "there will be no net flow of water between the two sides of the tube",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "there will be a net flow of water from side “A” to side “B”",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "there will be no net flow of water between the two sides of the tube",
+          "neutral_comments": "In this case, the concentration of glucose is the same on both sides of the tube. So, the concentration of free water molecules is the same on both sides of the tube. Free water molecules will still cross the membrane, but the rate at which free water molecules cross from side A to side B will be equal to the rate at which free water molecules cross from side B to side A. So, free water molecules WILL still cross the membrane, but there will be not NET flow of water between the two sides of the tube.",
+          "all_comments": "Nice work!In this case, the concentration of glucose is the same on both sides of the tube. So, the concentration of free water molecules is the same on both sides of the tube. Free water molecules will still cross the membrane, but the rate at which free water molecules cross from side A to side B will be equal to the rate at which free water molecules cross from side B to side A. So, free water molecules WILL still cross the membrane, but there will be not NET flow of water between the two sides of the tube."
+        },
+        {
+          "question": "Which of the following membrane activities require energy from ATP hydrolysis?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "movement of solutes by channel proteins",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "facilitated diffusion",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "movement of solutes by co-transporters",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "proton pumps",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "proton pumps",
+          "neutral_comments": "",
+          "all_comments": "Nice work!Channel proteins carry out “facilitated diffusion”. In facilitated diffusion molecules are moving down their concentration and/or electrical gradient, which is a passive process that does not require an energy expenditure.\nCo-transporters move two substances simultaneously. One of the substances is moving down its electrochemical gradient and the other substance is moving up its electrochemical gradient. The energy needed to move one of the substances up its electrochemical gradient is provided by the energy released as the second substance moves down its electrochemical gradient rather than by ATP hydrolysis."
+        },
+        {
+          "question": "Which of the following is a reasonable explanation for why unsaturated lipids help keep membranes more fluid at lower temperatures?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Unsaturated lipids permit more water in the interior of the membrane.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Unsaturated lipids have a higher cholesterol content and therefore more cholesterol in the membranes.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The double bonds result in shorter hydrocarbon chains and thinner membranes.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The double bonds form kinks in the hydrocarbon chains, forcing adjacent lipid molecules to be further apart.",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "The double bonds form kinks in the hydrocarbon chains, forcing adjacent lipid molecules to be further apart.",
+          "neutral_comments": null,
+          "all_comments": "Nice job!"
+        },
+        {
+          "question": "Mitochondria are sites where",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "some of the reactions required to complete the breakdown of lipids, resulting in formation of CO2 and H2O, occur",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ATP molecules are formed.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": true,
+              "comment": "Good job!"
+            },
+            {
+              "text": "some of the reactions required to complete the breakdown of sugars, resulting in formation of CO2 and H2O, occur",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "all of these answers are correct",
+          "neutral_comments": null,
+          "all_comments": "\nGood job!\n\n"
+        },
+        {
+          "question": "Why might having separate, membrane-bound, compartments be an advantage to a cell?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Different sub-cellular compartments can have different concentrations of various chemicals.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "All of these answers are correct.",
+              "is_correct": true,
+              "comment": "Nice work!"
+            },
+            {
+              "text": "Enzymes that digest proteins can be confined to one sub-cellular compartment.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Different sub-cellular compartments may have different pH’s.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "All of these answers are correct.",
+          "neutral_comments": null,
+          "all_comments": "\nNice work!\n\n"
+        },
+        {
+          "question": "Electron microscopes are able to provide better resolution than light microscopes because",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "electrons have a lot more energy than photons",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "electrons are charged particles and photons are neutral",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "electrons have much smaller wavelengths than visible light",
+              "is_correct": true,
+              "comment": "Nice work!"
+            },
+            {
+              "text": "electrons are much more powerful than photons",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "electrons have much smaller wavelengths than visible light",
+          "neutral_comments": "The longer the wavelength of the radiation used for imaging, the less possible it is to resolve two structures that are close together. So electron microscopes provide better resolution than light microscopes because electrons have much shorter wavelengths than photons.",
+          "all_comments": "The longer the wavelength of the radiation used for imaging, the less possible it is to resolve two structures that are close together.  So electron microscopes provide better resolution than light microscopes because electrons have much shorter wavelengths than photons."
+        },
+        {
+          "question": "Mitochondria",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "contain some of their own DNA.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "are believed to have arisen from symbiotic prokaryotes that somehow survived endocytosis (being engulfed) by another cell.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "All of these answers are correct.",
+              "is_correct": true,
+              "comment": "Good job!"
+            },
+            {
+              "text": "are self-replicating.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "All of these answers are correct.",
+          "neutral_comments": null,
+          "all_comments": "\nGood job!\n\n"
+        },
+        {
+          "question": "Which types of RNA molecules are predominantly transcribed in a special region of the nucleus known as the nucleolus?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "tRNA",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "rRNA",
+              "is_correct": true,
+              "comment": "Good work!"
+            },
+            {
+              "text": "mRNA",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "rRNA",
+          "neutral_comments": null,
+          "all_comments": "\nGood work!\n\n"
+        },
+        {
+          "question": "Movement of organelles within the cell takes place via",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "the cytoskeleton and muscle fibers.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "muscle fibers and cellulose microfibrils.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cytoskeleton and motor proteins.",
+              "is_correct": true,
+              "comment": "Good job!"
+            },
+            {
+              "text": "motor proteins and cellulose microfibrils.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "the cytoskeleton and motor proteins.",
+          "neutral_comments": null,
+          "all_comments": "\nGood job!\n\n"
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 5-7 level 1c (chapters 5 + 6)",
+      "questions": [
+        {
+          "question": "In eukaryotes",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "All of these answers are correct.",
+              "is_correct": true,
+              "comment": "Nice work!"
+            },
+            {
+              "text": "the cytosol is the semi-fluid part of the cytoplasm",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cytoplasm, but not the cytosol, includes organelles and other large structures.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cytoplasm is the part of the cell between the plasma membrane and the nucleus.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "All of these answers are correct.",
+          "neutral_comments": null,
+          "all_comments": "\nNice work!\n\n"
+        },
+        {
+          "question": "Which of the following are found in plant cells?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "tight junctions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "desmosomes",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "plasmodesmata",
+              "is_correct": true,
+              "comment": "Good job!"
+            },
+            {
+              "text": "gap junctions",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "plasmodesmata",
+          "neutral_comments": null,
+          "all_comments": "\nGood job!\n\n"
+        },
+        {
+          "question": "Mitochondria are sites where",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "ATP molecules are formed.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": true,
+              "comment": "Good job!"
+            },
+            {
+              "text": "some of the reactions required to complete the breakdown of sugars, resulting in formation of CO2 and H2O, occur",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "some of the reactions required to complete the breakdown of lipids, resulting in formation of CO2 and H2O, occur",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "all of these answers are correct",
+          "neutral_comments": null,
+          "all_comments": "\nGood job!\n\n"
+        },
+        {
+          "question": "Lipid molecules that have carbohydrates attached to them are known as",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "polysaccharolipids",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "glycolipids",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "carbolipids",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "saccharolipids",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "glycolipids",
+          "neutral_comments": null,
+          "all_comments": "Good job!"
+        },
+        {
+          "question": "Which of the following is a characteristic feature of carrier proteins in a plasma membrane?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "All carrier proteins require the expenditure of cellular energy to function.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "They are peripheral membrane proteins.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "They always exhibit specificity for a particular type of molecule.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "All carrier proteins work against diffusion.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "They always exhibit specificity for a particular type of molecule.",
+          "neutral_comments": "Some carrier proteins carry out facilitated diffusion. Facilitated diffusion is diffusion of a molecule down its concentration and/or electrical gradient that is “facilitated” by a carrier protein or channel protein that allows the molecule that is diffusing to pass more quickly through the membrane. Because the molecules being transported are moving down their concentration and/or electrical gradient, carrier proteins that act in facilitated diffusion do not require an energy expenditure. However, other carrier proteins, such as symporters and anti-porters, help carry out active transport and so do require an energy expenditure.",
+          "all_comments": "Nice work!Some carrier proteins carry out facilitated diffusion. Facilitated diffusion is diffusion of a molecule down its concentration and/or electrical gradient that is “facilitated” by a carrier protein or channel protein that allows the molecule that is diffusing to pass more quickly through the membrane. Because the molecules being transported are moving down their concentration and/or electrical gradient, carrier proteins that act in facilitated diffusion do not require an energy expenditure. However, other carrier proteins, such as symporters and anti-porters, help carry out active transport and so do require an energy expenditure."
+        },
+        {
+          "question": "Which of the following factors would tend to increase membrane fluidity?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "a greater proportion of relatively large glycolipids compared with lipids having smaller molecular masses",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "a greater proportion of unsaturated phospholipids",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "a lower temperature",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "a relatively high protein content in the membrane",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "a greater proportion of unsaturated phospholipids",
+          "neutral_comments": null,
+          "all_comments": "Good job!"
+        },
+        {
+          "question": "Why would a doctor inject a dilute salt solution rather than pure water into the bloodstream of a patient who has suffered severe blood loss?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Because salt will assist in co-transport of needed nutrients into the patient’s cells.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Because pure water might cause the patient’s red blood cells to burst.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "Because salt will help prevent bacterial infections.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Because pure water might cause the patient’s red blood cells to shrink.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Because pure water might cause the patient’s red blood cells to burst.",
+          "neutral_comments": "Pure water, which by definition contains no solutes, will be hypotonic compared to the solution inside of the patient’s red blood cells, which contain lots of solutes. That means that adding pure water to the patient’s blood stream will cause there to be more water molecules interacting with solute molecules inside of the red blood cells than outside. That in turn means that there will be fewer free water molecules inside of the patient’s red blood cells than outside of them. Water will thus flow into the red blood cells, causing the cells to swell and possibly burst. So, the doctor uses a dilute salt solution to avoid this problem.",
+          "all_comments": "Nice work!Pure water, which by definition contains no solutes, will be hypotonic compared to the solution inside of the patient’s red blood cells, which contain lots of solutes.  That means that adding pure water to the patient’s blood stream will cause there to be more water molecules interacting with solute molecules inside of the red blood cells than outside.  That in turn means that there will be fewer free water molecules inside of the patient’s red blood cells than outside of them.  Water will thus flow into the red blood cells, causing the cells to swell and possibly burst.  So, the doctor uses a dilute salt solution to avoid this problem."
+        },
+        {
+          "question": "Which of the following statements about cytoskeletons is <b>TRUE</b>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Both microtubules and microfilaments are made of actin",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Both microtubules and microfilaments are made of tubulins",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Microtubules are made of tubulins and microfilaments are made of actin",
+              "is_correct": true,
+              "comment": "Good job!"
+            },
+            {
+              "text": "Microtubules are made of actin and microfilaments are made of tubulins",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Microtubules are made of tubulins and microfilaments are made of actin",
+          "neutral_comments": null,
+          "all_comments": "\nGood job!\n\n"
+        },
+        {
+          "question": "Chloroplasts",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "All of these answers are correct.",
+              "is_correct": true,
+              "comment": "Good job!"
+            },
+            {
+              "text": "are believed to have arisen from symbiotic cyanobacteria (prokaryotes) that somehow survived endocytosis (being engulfed) by another cell.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "are self-replicating.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "contain some of their own DNA.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "All of these answers are correct.",
+          "neutral_comments": null,
+          "all_comments": "\nGood job!\n\n"
+        },
+        {
+          "question": "Which of the following is a function of the Golgi apparatus?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "protein modification",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": true,
+              "comment": "Good work!"
+            },
+            {
+              "text": "lipid modification",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "protein sorting to different sub-cellular compartments",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "all of these answers are correct",
+          "neutral_comments": null,
+          "all_comments": "\nGood work!\n\n"
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 5-7 level 1d (chapters 5 + 6)",
+      "questions": [
+        {
+          "question": "Glucose diffuses slowly through artificial phospholipid bilayers. The cells lining the small intestine, however, rapidly move large quantities of glucose from glucose-rich foods into their glucose-poor cytoplasm. Using this information, which transport mechanism is most probably functioning in the intestinal cells?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Active transport pumps",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Simple diffusion",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Glucoport",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Facilitated diffusion",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "Facilitated diffusion",
+          "neutral_comments": "The information that glucose diffuses poorly through artificial phospholipid bilayers tells you that glucose will diffuse poorly on its own through cell membranes. Because you are also told that glucose is entering the intestinal cells quickly, this rules out simple diffusion as a possibility. Because glucose is moving down its concentration gradient as it enters the intestinal cells, no energy should be required for its movement which makes active transport of any means in unlikely possibility. “Glucoport” is a made up term, which leaves facilitated diffusion as the most likely possibility. In facilitated diffusion, channel proteins or carrier proteins in the membrane allow specific molecules that do not easily cross membranes on their own to cross membranes rapidly. So, diffusion (which is always a passive process) is “facilitated” by these proteins.",
+          "all_comments": "Nice job!The information that glucose diffuses poorly through artificial phospholipid bilayers tells you that glucose will diffuse poorly on its own through cell membranes.  Because you are also told that glucose is entering the intestinal cells quickly, this rules out simple diffusion as a possibility.  Because glucose is moving down its concentration gradient as it enters the intestinal cells, no energy should be required for its movement which makes active transport of any means in unlikely possibility.  “Glucoport” is a made up term, which leaves facilitated diffusion as the most likely possibility.  In facilitated diffusion, channel proteins or carrier proteins in the membrane allow specific molecules that do not easily cross membranes on their own to cross membranes rapidly. So, diffusion (which is always a passive process) is “facilitated” by these proteins."
+        },
+        {
+          "question": "When a plant cell is submerged in a very hypotonic solution, what is likely to occur?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "the cell will become limp",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cell membrane will lyse",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cell will burst",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cell will become turgid (solid, due to being inflated)",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "the cell will become turgid (solid, due to being inflated)",
+          "neutral_comments": "Hypotonic solutions have a lower concentration of solutes. As a result, hypotonic solutions have fewer water molecules interacting with solute molecules and therefore have more free water molecules. Free water molecules will thus diffuse into the plant cell, causing it to expand against the cell wall, making it more solid, or turgid.",
+          "all_comments": "Nice work!Hypotonic solutions have a lower concentration of solutes.  As a result, hypotonic solutions have fewer water molecules interacting with solute molecules and therefore have more free water molecules.  Free water molecules will thus diffuse into the plant cell, causing it to expand against the cell wall, making it more solid, or turgid."
+        },
+        {
+          "question": "Which of the following are <b>NOT</b> found in animal cells?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "tight junctions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "desmosomes",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "plasmodesmata",
+              "is_correct": true,
+              "comment": "Nice job!"
+            },
+            {
+              "text": "gap junctions",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "plasmodesmata",
+          "neutral_comments": null,
+          "all_comments": "\nNice job!\n\n"
+        },
+        {
+          "question": "The difference between prokaryotic and eukaryotic cells is that",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "eukaryotic cells have nuclei and prokaryotic cells don’t",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "eukaryotic cells have organelles and most prokaryotic cells don’t",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "eukaryotic cells are usually larger than prokaryotic cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": true,
+              "comment": "Nice work!"
+            }
+          ],
+          "correct_answer": "all of these answers are correct",
+          "neutral_comments": null,
+          "all_comments": "\nNice work!\n\n"
+        },
+        {
+          "question": "Movement of organelles within the cell takes place via",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "the cytoskeleton and muscle fibers.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "motor proteins and cellulose microfibrils.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cytoskeleton and motor proteins.",
+              "is_correct": true,
+              "comment": "Good job!"
+            },
+            {
+              "text": "muscle fibers and cellulose microfibrils.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "the cytoskeleton and motor proteins.",
+          "neutral_comments": null,
+          "all_comments": "\nGood job!\n\n"
+        },
+        {
+          "question": "According to the fluid mosaic model of cell membranes, which of the following statements about membrane phospholipids is <strong>TRUE</strong>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "They can move laterally along the plane of the membrane.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "They have hydrophilic tails in the interior of the membrane.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "They frequently flip-flop from one side of the membrane to the other.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The occur in an uninterrupted bilayer, with membrane proteins restricted to the surface of the membrane.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "They can move laterally along the plane of the membrane.",
+          "neutral_comments": "Membrane phospholipids can move laterally in the plane of the membrane but it is rare for them to flip-flop from one side of the membrane to the other because that would require that their phosphate head group, which is quite hydrophilic, pass through the hydrophobic core of the membrane that is formed by the fatty acid chains of the phospholipids. Membrane proteins occur in a “mosaic” and may be embedded in the membrane (integral membrane proteins) or attached to its surface (peripheral membrane proteins).",
+          "all_comments": "Nice job!Membrane phospholipids can move laterally in the plane of the membrane but it is rare for them to flip-flop from one side of the membrane to the other because that would require that their phosphate head group, which is quite hydrophilic, pass through the hydrophobic core of the membrane that is formed by the fatty acid chains of the phospholipids.  Membrane proteins occur in a “mosaic” and may be embedded in the membrane (integral membrane proteins) or attached to its surface (peripheral membrane proteins)."
+        },
+        {
+          "question": "As material diffuses across a membrane from the side of higher concentration to the side of lower concentration,",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "osmotic pressure will not develop unless the membrane is equally permeable to the solvent and all the solutes.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the free energy of the system decreases.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "ATP is required for this diffusion.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the free energy of the system increases.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "the free energy of the system decreases.",
+          "neutral_comments": null,
+          "all_comments": "Nice job!"
+        },
+        {
+          "question": "Why have plants been referred to as “supracellular” organisms?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "The cell walls surrounding plant cells make them super strong.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Plant cells tend to be larger than animal cells.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The vast majority of the cells in a plant are connected by plasmodesmata, forming a sort of “super cell”",
+              "is_correct": true,
+              "comment": "Good job!"
+            },
+            {
+              "text": "Plant cells are able to carry out photosynthesis.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "The vast majority of the cells in a plant are connected by plasmodesmata, forming a sort of “super cell”",
+          "neutral_comments": "Unicellular organisms are organisms that have only a single cell. Multi-cellular organisms, such as people, are organisms that have multiple cells. Plants have been referred to as “supracellular” organisms because almost all of the cells in a plants are directly connected by pores that run through their cell walls. These pores are called plasmodesmata. Plasmodesmata allow small molecules to diffuse between different cells in a plant without having to cross a plasma membrane. So, most of the cells in a plant can be thought of as being joined together in a giant “super cell”.",
+          "all_comments": "Unicellular organisms are organisms that have only a single cell.  Multi-cellular organisms, such as people, are organisms that have multiple cells.  Plants have been referred to as “supracellular” organisms because almost all of the cells in a plants are directly connected by pores that run through their cell walls.  These pores are called plasmodesmata.  Plasmodesmata allow small molecules to diffuse between different cells in a plant without having to cross a plasma membrane.  So, most of the cells in a plant can be thought of as being joined together in a giant “super cell”."
+        },
+        {
+          "question": "In eukaryotes",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "the cytoplasm, but not the cytosol, includes organelles and other large structures.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cytoplasm is the part of the cell between the plasma membrane and the nucleus.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cytosol is the semi-fluid part of the cytoplasm",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "All of these answers are correct.",
+              "is_correct": true,
+              "comment": "Nice work!"
+            }
+          ],
+          "correct_answer": "All of these answers are correct.",
+          "neutral_comments": null,
+          "all_comments": "\nNice work!\n\n"
+        },
+        {
+          "question": "If the power of the eyepiece of a microscope is 5 and the power of the objective lens for that microscope is 30",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "the microscope will magnify images 6 times",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the microscope will magnify images 5 times",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the microscope will magnify images 150 times",
+              "is_correct": true,
+              "comment": "Nice work!"
+            },
+            {
+              "text": "the microscope will magnify images 30 times",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "the microscope will magnify images 150 times",
+          "neutral_comments": "To determine the magnifying power of a microscope, multiply the power of the eyepiece by the power of the objective lens. So, in this case, the microscope will magnify images 5 X 30 = 150 times.",
+          "all_comments": "To determine the magnifying power of a microscope, multiply the power of the eyepiece by the power of the objective lens.  So, in this case, the microscope will magnify images 5 X 30 = 150 times."
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 5-7 level 1d (chapters 5 + 6)_2",
+      "questions": [
+        {
+          "question": "Channel proteins",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "form “corridors” that allow specific ions or molecules to cross membranes",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "channel small ions to specific subcellular compartments",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "form tracks within a cell that help direct movement of vesicles",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "form ”corridors” that allow any small molecule to cross membranes",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "form “corridors” that allow specific ions or molecules to cross membranes",
+          "neutral_comments": "Channel proteins form channels that allow specific ions or molecules to cross membranes.",
+          "all_comments": "Channel proteins form channels that allow specific ions or molecules to cross membranes."
+        },
+        {
+          "question": "Cell membranes are asymmetrical. Which of the following is most likely to explain part of the reason for this asymmetry?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Cell membranes communicate signals from one cell to another.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Cell membrane proteins are inserted into the rough ER membrane with a certain orientation as they are being synthesized.",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "Proteins can only span membranes if they are hydrophobic.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The cell membrane forms a border between different cell types.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Cell membrane proteins are inserted into the rough ER membrane with a certain orientation as they are being synthesized.",
+          "neutral_comments": "Integral membrane proteins are inserted into the membrane of the rough endoplasmic reticulum (ER) as they are being synthesized by ribosomes bound to the rough ER. Because many of these proteins have both hydrophobic regions, which are embedded in the membrane, and hydrophilic regions, which are exposed to the aqueous environment inside or outside of the ER, they are not able to move randomly from one side of the membrane to the other after they are made. For example, if a membrane protein is synthesized such that the last part of the protein that is made is hydrophilic and is exposed on the outside of the ER membrane, that part of that protein will remain on the outside of the ER membrane and then on the outside of the vesicle that transports it to the Golgi, on the outside of the Golgi, on the outside of the vesicle that transports it the plasma membrane and then on the inside (cytoplasmic side) of the plasma membrane. It should be noted that the lipid compositions of the two halves of a lipid bilayer are not identical either, as lipid molecules very rarely flip-flop from one side of the bilayer to the other and different species of lipid molecules are synthesized in different amounts in the two halves of the bilayer.",
+          "all_comments": "Integral membrane proteins are inserted into the membrane of the rough endoplasmic reticulum (ER) as they are being synthesized by ribosomes bound to the rough ER.  Because many of these proteins have both hydrophobic regions, which are embedded in the membrane, and hydrophilic regions, which are exposed to the aqueous environment inside or outside of the ER, they are not able to move randomly from one side of the membrane to the other after they are made.  For example, if a membrane protein is synthesized such that the last part of the protein that is made is hydrophilic and is exposed on the outside of the ER membrane, that part of that protein will remain on the outside of the ER membrane and then on the outside of the vesicle that transports it to the Golgi, on the outside of the Golgi, on the outside of the vesicle that transports it the plasma membrane and then on the inside (cytoplasmic side) of the plasma membrane.  It should be noted that the lipid compositions of the two halves of a lipid bilayer are not identical either, as lipid molecules very rarely flip-flop from one side of the bilayer to the other and different species of lipid molecules are synthesized in different amounts in the two halves of the bilayer."
+        },
+        {
+          "question": "Which structure is the site of the synthesis of protein that may be exported from the cell?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "smooth endoplasmic reticulum",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Golgi vesicles",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "rough endoplasmic reticulum",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "mitochondrion",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "rough endoplasmic reticulum",
+          "neutral_comments": "Secreted proteins are synthesized by ribosomes bound to the rough endoplasmic reticulum. Remember that the rough ER gets its name from the fact that it has a “rough” appearance when looked at using a microscope. The reason is has a “rough” appearance is because of the ribosomes that are bound to it. After proteins destined for export are synthesized by ribosomes bound to the rough ER, vesicles bud off of the rough endoplasmic reticulum and transport those proteins to the Golgi apparatus where they are modified. Vesicles than bud off of the Golgi apparatus and transport the proteins to the plasma membrane. The vesicles fuse with the plasma membrane, releasing the proteins to the outside of the cell.",
+          "all_comments": "Secreted proteins are synthesized by ribosomes bound to the rough endoplasmic reticulum.  Remember that the rough ER gets its name from the fact that it has a “rough” appearance when looked at using a microscope.  The reason is has a “rough” appearance is because of the ribosomes that are bound to it.  After proteins destined for export are synthesized by ribosomes bound to the rough ER, vesicles bud off of the rough endoplasmic reticulum and transport those proteins to the Golgi apparatus where they are modified.  Vesicles than bud off of the Golgi apparatus and transport the proteins to the plasma membrane.  The vesicles fuse with the plasma membrane, releasing the proteins to the outside of the cell."
+        },
+        {
+          "question": "Which of the following are capable of converting light energy to chemical energy?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "mitochondria",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "leucoplasts",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "chloroplasts",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "peroxisomes",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "chloroplasts",
+          "neutral_comments": "Chloroplasts use light energy to produce sugars, through the process of photosynthesis. Lots of chemical energy is stored within the sugars produced by chloroplasts.",
+          "all_comments": "Chloroplasts use light energy to produce sugars, through the process of photosynthesis.  Lots of chemical energy is stored within the sugars produced by chloroplasts."
+        },
+        {
+          "question": "Why isn’t the mitochondrion classified as part of the endomembrane system?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Its structure is not derived from the endoplasmic reticulum (ER).",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "It has two membrane layers.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "It is not attached to the outer nuclear envelope.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "It is not involved in protein synthesis.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Its structure is not derived from the endoplasmic reticulum (ER).",
+          "neutral_comments": "All the membranes that are part of the endomembrane system are either in direct physical contact or by the transfer of small pieces of membrane via vesicles. This definition does not fit mitochondria.",
+          "all_comments": "All the membranes that are part of the endomembrane system are either in direct physical contact or by the transfer of small pieces of membrane via vesicles.  This definition does not fit mitochondria."
+        },
+        {
+          "question": "Which of the following membrane activities do <strong>NOT</strong> require energy from ATP hydrolysis?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "movement of solutes by channel proteins",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "movement of solutes by co-transporters",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "simple diffusion",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "all of these answers are correct",
+          "neutral_comments": "",
+          "all_comments": "Channel proteins carry out “facilitated diffusion”. In facilitated diffusion molecules are moving down their concentration and/or electrical gradient, which is a passive process that does not require an energy expenditure.\nCo-transporters move two substances simultaneously. One of the substances is moving down its electrochemical gradient and the other substance is moving up its electrochemical gradient. The energy needed to move one of the substances up its electrochemical gradient is provided by the energy released as the second substance moves down its electrochemical gradient rather than by ATP hydrolysis.\n“Passive diffusion” is movement of a substance down its concentration gradient without the need for a channel or carrier protein to facilitate movement of the substance. Because the substance is moving down its concentration gradient, no energy source is required for this process to occur."
+        },
+        {
+          "question": "Amphipathic molecules",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "have both hydrophilic and hydrophobic regions",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "have modified carbohydrates",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "have both positively charged and negatively charged regions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "are only found in membranes",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "have both hydrophilic and hydrophobic regions",
+          "neutral_comments": "Amphipathic molecules have both hydrophilic (“water loving”) and hydrophobic (“water fearing”) regions. For example, the hydrocarbon chains of phospholipid molecules are hydrophobic whereas the phosphate and other parts of the head group of phospholipid molecules are hydrophilic, so phospholipid molecules are amphipathic molecules.",
+          "all_comments": "Amphipathic molecules have both hydrophilic (“water loving”) and hydrophobic (“water fearing”) regions.  For example, the hydrocarbon chains of phospholipid molecules are hydrophobic whereas the phosphate and other parts of the head group of phospholipid molecules are hydrophilic, so phospholipid molecules are amphipathic molecules."
+        },
+        {
+          "question": "Which of the following statements about vacuoles is <b>TRUE</b>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Only animal cells have vacuoles.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Some animal cells and all plant cells have vacuoles, but only plant cells have large central vacuoles.",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "Only plant cells have vacuoles.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Both animal and plant cells have large central vacuoles.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Some animal cells and all plant cells have vacuoles, but only plant cells have large central vacuoles.",
+          "neutral_comments": "All plant and fungal cells have vacuoles. Some animal and bacterial cells also have vacuoles, but only plant cells have large central vacuoles.",
+          "all_comments": "All plant and fungal cells have vacuoles.  Some animal and bacterial cells also have vacuoles, but only plant cells have large central vacuoles."
+        },
+        {
+          "question": "Gap junctions function to",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "provide cytoplasmic channels between cells",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "create spaces between cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "fasten cells together into strong sheets",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "prevent leakage of extracellular fluid between neighboring cells",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "provide cytoplasmic channels between cells",
+          "neutral_comments": null
+        },
+        {
+          "question": "The wavelength of light",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "all of these answers are correct",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "limits the contrast of light microscopes",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "limits the resolution of light microscopes",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "limits the magnifying power of light microscopes",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "limits the resolution of light microscopes",
+          "neutral_comments": "The longer the wavelength of the radiation used for imaging, the less possible it is to resolve two structures that are close together. The ability of light microscopes to resolve structures is thus limited by the wavelength of light. You could use a light microscope to view images at really high magnifications, but that wouldn’t be useful because the images would just become more and more blurry as the magnification increased.",
+          "all_comments": "The longer the wavelength of the radiation used for imaging, the less possible it is to resolve two structures that are close together.  The ability of light microscopes to resolve structures is thus limited by the wavelength of light.  You could use a light microscope to view images at really high magnifications, but that wouldn’t be useful because the images would just become more and more blurry as the magnification increased."
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 5-7 level 1d (chapters 5 + 6)_3",
+      "questions": [
+        {
+          "question": "Amphipathic molecules",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "have both positively charged and negatively charged regions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "have modified carbohydrates",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "have both hydrophilic and hydrophobic regions",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "are only found in membranes",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "have both hydrophilic and hydrophobic regions",
+          "neutral_comments": "Amphipathic molecules have both hydrophilic (“water loving”) and hydrophobic (“water fearing”) regions. For example, the hydrocarbon chains of phospholipid molecules are hydrophobic whereas the phosphate and other parts of the head group of phospholipid molecules are hydrophilic, so phospholipid molecules are amphipathic molecules.",
+          "all_comments": "Amphipathic molecules have both hydrophilic (“water loving”) and hydrophobic (“water fearing”) regions.  For example, the hydrocarbon chains of phospholipid molecules are hydrophobic whereas the phosphate and other parts of the head group of phospholipid molecules are hydrophilic, so phospholipid molecules are amphipathic molecules."
+        },
+        {
+          "question": "A patient had a serious accident and lost a lot of blood. In an attempt to replenish body fluids, distilled water, equal to the volume of blood lost, is transferred directly into one of his veins. What will be the most probable result of this transfusion?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "The patient’s red blood cells will swell, and possibly burst, because the blood fluid is hypotonic compared to the red blood cells.",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "The patient’s red blood cells will shrink because the blood fluid is hypotonic compared to the red blood cells.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The patient’s red blood cells will swell, and possibly burst, because the blood fluid is hypertonic compared to the red blood cells.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The patient’s red blood cells will shrink because the blood fluid is hypertonic compared to the red blood cells.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "The patient’s red blood cells will swell, and possibly burst, because the blood fluid is hypotonic compared to the red blood cells.",
+          "neutral_comments": "Pure water, which by definition contains no solutes, will be hypotonic compared to the solution inside of the patient’s red blood cells, which contain lots of solutes. That means that adding pure water to the patient’s blood stream will cause there to be more water molecules interacting with solute molecules inside of the red blood cells than outside. That in turn means that there will be fewer free water molecules inside of the patient’s red blood cells than outside of them. Water will thus flow into the red blood cells, causing the cells to swell and possibly burst.",
+          "all_comments": "Pure water, which by definition contains no solutes, will be hypotonic compared to the solution inside of the patient’s red blood cells, which contain lots of solutes.  That means that adding pure water to the patient’s blood stream will cause there to be more water molecules interacting with solute molecules inside of the red blood cells than outside.  That in turn means that there will be fewer free water molecules inside of the patient’s red blood cells than outside of them.  Water will thus flow into the red blood cells, causing the cells to swell and possibly burst."
+        },
+        {
+          "question": "Which of the following are capable of converting light energy to chemical energy?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "peroxisomes",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "mitochondria",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "leucoplasts",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "chloroplasts",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "chloroplasts",
+          "neutral_comments": "Chloroplasts use light energy to produce sugars, through the process of photosynthesis. Lots of chemical energy is stored within the sugars produced by chloroplasts.",
+          "all_comments": "Chloroplasts use light energy to produce sugars, through the process of photosynthesis.  Lots of chemical energy is stored within the sugars produced by chloroplasts."
+        },
+        {
+          "question": "In eukaryotes",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "the cytoplasm, but not the cytosol, includes organelles and other large structures.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cytosol is the semi-fluid part of the cytoplasm",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cytoplasm is the part of the cell between the plasma membrane and the nucleus.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "All of these answers are correct.",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "All of these answers are correct.",
+          "neutral_comments": null
+        },
+        {
+          "question": "The difference between prokaryotic and eukaryotic cells is that",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "eukaryotic cells have organelles and most prokaryotic cells don’t",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "eukaryotic cells are usually larger than prokaryotic cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "eukaryotic cells have nuclei and prokaryotic cells don’t",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "all of these answers are correct",
+          "neutral_comments": null
+        },
+        {
+          "question": "Use the diagram below to help answer this question. The diagram shows a U-tube, with the two arms of the tube separated at the bottom by a selectively permeable barrier. This selectively permeable barrier is permeable to water but not to any ions. If you add 1 liter of an aqueous solution containing 1 mole of MgCl<sub>2</sub> to side “A” and you add 1 liter of an aqueous solution containing 1 mole of NaCl to side “B”, <b>immediately after adding the solutions to the U-tube,</b><br> <br> <span style=\"color: #000000;\"><img src=\"/assessment_questions/3980360/files/4145247/download?verifier=R3xQzClTyhlMm0fvoltbTfEnqge69Zkafg8olJzn\" alt=\"\"></span>",
+          "question_image_url": "https://canvas.umn.edu/assessment_questions/3980360/files/4145247/download?verifier=R3xQzClTyhlMm0fvoltbTfEnqge69Zkafg8olJzn",
+          "answers": [
+            {
+              "text": "the solution in side “A” will be hypertonic compared with the solution in side “B”",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "there will be more free water molecules on side “A”",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the solution in side “A” will be hypotonic compared with the solution in side “B”",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the solution in side “A” will be isotonic compared with the solution in side “B”",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "the solution in side “A” will be hypertonic compared with the solution in side “B”",
+          "neutral_comments": "MgCl2 and NaCl are both salts that will dissociate into their constituent ions when they come in contact with water. So, the 1 mole of MgCl2 will dissociate to form 1 mole of Mg++ and 2 moles of Cl- and the 1 mole of NaCl will dissociate to form 1 mole of Na+and 1 mole of Cl-. That means that, immediately after the solutions are added to the two sides of the tube, there will be a higher concentration of solute molecules on side A than on side B, so side A will be hypertonic compared with side B. The fact that there will be more solute molecules on side A also means that more of the water molecules on side A will be interacting with solute molecules and therefore there will be fewer free water molecules on side A.",
+          "all_comments": "MgCl2 and NaCl are both salts that will dissociate into their constituent ions when they come in contact with water.  So, the 1 mole of MgCl2 will dissociate to form 1 mole of Mg++ and 2 moles of Cl- and the 1 mole of NaCl will dissociate to form 1 mole of Na+and 1 mole of Cl-.  That means that, immediately after the solutions are added to the two sides of the tube, there will be a higher concentration of solute molecules on side A than on side B, so side A will be hypertonic compared with side B.  The fact that there will be more solute molecules on side A also means that more of the water molecules on side A will be interacting with solute molecules and therefore there will be fewer free water molecules on side A."
+        },
+        {
+          "question": "Which of the following is a characteristic feature of carrier proteins in a plasma membrane?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "All carrier proteins work against diffusion.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "They always exhibit specificity for a particular type of molecule.",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "All carrier proteins require the expenditure of cellular energy to function.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "They are peripheral membrane proteins.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "They always exhibit specificity for a particular type of molecule.",
+          "neutral_comments": "Some carrier proteins carry out facilitated diffusion. Facilitated diffusion is diffusion of a molecule down its concentration and/or electrical gradient that is “facilitated” by a carrier protein or channel protein that allows the molecule that is diffusing to pass more quickly through the membrane. Because the molecules being transported are moving down their concentration and/or electrical gradient, carrier proteins that act in facilitated diffusion do not require an energy expenditure. However, other carrier proteins, such as symporters and anti-porters, help carry out active transport and so do require an energy expenditure.",
+          "all_comments": "Some carrier proteins carry out facilitated diffusion. Facilitated diffusion is diffusion of a molecule down its concentration and/or electrical gradient that is “facilitated” by a carrier protein or channel protein that allows the molecule that is diffusing to pass more quickly through the membrane. Because the molecules being transported are moving down their concentration and/or electrical gradient, carrier proteins that act in facilitated diffusion do not require an energy expenditure. However, other carrier proteins, such as symporters and anti-porters, help carry out active transport and so do require an energy expenditure."
+        },
+        {
+          "question": "Ribosomes are composed of",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "rRNA and membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ribosomal proteins and membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ribosomal proteins, rRNA and membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ribosomal proteins and rRNA",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "ribosomal proteins and rRNA",
+          "neutral_comments": "Ribosomes do not include a membrane as part of their structure.",
+          "all_comments": "Ribosomes do not include a membrane as part of their structure."
+        },
+        {
+          "question": "Which structure is common to plant and animal cells?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "wall made of cellulose",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "central vacuole",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "mitochondrion",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "chloroplast",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "mitochondrion",
+          "neutral_comments": "Chloroplasts, cell walls made out of cellulose and large central vacuoles are found in plant cells. In contrast, both plant and animal cells contain mitochondria.",
+          "all_comments": "Chloroplasts, cell walls made out of cellulose and large central vacuoles are found in plant cells. In contrast, both plant and animal cells contain mitochondria."
+        },
+        {
+          "question": "Why isn’t the mitochondrion classified as part of the endomembrane system?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "It has two membrane layers.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "It is not involved in protein synthesis.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Its structure is not derived from the endoplasmic reticulum (ER).",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "It is not attached to the outer nuclear envelope.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Its structure is not derived from the endoplasmic reticulum (ER).",
+          "neutral_comments": "All the membranes that are part of the endomembrane system are either in direct physical contact or by the transfer of small pieces of membrane via vesicles. This definition does not fit mitochondria.",
+          "all_comments": "All the membranes that are part of the endomembrane system are either in direct physical contact or by the transfer of small pieces of membrane via vesicles.  This definition does not fit mitochondria."
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 5-7 level 1d (chapters 5 + 6)_4",
+      "questions": [
+        {
+          "question": "Which of the following statements is <strong>FALSE</strong>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "The net flow of water across a membrane will be from the solution with the lower solute concentration to the solution with the higher solute concentration.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Membranes allow formation of subcellular compartments with different chemical compositions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Hypertonic solutions have higher solute concentrations than the solution inside the cell",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Lipids comprise 90% of membrane material",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Lipids comprise 90% of membrane material",
+          "neutral_comments": "Membranes are composed of approximately 40% lipid, 50% protein and ~ 10% carbohydrate.",
+          "all_comments": "Membranes are composed of approximately 40% lipid, 50% protein and ~ 10% carbohydrate."
+        },
+        {
+          "question": "According to the fluid mosaic model of membrane structure, proteins of the membrane are mostly",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "spread in a continuous layer over the inner and outer surfaces of the membranes",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "confined to the hydrophobic core of the membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "embedded in the lipid bilayer",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "randomly oriented in the membrane, with no fixed inside-outside polarity",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "embedded in the lipid bilayer",
+          "neutral_comments": null
+        },
+        {
+          "question": "Chloroplasts",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "contain some of their own DNA",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "capture energy from light",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "convert CO2 and H20 into sugars",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "all of these answers are correct",
+          "neutral_comments": null
+        },
+        {
+          "question": "Which of the following statements about the Golgi apparatus is <b>TRUE</b>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Vesicles that bud off from the trans side of the Golgi apparatus always travel to the plasma membrane.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Vesicles that bud off from the cis side of the Golgi apparatus always travel to the plasma membrane.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Vesicles that bud off from the trans side of the Golgi apparatus have molecules on their surfaces that can recognize “docking” sites on the surface of the plasma membrane.",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "Vesicles that bud off from the cis side of the Golgi apparatus have molecules on their surfaces that can recognize “docking” sites on the surface of the plasma membrane.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Vesicles that bud off from the trans side of the Golgi apparatus have molecules on their surfaces that can recognize “docking” sites on the surface of the plasma membrane.",
+          "neutral_comments": "Some of the vesicles that bud off from the trans side of the Golgi apparatus travel to the plasma membrane, but some travel to other organelles within the cell instead.",
+          "all_comments": "Some of the vesicles that bud off from the trans side of the Golgi apparatus travel to the plasma membrane, but some travel to other organelles within the cell instead."
+        },
+        {
+          "question": "All of the following are part of a prokaryotic cell <b><i>except</i></b>",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "DNA",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "an endoplasmic reticulum",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "ribosomes",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "a plasma membrane",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "an endoplasmic reticulum",
+          "neutral_comments": "Prokaryotes, with rare exceptions, do not have membrane bound organelles, such as endoplasmic reticulum. Please note that ribosomes are NOT membrane bound and are contained by both prokaryotic and eukaryotic cells (as are DNA and a plasma membrane).",
+          "all_comments": "Prokaryotes, with rare exceptions, do not have membrane bound organelles, such as endoplasmic reticulum.  Please note that ribosomes are NOT membrane bound and are contained by both prokaryotic and eukaryotic cells (as are DNA and a plasma membrane)."
+        },
+        {
+          "question": "Which of the following is a reasonable explanation for why unsaturated lipids help keep membranes more fluid at lower temperatures?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "The double bonds form kinks in the hydrocarbon chains, forcing adjacent lipid molecules to be further apart.",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "The double bonds result in shorter hydrocarbon chains and thinner membranes.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Unsaturated lipids have a higher cholesterol content and therefore more cholesterol in the membranes.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Unsaturated lipids permit more water in the interior of the membrane.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "The double bonds form kinks in the hydrocarbon chains, forcing adjacent lipid molecules to be further apart.",
+          "neutral_comments": null
+        },
+        {
+          "question": "Sucrose-H<sup>+</sup> cotransporters transport sucrose and H<sup>+</sup> from outside to inside of a cell. Which of the following would increase the rate of sucrose transport into the cell?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "adding a substance that makes the membrane more permeable to H+",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "decreasing the concentration of sucrose outside of the cell",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "increasing the pH of the solution outside of the cell",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "decreasing the pH of the solution outside of the cell",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "decreasing the pH of the solution outside of the cell",
+          "neutral_comments": "Decreasing the pH of the solution outside of the cell would increase the concentration of H+ outside of the cell. Therefore decreasing the pH outside of the cell would increase the H+ gradient from the outside to the inside of the cell and would thus increase the rate at which H+and sucrose are transported into the cell.",
+          "all_comments": "Decreasing the pH of the solution outside of the cell would increase the concentration of H+ outside of the cell.  Therefore decreasing the pH outside of the cell would increase the H+ gradient from the outside to the inside of the cell and would thus increase the rate at which H+and sucrose are transported into the cell."
+        },
+        {
+          "question": "Microfilaments",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "play an important role in muscle cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "help cells resist tension, or pulling forces",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "play an important role in ameboid movement",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "all of these answers are correct",
+          "neutral_comments": null
+        },
+        {
+          "question": "Movement of organelles within the cell takes place via",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "muscle fibers and cellulose microfibrils.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cytoskeleton and motor proteins.",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "motor proteins and cellulose microfibrils.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cytoskeleton and muscle fibers.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "the cytoskeleton and motor proteins.",
+          "neutral_comments": null
+        },
+        {
+          "question": "In eukaryotes",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "the cytoplasm, but not the cytosol, includes organelles and other large structures.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "All of these answers are correct.",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "the cytoplasm is the part of the cell between the plasma membrane and the nucleus.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the cytosol is the semi-fluid part of the cytoplasm",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "All of these answers are correct.",
+          "neutral_comments": null
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 5-7 level 1d (chapters 5 + 6)_5",
+      "questions": [
+        {
+          "question": "In the term “fluid mosaic model”",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "all of these answers are correct",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "“fluid” means the membrane is fluid and “mosaic” means the membrane has different proteins embedded in it or attached to it",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "“fluid” means that different proteins can float into and out of the membrane and “mosaic” means that the membrane contains a mixture of different types of lipid molecules",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "“fluid” means the membrane is fluid and “mosaic” means that it contains a mixture of different types of lipid molecules",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "“fluid” means the membrane is fluid and “mosaic” means the membrane has different proteins embedded in it or attached to it",
+          "neutral_comments": null
+        },
+        {
+          "question": "Carbohydrates attached to some proteins and lipids of the plasma membrane are added as the membrane is made and refined in the ER and Golgi apparatus: the new membrane then forms transport vesicles that travel to the cell surface. Which of the following statements is <b>TRUE</b>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "The carbohydrates that are part of the glycolipid and glycoprotein molecules will be on the outside of the vesicle and then on the outside (extracellular side) of the plasma membrane.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The carbohydrates that are part of the glycolipid and glycoprotein molecules will be on the inside of the vesicle and then on the outside (extracellular side) of the plasma membrane.",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "The carbohydrates that are part of the glycolipid and glycoprotein molecules will be on the outside of the vesicle and then on the inside (cytoplasmic side) of the plasma membrane.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The carbohydrates that are part of the glycolipid and glycoprotein molecules will be on the inside of the vesicle and the inside (cytoplasmic side) of the plasma membrane.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "The carbohydrates that are part of the glycolipid and glycoprotein molecules will be on the inside of the vesicle and then on the outside (extracellular side) of the plasma membrane.",
+          "neutral_comments": "Carbohydrates that are attached to lipids or proteins on the inside face of the ER membrane will end up on the inside face of the membrane of vesicles that bud off of the ER, than on the inside face of the Golgi apparatus membrane, then on the inside face of the membrane of vesicles that bud off of the Golgi apparatus and then on the extracellular face of the plasma membrane after the vesicle fuses with the plasma membrane (see figure below, paying special attention to the orientation of the small, green carbohydrates that are attached to the protein molecules in the rough ER to help you keep track of the orientation of membrane components). Also, remember that lipid molecules can diffuse laterally within 1 face of a membrane, but that it is very rare for a lipid molecule to flip-flop from on ½ (face) of a membrane to the other because for that to happen the hydrophilic part of the lipid molecule (e.g. the phosphate and groups attached to the phosphate of a phospholipid molecule) would need to pass through the hydrophobic core of the membrane.",
+          "all_comments": "Carbohydrates that are attached to lipids or proteins on the inside face of the ER membrane will end up on the inside face of the membrane of vesicles that bud off of the ER, than on the inside face of the Golgi apparatus membrane, then on the inside face of the membrane of vesicles that bud off of the Golgi apparatus and then on the extracellular face of the plasma membrane after the vesicle fuses with the plasma membrane (see figure below, paying special attention to the orientation of the small, green carbohydrates that are attached to the protein molecules in the rough ER to help you keep track of the orientation of membrane components).  Also, remember that lipid molecules can diffuse laterally within 1 face of a membrane, but that it is very rare for a lipid molecule to flip-flop from on ½ (face) of a membrane to the other because for that to happen the hydrophilic part of the lipid molecule (e.g. the phosphate and groups attached to the phosphate of a phospholipid molecule) would need to pass through the hydrophobic core of the membrane. "
+        },
+        {
+          "question": "Which types of RNA molecules are predominantly transcribed in a special region of the nucleus known as the nucleolus?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "mRNA",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "rRNA",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "tRNA",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "rRNA",
+          "neutral_comments": null
+        },
+        {
+          "question": "Why have plants been referred to as “supracellular” organisms?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "The cell walls surrounding plant cells make them super strong.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Plant cells are able to carry out photosynthesis.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The vast majority of the cells in a plant are connected by plasmodesmata, forming a sort of “super cell”",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "Plant cells tend to be larger than animal cells.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "The vast majority of the cells in a plant are connected by plasmodesmata, forming a sort of “super cell”",
+          "neutral_comments": "Unicellular organisms are organisms that have only a single cell. Multi-cellular organisms, such as people, are organisms that have multiple cells. Plants have been referred to as “supracellular” organisms because almost all of the cells in a plants are directly connected by pores that run through their cell walls. These pores are called plasmodesmata. Plasmodesmata allow small molecules to diffuse between different cells in a plant without having to cross a plasma membrane. So, most of the cells in a plant can be thought of as being joined together in a giant “super cell”.",
+          "all_comments": "Unicellular organisms are organisms that have only a single cell.  Multi-cellular organisms, such as people, are organisms that have multiple cells.  Plants have been referred to as “supracellular” organisms because almost all of the cells in a plants are directly connected by pores that run through their cell walls.  These pores are called plasmodesmata.  Plasmodesmata allow small molecules to diffuse between different cells in a plant without having to cross a plasma membrane.  So, most of the cells in a plant can be thought of as being joined together in a giant “super cell”."
+        },
+        {
+          "question": "Desmosomes function to",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "prevent leakage of extracellular fluid between neighboring cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "provide cytoplasmic channels between cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "fasten cells together into strong sheets",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "create spaces between cells",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "fasten cells together into strong sheets",
+          "neutral_comments": null
+        },
+        {
+          "question": "Lipid molecules that have carbohydrates attached to them are known as",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "glycolipids",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "carbolipids",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "saccharolipids",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "polysaccharolipids",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "glycolipids",
+          "neutral_comments": null
+        },
+        {
+          "question": "Use the diagram below to help answer this question. The diagram shows a U-tube, with the two arms of the tube separated at the bottom by a selectively permeable barrier. This selectively permeable barrier is permeable to water but not to any ions. If you add 1 liter of an aqueous solution containing 1 mole of MgCl<sub>2</sub> to side “A” and you add 1 liter of an aqueous solution containing 1 mole of NaCl to side “B”, <b>immediately after adding the solutions to the U-tube,</b><br> <br> <span style=\"color: #000000;\"><img src=\"/assessment_questions/3980360/files/4145247/download?verifier=R3xQzClTyhlMm0fvoltbTfEnqge69Zkafg8olJzn\" alt=\"\"></span>",
+          "question_image_url": "https://canvas.umn.edu/assessment_questions/3980360/files/4145247/download?verifier=R3xQzClTyhlMm0fvoltbTfEnqge69Zkafg8olJzn",
+          "answers": [
+            {
+              "text": "the solution in side “A” will be hypotonic compared with the solution in side “B”",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the solution in side “A” will be isotonic compared with the solution in side “B”",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the solution in side “A” will be hypertonic compared with the solution in side “B”",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "there will be more free water molecules on side “A”",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "the solution in side “A” will be hypertonic compared with the solution in side “B”",
+          "neutral_comments": "MgCl2 and NaCl are both salts that will dissociate into their constituent ions when they come in contact with water. So, the 1 mole of MgCl2 will dissociate to form 1 mole of Mg++ and 2 moles of Cl- and the 1 mole of NaCl will dissociate to form 1 mole of Na+and 1 mole of Cl-. That means that, immediately after the solutions are added to the two sides of the tube, there will be a higher concentration of solute molecules on side A than on side B, so side A will be hypertonic compared with side B. The fact that there will be more solute molecules on side A also means that more of the water molecules on side A will be interacting with solute molecules and therefore there will be fewer free water molecules on side A.",
+          "all_comments": "MgCl2 and NaCl are both salts that will dissociate into their constituent ions when they come in contact with water.  So, the 1 mole of MgCl2 will dissociate to form 1 mole of Mg++ and 2 moles of Cl- and the 1 mole of NaCl will dissociate to form 1 mole of Na+and 1 mole of Cl-.  That means that, immediately after the solutions are added to the two sides of the tube, there will be a higher concentration of solute molecules on side A than on side B, so side A will be hypertonic compared with side B.  The fact that there will be more solute molecules on side A also means that more of the water molecules on side A will be interacting with solute molecules and therefore there will be fewer free water molecules on side A."
+        },
+        {
+          "question": "Large numbers of ribosomes are present in cells that specialize in producing which of the following molecules?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Starches",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Lipids",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Proteins",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "Glucose",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Proteins",
+          "neutral_comments": "Ribosomes act in protein synthesis and so will tend to be abundant in cells producing lots of proteins.",
+          "all_comments": "Ribosomes act in protein synthesis and so will tend to be abundant in cells producing lots of proteins."
+        },
+        {
+          "question": "Motor proteins provide for molecular motion in cells by interacting with what types of cellular structures?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "membrane lipids",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "cytoskeletons",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "membrane proteins",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "cellulose fibers in cell walls",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "cytoskeletons",
+          "neutral_comments": null
+        },
+        {
+          "question": "Gap junctions function to",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "provide cytoplasmic channels between cells",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "create spaces between cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "fasten cells together into strong sheets",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "prevent leakage of extracellular fluid between neighboring cells",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "provide cytoplasmic channels between cells",
+          "neutral_comments": null
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 5-7 level 2 (chapters 5 + 6)",
+      "questions": [
+        {
+          "question": "Which structure is common to plant and animal cells?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "wall made of cellulose",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "chloroplast",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "mitochondrion",
+              "is_correct": true,
+              "comment": "Nice work!"
+            },
+            {
+              "text": "central vacuole",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "mitochondrion",
+          "neutral_comments": "Chloroplasts, cell walls made out of cellulose and large central vacuoles are found in plant cells. In contrast, both plant and animal cells contain mitochondria.",
+          "all_comments": "Chloroplasts, cell walls made out of cellulose and large central vacuoles are found in plant cells. In contrast, both plant and animal cells contain mitochondria."
+        },
+        {
+          "question": "Which structure-function pair is <b>FALSE</b>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "microtubule; muscle contraction",
+              "is_correct": true,
+              "comment": "Nice work!"
+            },
+            {
+              "text": "ribosome; protein synthesis",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "lysosome; intracellular digestion",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Golgi apparatus; protein trafficking",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "microtubule; muscle contraction",
+          "neutral_comments": "The components of the cytoskeleton that function in muscle contraction are microfilaments rather than microtubules.",
+          "all_comments": "The components of the cytoskeleton that function in muscle contraction are microfilaments rather than microtubules."
+        },
+        {
+          "question": "Which of the following statements about the Golgi apparatus is <b>TRUE</b>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Vesicles that bud off from the cis side of the Golgi apparatus have molecules on their surfaces that can recognize “docking” sites on the surface of the plasma membrane.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Vesicles that bud off from the trans side of the Golgi apparatus always travel to the plasma membrane.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Vesicles that bud off from the cis side of the Golgi apparatus always travel to the plasma membrane.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Vesicles that bud off from the trans side of the Golgi apparatus have molecules on their surfaces that can recognize “docking” sites on the surface of the plasma membrane.",
+              "is_correct": true,
+              "comment": "Good work!"
+            }
+          ],
+          "correct_answer": "Vesicles that bud off from the trans side of the Golgi apparatus have molecules on their surfaces that can recognize “docking” sites on the surface of the plasma membrane.",
+          "neutral_comments": "Some of the vesicles that bud off from the trans side of the Golgi apparatus travel to the plasma membrane, but some travel to other organelles within the cell instead.",
+          "all_comments": "Some of the vesicles that bud off from the trans side of the Golgi apparatus travel to the plasma membrane, but some travel to other organelles within the cell instead."
+        },
+        {
+          "question": "Which of the following types of molecules are the major structural components of the cell membrane?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Phospholipids and carbohydrates",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Triacylglycerols and proteins",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Triacylglycerols and carbohydrates",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Phospholipids and proteins",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "Phospholipids and proteins",
+          "neutral_comments": "The major structural components of cell membranes are phospholipids and proteins. Carbohydrates are present in membranes (attached to proteins, to form glycoproteins, or attached to lipids, to form glycolipids), but represent only a small part of the components of a membrane. Triacylglycerols are fats and are rare in membranes.",
+          "all_comments": "Nice job!The major structural components of cell membranes are phospholipids and proteins.  Carbohydrates are present in membranes (attached to proteins, to form glycoproteins, or attached to lipids, to form glycolipids), but represent only a small part of the components of a membrane.  Triacylglycerols are fats and are rare in membranes."
+        },
+        {
+          "question": "Which of the following will decrease the temperature at which the membranes of your cells will solidify?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "all of these answers are correct",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "adding cholesterol to the membranes",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "adding more fatty acids with double bonds to the phospholipids composing your membranes",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "adding more unsaturated fatty acids to the phospholipids composing your membranes",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "all of these answers are correct",
+          "neutral_comments": "Both cholesterol, as well as unsaturated lipids (= lipids with carbon-carbon double bonds), decrease the temperature at which membranes will solidify.",
+          "all_comments": "Good job!Both cholesterol, as well as unsaturated lipids (= lipids with carbon-carbon double bonds), decrease the temperature at which membranes will solidify."
+        },
+        {
+          "question": "Which of the following statements about membrane synthesis is <b>TRUE</b>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Membrane proteins are synthesized in the rough ER and membrane lipids are synthesized in both the rough and smooth ER",
+              "is_correct": true,
+              "comment": "Good work!"
+            },
+            {
+              "text": "Membrane proteins are synthesized in the rough ER and phospholipids for membranes are synthesized in the Golgi apparatus.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Both membrane proteins and phospholipids for membranes are synthesized in the smooth ER.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Membrane proteins are synthesized in the smooth ER but phospholipids for membranes are synthesized in the rough ER.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Membrane proteins are synthesized in the rough ER and membrane lipids are synthesized in both the rough and smooth ER",
+          "neutral_comments": null,
+          "all_comments": "\nGood work!\n\n"
+        },
+        {
+          "question": "Of the following, which cell structure would likely be most easily visualized using a high quality light microscope?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "microfilament",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ribosome",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "mitochondrion",
+              "is_correct": true,
+              "comment": "Nice work!"
+            },
+            {
+              "text": "microtubule",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "mitochondrion",
+          "neutral_comments": "Because the magnifying power and resolution of light microscopes are limited, they can most easily visualize larger cellular structures, such as mitochondria.",
+          "all_comments": "Because the magnifying power and resolution of light microscopes are limited, they can most easily visualize larger cellular structures, such as mitochondria."
+        },
+        {
+          "question": "All of the following play an important role in determining or maintaining the structure of plant cells. Which of the following are distinct from the others in their composition?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "microtubules",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "plant cell walls",
+              "is_correct": true,
+              "comment": "Nice work!"
+            },
+            {
+              "text": "microfilaments",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "intermediate filaments",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "plant cell walls",
+          "neutral_comments": "Microtubules, microfilaments and intermediate filaments are all composed of proteins. Plant cell walls are composed of polysaccharides.",
+          "all_comments": "Microtubules, microfilaments and intermediate filaments are all composed of proteins.  Plant cell walls are composed of polysaccharides."
+        },
+        {
+          "question": "When a hydrogen ion (= a proton) enters a cell, it is",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "moving down its electrochemical gradient because the outsides of cells are positively charged relative to the insides and that offsets the fact that the hydrogen ion concentration inside of cells is greater than outside of cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "moving down its electrochemical gradient as the hydrogen ion concentration is so much greater outside of cells than inside that this effect offsets the effect of the outsides of cells being negatively charged relative to the insides",
+              "is_correct": false,
+              "comment": ""
+            },
+            {
+              "text": "moving up its electrochemical gradient as the hydrogen ion concentration is lower outside of cells and the outsides of cells are negatively charged relative to the insides",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "moving down its electrochemical gradient as the hydrogen ion concentration is greater outside of cells and the outsides of cells are positively charged relative to the insides",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "moving down its electrochemical gradient as the hydrogen ion concentration is greater outside of cells and the outsides of cells are positively charged relative to the insides",
+          "neutral_comments": null
+        },
+        {
+          "question": "Which of the following types of molecules are the major structural components of the cell membrane?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "glycoproteins and triglycerides",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "phospholipids and cellulose",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "proteins and cellulose",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "phospholipids and proteins",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "phospholipids and proteins",
+          "neutral_comments": "The major structural components of cell membranes are phospholipids and proteins. Triglycerides are important in fats, but aren't important in cell membranes. Cellulose forms most of the cell wall of plant cells but is not part of cell membranes.",
+          "all_comments": "Nice job!The major structural components of cell membranes are phospholipids and proteins.  Triglycerides are important in fats, but aren't important in cell membranes. Cellulose forms most of the cell wall of plant cells but is not part of cell membranes."
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 5-7 level 2 (chapters 5 + 6)_2",
+      "questions": [
+        {
+          "question": "Which of the following statements about the cytoskeleton is <strong>FALSE</strong>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "The cytoskeleton acts as a support system for the cell.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "For certain cell types, the cytoskeleton acts in movement of whole cells.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Calcium atoms form a major part of the structure of the cytoskeleton",
+              "is_correct": true,
+              "comment": "Good job!"
+            },
+            {
+              "text": "The cytoskeleton acts in movement of parts of cells.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Calcium atoms form a major part of the structure of the cytoskeleton",
+          "neutral_comments": null,
+          "all_comments": "\nGood job!\n\n"
+        },
+        {
+          "question": "Which of the following are found in plant cells?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "desmosomes",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "plasmodesmata",
+              "is_correct": true,
+              "comment": "Good job!"
+            },
+            {
+              "text": "gap junctions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "tight junctions",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "plasmodesmata",
+          "neutral_comments": null,
+          "all_comments": "\nGood job!\n\n"
+        },
+        {
+          "question": "Which pathway is generally followed by a protein produced for secretion?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Golgi, vesicle, rough ER, vesicle",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Rough ER, vesicle, Golgi, vesicle",
+              "is_correct": true,
+              "comment": "Nice job!"
+            },
+            {
+              "text": "Golgi, vesicle, smooth ER, vesicle",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Smooth ER, vesicle, Golgi, vesicle",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Rough ER, vesicle, Golgi, vesicle",
+          "neutral_comments": "Remember that proteins produced for secretion and proteins that will become part of one of the membranes of the endomembrane system are made by bound ribosomes (= ribosomes bound to the rough ER or nuclear envelope). Proteins made by ribosomes attached to the rough ER are transported via vesicles to the Golgi apparatus where they may be modified. The proteins are next transported via vesicles to their next destination (= the plasma membrane, in the case of secreted proteins). In contrast, “free ribosomes” (= ribosomes that are NOT bound to the rough ER or to the nuclear envelope) produce proteins that float freely in the cytosol or that are transported into the nucleus, mitochondria or chloroplasts.",
+          "all_comments": "Remember that proteins produced for secretion and proteins that will become part of one of the membranes of the endomembrane system are made by bound ribosomes (= ribosomes bound to the rough ER or nuclear envelope). Proteins made by ribosomes attached to the rough ER are transported via vesicles to the Golgi apparatus where they may be modified. The proteins are next transported via vesicles to their next destination (= the plasma membrane, in the case of secreted proteins). In contrast, “free ribosomes” (= ribosomes that are NOT bound to the rough ER or to the nuclear envelope) produce proteins that float freely in the cytosol or that are transported into the nucleus, mitochondria or chloroplasts. "
+        },
+        {
+          "question": "Ions always diffuse across membranes down their",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "concentration gradients",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "electrochemical gradients",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "chemical gradients",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "electrical gradients",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "electrochemical gradients",
+          "neutral_comments": "Ions are charged molecules or atoms. They will tend to diffuse down their concentration gradient and down their electrical gradient. For example, a positively charged ion will tend to have a net flow towards the side of the membrane that is more negatively charged. If a positively charged ion is in a higher concentration inside of a cell than outside of the cell, the ion may or may not have a net movement to the outside of the cell because the outsides of cells are positively charged relative to their insides. So, whether a positively charged ion would have a net flow to the outside of a cell would depend on how steep its concentration gradient is relative to how steep its electrical gradient is. The bottom line is that the net movement of an ion is down its electrochemical gradient, which takes into account both the tendency for all substances to move down their concentration gradients along with the tendency for positively charged ions to flow towards the more negatively charged side of a membrane and vice versa.",
+          "all_comments": "Nice work!Ions are charged molecules or atoms.  They will tend to diffuse down their concentration gradient and down their electrical gradient.  For example, a positively charged ion will tend to have a net flow towards the side of the membrane that is more negatively charged.  If a positively charged ion is in a higher concentration inside of a cell than outside of the cell, the ion may or may not have a net movement to the outside of the cell because the outsides of cells are positively charged relative to their insides.  So, whether a positively charged ion would have a net flow to the outside of a cell would depend on how steep its concentration gradient is relative to how steep its electrical gradient is.  The bottom line is that the net movement of an ion is down its electrochemical gradient, which takes into account both the tendency for all substances to move down their concentration gradients along with the tendency for positively charged ions to flow towards the more negatively charged side of a membrane and vice versa."
+        },
+        {
+          "question": "Glucose diffuses slowly through artificial phospholipid bilayers. The cells lining the small intestine, however, rapidly move large quantities of glucose from glucose-rich foods into their glucose-poor cytoplasm. Using this information, which transport mechanism is most probably functioning in the intestinal cells?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Simple diffusion",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Glucoport",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Facilitated diffusion",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "Active transport pumps",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Facilitated diffusion",
+          "neutral_comments": "The information that glucose diffuses poorly through artificial phospholipid bilayers tells you that glucose will diffuse poorly on its own through cell membranes. Because you are also told that glucose is entering the intestinal cells quickly, this rules out simple diffusion as a possibility. Because glucose is moving down its concentration gradient as it enters the intestinal cells, no energy should be required for its movement which makes active transport of any means in unlikely possibility. “Glucoport” is a made up term, which leaves facilitated diffusion as the most likely possibility. In facilitated diffusion, channel proteins or carrier proteins in the membrane allow specific molecules that do not easily cross membranes on their own to cross membranes rapidly. So, diffusion (which is always a passive process) is “facilitated” by these proteins.",
+          "all_comments": "Nice job!The information that glucose diffuses poorly through artificial phospholipid bilayers tells you that glucose will diffuse poorly on its own through cell membranes.  Because you are also told that glucose is entering the intestinal cells quickly, this rules out simple diffusion as a possibility.  Because glucose is moving down its concentration gradient as it enters the intestinal cells, no energy should be required for its movement which makes active transport of any means in unlikely possibility.  “Glucoport” is a made up term, which leaves facilitated diffusion as the most likely possibility.  In facilitated diffusion, channel proteins or carrier proteins in the membrane allow specific molecules that do not easily cross membranes on their own to cross membranes rapidly. So, diffusion (which is always a passive process) is “facilitated” by these proteins."
+        },
+        {
+          "question": "Intermediate filaments",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "play a role that is in between the roles played by microtubules and microfilaments",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "are located between microfilaments and microtubules",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "are synthesize after microfilaments but before microtubules",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "have diameters that are larger than those microfilaments but smaller than those microtubules",
+              "is_correct": true,
+              "comment": "Good job!"
+            }
+          ],
+          "correct_answer": "have diameters that are larger than those microfilaments but smaller than those microtubules",
+          "neutral_comments": null,
+          "all_comments": "\nGood job!\n\n"
+        },
+        {
+          "question": "Which of the following statements about the Golgi apparatus is <b>TRUE</b>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Vesicles that bud off from the trans side of the Golgi apparatus always travel to the plasma membrane.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Vesicles that bud off from the cis side of the Golgi apparatus always travel to the plasma membrane.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Vesicles that bud off from the trans side of the Golgi apparatus have molecules on their surfaces that can recognize “docking” sites on the surface of the plasma membrane.",
+              "is_correct": true,
+              "comment": "Good work!"
+            },
+            {
+              "text": "Vesicles that bud off from the cis side of the Golgi apparatus have molecules on their surfaces that can recognize “docking” sites on the surface of the plasma membrane.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Vesicles that bud off from the trans side of the Golgi apparatus have molecules on their surfaces that can recognize “docking” sites on the surface of the plasma membrane.",
+          "neutral_comments": "Some of the vesicles that bud off from the trans side of the Golgi apparatus travel to the plasma membrane, but some travel to other organelles within the cell instead.",
+          "all_comments": "Some of the vesicles that bud off from the trans side of the Golgi apparatus travel to the plasma membrane, but some travel to other organelles within the cell instead."
+        },
+        {
+          "question": "Which of the following produces and modifies polysaccharides that will be secreted?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "mitochondrion",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Golgi apparatus",
+              "is_correct": true,
+              "comment": "Nice job!"
+            },
+            {
+              "text": "lysosome",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "vacuole",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Golgi apparatus",
+          "neutral_comments": null,
+          "all_comments": "\nNice job!\n\n"
+        },
+        {
+          "question": "Which of the following statements regarding integral membrane proteins is <strong>TRUE</strong>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "They serve only a structural role in membranes.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "They are usually transmembrane proteins.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "They are loosely bound to the surface of the bilayer.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "They are not mobile within the bilayer.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "They are usually transmembrane proteins.",
+          "neutral_comments": null,
+          "all_comments": "Nice job!"
+        },
+        {
+          "question": "The presence of cholesterol in the plasma membranes of some animals",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "acts in transport of water molecules across the phopholipid bilayer",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "enables the animal to add hydrogen atoms to unsaturated phospholipids.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "enables the animal to remove hydrogen atoms from saturated phospholipids.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "enables the membrane to stay fluid more easily when cell temperature drops.",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "enables the membrane to stay fluid more easily when cell temperature drops.",
+          "neutral_comments": "The effects of cholesterol on membrane fluidity are somewhat complicated. At normal body temperatures (i.e. about 98.6°F), cholesterol interacts with phospholipid molecules, restricting their movement and thereby making the membranes less fluid. However, as the temperature drops, cholesterol molecules interfere with the tight packing of the hydrocarbon chains of the phospholipid molecules, making the membranes more fluid (i.e. decreasing the temperature at which membranes lose a lot of their fluidity and so become less functional).",
+          "all_comments": "Nice job!The effects of cholesterol on membrane fluidity are somewhat complicated. At normal body temperatures (i.e. about 98.6°F), cholesterol interacts with phospholipid molecules, restricting their movement and thereby making the membranes less fluid. However, as the temperature drops, cholesterol molecules interfere with the tight packing of the hydrocarbon chains of the phospholipid molecules, making the membranes more fluid (i.e. decreasing the temperature at which membranes lose a lot of their fluidity and so become less functional)."
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 5-7 level 2 (chapters 5 + 6)_3",
+      "questions": [
+        {
+          "question": "The proteins found in mitochondria",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "are encoded only by DNA in the nucleus",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "are encoded only by DNA in the mitochondria",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "are encoded by DNA in the mitochondria, nucleus or chloroplast (in the case of plant cells)",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "are encoded either by DNA in the mitochondria or by nuclear DNA",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "are encoded either by DNA in the mitochondria or by nuclear DNA",
+          "neutral_comments": null
+        },
+        {
+          "question": "Which of the following is a compartment that often takes up much of the volume of a plant cell?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "lysosome",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Golgi apparatus",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "nucleus",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "central vacuole",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "central vacuole",
+          "neutral_comments": "The central vacuole occupies the majority of the volume of many plant cells.",
+          "all_comments": "The central vacuole occupies the majority of the volume of many plant cells."
+        },
+        {
+          "question": "Which of the following statements about membrane synthesis is <b>TRUE</b>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Both membrane proteins and phospholipids for membranes are synthesized in the smooth ER.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Membrane proteins are synthesized in the smooth ER but phospholipids for membranes are synthesized in the rough ER.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Membrane proteins are synthesized in the rough ER and membrane lipids are synthesized in both the rough and smooth ER",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "Membrane proteins are synthesized in the rough ER and phospholipids for membranes are synthesized in the Golgi apparatus.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Membrane proteins are synthesized in the rough ER and membrane lipids are synthesized in both the rough and smooth ER",
+          "neutral_comments": null
+        },
+        {
+          "question": "Which of the following span the phospholipid bilayer, usually a number of times?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "transmembrane proteins",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "integral proteins",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "integrins",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "peripheral proteins",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "transmembrane proteins",
+          "neutral_comments": null
+        },
+        {
+          "question": "Which of the following membrane activities requires a direct input of energy from ATP hydrolysis?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "movement of glucose molecules",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Nat+ ions moving out of the cell, up their concentration gradient",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "facilitated diffusion",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "movement of water into a cell",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Nat+ ions moving out of the cell, up their concentration gradient",
+          "neutral_comments": null
+        },
+        {
+          "question": "Ribosomes are composed of",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "rRNA and membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ribosomal proteins and membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ribosomal proteins, rRNA and membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ribosomal proteins and rRNA",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "ribosomal proteins and rRNA",
+          "neutral_comments": "Ribosomes do not include a membrane as part of their structure.",
+          "all_comments": "Ribosomes do not include a membrane as part of their structure."
+        },
+        {
+          "question": "Which of the following is present in a prokaryotic cell?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "chloroplast",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "mitochondrion",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ribosome",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "nuclear envelope",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "ribosome",
+          "neutral_comments": null
+        },
+        {
+          "question": "Gap junctions function to",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "fasten cells together into strong sheets",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "prevent leakage of extracellular fluid between neighboring cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "create spaces between cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "provide cytoplasmic channels between cells",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "provide cytoplasmic channels between cells",
+          "neutral_comments": null
+        },
+        {
+          "question": "In the term “fluid mosaic model”",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "“fluid” means the membrane is fluid and “mosaic” means the membrane has different proteins embedded in it or attached to it",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "“fluid” means the membrane is fluid and “mosaic” means that it contains a mixture of different types of lipid molecules",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "“fluid” means that different proteins can float into and out of the membrane and “mosaic” means that the membrane contains a mixture of different types of lipid molecules",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "“fluid” means the membrane is fluid and “mosaic” means the membrane has different proteins embedded in it or attached to it",
+          "neutral_comments": null
+        },
+        {
+          "question": "A lipid molecule that starts on the inside face of the ER membrane (i.e. the side of the ER membrane that is NOT in contact with the cytosol) and is then transported to the plasma membrane will",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "most likely end up on the inside (cytosolic) face of the plasma membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "most likely end up on the outside (extracellular) face of the plasma membrane",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "be evenly distributed between the inside and outside faces of the plasma membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "it is impossible to tell without knowing more about the lipid molecule",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "most likely end up on the outside (extracellular) face of the plasma membrane",
+          "neutral_comments": "Lipids that are on the inside face of the ER membrane will end up on the inside face of the membrane of vesicles that bud off of the ER, than on the inside face of the Golgi apparatus membrane, then on the inside face of the membrane of vesicles that bud off of the Golgi apparatus and then on the extracellular face of the plasma membrane after the vesicle fuses with the plasma membrane (see figure below, paying special attention to the orientation of the small, green carbohydrates that are attached to the protein molecules in the rough ER to help you keep track of the orientation of membrane components). Also, remember that lipid molecules can diffuse laterally within 1 face of a membrane, but that it is very rare for a lipid molecule to flip-flop from on ½ (face) of a membrane to the other because for that to happen the hydrophilic part of the lipid molecule (e.g. the phosphate and groups attached to the phosphate of a phospholipid molecule) would need to pass through the hydrophobic core of the membrane.",
+          "all_comments": "Lipids that are on the inside face of the ER membrane will end up on the inside face of the membrane of vesicles that bud off of the ER, than on the inside face of the Golgi apparatus membrane, then on the inside face of the membrane of vesicles that bud off of the Golgi apparatus and then on the extracellular face of the plasma membrane after the vesicle fuses with the plasma membrane (see figure below, paying special attention to the orientation of the small, green carbohydrates that are attached to the protein molecules in the rough ER to help you keep track of the orientation of membrane components).  Also, remember that lipid molecules can diffuse laterally within 1 face of a membrane, but that it is very rare for a lipid molecule to flip-flop from on ½ (face) of a membrane to the other because for that to happen the hydrophilic part of the lipid molecule (e.g. the phosphate and groups attached to the phosphate of a phospholipid molecule) would need to pass through the hydrophobic core of the membrane. "
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 5-7 level 2 (chapters 5 + 6)_4",
+      "questions": [
+        {
+          "question": "Which pathway is generally followed by a protein produced for secretion?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Golgi, vesicle, smooth ER, vesicle",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Smooth ER, vesicle, Golgi, vesicle",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Golgi, vesicle, rough ER, vesicle",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Rough ER, vesicle, Golgi, vesicle",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Rough ER, vesicle, Golgi, vesicle",
+          "neutral_comments": "Remember that proteins produced for secretion and proteins that will become part of one of the membranes of the endomembrane system are made by bound ribosomes (= ribosomes bound to the rough ER or nuclear envelope). Proteins made by ribosomes attached to the rough ER are transported via vesicles to the Golgi apparatus where they may be modified. The proteins are next transported via vesicles to their next destination (= the plasma membrane, in the case of secreted proteins). In contrast, “free ribosomes” (= ribosomes that are NOT bound to the rough ER or to the nuclear envelope) produce proteins that float freely in the cytosol or that are transported into the nucleus, mitochondria or chloroplasts.",
+          "all_comments": "Remember that proteins produced for secretion and proteins that will become part of one of the membranes of the endomembrane system are made by bound ribosomes (= ribosomes bound to the rough ER or nuclear envelope). Proteins made by ribosomes attached to the rough ER are transported via vesicles to the Golgi apparatus where they may be modified. The proteins are next transported via vesicles to their next destination (= the plasma membrane, in the case of secreted proteins). In contrast, “free ribosomes” (= ribosomes that are NOT bound to the rough ER or to the nuclear envelope) produce proteins that float freely in the cytosol or that are transported into the nucleus, mitochondria or chloroplasts. "
+        },
+        {
+          "question": "Which of the following is a function of the Golgi apparatus?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "all of these answers are correct",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "protein sorting to different sub-cellular compartments",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "protein modification",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "lipid modification",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "all of these answers are correct",
+          "neutral_comments": null
+        },
+        {
+          "question": "Mitochondria",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "All of these answers are correct.",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "are self-replicating.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "contain some of their own DNA.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "are believed to have arisen from symbiotic prokaryotes that somehow survived endocytosis (being engulfed) by another cell.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "All of these answers are correct.",
+          "neutral_comments": null
+        },
+        {
+          "question": "Use the diagram below to help answer this question. The diagram shows a U-tube, with the two arms of the tube separated at the bottom by a selectively permeable barrier. This selectively permeable barrier is permeable to water but not to any ions. If you add 1 liter of an aqueous solution containing 1 mole of MgCl<sub>2</sub> to side “A” and you add 1 liter of an aqueous solution containing 1 mole of NaCl to side “B”, <b>at equilibrium</b><br> <br> <span style=\"color: #000000;\"><img src=\"/assessment_questions/3980361/files/4145248/download?verifier=pITtZjbldcvHXncc3mEi1tD9v7S1CAIwRlQkfIpu\" alt=\"\"></span>",
+          "question_image_url": "https://canvas.umn.edu/assessment_questions/3980361/files/4145248/download?verifier=pITtZjbldcvHXncc3mEi1tD9v7S1CAIwRlQkfIpu",
+          "answers": [
+            {
+              "text": "there will have been a net flow of water from side “B” to side “A”",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "there will have been a net flow of water from side “A” to side “B”",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "there will have been no movement of water molecules across the membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "there will have been no net flow of water between the two sides of the tube",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "there will have been a net flow of water from side “B” to side “A”",
+          "neutral_comments": "MgCl2 and NaCl are both salts that will dissociate into their constituent ions when they come in contact with water. So, the 1 mole of MgCl2 will dissociate to form 1 mole of Mg++ and 2 moles of Cl- and the 1 mole of NaCl will dissociate to form 1 mole of Na+and 1 mole of Cl-. That means that, immediately after the solutions are added to the two sides of the tube, there will be a higher concentration of solute molecules on side A than on side B. As a result, more water molecules will be interacting with solute molecules on side A and there will therefore be a lower concentration of free water molecules on side A than on side B. That, in turn, means there will be a net flow of water molecules from side B to side A, until equilibrium is reached.",
+          "all_comments": "MgCl2 and NaCl are both salts that will dissociate into their constituent ions when they come in contact with water.  So, the 1 mole of MgCl2 will dissociate to form 1 mole of Mg++ and 2 moles of Cl- and the 1 mole of NaCl will dissociate to form 1 mole of Na+and 1 mole of Cl-.  That means that, immediately after the solutions are added to the two sides of the tube, there will be a higher concentration of solute molecules on side A than on side B.  As a result, more water molecules will be interacting with solute molecules on side A and there will therefore be a lower concentration of free water molecules on side A than on side B.  That, in turn, means there will be a net flow of water molecules from side B to side A, until equilibrium is reached."
+        },
+        {
+          "question": "Of the following functions, which is most important for the glycoproteins and glycolipids in animal cell membranes?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Maintaining membrane fluidity at low temperatures.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Facilitated diffusion of molecules down their concentrations gradients.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Active transport of molecules against their concentration gradients.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Helping cells distinguish one type of neighboring cell from another.",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Helping cells distinguish one type of neighboring cell from another.",
+          "neutral_comments": "Glycoproteins (proteins with carbohydrates attached to them) and glycolipids (lipids with carbohydrates attached to them) play an important role in cell-cell recognition. For example, A, B, AB and O blood types reflect variations in the carbohydrates present on the surface of red blood cells.",
+          "all_comments": "Glycoproteins (proteins with carbohydrates attached to them) and glycolipids (lipids with carbohydrates attached to them) play an important role in cell-cell recognition.  For example, A, B, AB and O blood types reflect variations in the carbohydrates present on the surface of red blood cells."
+        },
+        {
+          "question": "Ribosomes are composed of",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "ribosomal proteins, rRNA and membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ribosomal proteins and rRNA",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "rRNA and membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ribosomal proteins and membrane",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "ribosomal proteins and rRNA",
+          "neutral_comments": "Ribosomes do not include a membrane as part of their structure.",
+          "all_comments": "Ribosomes do not include a membrane as part of their structure."
+        },
+        {
+          "question": "All of the following are part of a prokaryotic cell <b><i>except</i></b>",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "a plasma membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ribosomes",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "an endoplasmic reticulum",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "DNA",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "an endoplasmic reticulum",
+          "neutral_comments": "Prokaryotes, with rare exceptions, do not have membrane bound organelles, such as endoplasmic reticulum. Please note that ribosomes are NOT membrane bound and are contained by both prokaryotic and eukaryotic cells (as are DNA and a plasma membrane).",
+          "all_comments": "Prokaryotes, with rare exceptions, do not have membrane bound organelles, such as endoplasmic reticulum.  Please note that ribosomes are NOT membrane bound and are contained by both prokaryotic and eukaryotic cells (as are DNA and a plasma membrane)."
+        },
+        {
+          "question": "Which of the following statements about membrane synthesis is <b>TRUE</b>?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Membrane proteins are synthesized in the smooth ER but phospholipids for membranes are synthesized in the rough ER.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Membrane proteins are synthesized in the rough ER and membrane lipids are synthesized in both the rough and smooth ER",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "Both membrane proteins and phospholipids for membranes are synthesized in the smooth ER.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Membrane proteins are synthesized in the rough ER and phospholipids for membranes are synthesized in the Golgi apparatus.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Membrane proteins are synthesized in the rough ER and membrane lipids are synthesized in both the rough and smooth ER",
+          "neutral_comments": null
+        },
+        {
+          "question": "Which of the following factors would tend to increase membrane fluidity?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "a lower temperature",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "a relatively high protein content in the membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "a greater proportion of unsaturated phospholipids",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "a greater proportion of relatively large glycolipids compared with lipids having smaller molecular masses",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "a greater proportion of unsaturated phospholipids",
+          "neutral_comments": null
+        },
+        {
+          "question": "Glucose diffuses slowly through artificial phospholipid bilayers. The cells lining the small intestine, however, rapidly move large quantities of glucose from glucose-rich foods into their glucose-poor cytoplasm. Using this information, which transport mechanism is most probably functioning in the intestinal cells?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Facilitated diffusion",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "Glucoport",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Active transport pumps",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Simple diffusion",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Facilitated diffusion",
+          "neutral_comments": "The information that glucose diffuses poorly through artificial phospholipid bilayers tells you that glucose will diffuse poorly on its own through cell membranes. Because you are also told that glucose is entering the intestinal cells quickly, this rules out simple diffusion as a possibility. Because glucose is moving down its concentration gradient as it enters the intestinal cells, no energy should be required for its movement which makes active transport of any means in unlikely possibility. “Glucoport” is a made up term, which leaves facilitated diffusion as the most likely possibility. In facilitated diffusion, channel proteins or carrier proteins in the membrane allow specific molecules that do not easily cross membranes on their own to cross membranes rapidly. So, diffusion (which is always a passive process) is “facilitated” by these proteins.",
+          "all_comments": "The information that glucose diffuses poorly through artificial phospholipid bilayers tells you that glucose will diffuse poorly on its own through cell membranes.  Because you are also told that glucose is entering the intestinal cells quickly, this rules out simple diffusion as a possibility.  Because glucose is moving down its concentration gradient as it enters the intestinal cells, no energy should be required for its movement which makes active transport of any means in unlikely possibility.  “Glucoport” is a made up term, which leaves facilitated diffusion as the most likely possibility.  In facilitated diffusion, channel proteins or carrier proteins in the membrane allow specific molecules that do not easily cross membranes on their own to cross membranes rapidly. So, diffusion (which is always a passive process) is “facilitated” by these proteins."
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topics 5-7 level 2 (chapters 5 + 6)_5",
+      "questions": [
+        {
+          "question": "Electron microscopes are able to provide better resolution than light microscopes because",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "electrons are charged particles and photons are neutral",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "electrons have much smaller wavelengths than visible light",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "electrons are much more powerful than photons",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "electrons have a lot more energy than photons",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "electrons have much smaller wavelengths than visible light",
+          "neutral_comments": "The longer the wavelength of the radiation used for imaging, the less possible it is to resolve two structures that are close together. So electron microscopes provide better resolution than light microscopes because electrons have much shorter wavelengths than photons.",
+          "all_comments": "The longer the wavelength of the radiation used for imaging, the less possible it is to resolve two structures that are close together.  So electron microscopes provide better resolution than light microscopes because electrons have much shorter wavelengths than photons."
+        },
+        {
+          "question": "Which of the following is a function of the Golgi apparatus?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "lipid modification",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "protein modification",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "protein sorting to different sub-cellular compartments",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "all of these answers are correct",
+          "neutral_comments": null
+        },
+        {
+          "question": "Which type of organelle is primarily involved in the synthesis of steroids?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "mitochondrion",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ribosome",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "lysosome",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "smooth endoplasmic reticulum",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "smooth endoplasmic reticulum",
+          "neutral_comments": null
+        },
+        {
+          "question": "Which of the following is one of the ways that the membranes of winter wheat are able to remain fluid when it is extremely cold?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "by decreasing the number of hydrophobic proteins in the membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "by increasing the percentage of cholesterol molecules in the membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "by increasing the percentage of unsaturated phospholipids in the membrane",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "by using active transport",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "by increasing the percentage of unsaturated phospholipids in the membrane",
+          "neutral_comments": "Increasing the percentage of unsaturated phospholipids make membranes more fluid, even at lower temperatures, by inhibiting close packing of the fatty acid chains of the molecules, thus disrupting hydrophobic interactions between the molecules. Cholesterol does lower the freezing temperatures of membranes in animal cells, but is not found in plant cells. The percentage of hydrophobic proteins in the membrane has little or no effect on the temperature at which the membrane will freeze.",
+          "all_comments": "Increasing the percentage of unsaturated phospholipids make membranes more fluid, even at lower temperatures, by inhibiting close packing of the fatty acid chains of the molecules, thus disrupting hydrophobic interactions between the molecules.  Cholesterol does lower the freezing temperatures of membranes in animal cells, but is not found in plant cells.  The percentage of hydrophobic proteins in the membrane has little or no effect on the temperature at which the membrane will freeze."
+        },
+        {
+          "question": "Ions always diffuse across membranes down their",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "chemical gradients",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "electrochemical gradients",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "electrical gradients",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "concentration gradients",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "electrochemical gradients",
+          "neutral_comments": "Ions are charged molecules or atoms. They will tend to diffuse down their concentration gradient and down their electrical gradient. For example, a positively charged ion will tend to have a net flow towards the side of the membrane that is more negatively charged. If a positively charged ion is in a higher concentration inside of a cell than outside of the cell, the ion may or may not have a net movement to the outside of the cell because the outsides of cells are positively charged relative to their insides. So, whether a positively charged ion would have a net flow to the outside of a cell would depend on how steep its concentration gradient is relative to how steep its electrical gradient is. The bottom line is that the net movement of an ion is down its electrochemical gradient, which takes into account both the tendency for all substances to move down their concentration gradients along with the tendency for positively charged ions to flow towards the more negatively charged side of a membrane and vice versa.",
+          "all_comments": "It is possible for an ion to diffuse up its electrical gradient if, at the same time, it is diffusing down an even stronger concentration (chemical) gradient.Ions are charged molecules or atoms.  They will tend to diffuse down their concentration gradient and down their electrical gradient.  For example, a positively charged ion will tend to have a net flow towards the side of the membrane that is more negatively charged.  If a positively charged ion is in a higher concentration inside of a cell than outside of the cell, the ion may or may not have a net movement to the outside of the cell because the outsides of cells are positively charged relative to their insides.  So, whether a positively charged ion would have a net flow to the outside of a cell would depend on how steep its concentration gradient is relative to how steep its electrical gradient is.  The bottom line is that the net movement of an ion is down its electrochemical gradient, which takes into account both the tendency for all substances to move down their concentration gradients along with the tendency for positively charged ions to flow towards the more negatively charged side of a membrane and vice versa."
+        },
+        {
+          "question": "Which of the following components of the cytoskeleton is made from actin filaments?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "all of these answers are correct",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "microfilaments",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "intermediate filaments",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "microtubules",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "microfilaments",
+          "neutral_comments": null
+        },
+        {
+          "question": "All of the following are part of a prokaryotic cell <b><i>except</i></b>",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "DNA",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ribosomes",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "an endoplasmic reticulum",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "a plasma membrane",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "an endoplasmic reticulum",
+          "neutral_comments": "Prokaryotes, with rare exceptions, do not have membrane bound organelles, such as endoplasmic reticulum. Please note that ribosomes are NOT membrane bound and are contained by both prokaryotic and eukaryotic cells (as are DNA and a plasma membrane).",
+          "all_comments": "Prokaryotes, with rare exceptions, do not have membrane bound organelles, such as endoplasmic reticulum.  Please note that ribosomes are NOT membrane bound and are contained by both prokaryotic and eukaryotic cells (as are DNA and a plasma membrane)."
+        },
+        {
+          "question": "Mitochondria",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "contain some of their own DNA.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "are believed to have arisen from symbiotic prokaryotes that somehow survived endocytosis (being engulfed) by another cell.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "are self-replicating.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "All of these answers are correct.",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "All of these answers are correct.",
+          "neutral_comments": null
+        },
+        {
+          "question": "Osmosis refers to",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "the diffusion of water across a selectively permeable barrier",
+              "is_correct": true,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the diffusion of solutes across a selectively permeable barrier",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the diffusion of ions across a selectively permeable barrier",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "the diffusion of water across a selectively permeable barrier",
+          "neutral_comments": null
+        },
+        {
+          "question": "Which of the following shows the correct pathway for synthesis of plasma membrane proteins?",
+          "question_image_url": "",
+          "answers": [
+            {
+              "text": "Golgi to vesicle to rough ER to vesicle to plasma membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Smooth ER to rough ER to vesicle to Golgi to vesicle to plasma membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Smooth ER to vesicle to Golgi to vesicle to plasma membrane",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Rough ER to vesicle to Golgi to vesicle to plasma membrane",
+              "is_correct": true,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Rough ER to vesicle to Golgi to vesicle to plasma membrane",
+          "neutral_comments": "Plasma membrane proteins are synthesized at the rough ER, which is called the “rough” ER because of all the ribosomes stuck to it. Smooth ER is not involved in the synthesis of plasma membrane proteins. After being synthesized in the rough ER and possibly having carbohydrates added, plasma membrane proteins are transported via vesicles to the Golgi apparatus where they are modified and then transported via vesicles to the plasma membrane.",
+          "all_comments": "Plasma membrane proteins are synthesized at the rough ER, which is called the “rough” ER because of all the ribosomes stuck to it.  Smooth ER is not involved in the synthesis of plasma membrane proteins.  After being synthesized in the rough ER and possibly having carbohydrates added, plasma membrane proteins are transported via vesicles to the Golgi apparatus where they are modified and then transported via vesicles to the plasma membrane."
+        }
+      ]
     }
   ]
 }

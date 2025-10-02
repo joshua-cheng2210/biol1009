@@ -20,6 +20,7 @@
 - scrape the neutral comments for the questions' options too
 - some answer options have images, scrape those too
 - don't clean the text of the neutral comments?
+- processed the quiz question byt eh study quizes and process by topics
 
 --> typical example: https://canvas.umn.edu/courses/511424/quizzes/1055567/history?version=3 (SQ topic 3 level 2 attempt 3, question 9)
 

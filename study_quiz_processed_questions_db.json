@@ -10333,13 +10333,507 @@
     "unique_questions": 22
   },
   {
+    "quiz_title": "SQ topics 5-7 level 1a (chapters 5 + 6)",
+    "questions": [
+      {
+        "question": "Which structure is the site of the synthesis of protein that may be exported from the cell?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 352,
+        "options": [
+          {
+            "text": "Golgi vesicles",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "mitochondrion",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "rough endoplasmic reticulum",
+            "is_correct": true,
+            "comment": "Nice job!"
+          },
+          {
+            "text": "smooth endoplasmic reticulum",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": "Secreted proteins are synthesized by ribosomes bound to the rough endoplasmic reticulum. Remember that the rough ER gets its name from the fact that it has a “rough” appearance when looked at using a microscope. The reason is has a “rough” appearance is because of the ribosomes that are bound to it. After proteins destined for export are synthesized by ribosomes bound to the rough ER, vesicles bud off of the rough endoplasmic reticulum and transport those proteins to the Golgi apparatus where they are modified. Vesicles than bud off of the Golgi apparatus and transport the proteins to the plasma membrane. The vesicles fuse with the plasma membrane, releasing the proteins to the outside of the cell."
+      },
+      {
+        "question": "Of the following, which cell structure would likely be most easily visualized using a high quality light microscope?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 353,
+        "options": [
+          {
+            "text": "ribosome",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "microtubule",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "microfilament",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "mitochondrion",
+            "is_correct": true,
+            "comment": "Nice work!"
+          }
+        ],
+        "neutral_comments": "Because the magnifying power and resolution of light microscopes are limited, they can most easily visualize larger cellular structures, such as mitochondria."
+      },
+      {
+        "question": "Why do grocery stores spray vegetables with water?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 354,
+        "options": [
+          {
+            "text": "The cells of the vegetables will absorb water and expand against their cell walls, making the vegetables crisper.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "The water will be hypotonic relative to the interacellular fluid of the vegetables, allowing the cells to excrete excess ions",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The water will help keep the vegetable’s cell membranes fluid.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The water will be hypertonic relative to the intracellular fluid of the vegetables, allowing the cells to lose excess water.",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": "Water will be hypotonic compared with the fluid inside the vegetable cells. That means there will be a lower concentration of free water molecules inside the vegetable cells, leading to a net flow of water molecules from outside to inside of the cells. This will cause the cells to expand against their cell walls, making the vegetables crisper."
+      },
+      {
+        "question": "Why would a doctor inject a dilute salt solution rather than pure water into the bloodstream of a patient who has suffered severe blood loss?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 355,
+        "options": [
+          {
+            "text": "Because pure water might cause the patient’s red blood cells to burst.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Because salt will assist in co-transport of needed nutrients into the patient’s cells.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Because salt will help prevent bacterial infections.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Because pure water might cause the patient’s red blood cells to shrink.",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": "Pure water, which by definition contains no solutes, will be hypotonic compared to the solution inside of the patient’s red blood cells, which contain lots of solutes. That means that adding pure water to the patient’s blood stream will cause there to be more water molecules interacting with solute molecules inside of the red blood cells than outside. That in turn means that there will be fewer free water molecules inside of the patient’s red blood cells than outside of them. Water will thus flow into the red blood cells, causing the cells to swell and possibly burst. So, the doctor uses a dilute salt solution to avoid this problem."
+      }
+    ],
+    "unique_questions": 4
+  },
+  {
+    "quiz_title": "SQ topics 5-7 level 1b (chapters 5 + 6)",
+    "questions": [
+      {
+        "question": "Movement of organelles within the cell takes place via",
+        "question_image_url": "",
+        "unique": true,
+        "id": 356,
+        "options": [
+          {
+            "text": "the cytoskeleton and muscle fibers.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "muscle fibers and cellulose microfibrils.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the cytoskeleton and motor proteins.",
+            "is_correct": true,
+            "comment": "Good job!"
+          },
+          {
+            "text": "motor proteins and cellulose microfibrils.",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      }
+    ],
+    "unique_questions": 1
+  },
+  {
+    "quiz_title": "SQ topics 5-7 level 1c (chapters 5 + 6)",
+    "questions": [
+      {
+        "question": "Which of the following are found in plant cells?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 357,
+        "options": [
+          {
+            "text": "tight junctions",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "desmosomes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "plasmodesmata",
+            "is_correct": true,
+            "comment": "Good job!"
+          },
+          {
+            "text": "gap junctions",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      }
+    ],
+    "unique_questions": 1
+  },
+  {
+    "quiz_title": "SQ topics 5-7 level 1d (chapters 5 + 6)",
+    "questions": [
+      {
+        "question": "The difference between prokaryotic and eukaryotic cells is that",
+        "question_image_url": "",
+        "unique": true,
+        "id": 358,
+        "options": [
+          {
+            "text": "eukaryotic cells have nuclei and prokaryotic cells don’t",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "eukaryotic cells have organelles and most prokaryotic cells don’t",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "eukaryotic cells are usually larger than prokaryotic cells",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": true,
+            "comment": "Nice work!"
+          }
+        ],
+        "neutral_comments": null
+      },
+      {
+        "question": "According to the fluid mosaic model of cell membranes, which of the following statements about membrane phospholipids is <strong>TRUE</strong>?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 359,
+        "options": [
+          {
+            "text": "They can move laterally along the plane of the membrane.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "They have hydrophilic tails in the interior of the membrane.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "They frequently flip-flop from one side of the membrane to the other.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The occur in an uninterrupted bilayer, with membrane proteins restricted to the surface of the membrane.",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": "Membrane phospholipids can move laterally in the plane of the membrane but it is rare for them to flip-flop from one side of the membrane to the other because that would require that their phosphate head group, which is quite hydrophilic, pass through the hydrophobic core of the membrane that is formed by the fatty acid chains of the phospholipids. Membrane proteins occur in a “mosaic” and may be embedded in the membrane (integral membrane proteins) or attached to its surface (peripheral membrane proteins)."
+      },
+      {
+        "question": "Why isn’t the mitochondrion classified as part of the endomembrane system?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 360,
+        "options": [
+          {
+            "text": "Its structure is not derived from the endoplasmic reticulum (ER).",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "It has two membrane layers.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "It is not attached to the outer nuclear envelope.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "It is not involved in protein synthesis.",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": "All the membranes that are part of the endomembrane system are either in direct physical contact or by the transfer of small pieces of membrane via vesicles. This definition does not fit mitochondria."
+      },
+      {
+        "question": "Ribosomes are composed of",
+        "question_image_url": "",
+        "unique": true,
+        "id": 361,
+        "options": [
+          {
+            "text": "rRNA and membrane",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ribosomal proteins and membrane",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ribosomal proteins, rRNA and membrane",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ribosomal proteins and rRNA",
+            "is_correct": true,
+            "comment": null
+          }
+        ],
+        "neutral_comments": "Ribosomes do not include a membrane as part of their structure."
+      },
+      {
+        "question": "Microfilaments",
+        "question_image_url": "",
+        "unique": true,
+        "id": 362,
+        "options": [
+          {
+            "text": "play an important role in muscle cells",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "help cells resist tension, or pulling forces",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "play an important role in ameboid movement",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": true,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      },
+      {
+        "question": "Large numbers of ribosomes are present in cells that specialize in producing which of the following molecules?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 363,
+        "options": [
+          {
+            "text": "Starches",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Lipids",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Proteins",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "Glucose",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": "Ribosomes act in protein synthesis and so will tend to be abundant in cells producing lots of proteins."
+      }
+    ],
+    "unique_questions": 6
+  },
+  {
+    "quiz_title": "SQ topics 5-7 level 2 (chapters 5 + 6)",
+    "questions": [
+      {
+        "question": "Which of the following statements about membrane synthesis is <b>TRUE</b>?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 364,
+        "options": [
+          {
+            "text": "Membrane proteins are synthesized in the rough ER and membrane lipids are synthesized in both the rough and smooth ER",
+            "is_correct": true,
+            "comment": "Good work!"
+          },
+          {
+            "text": "Membrane proteins are synthesized in the rough ER and phospholipids for membranes are synthesized in the Golgi apparatus.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Both membrane proteins and phospholipids for membranes are synthesized in the smooth ER.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Membrane proteins are synthesized in the smooth ER but phospholipids for membranes are synthesized in the rough ER.",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      },
+      {
+        "question": "The presence of cholesterol in the plasma membranes of some animals",
+        "question_image_url": "",
+        "unique": true,
+        "id": 365,
+        "options": [
+          {
+            "text": "acts in transport of water molecules across the phopholipid bilayer",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "enables the animal to add hydrogen atoms to unsaturated phospholipids.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "enables the animal to remove hydrogen atoms from saturated phospholipids.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "enables the membrane to stay fluid more easily when cell temperature drops.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ],
+        "neutral_comments": "The effects of cholesterol on membrane fluidity are somewhat complicated. At normal body temperatures (i.e. about 98.6°F), cholesterol interacts with phospholipid molecules, restricting their movement and thereby making the membranes less fluid. However, as the temperature drops, cholesterol molecules interfere with the tight packing of the hydrocarbon chains of the phospholipid molecules, making the membranes more fluid (i.e. decreasing the temperature at which membranes lose a lot of their fluidity and so become less functional)."
+      },
+      {
+        "question": "The proteins found in mitochondria",
+        "question_image_url": "",
+        "unique": true,
+        "id": 366,
+        "options": [
+          {
+            "text": "are encoded only by DNA in the nucleus",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are encoded only by DNA in the mitochondria",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are encoded by DNA in the mitochondria, nucleus or chloroplast (in the case of plant cells)",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "are encoded either by DNA in the mitochondria or by nuclear DNA",
+            "is_correct": true,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      },
+      {
+        "question": "Which of the following components of the cytoskeleton is made from actin filaments?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 367,
+        "options": [
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "microfilaments",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "intermediate filaments",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "microtubules",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      }
+    ],
+    "unique_questions": 4
+  },
+  {
     "quiz_title": "Quiz 1",
     "questions": [
       {
         "question": "Studies have shown which of the following to be a particularly effective way for most students to learn new material?",
         "question_image_url": "",
         "unique": true,
-        "id": 352,
+        "id": 368,
         "options": [
           {
             "text": "repeatedly going over their notes about the material",
@@ -10363,7 +10857,7 @@
         "question": "Which of the following is a true statement regarding recommend priorities in studying for BIOL 1009?",
         "question_image_url": "",
         "unique": true,
-        "id": 353,
+        "id": 369,
         "options": [
           {
             "text": "Your primary focus should be on the material covered in the textbook. For most students, the best way to master this material is to spend a large percentage of their study time on reading the textbook.",
@@ -10398,7 +10892,7 @@
         "question": "When a reversible chemical reaction reaches equilibrium,",
         "question_image_url": "",
         "unique": true,
-        "id": 354,
+        "id": 370,
         "options": [
           {
             "text": "the forward and reverse reactions stop",
@@ -10427,7 +10921,7 @@
         "question": "How many electrons do nitrogen atoms have in their valence shell?",
         "question_image_url": "",
         "unique": true,
-        "id": 355,
+        "id": 371,
         "options": [
           {
             "text": "2",
@@ -10456,7 +10950,7 @@
         "question": "Which of the following statements about chemical reactions is <strong>FALSE</strong>?",
         "question_image_url": "",
         "unique": true,
-        "id": 356,
+        "id": 372,
         "options": [
           {
             "text": "When hydrogen and oxygen combine to form water, the hydrogen and oxygen molecules are the “reactants” of the reaction.",
@@ -10485,7 +10979,7 @@
         "question": "When an electron is moved further from the nucleus",
         "question_image_url": "",
         "unique": true,
-        "id": 357,
+        "id": 373,
         "options": [
           {
             "text": "its potential energy may change, depending on how the electron was moved",
@@ -10520,7 +11014,7 @@
         "question": "If I have trouble seeing a figure, I should:",
         "question_image_url": "",
         "unique": true,
-        "id": 358,
+        "id": 374,
         "options": [
           {
             "text": "Assume that the figure is missing from that question.",
@@ -10539,7 +11033,7 @@
         "question": "The structural level of a protein that is least affected by a disruption in hydrogen bonding is the",
         "question_image_url": "",
         "unique": true,
-        "id": 359,
+        "id": 375,
         "options": [
           {
             "text": "quaternary level",
@@ -10568,7 +11062,7 @@
         "question": "The primary structure of a protein refers to",
         "question_image_url": "",
         "unique": true,
-        "id": 360,
+        "id": 376,
         "options": [
           {
             "text": "the 3-dimensional shape of a polypeptide",
@@ -10603,7 +11097,7 @@
         "question": "Magnesium is an example of",
         "question_image_url": "",
         "unique": true,
-        "id": 361,
+        "id": 377,
         "options": [
           {
             "text": "an organic substance",
@@ -10632,7 +11126,7 @@
         "question": "Extracellular matrix",
         "question_image_url": "",
         "unique": true,
-        "id": 362,
+        "id": 378,
         "options": [
           {
             "text": "is found outside of animal cells",
@@ -10661,7 +11155,7 @@
         "question": "An example of a hydrogen bond is the bond between:",
         "question_image_url": "",
         "unique": true,
-        "id": 363,
+        "id": 379,
         "options": [
           {
             "text": "the H of one water molecule and the O of another water molecule",
@@ -10690,7 +11184,7 @@
         "question": "If the cytoplasm of a cell is at pH 7, and the mitochondrial matrix is at pH 8, this means that",
         "question_image_url": "",
         "unique": true,
-        "id": 364,
+        "id": 380,
         "options": [
           {
             "text": "the concentration of H+ ions is tenfold higher in the mitochondrial matrix than in the cytoplasm.",
@@ -10719,7 +11213,7 @@
         "question": "Large molecules, such as RNA molecules and some proteins, are able to move in and out of the nucleus",
         "question_image_url": "",
         "unique": true,
-        "id": 365,
+        "id": 381,
         "options": [
           {
             "text": "by inserting themselves between the lipid molecules in the nuclear membranes",
@@ -10754,7 +11248,7 @@
         "question": "The cytoskeleton is comprised of",
         "question_image_url": "",
         "unique": true,
-        "id": 366,
+        "id": 382,
         "options": [
           {
             "text": "all of these answers are correct",
@@ -10783,7 +11277,7 @@
         "question": "Which of the following statements about nucleic acids is <b>FALSE</b>?",
         "question_image_url": "",
         "unique": true,
-        "id": 367,
+        "id": 383,
         "options": [
           {
             "text": "DNA acts as the template for formation of RNA",
@@ -10812,7 +11306,7 @@
         "question": "Use the diagram below to help answer this question. The diagram shows a U-tube, with the two arms of the tube separated at the bottom by a semi-permeable barrier. This semi-permeable barrier is permeable to water and to Mg<sup>++</sup> and Na<sup>+</sup> ions, but not to Cl<sup>-</sup> ions. If you add 1 liter of an aqueous solution containing 1 mole of MgCl<sub>2</sub><br> to side “A” and you add 1 liter of an aqueous solution containing 1 mole of NaCl to side “B”, <b>at equilibrium</b><br> <br> <span style=\"color: #000000;\"><img src=\"/assessment_questions/3980362/files/4145249/download?verifier=JrLfZV6UfqWwTWe52A0KYPCMLNR54Rgz0DzSdZwZ\" alt=\"\"></span>",
         "question_image_url": "https://canvas.umn.edu/assessment_questions/3980362/files/4145249/download?verifier=JrLfZV6UfqWwTWe52A0KYPCMLNR54Rgz0DzSdZwZ",
         "unique": true,
-        "id": 368,
+        "id": 384,
         "options": [
           {
             "text": "there will have been a net flow of water from side “A” to side “B”",
@@ -10836,38 +11330,9 @@
           }
         ],
         "neutral_comments": "MgCl2 and NaCl are both salts that will dissociate into their constituent ions when they come in contact with water. So, the 1 mole of MgCl2 will dissociate to form 1 mole of Mg++ and 2 moles of Cl- and the 1 mole of NaCl will dissociate to form 1 mole of Na+ and 1 mole of Cl-. That means that, immediately after the solutions are added to the two sides of the tube, there will be a higher concentration of solute molecules on side A than on side B. Importantly, there will be a higher concentration of Cl- (which can’t pass the membrane) on side A than on side B. As a result, there will be more free water molecules on side B than on side A. So, there will be a net flow of water molecules from side B to side A, until the concentration of free water molecules is the same on both sides of the membrane. At that point, free water molecules will still cross the membrane, but the rate at which free water molecules cross from side B to side A will be equal to the rate at which free water molecules cross from side A to side B."
-      },
-      {
-        "question": "Why isn’t the mitochondrion classified as part of the endomembrane system?",
-        "question_image_url": "",
-        "unique": true,
-        "id": 369,
-        "options": [
-          {
-            "text": "It is not attached to the outer nuclear envelope.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "It is not involved in protein synthesis.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "It has two membrane layers.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Its structure is not derived from the endoplasmic reticulum (ER).",
-            "is_correct": true,
-            "comment": "Nice work!"
-          }
-        ],
-        "neutral_comments": "All the membranes that are part of the endomembrane system are either in direct physical contact or by the transfer of small pieces of membrane via vesicles. This definition does not fit mitochondria."
       }
     ],
-    "unique_questions": 4
+    "unique_questions": 3
   },
   {
     "quiz_title": "SQ midterm 1 level 1c (chapters 1-7)",
@@ -10881,7 +11346,7 @@
         "question": "Which of the following structures acts to prevent leakage of extracellular fluid between neighboring cells?",
         "question_image_url": "",
         "unique": true,
-        "id": 370,
+        "id": 385,
         "options": [
           {
             "text": "desmosomes",
@@ -10910,7 +11375,7 @@
         "question": "Which of the following statements about hydrogen bonds is <strong>FALSE</strong>?",
         "question_image_url": "",
         "unique": true,
-        "id": 371,
+        "id": 386,
         "options": [
           {
             "text": "Hydrogen bonds are bonds between two hydrogen atoms.",
@@ -10934,76 +11399,18 @@
           }
         ],
         "neutral_comments": null
-      },
-      {
-        "question": "Which of the following statements about membrane synthesis is <b>TRUE</b>?",
-        "question_image_url": "",
-        "unique": true,
-        "id": 372,
-        "options": [
-          {
-            "text": "Both membrane proteins and phospholipids for membranes are synthesized in the smooth ER.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Membrane proteins are synthesized in the rough ER and phospholipids for membranes are synthesized in the Golgi apparatus.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Membrane proteins are synthesized in the smooth ER but phospholipids for membranes are synthesized in the rough ER.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Membrane proteins are synthesized in the rough ER and membrane lipids are synthesized in both the rough and smooth ER",
-            "is_correct": true,
-            "comment": "Good work!"
-          }
-        ],
-        "neutral_comments": null
       }
     ],
-    "unique_questions": 3
+    "unique_questions": 2
   },
   {
     "quiz_title": "SQ midterm 1 level 2 (chapters 1-7)",
     "questions": [
       {
-        "question": "Ribosomes are composed of",
-        "question_image_url": "",
-        "unique": true,
-        "id": 373,
-        "options": [
-          {
-            "text": "ribosomal proteins, rRNA and membrane",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "ribosomal proteins and rRNA",
-            "is_correct": true,
-            "comment": "Good work!"
-          },
-          {
-            "text": "rRNA and membrane",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "ribosomal proteins and membrane",
-            "is_correct": false,
-            "comment": null
-          }
-        ],
-        "neutral_comments": "Ribosomes do not include a membrane as part of their structure."
-      },
-      {
         "question": "How many more electrons do oxygen atoms need to complete their valence shell?",
         "question_image_url": "",
         "unique": true,
-        "id": 374,
+        "id": 387,
         "options": [
           {
             "text": "1",
@@ -11029,97 +11436,10 @@
         "neutral_comments": "Oxygen atoms have 8 electrons. 2 of those electrons fill the 1stelectron shell and the other 6 fill 6 of the 8 spots in the 2ndelectron shell, which is outermost shell and thus the valence shell for oxygen. Oxygen thus needs 2 more electrons to fill its valence shell."
       },
       {
-        "question": "Which structure is the site of the synthesis of protein that may be exported from the cell?",
-        "question_image_url": "",
-        "unique": true,
-        "id": 375,
-        "options": [
-          {
-            "text": "rough endoplasmic reticulum",
-            "is_correct": true,
-            "comment": null
-          },
-          {
-            "text": "smooth endoplasmic reticulum",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Golgi vesicles",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "mitochondrion",
-            "is_correct": false,
-            "comment": null
-          }
-        ],
-        "neutral_comments": "Secreted proteins are synthesized by ribosomes bound to the rough endoplasmic reticulum. Remember that the rough ER gets its name from the fact that it has a “rough” appearance when looked at using a microscope. The reason is has a “rough” appearance is because of the ribosomes that are bound to it. After proteins destined for export are synthesized by ribosomes bound to the rough ER, vesicles bud off of the rough endoplasmic reticulum and transport those proteins to the Golgi apparatus where they are modified. Vesicles than bud off of the Golgi apparatus and transport the proteins to the plasma membrane. The vesicles fuse with the plasma membrane, releasing the proteins to the outside of the cell."
-      },
-      {
-        "question": "Microfilaments",
-        "question_image_url": "",
-        "unique": true,
-        "id": 376,
-        "options": [
-          {
-            "text": "play an important role in ameboid movement",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "help cells resist tension, or pulling forces",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "all of these answers are correct",
-            "is_correct": true,
-            "comment": null
-          },
-          {
-            "text": "play an important role in muscle cells",
-            "is_correct": false,
-            "comment": null
-          }
-        ],
-        "neutral_comments": null
-      },
-      {
-        "question": "The difference between prokaryotic and eukaryotic cells is that",
-        "question_image_url": "",
-        "unique": true,
-        "id": 377,
-        "options": [
-          {
-            "text": "eukaryotic cells are usually larger than prokaryotic cells",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "eukaryotic cells have organelles and most prokaryotic cells don’t",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "eukaryotic cells have nuclei and prokaryotic cells don’t",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "all of these answers are correct",
-            "is_correct": true,
-            "comment": null
-          }
-        ],
-        "neutral_comments": null
-      },
-      {
         "question": "Organelles other than the nucleus that contain DNA include",
         "question_image_url": "",
         "unique": true,
-        "id": 378,
+        "id": 388,
         "options": [
           {
             "text": "mitochondria and chloroplasts",
@@ -11143,37 +11463,8 @@
           }
         ],
         "neutral_comments": null
-      },
-      {
-        "question": "Of the following, which cell structure would likely be most easily visualized using a high quality light microscope?",
-        "question_image_url": "",
-        "unique": true,
-        "id": 379,
-        "options": [
-          {
-            "text": "microfilament",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "ribosome",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "mitochondrion",
-            "is_correct": true,
-            "comment": null
-          },
-          {
-            "text": "microtubule",
-            "is_correct": false,
-            "comment": null
-          }
-        ],
-        "neutral_comments": "Because the magnifying power and resolution of light microscopes are limited, they can most easily visualize larger cellular structures, such as mitochondria."
       }
     ],
-    "unique_questions": 7
+    "unique_questions": 2
   }
 ]
