@@ -47,18 +47,18 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
     <div className="min-h-screen bg-gradient-to-br from-background via-muted/30 to-background relative overflow-hidden">
       {/* Background Biology Elements */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
-        <Leaf className="absolute top-20 left-10 w-6 h-6 text-accent/20 animate-leaf-float" />
-        <Microscope className="absolute top-40 right-20 w-8 h-8 text-nature/20 animate-bounce" />
-        <Leaf className="absolute bottom-40 left-20 w-5 h-5 text-accent/15 animate-leaf-float" style={{ animationDelay: '1s' }} />
+        <Leaf className="absolute top-20 left-10 w-6 h-6 text-accent/20 animate-leaf-float" style={{ animationDelay: '1s', animationDuration: '4s' }} />
+        <Microscope className="absolute top-40 right-20 w-8 h-8 text-nature/20 animate-bounce" style={{ animationDelay: '1s', animationDuration: '4s' }} />
+        <Leaf className="absolute bottom-40 left-20 w-5 h-5 text-accent/15 animate-leaf-float" style={{ animationDelay: '1s', animationDuration: '4s' }} />
         <div className="absolute top-32 right-32 w-12 h-12 rounded-full bg-accent/10 animate-pulse" />
-        <div className="absolute bottom-60 right-40 w-8 h-8 rounded-full bg-secondary/15 animate-pulse" style={{ animationDelay: '2s' }} />
+        <div className="absolute bottom-60 right-40 w-8 h-8 rounded-full bg-secondary/15 animate-pulse" style={{ animationDelay: '1s', animationDuration: '4s' }} />
       </div>
 
       {/* Header */}
       <header className="bg-card/80 backdrop-blur-sm border-b border-border shadow-card relative">
         <div className="max-w-6xl mx-auto px-6 py-6">
           <div className="flex items-center gap-4">
-            <div className="p-3 rounded-xl shadow-lg animate-gopher-hop">
+            <div className="p-3 rounded-xl shadow-lg">
               <img
                 src="/src/img/UMN-logo.png"
                 alt="University of Minnesota Logo"
@@ -70,12 +70,8 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
                 Biology Quiz Master
               </h1>
               <p className="text-muted-foreground text-lg font-medium">
-                University of Minnesota • Golden Gopher Biology Learning
+                University of Minnesota • BIOL 1009: General Biology
               </p>
-            </div>
-            <div className="hidden md:flex items-center gap-2 px-4 py-2 bg-gradient-biology rounded-full text-white font-medium">
-              <Microscope className="w-5 h-5" />
-              <span>Study Smart</span>
             </div>
           </div>
         </div>
@@ -85,17 +81,12 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
       <main className="max-w-4xl mx-auto px-6 py-12 relative">
         <div className="text-center mb-12 animate-fade-in">
           <div className="flex items-center justify-center gap-3 mb-4">
-            <Leaf className="w-8 h-8 text-accent animate-leaf-float" />
+            <Leaf className="w-8 h-8 text-accent animate-leaf-float" style={{ animationDelay: '1s', animationDuration: '4s' }} />
             <h2 className="text-4xl font-bold font-academic text-foreground">
-              Choose Your Study Topics
+              Select Your Study Topics
             </h2>
-            <Microscope className="w-8 h-8 text-nature animate-bounce" />
+            <Microscope className="w-8 h-8 text-nature animate-bounce" style={{ animationDelay: '1s', animationDuration: '4s' }} />
           </div>
-          <p className="text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Select the biology topics you want to practice, Gopher! Our smart learning system
-            will help you master difficult concepts through targeted repetition.
-            <span className="text-secondary font-semibold">Ski-U-Mah!</span>
-          </p>
         </div>
 
         {/* Topic Selection Grid */}
@@ -127,7 +118,7 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
                   onClick={() => toggleTopic(topic)}
                 >
                   <div className="absolute top-3 right-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                    <Leaf className="w-4 h-4 text-accent animate-leaf-float" />
+                    <Leaf className="w-4 h-4 text-accent animate-leaf-float" style={{ animationDelay: '1s', animationDuration: '4s' }} />
                   </div>
 
                   <div className="flex items-start justify-between mb-4">
@@ -136,7 +127,7 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
                         {topic}
                       </h3>
                       <p className="text-sm text-muted-foreground flex items-center gap-1">
-                        <Microscope className="w-3 h-3" />
+                        <Microscope className="w-3 h-3" style={{ animationDelay: '1s', animationDuration: '4s' }} />
                         {questionCount} question{questionCount !== 1 ? 's' : ''}
                       </p>
                     </div>
@@ -174,11 +165,10 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
         <div className="text-center animate-bounce-in">
           <div className="mb-6">
             <p className="text-sm text-muted-foreground mb-2 flex items-center justify-center gap-2">
-              <span className="text-lg">�</span>
+              <span className="text-lg">🧬</span>
               {selectedTopics.length} topic{selectedTopics.length !== 1 ? 's' : ''} selected • {totalQuestions} total questions
               <span className="text-lg">🧬</span>
             </p>
-            <div className="w-32 h-1.5 bg-gradient-gopher rounded-full mx-auto" />
           </div>
 
           <button
@@ -193,16 +183,16 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
               }
             `}
           >
-            <Microscope className="w-7 h-7 group-hover:animate-bounce" />
+            <Microscope className="w-7 h-7 group-hover:animate-bounce" style={{ animationDelay: '1s', animationDuration: '4s' }} />
             Quiz Me, Gopher!
             <ChevronRight className="w-7 h-7 group-hover:translate-x-1 transition-transform" />
           </button>
 
           {selectedTopics.length === 0 && (
             <p className="text-sm text-muted-foreground mt-4 animate-fade-in flex items-center justify-center gap-2">
-              <Leaf className="w-4 h-4 text-accent" />
+              <Leaf className="w-4 h-4 text-accent animate-leaf-float" style={{ animationDelay: '1s', animationDuration: '4s' }} />
               Select at least one topic to begin your Gopher biology journey
-              <span className="text-secondary">🐾</span>
+              <Leaf className="w-4 h-4 text-accent animate-leaf-float" style={{ animationDelay: '1s', animationDuration: '4s' }} />
             </p>
           )}
         </div>
