@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { ChevronRight, BookOpen, CheckCircle, Leaf, Microscope } from 'lucide-react';
-import { quizData } from '../data/quizData';
+import { quizDataPromise, Quiz } from '../data/quizData';
 
 interface HomePageProps {
   onStartQuiz: (selectedTopics: string[]) => void;
@@ -8,6 +8,18 @@ interface HomePageProps {
 
 export default function HomePage({ onStartQuiz }: HomePageProps) {
   const [selectedTopics, setSelectedTopics] = useState<string[]>([]);
+  const [quizData, setQuizData] = useState<Quiz[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    quizDataPromise.then(data => {
+      setQuizData(data);
+      setLoading(false);
+    }).catch(error => {
+      console.error('Failed to load quiz data:', error);
+      setLoading(false);
+    });
+  }, []);
 
   const uniqueTopics = [...new Set(quizData.map(quiz => quiz.title))];
 
@@ -83,8 +95,16 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
         </div>
 
         {/* Topic Selection Grid */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12 animate-slide-up">
-          {uniqueTopics.map((topic, index) => {
+        {loading ? (
+          <div className="flex items-center justify-center py-12">
+            <div className="text-center">
+              <div className="animate-spin text-4xl mb-4">🐹</div>
+              <p className="text-lg text-muted-foreground">Loading your biology topics, Gopher...</p>
+            </div>
+          </div>
+        ) : (
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12 animate-slide-up">
+            {uniqueTopics.map((topic, index) => {
             const isSelected = selectedTopics.includes(topic);
             const questionCount = getQuestionCount(topic);
             
@@ -143,7 +163,8 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
               </div>
             );
           })}
-        </div>
+          </div>
+        )}
 
         {/* Action Section */}
         <div className="text-center animate-bounce-in">

@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import HomePage from './components/HomePage';
 import QuizPage from './components/QuizPage';
 import ResultsPage from './components/ResultsPage';
-import { quizData, Question } from './data/quizData';
+import { quizDataPromise, Question, Quiz } from './data/quizData';
 
 type AppState = 'home' | 'quiz' | 'results';
 
@@ -17,6 +17,13 @@ function App() {
   const [selectedTopics, setSelectedTopics] = useState<string[]>([]);
   const [quizQuestions, setQuizQuestions] = useState<Question[]>([]);
   const [quizResults, setQuizResults] = useState<QuizResults | null>(null);
+  const [quizData, setQuizData] = useState<Quiz[]>([]);
+
+  useEffect(() => {
+    quizDataPromise.then(data => {
+      setQuizData(data);
+    });
+  }, []);
 
   const handleStartQuiz = (topics: string[]) => {
     setSelectedTopics(topics);
