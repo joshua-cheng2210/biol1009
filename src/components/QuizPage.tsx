@@ -120,7 +120,7 @@ export default function QuizPage({ questions, onComplete, onBackToFilter }: Quiz
 
           <div className="flex items-center gap-4">
             <div className="flex items-center gap-2 text-foreground font-medium">
-              <span className="text-lg">🐹</span>
+              <span className="text-lg">🐀</span>
               <span>
                 {answeredCorrectly.size} of {questions.length} mastered
               </span>
@@ -148,7 +148,7 @@ export default function QuizPage({ questions, onComplete, onBackToFilter }: Quiz
         <div className="bg-card rounded-3xl shadow-elegant border border-border p-8 animate-fade-in relative">
           {/* Gopher mascot indicator */}
           <div className="absolute top-4 right-4 text-2xl animate-gopher-hop">
-            🐹
+            🐀
           </div>
 
           {/* Question */}
@@ -232,7 +232,7 @@ export default function QuizPage({ questions, onComplete, onBackToFilter }: Quiz
               <div className="flex items-center gap-3 px-8 py-4 bg-muted rounded-2xl">
                 <div className="w-4 h-4 rounded-full bg-primary animate-pulse"></div>
                 <span className="text-muted-foreground font-medium">
-                  {selectedAnswer === currentQuestion.correctAnswer ? 'Great job, Gopher! 🎉' : 'Keep learning! 🐹'}
+                  {selectedAnswer === currentQuestion.correctAnswer ? 'Great job, Gopher! 🎉' : 'Keep learning! 🐀'}
                 </span>
               </div>
             </div>

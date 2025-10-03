@@ -25,7 +25,7 @@ export default function ResultsPage({
     if (percentage >= 90) return { level: 'Gopher Genius! 🏆', color: 'text-accent', bg: 'bg-accent/10' };
     if (percentage >= 80) return { level: 'Biology Expert 🔬', color: 'text-secondary', bg: 'bg-secondary/10' };
     if (percentage >= 70) return { level: 'Science Scholar 📚', color: 'text-primary', bg: 'bg-primary/10' };
-    if (percentage >= 60) return { level: 'Learning Gopher 🐹', color: 'text-nature', bg: 'bg-nature/10' };
+    if (percentage >= 60) return { level: 'Learning Gopher 🐀', color: 'text-nature', bg: 'bg-nature/10' };
     return { level: 'Keep Studying! 💪', color: 'text-muted-foreground', bg: 'bg-muted' };
   };
 
@@ -86,7 +86,7 @@ export default function ResultsPage({
         {/* Score Summary */}
         <div className="bg-card rounded-3xl shadow-elegant border border-border p-8 mb-8 animate-fade-in relative">
           <div className="absolute top-4 right-4 text-3xl animate-bounce">
-            🐹
+            🐀
           </div>
           
           <div className="text-center mb-8">
@@ -246,7 +246,7 @@ export default function ResultsPage({
             }
           </p>
           <div className="mt-4 text-2xl">
-            <span className="text-secondary font-bold">Ski-U-Mah!</span> 🐹🏆
+            <span className="text-secondary font-bold">Ski-U-Mah!</span> 🐀🏆
           </div>
         </div>
       </main>

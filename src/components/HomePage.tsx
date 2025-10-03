@@ -24,8 +24,8 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
   const uniqueTopics = [...new Set(quizData.map(quiz => quiz.title))];
 
   const toggleTopic = (topic: string) => {
-    setSelectedTopics(prev => 
-      prev.includes(topic) 
+    setSelectedTopics(prev =>
+      prev.includes(topic)
         ? prev.filter(t => t !== topic)
         : [...prev, topic]
     );
@@ -58,8 +58,12 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
       <header className="bg-card/80 backdrop-blur-sm border-b border-border shadow-card relative">
         <div className="max-w-6xl mx-auto px-6 py-6">
           <div className="flex items-center gap-4">
-            <div className="p-3 bg-gradient-gopher rounded-xl shadow-lg animate-gopher-hop">
-              <div className="text-2xl">🐹</div>
+            <div className="p-3 rounded-xl shadow-lg animate-gopher-hop">
+              <img
+                src="/src/img/UMN-logo.png"
+                alt="University of Minnesota Logo"
+                className="w-8 h-8 object-contain"
+              />
             </div>
             <div className="flex-1">
               <h1 className="text-4xl font-bold font-academic bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
@@ -88,8 +92,8 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
             <Microscope className="w-8 h-8 text-nature animate-bounce" />
           </div>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Select the biology topics you want to practice, Gopher! Our smart learning system 
-            will help you master difficult concepts through targeted repetition. 
+            Select the biology topics you want to practice, Gopher! Our smart learning system
+            will help you master difficult concepts through targeted repetition.
             <span className="text-secondary font-semibold">Ski-U-Mah!</span>
           </p>
         </div>
@@ -98,71 +102,71 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
         {loading ? (
           <div className="flex items-center justify-center py-12">
             <div className="text-center">
-              <div className="animate-spin text-4xl mb-4">🐹</div>
+              <div className="animate-spin text-4xl mb-4">�</div>
               <p className="text-lg text-muted-foreground">Loading your biology topics, Gopher...</p>
             </div>
           </div>
         ) : (
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12 animate-slide-up">
             {uniqueTopics.map((topic, index) => {
-            const isSelected = selectedTopics.includes(topic);
-            const questionCount = getQuestionCount(topic);
-            
-            return (
-              <div
-                key={topic}
-                className={`
+              const isSelected = selectedTopics.includes(topic);
+              const questionCount = getQuestionCount(topic);
+
+              return (
+                <div
+                  key={topic}
+                  className={`
                   relative p-6 rounded-2xl border-2 cursor-pointer transition-all duration-300 group
-                  ${isSelected 
-                    ? 'border-primary bg-gradient-to-br from-primary/5 via-secondary/5 to-accent/5 shadow-elegant' 
-                    : 'border-border bg-card hover:border-primary/30 hover:shadow-card'
-                  }
+                  ${isSelected
+                      ? 'border-primary bg-gradient-to-br from-primary/5 via-secondary/5 to-accent/5 shadow-elegant'
+                      : 'border-border bg-card hover:border-primary/30 hover:shadow-card'
+                    }
                   hover:scale-105 transform
                 `}
-                style={{ animationDelay: `${index * 0.1}s` }}
-                onClick={() => toggleTopic(topic)}
-              >
-                <div className="absolute top-3 right-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                  <Leaf className="w-4 h-4 text-accent animate-leaf-float" />
-                </div>
-                
-                <div className="flex items-start justify-between mb-4">
-                  <div className="flex-1">
-                    <h3 className="text-lg font-semibold font-biology text-foreground mb-2">
-                      {topic}
-                    </h3>
-                    <p className="text-sm text-muted-foreground flex items-center gap-1">
-                      <Microscope className="w-3 h-3" />
-                      {questionCount} question{questionCount !== 1 ? 's' : ''}
-                    </p>
+                  style={{ animationDelay: `${index * 0.1}s` }}
+                  onClick={() => toggleTopic(topic)}
+                >
+                  <div className="absolute top-3 right-3 opacity-0 group-hover:opacity-100 transition-opacity">
+                    <Leaf className="w-4 h-4 text-accent animate-leaf-float" />
                   </div>
-                  <div className={`
+
+                  <div className="flex items-start justify-between mb-4">
+                    <div className="flex-1">
+                      <h3 className="text-lg font-semibold font-biology text-foreground mb-2">
+                        {topic}
+                      </h3>
+                      <p className="text-sm text-muted-foreground flex items-center gap-1">
+                        <Microscope className="w-3 h-3" />
+                        {questionCount} question{questionCount !== 1 ? 's' : ''}
+                      </p>
+                    </div>
+                    <div className={`
                     w-7 h-7 rounded-full border-2 flex items-center justify-center transition-all
-                    ${isSelected 
-                      ? 'border-primary bg-primary animate-bounce-in' 
-                      : 'border-muted-foreground/30'
-                    }
+                    ${isSelected
+                        ? 'border-primary bg-primary animate-bounce-in'
+                        : 'border-muted-foreground/30'
+                      }
                   `}>
-                    {isSelected && <CheckCircle className="w-5 h-5 text-white" />}
+                      {isSelected && <CheckCircle className="w-5 h-5 text-white" />}
+                    </div>
                   </div>
-                </div>
-                
-                <div className="w-full bg-muted rounded-full h-2.5 overflow-hidden">
-                  <div 
-                    className="bg-gradient-biology h-2.5 rounded-full transition-all duration-500"
-                    style={{ width: `${Math.min((questionCount / 50) * 100, 100)}%` }}
-                  />
-                </div>
-                
-                {/* Gopher paw print decoration for selected topics */}
-                {isSelected && (
-                  <div className="absolute bottom-2 left-2 text-secondary/30 text-xs">
-                    🐾
+
+                  <div className="w-full bg-muted rounded-full h-2.5 overflow-hidden">
+                    <div
+                      className="bg-gradient-biology h-2.5 rounded-full transition-all duration-500"
+                      style={{ width: `${Math.min((questionCount / 50) * 100, 100)}%` }}
+                    />
                   </div>
-                )}
-              </div>
-            );
-          })}
+
+                  {/* Gopher paw print decoration for selected topics */}
+                  {isSelected && (
+                    <div className="absolute bottom-2 left-2 text-secondary/30 text-xs">
+                      🐾
+                    </div>
+                  )}
+                </div>
+              );
+            })}
           </div>
         )}
 
@@ -170,13 +174,13 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
         <div className="text-center animate-bounce-in">
           <div className="mb-6">
             <p className="text-sm text-muted-foreground mb-2 flex items-center justify-center gap-2">
-              <span className="text-lg">🐹</span>
+              <span className="text-lg">�</span>
               {selectedTopics.length} topic{selectedTopics.length !== 1 ? 's' : ''} selected • {totalQuestions} total questions
               <span className="text-lg">🧬</span>
             </p>
             <div className="w-32 h-1.5 bg-gradient-gopher rounded-full mx-auto" />
           </div>
-          
+
           <button
             onClick={handleStartQuiz}
             disabled={selectedTopics.length === 0}
@@ -193,7 +197,7 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
             Quiz Me, Gopher!
             <ChevronRight className="w-7 h-7 group-hover:translate-x-1 transition-transform" />
           </button>
-          
+
           {selectedTopics.length === 0 && (
             <p className="text-sm text-muted-foreground mt-4 animate-fade-in flex items-center justify-center gap-2">
               <Leaf className="w-4 h-4 text-accent" />
