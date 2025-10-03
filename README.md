@@ -12,7 +12,8 @@
 # TODOs for Joshua (im currently working on scrapping the quiz questions from canvas)
 - scrape the neutral comments, which may include images, for the questions' options too
 - don't clean the text of the neutral comments?
-- processed the quiz question by the study quizes and process by topics
+- processed the quiz question by the study quizes and process by topics - done?
+- sort the quiz topics, 1) normal 2) the ones with the dashes 3) the midterms and quizes
 
 --> typical example: https://canvas.umn.edu/courses/511424/quizzes/1055567/history?version=3 (SQ topic 3 level 2 attempt 3, question 9)
 
