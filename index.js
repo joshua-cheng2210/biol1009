@@ -16,7 +16,7 @@ let selectedAnswer = null;
 // -------------------- DATA LOADING --------------------
 async function loadBiologyData() {
     try {
-        const response = await fetch('study_quiz_processed_questions_db.json');
+        const response = await fetch("study_quiz_processed_questions_by_topics_db.json");
         const data = await response.json();
 
         data.forEach((quiz, quizIndex) => {
