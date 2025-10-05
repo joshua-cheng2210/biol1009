@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { RotateCcw, Home, Trophy, Target, Microscope, Leaf, Beaker } from 'lucide-react';
 import { Question, quizData } from '../data/quizData';
 
@@ -20,6 +20,39 @@ export default function ResultsPage({
   const totalQuestions = Object.keys(answers).length;
   const correctAnswers = totalQuestions - wrongAnswers.length;
   const percentage = Math.round((correctAnswers / totalQuestions) * 100);
+
+  // Save progress to localStorage when component loads
+  useEffect(() => {
+    saveQuizProgress();
+  }, [answers, selectedTopics]);
+
+  const saveQuizProgress = () => {
+    try {
+      const savedProgress = localStorage.getItem('biologyQuizProgress');
+      const currentProgress = savedProgress ? JSON.parse(savedProgress) : {};
+
+      // Update progress for each topic
+      selectedTopics.forEach(topicTitle => {
+        const quiz = quizData.find(q => q.title === topicTitle);
+        if (quiz) {
+          if (!currentProgress[quiz.id]) {
+            currentProgress[quiz.id] = {};
+          }
+
+          // Mark correct answers
+          quiz.questions.forEach(question => {
+            if (answers[question.id] === question.correctAnswer) {
+              currentProgress[quiz.id][question.id] = true;
+            }
+          });
+        }
+      });
+
+      localStorage.setItem('biologyQuizProgress', JSON.stringify(currentProgress));
+    } catch (error) {
+      console.error('Failed to save quiz progress:', error);
+    }
+  };
 
   const getMasteryLevel = (percentage: number) => {
     if (percentage >= 90) return { level: 'Gopher Genius! 🏆', color: 'text-accent', bg: 'bg-accent/10' };

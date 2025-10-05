@@ -72,6 +72,7 @@ function App() {
         {currentState === 'quiz' && (
           <QuizPage 
             questions={quizQuestions}
+            selectedTopics={selectedTopics}
             onComplete={handleQuizComplete}
             onBackToFilter={handleBackToFilter}
           />

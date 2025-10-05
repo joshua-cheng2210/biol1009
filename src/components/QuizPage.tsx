@@ -1,14 +1,15 @@
 import React, { useState, useEffect } from 'react';
 import { ArrowLeft, ArrowRight, CheckCircle, Leaf, Beaker } from 'lucide-react';
-import { Question } from '../data/quizData';
+import { Question, quizData } from '../data/quizData';
 
 interface QuizPageProps {
   questions: Question[];
+  selectedTopics: string[];
   onComplete: (answers: { [key: string]: number }, wrongAnswers: Question[]) => void;
   onBackToFilter: () => void;
 }
 
-export default function QuizPage({ questions, onComplete, onBackToFilter }: QuizPageProps) {
+export default function QuizPage({ questions, selectedTopics, onComplete, onBackToFilter }: QuizPageProps) {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
   const [answers, setAnswers] = useState<{ [key: string]: number }>({});
@@ -19,6 +20,28 @@ export default function QuizPage({ questions, onComplete, onBackToFilter }: Quiz
 
   const currentQuestion = questionQueue[currentQuestionIndex];
   const progress = ((answeredCorrectly.size / questions.length) * 100);
+
+  const saveProgressToStorage = (questionId: string, isCorrect: boolean) => {
+    try {
+      const savedProgress = localStorage.getItem('biologyQuizProgress');
+      const currentProgress = savedProgress ? JSON.parse(savedProgress) : {};
+
+      // Find which topic this question belongs to
+      selectedTopics.forEach(topicTitle => {
+        const quiz = quizData.find(q => q.title === topicTitle);
+        if (quiz && quiz.questions.find(q => q.id === questionId)) {
+          if (!currentProgress[quiz.id]) {
+            currentProgress[quiz.id] = {};
+          }
+          currentProgress[quiz.id][questionId] = isCorrect;
+        }
+      });
+
+      localStorage.setItem('biologyQuizProgress', JSON.stringify(currentProgress));
+    } catch (error) {
+      console.error('Failed to save progress:', error);
+    }
+  };
 
   const handleAnswerSelect = (answerIndex: number) => {
     setSelectedAnswer(answerIndex);
@@ -35,6 +58,7 @@ export default function QuizPage({ questions, onComplete, onBackToFilter }: Quiz
     setTimeout(() => {
       if (isCorrect) {
         setAnsweredCorrectly(prev => new Set([...prev, currentQuestion.id]));
+        saveProgressToStorage(currentQuestion.id, true);
         
         // Remove this question from queue
         const newQueue = questionQueue.filter((_, index) => index !== currentQuestionIndex);

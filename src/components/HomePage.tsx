@@ -10,16 +10,52 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
   const [selectedTopics, setSelectedTopics] = useState<string[]>([]);
   const [quizData, setQuizData] = useState<Quiz[]>([]);
   const [loading, setLoading] = useState(true);
+  const [userProgress, setUserProgress] = useState<{[topicId: string]: {[questionId: string]: boolean}}>({});
 
   useEffect(() => {
     quizDataPromise.then(data => {
       setQuizData(data);
       setLoading(false);
+      // Load user progress from localStorage
+      loadUserProgress();
     }).catch(error => {
       console.error('Failed to load quiz data:', error);
       setLoading(false);
     });
+
+    // Listen for focus events to reload progress when returning to page
+    const handleFocus = () => {
+      loadUserProgress();
+    };
+
+    window.addEventListener('focus', handleFocus);
+    return () => window.removeEventListener('focus', handleFocus);
   }, []);
+
+  const loadUserProgress = () => {
+    try {
+      const savedProgress = localStorage.getItem('biologyQuizProgress');
+      if (savedProgress) {
+        setUserProgress(JSON.parse(savedProgress));
+      }
+    } catch (error) {
+      console.error('Failed to load user progress:', error);
+    }
+  };
+
+  const saveUserProgress = (topicId: string, questionId: string, isCorrect: boolean) => {
+    setUserProgress(prev => {
+      const updated = {
+        ...prev,
+        [topicId]: {
+          ...prev[topicId],
+          [questionId]: isCorrect
+        }
+      };
+      localStorage.setItem('biologyQuizProgress', JSON.stringify(updated));
+      return updated;
+    });
+  };
 
   const uniqueTopics = [...new Set(quizData.map(quiz => quiz.title))];
 
@@ -33,6 +69,21 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
 
   const getQuestionCount = (topic: string) => {
     return quizData.find(quiz => quiz.title === topic)?.questions.length || 0;
+  };
+
+  const getCorrectAnswersCount = (topic: string) => {
+    const quiz = quizData.find(q => q.title === topic);
+    if (!quiz || !userProgress[quiz.id]) return 0;
+    
+    return Object.values(userProgress[quiz.id]).filter(isCorrect => isCorrect === true).length;
+  };
+
+  const getProgressPercentage = (topic: string) => {
+    const totalQuestions = getQuestionCount(topic);
+    const correctAnswers = getCorrectAnswersCount(topic);
+    
+    if (totalQuestions === 0) return 0;
+    return Math.min((correctAnswers / totalQuestions) * 100, 100);
   };
 
   const totalQuestions = selectedTopics.reduce((total, topic) => total + getQuestionCount(topic), 0);
@@ -93,7 +144,7 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
         {loading ? (
           <div className="flex items-center justify-center py-12">
             <div className="text-center">
-              <div className="animate-spin text-4xl mb-4">�</div>
+              <Leaf className="w-8 h-8 text-accent animate-leaf-float" style={{ animationDelay: '1s', animationDuration: '4s' }} />
               <p className="text-lg text-muted-foreground">Loading your biology topics, Gopher...</p>
             </div>
           </div>
@@ -128,7 +179,7 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
                       </h3>
                       <p className="text-sm text-muted-foreground flex items-center gap-1">
                         <Microscope className="w-3 h-3" style={{ animationDelay: '1s', animationDuration: '4s' }} />
-                        {questionCount} question{questionCount !== 1 ? 's' : ''}
+                        {getCorrectAnswersCount(topic)}/{questionCount} completed
                       </p>
                     </div>
                     <div className={`
@@ -145,8 +196,13 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
                   <div className="w-full bg-muted rounded-full h-2.5 overflow-hidden">
                     <div
                       className="bg-gradient-biology h-2.5 rounded-full transition-all duration-500"
-                      style={{ width: `${Math.min((questionCount / 50) * 100, 100)}%` }}
+                      style={{ width: `${getProgressPercentage(topic)}%` }}
                     />
+                  </div>
+                  
+                  {/* Progress text */}
+                  <div className="mt-2 text-xs text-muted-foreground text-center">
+                    {Math.round(getProgressPercentage(topic))}% mastered
                   </div>
 
                   {/* Gopher paw print decoration for selected topics */}
