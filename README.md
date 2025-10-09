@@ -6,7 +6,6 @@
 3) copy the link and paste it in the browser
 
 ## TODO (simple)
-- when checking for unique questions, you gotta check for the options and the correct options too
 - host it on git hub pages
 
 ## TODO (starting from the most important feature):
