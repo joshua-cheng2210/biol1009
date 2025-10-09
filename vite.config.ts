@@ -5,7 +5,7 @@ import path from 'path'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/biol1009-web-quiz/',
+  base: process.env.NODE_ENV === 'production' ? '/biol1009-web-quiz/' : '/',
   server: {
     port: 8080
   },

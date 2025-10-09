@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+// Remove Router imports since you're not actually using routing
+// import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import HomePage from './components/HomePage';
 import QuizPage from './components/QuizPage';
 import ResultsPage from './components/ResultsPage';
@@ -63,39 +64,30 @@ function App() {
   };
 
   return (
-    <Router>
-      <div className="min-h-screen">
-        {currentState === 'home' && (
-          <HomePage onStartQuiz={handleStartQuiz} />
-        )}
-        
-        {currentState === 'quiz' && (
-          <QuizPage 
-            questions={quizQuestions}
-            selectedTopics={selectedTopics}
-            onComplete={handleQuizComplete}
-            onBackToFilter={handleBackToFilter}
-          />
-        )}
-        
-        {currentState === 'results' && quizResults && (
-          <ResultsPage 
-            answers={quizResults.answers}
-            wrongAnswers={quizResults.wrongAnswers}
-            selectedTopics={selectedTopics}
-            onRetakeQuiz={handleRetakeQuiz}
-            onNewQuiz={handleNewQuiz}
-          />
-        )}
-        
-        <Routes>
-          <Route path="/" element={<Navigate to="/home" replace />} />
-          <Route path="/home" element={<div />} />
-          <Route path="/quiz" element={<div />} />
-          <Route path="/results" element={<div />} />
-        </Routes>
-      </div>
-    </Router>
+    <div className="min-h-screen">
+      {currentState === 'home' && (
+        <HomePage onStartQuiz={handleStartQuiz} />
+      )}
+      
+      {currentState === 'quiz' && (
+        <QuizPage 
+          questions={quizQuestions}
+          selectedTopics={selectedTopics}
+          onComplete={handleQuizComplete}
+          onBackToFilter={handleBackToFilter}
+        />
+      )}
+      
+      {currentState === 'results' && quizResults && (
+        <ResultsPage 
+          answers={quizResults.answers}
+          wrongAnswers={quizResults.wrongAnswers}
+          selectedTopics={selectedTopics}
+          onRetakeQuiz={handleRetakeQuiz}
+          onNewQuiz={handleNewQuiz}
+        />
+      )}
+    </div>
   );
 }
 
