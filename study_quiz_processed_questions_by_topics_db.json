@@ -14917,5 +14917,355 @@
       }
     ],
     "unique_questions": 12
+  },
+  {
+    "quiz_title": "Quiz 6",
+    "questions": [
+      {
+        "question": "Free energy (G)",
+        "question_image_url": "",
+        "unique": true,
+        "id": 516,
+        "options": [
+          {
+            "text": "is a measure of the total energy of a biological system",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "is a measure of the energy in a system that is available to do work",
+            "is_correct": true,
+            "comment": "Good job!"
+          },
+          {
+            "text": "is a measure of the total energy of a system",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "is a measure of disorder or randomness",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      },
+      {
+        "question": "Anabolism results in the production of molecules with high amounts of potential energy stored in their chemical bonds. How can the reactions of anabolism occur without violating the requirement that all reactions must result in a decrease in free energy?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 517,
+        "options": [
+          {
+            "text": "B) Energy from ATP is often used to help combine an exergonic reaction with a reaction that would otherwise be endergonic.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "D) None of these answers are correct.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A) A reaction that would otherwise be endergonic is combined with an exergonic reaction. The overall reaction than occurs in multiple steps, each of which involves an exergonic reaction.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "C) Both A and B are correct.",
+            "is_correct": true,
+            "comment": "Good job!"
+          }
+        ],
+        "neutral_comments": null
+      },
+      {
+        "question": "Different enzymes may lower energy activation barriers by",
+        "question_image_url": "",
+        "unique": true,
+        "id": 518,
+        "options": [
+          {
+            "text": "All of these answers are correct.",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "providing a basic environment for the reaction",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "forming a covalent bond with a substrate molecule",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "providing an acidic environment for the reaction",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      }
+    ],
+    "unique_questions": 3
+  },
+  {
+    "quiz_title": "Quiz 4",
+    "questions": [
+      {
+        "question": "If I have trouble seeing a figure for a question, I should:",
+        "question_image_url": "",
+        "unique": true,
+        "id": 519,
+        "options": [
+          {
+            "text": "re-size my browser window. If that doesn't work I should make sure I'm using Google chrome and have recently cleared the cache from my browser.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "assume the question is missing a figure.",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": "All the figures are present for each question. Sometimes a student may need to re-size their browser window to see a figure for a particular question."
+      },
+      {
+        "question": "Which of the following structures provide cytoplasmic channels between neighboring cells?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 520,
+        "options": [
+          {
+            "text": "tight junctions",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "gap junctions",
+            "is_correct": true,
+            "comment": "Good job!"
+          },
+          {
+            "text": "desmosomes",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "extracellular matrix",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      },
+      {
+        "question": "Resolution is a measure",
+        "question_image_url": "",
+        "unique": true,
+        "id": 521,
+        "options": [
+          {
+            "text": "of the size of the image produced by a microscope",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "of the ability of a microscope to provide contrast to different parts of a specimen",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "of the clarity of the image produced by a microscope",
+            "is_correct": true,
+            "comment": "Nice work!"
+          }
+        ],
+        "neutral_comments": null
+      },
+      {
+        "question": "Which of the following components of the cytoskeleton is made from tubulins?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 522,
+        "options": [
+          {
+            "text": "microtubules",
+            "is_correct": true,
+            "comment": "Good job!"
+          },
+          {
+            "text": "intermediate filaments",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "microfilaments",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      },
+      {
+        "question": "Which of the following is <b>NOT</b> surrounded by more than one membrane?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 523,
+        "options": [
+          {
+            "text": "the endoplasmic reticulum",
+            "is_correct": true,
+            "comment": "Nice work!"
+          },
+          {
+            "text": "chloroplasts",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the nucleus",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "mitochondria",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": "The nuclear envelope is comprised of two membranes, the inner and outer membranes. Mitochondria also have outer and inner membranes. Chloroplasts typically have three membranes, the outer membrane, the inner membrane and the thylakoid membrane. In contrast, the endoplasmic reticulum has only a single membrane."
+      },
+      {
+        "question": "If a modern electron microscope (TEM) can resolve biological images to the nanometer level, which is much better than the best light microscopes, this is due to which of the following?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 524,
+        "options": [
+          {
+            "text": "Electron microscopes have much larger objective lenses.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The focal length of the electron microscope is significantly longer.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Electron beams have much shorter wave lengths than visible light.",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "Contrast is enhanced by staining with atoms of heavy metal.",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": "Resolving power is limited by the wavelength of the radiation used for imaging. The longer the wavelength of the radiation used for imaging, the poorer the resolution. Because electrons have much shorter wavelengths than visible light, electron microscopes have better resolutions than light microscopes."
+      },
+      {
+        "question": "Which statement correctly characterizes bound ribosomes?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 525,
+        "options": [
+          {
+            "text": "Bound ribosomes are enclosed in their own membrane.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Bound and free ribosomes are structurally different.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "All of these answers are correct.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Bound ribosomes generally synthesize membrane proteins and secretory proteins.",
+            "is_correct": true,
+            "comment": null
+          }
+        ],
+        "neutral_comments": "Bound and free ribosomes are structurally the same. Bound ribosomes are ribosomes that are in the process of synthesizing proteins that are attached to the endoplasmic reticulum. These bound ribosomes are thus linked to the endoplasmic reticulum while they are synthesizing these proteins. Free ribosomes are synthesizing cytosolic proteins."
+      },
+      {
+        "question": "The smallest living organisms are composed of",
+        "question_image_url": "",
+        "unique": true,
+        "id": 526,
+        "options": [
+          {
+            "text": "two cells",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "DNA coated with lipids and proteins",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a single cell",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "a nucleus to transmit genetic information",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      },
+      {
+        "question": "Which of the following are commonly made at the smooth endoplasmic reticulum (ER)?",
+        "question_image_url": "",
+        "unique": true,
+        "id": 527,
+        "options": [
+          {
+            "text": "lipids",
+            "is_correct": true,
+            "comment": null
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "secreted proteins",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "membrane proteins",
+            "is_correct": false,
+            "comment": null
+          }
+        ],
+        "neutral_comments": null
+      }
+    ],
+    "unique_questions": 9
   }
 ]
