@@ -22,3 +22,4 @@ SQ topic 3 level 2 (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)_
 
 - these images are in url form. (and it downloads the img when fetched) - figure out a solution for this
 - display those images onto the quiz webite too
+- when checking for unique questions, you gotta check for the options and the correct options too
