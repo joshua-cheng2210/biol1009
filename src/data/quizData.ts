@@ -36,7 +36,9 @@ interface JsonQuiz {
 async function loadQuizData(): Promise<Quiz[]> {
   try {
     // STEP 1: Fetch the JSON file from your database
-    const response = await fetch('/study_quiz_processed_questions_by_topics_db.json');
+    // Use relative path that works with GitHub Pages base path
+    const basePath = (import.meta as any).env.BASE_URL || '/';
+    const response = await fetch(`${basePath}study_quiz_processed_questions_by_topics_db.json`);
     
     // STEP 2: Parse JSON and type it as JsonQuiz[] (the database format)
     const jsonData: JsonQuiz[] = await response.json();
