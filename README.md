@@ -7,6 +7,7 @@
 
 ## TODO (simple)
 - host it on git hub pages
+- recongifure what is the original page
 
 ## TODO (starting from the most important feature):
 - scrape the neutral comments, which may include images, for the questions' options too
