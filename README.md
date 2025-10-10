@@ -23,3 +23,7 @@ SQ topic 3 level 2 (Chapter 4): BIOL 1009 (070-082) General Biology (Fall 2025)_
 - have a version of the question that you can display as html
 
 - restyle the quiz page and the results page
+
+- unique htmls
+1) https://canvas.umn.edu/courses/511424/quizzes/1055683/history?version=2, https://canvas.umn.edu/courses/511424/quizzes/1055567/history?version=3
+- questions neutral comments have 2 images
