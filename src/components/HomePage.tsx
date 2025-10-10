@@ -111,7 +111,7 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
           <div className="flex items-center gap-4">
             <div className="p-3 rounded-xl shadow-lg">
               <img
-                src={`/img/UMN-logo.png`}
+                src={`${(import.meta as any).env.BASE_URL || '/'}img/UMN-logo.png`}
                 alt="University of Minnesota Logo"
                 className="w-8 h-8 object-contain"
               />
