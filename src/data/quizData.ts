@@ -6,6 +6,9 @@ export interface Question {
   options: string[];
   correctAnswer: number;
   explanation?: string;
+  comments?: string;
+  rawHtmlComments?: string;
+  commentsImageUrl?: string[];
 }
 
 export interface Quiz {
@@ -26,6 +29,9 @@ interface JsonQuestion {
     comment: string | null;
   }[];
   neutral_comments: string | null;
+  comments?: string;
+  raw_html_comments?: string;
+  comments_image_url?: string[];
 }
 
 interface JsonQuiz {
@@ -55,7 +61,10 @@ async function loadQuizData(): Promise<Quiz[]> {
             questionImageUrl: jsonQuestion.question_image_url,
             options: jsonQuestion.options.map(opt => opt.text.replace(/"/g, '')),
             correctAnswer: correctIndex,
-            explanation: correctOption?.comment || undefined
+            explanation: correctOption?.comment || undefined,
+            comments: jsonQuestion.comments,
+            rawHtmlComments: jsonQuestion.raw_html_comments,
+            commentsImageUrl: jsonQuestion.comments_image_url
           };
         })
       };

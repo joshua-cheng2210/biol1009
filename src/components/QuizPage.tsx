@@ -28,7 +28,21 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
     // Replace Canvas image URLs with local image paths
     return htmlContent.replace(
       /\/assessment_questions\/[^"]*verifier=([^"&]+)[^"]*/g, 
-      (match, verifier) => `${basePath}public/img/${verifier}.jpg`
+      (match, verifier) => `${basePath}img/${verifier}.jpg`
+    );
+  };
+
+  // Function to process comment HTML and convert Canvas image URLs
+  const processCommentHTML = (htmlContent: string): string => {
+    if (!htmlContent) return '';
+    
+    // Get the base URL from Vite environment
+    const basePath = (import.meta as any).env.BASE_URL || '/';
+    
+    // Replace Canvas image URLs with local image paths
+    return htmlContent.replace(
+      /\/assessment_questions\/[^"]*verifier=([^"&]+)[^"]*/g, 
+      (match, verifier) => `${basePath}img/${verifier}.jpg`
     );
   };
 
@@ -246,7 +260,7 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
             ))}
           </div>
 
-          {/* Feedback */}
+          {/* Option Explanation Feedback */}
           {showFeedback && currentQuestion.explanation && (
             <div className="mb-6 p-4 bg-gradient-to-r from-accent/10 to-nature/10 rounded-xl border border-accent/20 animate-fade-in">
               <div className="flex items-start gap-3">
@@ -256,6 +270,31 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
                   <p className="text-muted-foreground leading-relaxed">
                     {currentQuestion.explanation}
                   </p>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* Question Comments Feedback */}
+          {showFeedback && (currentQuestion.rawHtmlComments || currentQuestion.comments) && (
+            <div className="mb-6 p-4 bg-gradient-to-r from-secondary/10 to-primary/10 rounded-xl border border-secondary/20 animate-fade-in">
+              <div className="flex items-start gap-3">
+                <Beaker className="w-5 h-5 text-secondary mt-0.5 flex-shrink-0" />
+                <div>
+                  <h4 className="font-semibold text-foreground mb-1">Additional Information</h4>
+                  {/* Render HTML comments if available, otherwise fallback to plain text */}
+                  {currentQuestion.rawHtmlComments ? (
+                    <div 
+                      className="text-muted-foreground leading-relaxed prose prose-sm max-w-none"
+                      dangerouslySetInnerHTML={{ 
+                        __html: processCommentHTML(currentQuestion.rawHtmlComments)
+                      }}
+                    />
+                  ) : (
+                    <p className="text-muted-foreground leading-relaxed">
+                      {currentQuestion.comments}
+                    </p>
+                  )}
                 </div>
               </div>
             </div>
