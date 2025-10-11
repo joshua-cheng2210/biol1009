@@ -10,6 +10,6 @@
 - recongifure what is the original page
 
 ## TODO (starting from the most important feature):
-- display the question' comments after answering. and then only move on to the next queestion after a button
+- only move on to the next queestion after a button
 - restyle the quiz page and the results page
 - set your profile picture of the people you worked with on the footer

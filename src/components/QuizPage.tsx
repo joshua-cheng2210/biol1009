@@ -83,44 +83,50 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
     setAnswers(newAnswers);
     setShowFeedback(true);
 
-    setTimeout(() => {
-      if (isCorrect) {
-        setAnsweredCorrectly(prev => new Set([...prev, currentQuestion.id]));
-        saveProgressToStorage(currentQuestion.id, true);
-        
-        // Remove this question from queue
-        const newQueue = questionQueue.filter((_, index) => index !== currentQuestionIndex);
-        setQuestionQueue(newQueue);
-        
-        // Adjust current index if needed
-        if (currentQuestionIndex >= newQueue.length && newQueue.length > 0) {
-          setCurrentQuestionIndex(newQueue.length - 1);
-        } else if (newQueue.length === 0) {
-          // All questions answered correctly
-          onComplete(newAnswers, wrongAnswers);
-          return;
-        }
-      } else {
-        // Add to wrong answers if not already there
-        if (!wrongAnswers.find(q => q.id === currentQuestion.id)) {
-          setWrongAnswers(prev => [...prev, currentQuestion]);
-        }
-        
-        // Add question back to end of queue for re-asking
-        const newQueue = [...questionQueue];
-        const questionToRequeue = newQueue.splice(currentQuestionIndex, 1)[0];
-        newQueue.push(questionToRequeue);
-        setQuestionQueue(newQueue);
-        
-        // Adjust current index
-        if (currentQuestionIndex >= newQueue.length - 1) {
-          setCurrentQuestionIndex(0);
-        }
-      }
+    // Save progress immediately when answer is submitted
+    saveProgressToStorage(currentQuestion.id, isCorrect);
+  };
 
-      setSelectedAnswer(null);
-      setShowFeedback(false);
-    }, 1500);
+  const handleNextQuestion = () => {
+    if (!showFeedback) return;
+
+    const isCorrect = selectedAnswer === currentQuestion.correctAnswer;
+    
+    if (isCorrect) {
+      setAnsweredCorrectly(prev => new Set([...prev, currentQuestion.id]));
+      
+      // Remove this question from queue
+      const newQueue = questionQueue.filter((_, index) => index !== currentQuestionIndex);
+      setQuestionQueue(newQueue);
+      
+      // Adjust current index if needed
+      if (currentQuestionIndex >= newQueue.length && newQueue.length > 0) {
+        setCurrentQuestionIndex(newQueue.length - 1);
+      } else if (newQueue.length === 0) {
+        // All questions answered correctly
+        onComplete(answers, wrongAnswers);
+        return;
+      }
+    } else {
+      // Add to wrong answers if not already there
+      if (!wrongAnswers.find(q => q.id === currentQuestion.id)) {
+        setWrongAnswers(prev => [...prev, currentQuestion]);
+      }
+      
+      // Add question back to end of queue for re-asking
+      const newQueue = [...questionQueue];
+      const questionToRequeue = newQueue.splice(currentQuestionIndex, 1)[0];
+      newQueue.push(questionToRequeue);
+      setQuestionQueue(newQueue);
+      
+      // Adjust current index
+      if (currentQuestionIndex >= newQueue.length - 1) {
+        setCurrentQuestionIndex(0);
+      }
+    }
+
+    setSelectedAnswer(null);
+    setShowFeedback(false);
   };
 
   const handleDone = () => {
@@ -313,15 +319,24 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
             </div>
           )}
 
-          {/* Loading state during feedback */}
+          {/* Next Question Button during feedback */}
           {showFeedback && (
-            <div className="flex justify-center">
-              <div className="flex items-center gap-3 px-8 py-4 bg-muted rounded-2xl">
-                <div className="w-4 h-4 rounded-full bg-primary animate-pulse"></div>
+            <div className="flex flex-col items-center space-y-4">
+              {/* Success/encouragement message */}
+              <div className="flex items-center gap-3 px-6 py-3 bg-muted rounded-xl">
                 <span className="text-muted-foreground font-medium">
                   {selectedAnswer === currentQuestion.correctAnswer ? 'Great job, Gopher! 🎉' : 'Keep learning! 🐀'}
                 </span>
               </div>
+              
+              {/* Next Question Button */}
+              <button
+                onClick={handleNextQuestion}
+                className="flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-primary to-secondary text-white rounded-2xl font-bold text-lg hover:shadow-glow transition-all transform hover:scale-105 animate-bounce-in"
+              >
+                <span>Next Question</span>
+                <ArrowRight className="w-6 h-6" />
+              </button>
             </div>
           )}
         </div>
