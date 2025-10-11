@@ -86,3 +86,66 @@
   opacity: 0.3;
   animation: fadeIn 2s ease-in-out infinite;
 }
+
+/* Prose styles for HTML content in quiz questions */
+.prose img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin: 1.5rem auto;
+  box-shadow: var(--shadow-card);
+  border: 1px solid hsl(var(--border));
+  background: hsl(var(--card));
+  padding: 0.5rem;
+  display: block;
+}
+
+.prose p {
+  margin: 0.75rem 0;
+  line-height: 1.6;
+}
+
+.prose strong, .prose b {
+  font-weight: 600;
+  color: hsl(var(--foreground));
+}
+
+.prose em, .prose i {
+  font-style: italic;
+  color: hsl(var(--muted-foreground));
+}
+
+.prose sub {
+  font-size: 0.75em;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+  bottom: -0.25em;
+}
+
+.prose sup {
+  font-size: 0.75em;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+  top: -0.5em;
+}
+
+.prose ul, .prose ol {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.prose li {
+  margin: 0.25rem 0;
+}
+
+/* Special styling for Canvas-derived images */
+.prose img[src*="img/"] {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.prose img[src*="img/"]:hover {
+  transform: scale(1.05);
+  box-shadow: var(--shadow-elegant);
+}

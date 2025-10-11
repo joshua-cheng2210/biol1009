@@ -18,6 +18,20 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
   const [answeredCorrectly, setAnsweredCorrectly] = useState<Set<string>>(new Set());
   const [showFeedback, setShowFeedback] = useState(false);
 
+  // Function to process HTML and convert Canvas image URLs
+  const processQuestionHTML = (htmlContent: string): string => {
+    if (!htmlContent) return '';
+    
+    // Get the base URL from Vite environment
+    const basePath = (import.meta as any).env.BASE_URL || '/';
+    
+    // Replace Canvas image URLs with local image paths
+    return htmlContent.replace(
+      /\/assessment_questions\/[^"]*verifier=([^"&]+)[^"]*/g, 
+      (match, verifier) => `${basePath}public/img/${verifier}.jpg`
+    );
+  };
+
   const currentQuestion = questionQueue[currentQuestionIndex];
   const progress = ((answeredCorrectly.size / questions.length) * 100);
 
@@ -184,9 +198,19 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
               </span>
             </div>
             
-            <h2 className="text-2xl font-bold text-foreground leading-relaxed font-academic">
-              {currentQuestion.question}
-            </h2>
+            {/* Render HTML content if available, otherwise fallback to plain text */}
+            {currentQuestion.rawHtmlQuestion ? (
+              <div 
+                className="text-2xl font-bold text-foreground leading-relaxed font-academic prose prose-lg max-w-none"
+                dangerouslySetInnerHTML={{ 
+                  __html: processQuestionHTML(currentQuestion.rawHtmlQuestion)
+                }}
+              />
+            ) : (
+              <h2 className="text-2xl font-bold text-foreground leading-relaxed font-academic">
+                {currentQuestion.question}
+              </h2>
+            )}
           </div>
 
           {/* Options */}
