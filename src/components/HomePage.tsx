@@ -8,12 +8,12 @@ interface HomePageProps {
 }
 
 export default function HomePage({ onStartQuiz }: HomePageProps) {
-  const [developers, setDevelopers] = useState<Array<{name: string; image?: string; linkedin?: string; github?: string}>>([]);
+  const [developers, setDevelopers] = useState<Array<{ name: string; image?: string; linkedin?: string; github?: string }>>([]);
   const [projectRepo, setProjectRepo] = useState<string | undefined>(undefined);
   const [selectedTopics, setSelectedTopics] = useState<string[]>([]);
   const [quizData, setQuizData] = useState<Quiz[]>([]);
   const [loading, setLoading] = useState(true);
-  const [userProgress, setUserProgress] = useState<{[topicId: string]: {[questionId: string]: boolean}}>({});
+  const [userProgress, setUserProgress] = useState<{ [topicId: string]: { [questionId: string]: boolean } }>({});
 
   useEffect(() => {
     quizDataPromise.then(data => {
@@ -36,22 +36,22 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
           if (repo) setProjectRepo(repo);
 
           if (Array.isArray(data.developers)) {
-          // Map to normalized shape (image paths in public/ should be referenced without the leading 'public/')
-          const mapped = data.developers.map((d: any) => ({
-            name: d.name,
-            image: d['profile img'] ? d['profile img'].replace(/^public\//, '') : undefined,
-            linkedin: d.linkedin,
-            github: d.github
-          }));
+            // Map to normalized shape (image paths in public/ should be referenced without the leading 'public/')
+            const mapped = data.developers.map((d: any) => ({
+              name: d.name,
+              image: d['profile img'] ? d['profile img'].replace(/^public\//, '') : undefined,
+              linkedin: d.linkedin,
+              github: d.github
+            }));
 
-          // Ensure Joshua Cheng is first (stable reordering)
-          const idx = mapped.findIndex((m: any) => m.name === 'Joshua Cheng');
-          if (idx > 0) {
-            const [josh] = mapped.splice(idx, 1);
-            mapped.unshift(josh);
-          }
+            // Ensure Joshua Cheng is first (stable reordering)
+            const idx = mapped.findIndex((m: any) => m.name === 'Joshua Cheng');
+            if (idx > 0) {
+              const [josh] = mapped.splice(idx, 1);
+              mapped.unshift(josh);
+            }
 
-          setDevelopers(mapped);
+            setDevelopers(mapped);
           }
         }
       })
@@ -108,14 +108,14 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
   const getCorrectAnswersCount = (topic: string) => {
     const quiz = quizData.find(q => q.title === topic);
     if (!quiz || !userProgress[quiz.id]) return 0;
-    
+
     return Object.values(userProgress[quiz.id]).filter(isCorrect => isCorrect === true).length;
   };
 
   const getProgressPercentage = (topic: string) => {
     const totalQuestions = getQuestionCount(topic);
     const correctAnswers = getCorrectAnswersCount(topic);
-    
+
     if (totalQuestions === 0) return 0;
     return Math.min((correctAnswers / totalQuestions) * 100, 100);
   };
@@ -233,7 +233,7 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
                       style={{ width: `${getProgressPercentage(topic)}%` }}
                     />
                   </div>
-                  
+
                   {/* Progress text */}
                   <div className="mt-2 text-xs text-muted-foreground text-center">
                     {Math.round(getProgressPercentage(topic))}% mastered
@@ -250,7 +250,7 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
             })}
           </div>
         )}
-        
+
         {/* Action Section */}
         <div className="text-center animate-bounce-in">
           <div className="mb-6">
@@ -318,6 +318,26 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
             </div>
           )}
 
+        </div>
+        <hr className="border-t border-border my-8" />
+        <div className="mt-8 flex flex-col items-center gap-3">
+          <p className="text-sm text-muted-foreground">If you'd like to <b>support the project</b> or <b>buy us a coffee</b>, scan the Venmo QR or open the profile:</p>
+
+          <img
+            src={`${(import.meta as any).env.BASE_URL || '/'}img/venmo-qr.png`}
+            alt="Venmo QR code to support the BIOL 1009 quiz project"
+            className="w-40 h-40 object-contain rounded-lg shadow-sm"
+            loading="lazy"
+          />
+
+          <a
+            href="https://venmo.com/JOSHUA2210"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-2 text-sm text-primary hover:underline"
+          >
+            Open Venmo profile
+          </a>
         </div>
       </main>
     </div>

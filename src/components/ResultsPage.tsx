@@ -350,6 +350,27 @@ export default function ResultsPage({
           </div>
         )}
 
+        <hr className="border-t border-border my-8" />
+        <div className="mt-8 flex flex-col items-center gap-3">
+          <p className="text-sm text-muted-foreground">If you'd like to <b>support the project</b> or <b>buy us a coffee</b>, scan the Venmo QR or open the profile:</p>
+
+          <img
+            src={`${(import.meta as any).env.BASE_URL || '/'}img/venmo-qr.png`}
+            alt="Venmo QR code to support the BIOL 1009 quiz project"
+            className="w-40 h-40 object-contain rounded-lg shadow-sm"
+            loading="lazy"
+          />
+
+          <a
+            href="https://venmo.com/JOSHUA2210"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-2 text-sm text-primary hover:underline"
+          >
+            Open Venmo profile
+          </a>
+        </div>
+
       </main>
     </div>
   );
