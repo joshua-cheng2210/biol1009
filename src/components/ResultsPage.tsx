@@ -334,7 +334,7 @@ export default function ResultsPage({
                   />
                 ))}
               </div>
-              {projectRepo && (
+              {/* {projectRepo && (
                 <div className="mt-6 flex justify-center">
                   <a
                     className="inline-block px-6 py-3 rounded-2xl bg-nature text-white font-semibold hover:opacity-95 shadow-elegant"
@@ -345,7 +345,7 @@ export default function ResultsPage({
                     Contribute on our GitHub
                   </a>
                 </div>
-              )}
+              )} */}
             </div>
           </div>
         )}
