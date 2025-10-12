@@ -1,0 +1,17 @@
+{
+    "developers": [
+        {
+            "name": "Joshua Cheng",
+            "profile img": "public/img/Joshua Cheng2.jpg",
+            "linkedin": "www.linkedin.com/in/joshua-cheng2210",
+            "github": "https://github.com/joshua-cheng2210"
+        },
+        {
+            "name": "Soliyana Shikur",
+            "profile img": "public/img/Soliyana Shikur.jpg",
+            "linkedin": "www.linkedin.com/in/soliyana-shikur-472a91278/",
+            "github" : "https://github.com/SoliyanaShikur"
+        }
+    ],
+    "project repo" : "https://github.com/joshua-cheng2210/biol1009-web-quiz"
+}

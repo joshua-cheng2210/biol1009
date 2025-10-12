@@ -1,12 +1,15 @@
 import React, { useState, useEffect } from 'react';
 import { ChevronRight, BookOpen, CheckCircle, Leaf, Microscope } from 'lucide-react';
 import { quizDataPromise, Quiz } from '../data/quizData';
+import ProfileCard from './ProfileCard';
 
 interface HomePageProps {
   onStartQuiz: (selectedTopics: string[]) => void;
 }
 
 export default function HomePage({ onStartQuiz }: HomePageProps) {
+  const [developers, setDevelopers] = useState<Array<{name: string; image?: string; linkedin?: string; github?: string}>>([]);
+  const [projectRepo, setProjectRepo] = useState<string | undefined>(undefined);
   const [selectedTopics, setSelectedTopics] = useState<string[]>([]);
   const [quizData, setQuizData] = useState<Quiz[]>([]);
   const [loading, setLoading] = useState(true);
@@ -22,6 +25,37 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
       console.error('Failed to load quiz data:', error);
       setLoading(false);
     });
+
+    // Load developers list (public/developers.json)
+    fetch(`${(import.meta as any).env.BASE_URL || '/'}developers.json`)
+      .then(res => res.json())
+      .then((data) => {
+        if (data) {
+          // capture project repo (may be under 'project repo' or 'projectRepo')
+          const repo = data['project repo'] || data.projectRepo || data['project_repo'];
+          if (repo) setProjectRepo(repo);
+
+          if (Array.isArray(data.developers)) {
+          // Map to normalized shape (image paths in public/ should be referenced without the leading 'public/')
+          const mapped = data.developers.map((d: any) => ({
+            name: d.name,
+            image: d['profile img'] ? d['profile img'].replace(/^public\//, '') : undefined,
+            linkedin: d.linkedin,
+            github: d.github
+          }));
+
+          // Ensure Joshua Cheng is first (stable reordering)
+          const idx = mapped.findIndex((m: any) => m.name === 'Joshua Cheng');
+          if (idx > 0) {
+            const [josh] = mapped.splice(idx, 1);
+            mapped.unshift(josh);
+          }
+
+          setDevelopers(mapped);
+          }
+        }
+      })
+      .catch(err => console.warn('Failed to load developers.json', err));
 
     // Listen for focus events to reload progress when returning to page
     const handleFocus = () => {
@@ -216,7 +250,7 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
             })}
           </div>
         )}
-
+        
         {/* Action Section */}
         <div className="text-center animate-bounce-in">
           <div className="mb-6">
@@ -251,6 +285,39 @@ export default function HomePage({ onStartQuiz }: HomePageProps) {
               <Leaf className="w-4 h-4 text-accent animate-leaf-float" style={{ animationDelay: '1s', animationDuration: '4s' }} />
             </p>
           )}
+
+          {developers.length > 0 && (
+            <div className="w-full flex justify-center">
+              <div className="max-w-3xl w-full px-6 py-12 border-t border-border mt-6 text-center">
+                <h2 className="mb-8 text-4xl font-bold font-academic text-foreground">Developers</h2>
+                <div className="flex items-center justify-center gap-6 flex-wrap">
+                  {developers.map(dev => (
+                    <ProfileCard
+                      key={dev.name}
+                      name={dev.name}
+                      image={dev.image || 'img/profile.jpg'}
+                      linkedin={dev.linkedin}
+                      github={dev.github}
+                      large
+                    />
+                  ))}
+                </div>
+                {projectRepo && (
+                  <div className="mt-6 flex justify-center">
+                    <a
+                      className="inline-block px-6 py-3 rounded-2xl bg-nature text-white font-semibold hover:opacity-95 shadow-elegant"
+                      href={projectRepo}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Contribute on our GitHub
+                    </a>
+                  </div>
+                )}
+              </div>
+            </div>
+          )}
+
         </div>
       </main>
     </div>
