@@ -159,10 +159,10 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
     <div className="min-h-screen bg-gradient-to-br from-background via-muted/20 to-background relative overflow-hidden">
       {/* Background Biology Elements */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
-        <Leaf className="absolute top-32 left-16 w-5 h-5 text-accent/15 animate-leaf-float" />
-        <Beaker className="absolute top-20 right-24 w-6 h-6 text-nature/20 animate-bounce" />
+        <Leaf className="absolute top-32 left-16 w-5 h-5 text-accent/15 animate-leaf-float" style={{ animationDelay: '1s', animationDuration: '4s' }}/>
+        <Leaf className="absolute top-20 right-24 w-6 h-6 text-nature/20 animate-bounce" style={{ animationDelay: '1s', animationDuration: '4s' }}/>
         <div className="absolute bottom-32 left-32 w-10 h-10 rounded-full bg-secondary/10 animate-pulse" />
-        <Leaf className="absolute bottom-20 right-16 w-4 h-4 text-accent/20 animate-leaf-float" style={{ animationDelay: '2s' }} />
+        <Leaf className="absolute bottom-20 right-16 w-4 h-4 text-accent/20 animate-leaf-float"  style={{ animationDelay: '1s', animationDuration: '4s' }} />
       </div>
 
       {/* Top Bar */}
@@ -205,14 +205,14 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
       <main className="max-w-4xl mx-auto px-6 py-12">
         <div className="bg-card rounded-3xl shadow-elegant border border-border p-8 animate-fade-in relative">
           {/* Gopher mascot indicator */}
-          <div className="absolute top-4 right-4 text-2xl animate-gopher-hop">
+          {/* <div className="absolute top-4 right-4 text-2xl animate-gopher-hop">
             🐀
-          </div>
+          </div> */}
 
           {/* Question */}
           <div className="mb-8">
             <div className="flex items-center gap-2 mb-4">
-              <Beaker className="w-6 h-6 text-nature" />
+              <Beaker className="w-6 h-6 text-nature"  style={{ animationDelay: '1s', animationDuration: '4s' }}/>
               <span className="text-sm font-medium text-muted-foreground bg-gradient-biology text-transparent bg-clip-text">
                 Biology Question {currentQuestionIndex + 1}
               </span>
@@ -270,7 +270,7 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
           {showFeedback && currentQuestion.explanation && (
             <div className="mb-6 p-4 bg-gradient-to-r from-accent/10 to-nature/10 rounded-xl border border-accent/20 animate-fade-in">
               <div className="flex items-start gap-3">
-                <Leaf className="w-5 h-5 text-accent mt-0.5 flex-shrink-0" />
+                <Leaf className="w-5 h-5 text-accent mt-0.5 flex-shrink-0"/>
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Explanation</h4>
                   <p className="text-muted-foreground leading-relaxed">
@@ -285,7 +285,7 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
           {showFeedback && (currentQuestion.rawHtmlComments || currentQuestion.comments) && (
             <div className="mb-6 p-4 bg-gradient-to-r from-secondary/10 to-primary/10 rounded-xl border border-secondary/20 animate-fade-in">
               <div className="flex items-start gap-3">
-                <Beaker className="w-5 h-5 text-secondary mt-0.5 flex-shrink-0" />
+                <Beaker className="w-5 h-5 text-secondary mt-0.5 flex-shrink-0 animate-leaf-float" style={{ animationDelay: '1s', animationDuration: '4s' }}/>
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Additional Information</h4>
                   {/* Render HTML comments if available, otherwise fallback to plain text */}
@@ -313,7 +313,7 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
                 onClick={handleNext}
                 className="flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-primary to-secondary text-white rounded-2xl font-bold text-lg hover:shadow-glow transition-all transform hover:scale-105"
               >
-                <span>Continue Learning</span>
+                <span>Check Answer</span>
                 <ArrowRight className="w-6 h-6" />
               </button>
             </div>

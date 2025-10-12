@@ -10,6 +10,7 @@
 - recongifure what is the original page
 
 ## TODO (starting from the most important feature):
-- only move on to the next queestion after a button
 - restyle the quiz page and the results page
+    - slow down the animation.
+    - try to fit everything ont he computer web page browser. try to reduce the need for scrolling
 - set your profile picture of the people you worked with on the footer
