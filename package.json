@@ -1,5 +1,5 @@
 {
-  "name": "biol1009-web-quiz",
+  "name": "biol1009",
   "version": "1.0.0",
   "description": "**Edit a file directly in GitHub**",
   "type": "module",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joshua-cheng2210/biol1009-web-quiz.git"
+    "url": "git+https://github.com/joshua-cheng2210/biol1009.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joshua-cheng2210/biol1009-web-quiz/issues"
+    "url": "https://github.com/joshua-cheng2210/biol1009/issues"
   },
-  "homepage": "https://github.com/joshua-cheng2210/biol1009-web-quiz#readme",
+  "homepage": "https://github.com/joshua-cheng2210/biol1009#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
