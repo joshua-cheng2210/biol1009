@@ -20277,5 +20277,69 @@
       }
     ],
     "unique_questions": 9
+  },
+  {
+    "quiz_title": "Quiz 7",
+    "questions": [
+      {
+        "raw_html_question": "Why is glycolysis described as having an investment phase and a payoff phase?",
+        "question": "Why is glycolysis described as having an investment phase and a payoff phase?",
+        "question_image_url": [],
+        "unique": true,
+        "id": 720,
+        "options": [
+          {
+            "text": "It first uses two stored ATP and then forms four ATP, for a net increase of two ATP.",
+            "is_correct": true
+          },
+          {
+            "text": "It attaches and detaches phosphate groups.",
+            "is_correct": false
+          },
+          {
+            "text": "It both splits molecules and assembles molecules.",
+            "is_correct": false
+          },
+          {
+            "text": "It uses glucose and generates pyruvate.",
+            "is_correct": false
+          }
+        ],
+        "comments": "During the energy investment phase, two molecules of ATP are used to create a sugar molecule with two phosphate groups attached. Because the bonds between phosphate groups and the rest of a molecule are high-energy bonds, this di-phosphorylated molecule is therefore a high-energy molecule. The high energy possessed by the di-phosphorylated molecule allows it to split into two molecules, each of which has three carbon atoms. As these three-carbon molecules are metabolized to form pyruvate, some of the energy that is released is used to form ATP, in the “energy payoff” phase of glycolysis.",
+        "raw_html_comments": "<p class=\"neutral_comments\">During the energy investment phase, two molecules of ATP are used to create a sugar molecule with two phosphate groups attached. Because the bonds between phosphate groups and the rest of a molecule are high-energy bonds, this di-phosphorylated molecule is therefore a high-energy molecule. The high energy possessed by the di-phosphorylated molecule allows it to split into two molecules, each of which has three carbon atoms. As these three-carbon molecules are metabolized to form pyruvate, some of the energy that is released is used to form ATP, in the “energy payoff” phase of glycolysis.</p>",
+        "comments_image_url": []
+      },
+      {
+        "raw_html_question": "Which step in the figure shown below is a redox reaction?<br><br><span style=\"color: #000000;\"><img src=\"/assessment_questions/3980545/files/4145298/download?verifier=hNZiiDKq0963JhIFMBC8HDxTmbOnBrvwwhliH9pB\" alt=\"\"></span>",
+        "question": "Which step in the figure shown below is a redox reaction?",
+        "question_image_url": [
+          "https://canvas.umn.edu/assessment_questions/3980545/files/4145298/download?verifier=hNZiiDKq0963JhIFMBC8HDxTmbOnBrvwwhliH9pB"
+        ],
+        "unique": true,
+        "id": 721,
+        "options": [
+          {
+            "text": "A",
+            "is_correct": false
+          },
+          {
+            "text": "D",
+            "is_correct": false
+          },
+          {
+            "text": "C",
+            "is_correct": true
+          },
+          {
+            "text": "B",
+            "is_correct": false
+          }
+        ],
+        "comments": "Remember that “redox” reaction is short for “reduction-oxidation” reaction. Redox reactions are reactions where an electron is transferred between atoms or molecules, or where the sharing of electrons in covalent bonds is altered. In the example shown above, NAD is partially gaining an electron when it is converted to NADH, because the covalent bond between the NAD and the H will be a polar covalent bond. Because NAD is more electronegative than hydrogen, the pair of electrons that will form the covalent bond between NAD and hydrogen will spend more of their time near NAD. So, the NAD in NADH will carry a partial negative charge and so will have been “reduced” during the reaction carried out in step “C”. Conversely, glyceraldehyde-3-phosphate will have been oxidized as it is converted to 1,3 bisphosphoglycerate.",
+        "raw_html_comments": "<p class=\"neutral_comments\">Remember that “redox” reaction is short for “<span style=\"text-decoration: underline;\">red</span>uction-<span style=\"text-decoration: underline;\">ox</span>idation” reaction. Redox reactions are reactions where an electron is transferred between atoms or molecules, or where the sharing of electrons in covalent bonds is altered. In the example shown above, NAD is partially gaining an electron when it is converted to NADH, because the covalent bond between the NAD and the H will be a polar covalent bond. Because NAD is more electronegative than hydrogen, the pair of electrons that will form the covalent bond between NAD and hydrogen will spend more of their time near NAD. So, the NAD in NADH will carry a partial negative charge and so will have been “reduced” during the reaction carried out in step “C”. Conversely, glyceraldehyde-3-phosphate will have been oxidized as it is converted to 1,3 bisphosphoglycerate.</p>",
+        "comments_image_url": []
+      }
+    ],
+    "unique_questions": 2
   }
 ]
