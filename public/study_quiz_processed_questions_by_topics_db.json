@@ -25230,5 +25230,45 @@
       }
     ],
     "unique_questions": 9
+  },
+  {
+    "quiz_title": "Quiz 9",
+    "questions": [
+      {
+        "raw_html_question": "The pedigree below is for a family, some of whose members exhibit the dominant trait, <i>W</i>. Affected individuals are indicated by a dark square or circle. What is the probability that individual III-1 is <i>Ww</i>?<br>&nbsp;<br>&nbsp;<br><img src=\"/assessment_questions/3932365/files/4009311/download?verifier=SalpgXw8m31PdBejGo2lLARpmFY9pPNetVZ7t9QE\" alt=\"\">",
+        "question": "The pedigree below is for a family, some of whose members exhibit the dominant trait, W. Affected individuals are indicated by a dark square or circle. What is the probability that individual III-1 is Ww?",
+        "question_image_url": [
+          "https://canvas.umn.edu/assessment_questions/3932365/files/4009311/download?verifier=SalpgXw8m31PdBejGo2lLARpmFY9pPNetVZ7t9QE"
+        ],
+        "unique": true,
+        "id": 888,
+        "options": [
+          {
+            "text": "50%",
+            "is_correct": false
+          },
+          {
+            "text": "75%",
+            "is_correct": false
+          },
+          {
+            "text": "100%",
+            "is_correct": true
+          },
+          {
+            "text": "67%",
+            "is_correct": false
+          },
+          {
+            "text": "25%",
+            "is_correct": false
+          }
+        ],
+        "comments": "The dominant trait is W. Affected individuals are represented by dark squares or circles and unaffected individuals are represented by open squares or circles. An individual (I-2) who is Ww is shown as being affected. III-1 is affected, which could be due to being WW or Ww. We can determine that III-1 must be Ww, because III-1 has a parent who is not affected. This parent must therefore be ww, meaning that III-1 must have inherited a w allele from that parent. Therefore III-1 must be Ww.",
+        "raw_html_comments": "<p class=\"neutral_comments\">The dominant trait is <i>W</i>. Affected individuals are represented by dark squares or circles and unaffected individuals are represented by open squares or circles. An individual (I-2) who is <i>Ww</i> is shown as being affected. III-1 is affected, which could be due to being <i>WW</i> or <i>Ww</i>. We can determine that III-1 must be <i>Ww</i>, because III-1 has a parent who is not affected. This parent must therefore be <i>ww</i>, meaning that III-1 must have inherited a <i>w</i> allele from that parent. Therefore III-1 must be <i>Ww</i>.</p>",
+        "comments_image_url": []
+      }
+    ],
+    "unique_questions": 1
   }
 ]
