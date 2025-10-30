@@ -1,0 +1,3937 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#334451">
+  
+  <meta name="robots" content="noindex,nofollow" />
+  <meta name="apple-itunes-app" content="app-id=480883488">
+<link rel="manifest" href="/web-app-manifest/manifest.json">
+  <meta name="sentry-trace" content="e0fa8d82b08f4041acdd296fb736abe4-e3ab0b9caf204d74-0"/>
+  <title>Joshua Cheng&#39;s Quiz History: SQ topic 14 level 1d (principles of inheritance)</title>
+
+  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Regular-bd03a2cc27.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Bold-cccb897485.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Italic-4eb103b4d1.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/no_variables/bundles/fonts-eb4a10fb18.css" media="screen" />
+  <link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-6ceabaf6137deaa1b310c07895491bdd.css" media="all" />
+  <link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/bundles/common-055bd48c55.css" media="all" />
+  <link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/bundles/quizzes-6354fbf228.css" media="screen" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  <link rel="icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+
+  <link rel="stylesheet" href="https://instructure-uploads.s3.amazonaws.com/account_43560000000000001/attachments/43832812/canvas_global.css" media="all" />
+  
+  <script>if (navigator.userAgent.match(/(MSIE|Trident\/)/)) location.replace('/ie-is-not-supported.html')</script>
+  <script>
+    INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"iad.rtmp.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"logPageViews":true,"editorButtons":[{"name":"YouTube","id":11,"favorite":false,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eSearch publicly available YouTube videos. A new icon will show up in your course rich editor letting you search YouTube and click to embed videos in your course material.\u003c/p\u003e\n"},{"name":"Commons Favorites","id":93,"favorite":false,"url":"https://lor.instructure.com/api/lti/favorite-resources","icon_url":"https://lor.instructure.com/img/icon_commons.png","canvas_icon_class":null,"width":800,"height":400,"use_tray":true,"on_by_default":false,"description":"\u003cp\u003eFind and share course content\u003c/p\u003e\n"},{"name":"Library Subject Guides and Resources","id":20603,"favorite":false,"url":"https://umn.libapps.com/libapps/lti_launch_manual.php","icon_url":"https://libapps.s3.amazonaws.com/apps/libapps/images/favicon_lti.png","canvas_icon_class":null,"width":800,"height":400,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eAdd library subject guides, databases, and resources directly into your Canvas course pages.\u003c/p\u003e\n"},{"name":"Add Media Using Kaltura","id":62073,"favorite":true,"url":"https://kaf.canvas.umn.edu","icon_url":"https://cdnsecakmi.kaltura.com/content/static/kalturalogo.png","canvas_icon_class":null,"width":1100,"height":600,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eConnect to your Kaltura media management account at the University of Minnesota\u003c/p\u003e\n"},{"name":"Library Course Materials - Import Citations","id":62080,"favorite":false,"url":"https://na01.alma.exlibrisgroup.com/lti/v3/launch/01UMN_INST/LMS_CANVAS_5","icon_url":"https://na01.alma.exlibrisgroup.com/lti/images/editor-btn.png","canvas_icon_class":null,"width":900,"height":650,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eLibrary Course Materials\u003c/p\u003e\n"},{"name":"Pearson Links","id":63393,"favorite":false,"url":"https://interop.pearson.com/launch","icon_url":"https://www.pearson.com/us/content/dam/one-dot-com/one-dot-com/us/en/images/PearsonThumbprint-RGB-127x138.png/_jcr_content/renditions/cq5dam.web.1600.9600.png","canvas_icon_class":null,"width":800,"height":400,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eAccess Pearson\u003c/p\u003e\n"},{"name":"SAGE Vantage LTI 1.3 - editor_button","id":63890,"favorite":false,"url":"https://vantage.sagepub.com/lti1p3/tool/1blwzKSZ1554cZF2","icon_url":"https://vantage.sagepub.com/images/sagent/Bird-blue-right.svg","canvas_icon_class":null,"width":1000,"height":1000,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eSAGE Vantage 1.3 Tool\u003c/p\u003e\n"},{"name":"Google Drive (LTI 1.3)","id":70267,"favorite":true,"url":"https://assignments.google.com/lti/e","icon_url":"https://www.gstatic.com/images/branding/product/2x/drive_2020q4_64dp.png","canvas_icon_class":null,"width":690,"height":530,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eCollect, analyze, and grade student work with Google Assignments\u003c/p\u003e\n"},{"name":"VoiceThread v1.3","id":70278,"favorite":false,"url":"https://voicethread.com/lti/897e08af-94b5-49c5-8d79-e8300750f521/","icon_url":"https://voicethread.com/image/branding/circle_logo_50x50.png","canvas_icon_class":null,"width":800,"height":400,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eTransforming media into collaborative spaces with video, voice, and text commenting.\u003c/p\u003e\n"},{"name":"FlatWorld v1.3","id":70283,"favorite":false,"url":"https://ltiaas.flatworldknowledge.com","icon_url":"https://assets.flatworldknowledge.com/images/icons/favicon.png","canvas_icon_class":null,"width":800,"height":600,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eAccess to online textbooks and homework from FlatWorld.\u003c/p\u003e\n"},{"name":"Cidi Labs Upload/Embed Image","id":71076,"favorite":false,"url":"https://uei.ciditools.com/","icon_url":"https://uei.ciditools.com/editorIcon.png","canvas_icon_class":null,"width":750,"height":600,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eDesignPLUS image upload and embed tool\u003c/p\u003e\n"},{"name":"Add Wiley Resources","id":71164,"favorite":false,"url":"https://lti.education.wiley.com/wpng/api/v1/ltiadvantage/oidc/login","icon_url":"https://www.wiley.com/college/wileyplus/images/resource_discovery_tool_50x50.png","canvas_icon_class":null,"width":1160,"height":660,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eWiley LTI 1.3\u003c/p\u003e\n"}]};
+    ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-6ceabaf6137deaa1b310c07895491bdd.json","active_brand_config":null,"confetti_branding_enabled":false,"url_to_what_gets_loaded_inside_the_tinymce_editor_css":["https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-6ceabaf6137deaa1b310c07895491bdd.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-1d2c45ff3b.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/no_variables/bundles/fonts-eb4a10fb18.css"],"url_for_high_contrast_tinymce_editor_css":["https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-6ceabaf6137deaa1b310c07895491bdd.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-1d2c45ff3b.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/no_variables/bundles/fonts-eb4a10fb18.css"],"captcha_site_key":"6LftyLgZAAAAAC10tel8XGucbApMIY8-uFB_yVcN","current_user_id":"1323015","current_user_global_id":"43560000001323015","current_user_usage_metrics_id":"588162e84de890a6a685f8bcc3c05b2080ea6c04f7b1a4467a945501d743d1cf","current_user_roles":["user","student"],"current_user_is_student":true,"current_user_types":[],"current_user_disabled_inbox":false,"current_user_visited_tabs":null,"discussions_reporting":true,"files_domain":"cluster79.canvas-user-content.com","group_information":null,"DOMAIN_ROOT_ACCOUNT_ID":"43560000000000001","DOMAIN_ROOT_ACCOUNT_UUID":"6UbFUW8rXloqYYzP5qmfILCaB5qwsLPpMrC7ucXk","CAREER_THEME_URL":null,"CAREER_DARK_THEME_URL":null,"k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":true,"auto_show_cc":false,"disable_celebrations":false,"disable_keyboard_shortcuts":false,"LTI_LAUNCH_FRAME_ALLOWANCES":["geolocation *","microphone *","camera *","midi *","encrypted-media *","autoplay *","clipboard-write *","display-capture *"],"DEEP_LINKING_POST_MESSAGE_ORIGIN":"https://canvas.umn.edu","comment_library_suggestions_enabled":false,"SETTINGS":{"open_registration":false,"collapse_global_nav":false,"release_notes_badge_disabled":false,"can_add_pronouns":true,"show_sections_in_course_tray":true,"enable_content_a11y_checker":false,"suppress_assignments":false},"RAILS_ENVIRONMENT":"Production","use_dyslexic_font":false,"IN_PACED_COURSE":false,"SENTRY_FRONTEND":{"dsn":"https://355a1d96717e4038ac25aa852fa79a8f@relay-iad.sentry.insops.net/388","org_slug":"instructure","base_url":"https://sentry.insops.net","normalized_route":"/courses/{course_id}/quizzes/{quiz_id}/history","errors_sample_rate":"0.005","traces_sample_rate":"0.005","url_deny_pattern":"instructure-uploads.*amazonaws.com","revision":"canvas-lms@20251022.354"},"DATA_COLLECTION_ENDPOINT":"https://canvas-frontend-data-iad-prod.inscloudgate.net/submit","DOMAIN_ROOT_ACCOUNT_SFID":"001A000000XKmLOIA1","DIRECT_SHARE_ENABLED":false,"CAN_VIEW_CONTENT_SHARES":false,"FEATURES":{"account_level_blackout_dates":false,"assignment_edit_placement_not_on_announcements":false,"accessibility_issues_in_full_page":false,"commons_new_quizzes":true,"consolidated_media_player":true,"courses_popout_sisid":true,"create_external_apps_side_tray_overrides":false,"dashboard_graphql_integration":false,"developer_key_user_agent_alert":false,"disallow_threaded_replies_fix_alert":true,"disallow_threaded_replies_manage":true,"discussion_ai_survey_link":false,"discussion_checkpoints":true,"discussion_permalink":true,"enhanced_course_creation_account_fetching":false,"explicit_latex_typesetting":false,"files_a11y_rewrite":true,"files_a11y_rewrite_toggle":true,"horizon_course_setting":false,"instui_for_import_page":true,"instui_header":false,"media_links_use_attachment_id":true,"multiselect_gradebook_filters":true,"new_quizzes_media_type":true,"new_quizzes_navigation_updates":true,"permanent_page_links":true,"rce_a11y_resize":true,"rce_find_replace":true,"render_both_to_do_lists":false,"scheduled_feedback_releases":false,"speedgrader_studio_media_capture":true,"student_access_token_management":true,"validate_call_to_action":false,"block_content_editor_ai_alt_text":true,"account_level_mastery_scales":false,"ams_root_account_integration":false,"buttons_and_icons_root_account":false,"course_pace_allow_bulk_pace_assign":false,"course_pace_download_document":false,"course_pace_draft_state":false,"course_pace_pacing_status_labels":false,"course_pace_pacing_with_mastery_paths":false,"course_pace_time_selection":false,"course_pace_weighted_assignments":false,"course_paces_skip_selected_days":false,"create_course_subaccount_picker":true,"disable_iframe_sandbox_file_show":false,"extended_submission_state":false,"file_verifiers_for_quiz_links":true,"increased_top_nav_pane_size":true,"instui_nav":false,"login_registration_ui_identity":false,"lti_apps_page_ai_translation":true,"lti_apps_page_instructors":false,"lti_asset_processor":false,"lti_asset_processor_discussions":false,"lti_link_to_apps_from_developer_keys":false,"lti_registrations_discover_page":true,"lti_registrations_next":false,"lti_registrations_page":true,"lti_registrations_usage_data":true,"lti_registrations_usage_tab":false,"lti_toggle_placements":true,"mobile_offline_mode":false,"modules_requirements_allow_percentage":false,"non_scoring_rubrics":true,"open_tools_in_new_tab":true,"product_tours":false,"rce_lite_enabled_speedgrader_comments":true,"rce_transform_loaded_content":false,"react_discussions_post":true,"restrict_student_access":false,"rubric_criterion_range":true,"scheduled_page_publication":true,"send_usage_metrics":true,"top_navigation_placement":false,"youtube_migration":false,"widget_dashboard":false,"account_survey_notifications":true,"embedded_release_notes":true,"canvas_k6_theme":false,"new_math_equation_handling":true,"youtube_overlay":true,"rce_studio_embed_improvements":false},"PENDO_APP_ID":"1ca366f1-739e-4565-52d2-9e6f6a8d438f","current_user":{"id":"1323015","anonymous_id":"scuf","display_name":"Joshua Cheng","avatar_image_url":"https://canvas.umn.edu/images/messages/avatar-50.png","html_url":"https://canvas.umn.edu/about/1323015","pronouns":null,"avatar_is_fallback":true,"email":"chen7647@umn.edu"},"current_user_is_admin":false,"page_view_update_url":"/page_views/726c63f5-13be-4f04-9f26-b251b26a90d7?page_view_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpIjoiNzI2YzYzZjUtMTNiZS00ZjA0LTlmMjYtYjI1MWIyNmE5MGQ3IiwidSI6NDM1NjAwMDAwMDEzMjMwMTUsImMiOiIyMDI1LTEwLTMwVDIyOjU2OjU4LjcxWiJ9.nsYqn8DDc-lOn47kOYUHyvXl4TZDFk0YwkPowQJ9HoQ","context_asset_string":"course_511424","ping_url":"https://canvas.umn.edu/api/v1/courses/511424/ping","TIMEZONE":"America/Chicago","CONTEXT_TIMEZONE":"America/Chicago","LOCALES":["en"],"BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","rce_auto_save_max_age_ms":86400000,"K5_USER":false,"USE_CLASSIC_FONT":false,"K5_HOMEROOM_COURSE":false,"K5_SUBJECT_COURSE":false,"LOCALE_TRANSLATION_FILE":"https://du11hjcvx0uqb.cloudfront.net/dist/javascripts/translations/en-3f45f839b7.json","ACCOUNT_ID":"1781","user_cache_key":"8aaa3a55e4076479de445823daa8851f01573474fadf9cdb5204229ee6c92b0739a69671694a03d29544077a647a4179c29b957aea83f95edee5b7917dfa225f","horizon_course":false,"HORIZON_ACCOUNT":false,"current_context":{"id":"511424","name":"BIOL 1009 (070-082) General Biology (Fall 2025)","type":"Course","url":"https://canvas.umn.edu/courses/511424"},"GRADE_BY_QUESTION":null,"IS_SURVEY":false,"badge_counts":{"submissions":64},"notices":[],"active_context_tab":"quizzes"};
+    BRANDABLE_CSS_HANDLEBARS_INDEX = [["new_styles_normal_contrast","new_styles_high_contrast","new_styles_normal_contrast_rtl","new_styles_high_contrast_rtl","new_styles_normal_contrast_dyslexic","new_styles_high_contrast_dyslexic","new_styles_normal_contrast_dyslexic_rtl","new_styles_high_contrast_dyslexic_rtl"],{"10":["908ffbc673",0,"d5c9044c6e",2,0,0,2,2],"15":["c8540c43a4",0,"0a2196be1d",2,0,0,2,2],"19":["df5777ed9c"],"61":["d5c4afc14e","ebb835cdef","384361a056","2e0ba247d5",0,1,2,3],"67":["db2aeb63d1",0,"32c90f1518",2,0,0,2,2],"71":["b848cc547a","83ae671549","d1c7bac7c6","0888a4a9e7",0,1,2,3],"06":["ba28819778",0,"96b99aafe5",2,0,0,2,2],"f0":["b349f31f5e",0,0,0,0,0,0,0],"c8":["aeda914f8b","c49cb30680","817080456d","ea2c01509e",0,1,2,3],"1e":["834e660fc6","35fd7c2fa0","99d344b95a","3de47096dc",0,1,2,3],"b3":["336edad65b",0,"9838b0e53d",2,0,0,2,2],"0c":["4dae5befd2",0,"c18876be89",2,0,0,2,2],"da":["b5a7f9cd8f","6e65f5abf7","773390ae11","6481b459be",0,1,2,3],"1d":["2128789890",0,"e568085637",2,0,0,2,2],"08":["64bff5a97d"],"e2":["79d37f210d"],"9f":["d39b291ba6",0,0,0,0,0,0,0],"2b":["20b6964699","b11dc54da6","62fe3ea30b","6bb4a7ae9e",0,1,2,3],"2c":["8a926fc28b",0,0,0,0,0,0,0],"c2":["6f2721ae01"],"9c":["c31821c764",0,"1693aba1da",2,0,0,2,2],"c5":["b5d5bef953","09b4a0b487","27a133737e","2098769aea",0,1,2,3],"f2":["51574f9b13"]}]
+      REMOTES = {};
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-6ceabaf6137deaa1b310c07895491bdd.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Chicago-d9fecf4265.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Chicago-d9fecf4265.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/react-entry-4809e08e13f74ffa.js" crossorigin="anonymous" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-entry-5976fda816a4535b.js" crossorigin="anonymous" defer="defer"></script>
+<script>
+//<![CDATA[
+(window.bundles || (window.bundles = [])).push('quiz_history');
+(window.bundles || (window.bundles = [])).push('quiz_submission');
+(window.bundles || (window.bundles = [])).push('navigation_header');
+//]]>
+</script>
+  
+</head>
+
+<body class="with-left-side with-right-side quizzes primary-nav-expanded full-width context-course_511424 responsive_student_grades_page">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+<div id="flash_message_holder"></div>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app ">
+  
+
+
+
+
+<header id="mobile-header" class="no-print">
+  <button type="button" class="Button Button--icon-action-rev Button--large mobile-header-hamburger">
+    <i class="icon-solid icon-hamburger"></i>
+    <span id="mobileHeaderInboxUnreadBadge" class="menu-item__badge" style="min-width: 0; top: 12px; height: 12px; right: 6px; display:none;"></span>
+    <span class="screenreader-only">Global Navigation Menu</span>
+  </button>
+  <div class="mobile-header-space"></div>
+    <a class="mobile-header-title expandable" href="/courses/511424" role="button" aria-controls="mobileContextNavContainer">
+      <div>BIOL 1009 (070-082)</div>
+        <div>History</div>
+    </a>
+    <div class="mobile-header-space"></div>
+    <button type="button" class="Button Button--icon-action-rev Button--large mobile-header-arrow" aria-label="Navigation Menu">
+      <i class="icon-arrow-open-down" id="mobileHeaderArrowIcon"></i>
+    </button>
+</header>
+<nav id="mobileContextNavContainer"></nav>
+
+<header id="header" class="ic-app-header no-print " aria-label="Global Header">
+  <a href="#content" id="skip_navigation_link">Skip To Content</a>
+  <div role="region" class="ic-app-header__main-navigation" aria-label="Global Navigation">
+    <ul id="menu" class="ic-app-header__menu-list">
+        <li class="menu-item ic-app-header__menu-list-item ">
+          <a id="global_nav_profile_link" role="button" href="/profile/settings" class="ic-app-header__menu-list-link">
+            <div class="menu-item-icon-container">
+              <div aria-hidden="true" class="fs-exclude ic-avatar ">
+                <img src="https://canvas.umn.edu/images/messages/avatar-50.png" alt="Joshua Cheng" />
+              </div>
+              <span class="menu-item__badge"></span>
+            </div>
+            <div class="menu-item__text">
+              Account
+            </div>
+          </a>
+        </li>
+      <li class="ic-app-header__menu-list-item ">
+        <a id="global_nav_dashboard_link" href="https://canvas.umn.edu/" class="ic-app-header__menu-list-link">
+          <div class="menu-item-icon-container" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+          </div>
+          <div class="menu-item__text">
+            Dashboard
+          </div>
+        </a>
+      </li>
+        <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+          <a id="global_nav_courses_link" role="button" href="/courses" class="ic-app-header__menu-list-link">
+            <div class="menu-item-icon-container" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+            </div>
+            <div class="menu-item__text">
+              Courses
+            </div>
+          </a>
+        </li>
+        <li class="menu-item ic-app-header__menu-list-item ">
+          <a id="global_nav_groups_link" role="button" href="/groups" class="ic-app-header__menu-list-link">
+            <div class="menu-item-icon-container" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--groups" viewBox="0 0 200 135"><path d="M134.5 129.4c0-1.1 0-19.8-6.2-31.1-4.5-8.5-16.4-12.4-35-19.2-1.7-.6-3.4-1.1-5.1-1.7v-8.5c5.6-5.1 8.5-12.4 8.5-20.3V29.4C96.6 13 83.6 0 67.2 0S37.9 13 37.9 29.4v19.2c0 7.3 3.4 14.7 8.5 20.3v8.5c-1.7.6-3.4 1.1-5.1 1.7-18.6 6.2-30.5 10.7-35 19.2C0 109.6 0 128.8 0 129.4c0 3.4 2.3 5.6 5.6 5.6h123.7c3.5 0 5.7-2.3 5.2-5.6zm-123.2-5.7c.6-5.6 1.7-14.7 3.4-19.8C17 98.8 30 94.3 43.5 89.8c2.8-1.1 5.6-2.3 9-3.4 2.3-.6 4-2.8 4-5.1V66.7c0-1.7-.6-3.4-1.7-4.5-4-3.4-6.2-8.5-6.2-13.6V29.4c0-10.2 7.9-18.1 18.1-18.1s18.1 7.9 18.1 18.1v19.2c0 5.1-2.3 10.2-6.2 13.6-1.1 1.1-1.7 2.8-1.7 4.5v14.7c0 2.3 1.7 4.5 4 5.1 2.8 1.1 6.2 2.3 9 3.4 13.6 5.1 26.6 9.6 28.8 14.1 2.8 5.1 4 13.6 4.5 19.8H11.3zM196 79.1c-2.8-6.2-11.3-9.6-22.6-13.6l-1.7-.6v-3.4c4.5-4 6.8-9.6 6.8-15.8V35c0-12.4-9.6-22-22-22s-22 10.2-22 22v10.7c0 6.2 2.3 11.9 6.8 15.8V65l-1.7.6c-7.3 2.8-13 4.5-16.9 7.3-1.7 1.1-2.3 2.8-2.3 5.1.6 1.7 1.7 3.4 3.4 4.5 7.9 4 12.4 7.3 14.1 10.7 2.3 4.5 4 10.2 5.1 18.1.6 2.3 2.8 4.5 5.6 4.5h45.8c3.4 0 5.6-2.8 5.6-5.1 0-3.9 0-24.3-4-31.6zm-42.9 25.4c-1.1-6.8-2.8-12.4-5.1-16.9-1.7-4-5.1-6.8-9.6-10.2 1.7-1.1 3.4-1.7 5.1-2.3l5.6-2.3c1.7-.6 3.4-2.8 3.4-5.1v-9.6c0-1.7-.6-3.4-2.3-4.5-2.8-1.7-4.5-5.1-4.5-8.5V34.5c0-6.2 4.5-10.7 10.7-10.7s10.7 5.1 10.7 10.7v10.7c0 3.4-1.7 6.2-4.5 8.5-1.1 1.1-2.3 2.8-2.3 4.5v10.2c0 2.3 1.1 4.5 3.4 5.1l5.6 2.3c6.8 2.3 15.3 5.6 16.4 7.9 1.7 2.8 2.8 12.4 2.8 20.9h-35.4z"/></svg>
+
+            </div>
+            <div class="menu-item__text">
+              Groups
+            </div>
+          </a>
+        </li>
+      <li class="menu-item ic-app-header__menu-list-item ">
+        <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+          <div class="menu-item-icon-container" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+          </div>
+          <div class="menu-item__text">
+            Calendar
+          </div>
+        </a>
+      </li>
+      <li class="menu-item ic-app-header__menu-list-item ">
+      <!-- TODO: Add back global search when available -->
+        <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+          <div class="menu-item-icon-container">
+            <span aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+</span>
+            <span class="menu-item__badge"></span>
+          </div>
+          <div class="menu-item__text">
+            Inbox
+          </div>
+        </a>
+      </li>
+        <li class="menu-item ic-app-header__menu-list-item" >
+          <a id="global_nav_history_link" role="button" href="#" class="ic-app-header__menu-list-link">
+            <div class="menu-item-icon-container" aria-hidden="true">
+              <svg viewBox="0 0 1920 1920" class="ic-icon-svg menu-item__icon svg-icon-history" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path d="M960 112.941c-467.125 0-847.059 379.934-847.059 847.059 0 467.125 379.934 847.059 847.059 847.059 467.125 0 847.059-379.934 847.059-847.059 0-467.125-379.934-847.059-847.059-847.059M960 1920C430.645 1920 0 1489.355 0 960S430.645 0 960 0s960 430.645 960 960-430.645 960-960 960m417.905-575.955L903.552 988.28V395.34h112.941v536.47l429.177 321.77-67.765 90.465z" stroke="none" stroke-width="1" fill-rule="evenodd"/>
+</svg>
+            </div>
+            <div class="menu-item__text">
+              History
+            </div>
+          </a>
+        </li>
+        
+    <li id="context_external_tool_72068_menu_item" class="globalNavExternalTool menu-item ic-app-header__menu-list-item">
+      <a class='ic-app-header__menu-list-link' href="/accounts/1/external_tools/72068?launch_type=global_navigation" target="">
+          <img src="https://redshelf-images.s3.amazonaws.com/lms/RSLogo.png" alt="Course Works" class="lti_tool_icon_large"/>
+        <div class="menu-item__text">
+          Course Works
+        </div>
+      </a>
+    </li>
+
+      <li class="ic-app-header__menu-list-item">
+        <a id="global_nav_help_link" role="button" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="https://help.instructure.com">
+          <div class="menu-item-icon-container" role="presentation">
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+            <span class="menu-item__badge"></span>
+          </div>
+          <div class="menu-item__text">
+            Help
+          </div>
+</a>      </li>
+    </ul>
+  </div>
+  <div class="ic-app-header__secondary-navigation">
+    <ul class="ic-app-header__menu-list">
+      <li class="menu-item ic-app-header__menu-list-item">
+        <a
+          id="primaryNavToggle"
+          role="button"
+          href="#"
+          class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+          aria-label="Minimize global navigation"
+          title="Minimize global navigation"
+        >
+          <div class="menu-item-icon-container" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+          </div>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div id="global_nav_tray_container"></div>
+  <div id="global_nav_tour"></div>
+</header>
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+        <div class="ic-app-nav-toggle-and-crumbs no-print">
+            <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Show Courses Navigation Menu">
+              <i class="icon-hamburger" aria-hidden="true"></i>
+            </button>
+
+          <div class="ic-app-crumbs ">
+              <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ol><li class="home"><a href="/"><span class="ellipsible"><i class="icon-home"
+   title="My Dashboard">
+  <span class="screenreader-only">My Dashboard</span>
+</i>
+</span></a></li><li><a href="/courses/511424"><span class="ellipsible">BIOL 1009 (070-082)</span></a></li><li><a href="/courses/511424/quizzes"><span class="ellipsible">Quizzes</span></a></li><li><a href="/courses/511424/quizzes/1055675"><span class="ellipsible">SQ topic 14 level 1d (principles of inheritance)</span></a></li><li aria-current="page"><span class="ellipsible">History</span></li></ol></nav>
+          </div>
+
+
+          <div id="nutrition_facts_container"></div>
+          <div class="right-of-crumbs">
+            <div id="ai-information-mount"></div>
+          </div>
+
+        </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark" aria-hidden="true"></div>
+        <div id="left-side"
+          class="ic-app-course-menu ic-sticky-on list-view"
+          style="display: none"
+          >
+          <div id="sticky-container" class="ic-sticky-frame">
+              <span id="section-tabs-header-subtitle" class="ellipsis">2025 Fall (08/06/2025-01/01/2026)</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/511424" id="home-link" class="home">Home</a></li><li class="section"><a href="/courses/511424/announcements" id="announcements-link" class="announcements">Announcements</a></li><li class="section"><a href="/courses/511424/modules" id="modules-link" class="modules">Modules</a></li><li class="section"><a href="/courses/511424/external_tools/83051" id="lab-modules-link" class="context_external_tool_83051">Lab Modules</a></li><li class="section"><a href="/courses/511424/external_tools/62073" id="media-gallery-link" class="context_external_tool_62073">Media Gallery</a></li><li class="section"><a href="/courses/511424/discussion_topics" id="discussions-link" class="discussions">Discussions</a></li><li class="section"><a href="/courses/511424/grades" id="grades-link" class="grades">Grades</a></li><li class="section"><a href="/courses/511424/users" id="people-link" class="people">People</a></li><li class="section"><a href="/courses/511424/collaborations" id="collaborations-link" class="collaborations">Collaborations</a></li><li class="section"><a href="/courses/511424/external_tools/62080" id="library-course-materials-link" class="context_external_tool_62080">Library Course Materials</a></li><li class="section"><a href="/courses/511424/external_tools/63611?display=borderless" id="namecoach-link" class="context_external_tool_63611" target="_blank" rel="opener">NameCoach</a></li><li class="section"><a href="/courses/511424/external_tools/72041" id="student-rating-of-teaching-link" class="context_external_tool_72041">Student Rating of Teaching</a></li><li class="section"><a href="/courses/511424/external_tools/75836" id="honorlock-1.3-link" class="context_external_tool_75836">Honorlock 1.3</a></li></ul></nav>
+          </div>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+          
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+
+<header class="quiz-header">
+  <h2>
+      SQ topic 14 level 1d (principles of inheritance) Results for Joshua Cheng
+
+  </h2>
+</header>
+<div id="feel_free_to_toggle_message">
+</div>
+  <form id="update_history_form" action="/courses/511424/quizzes/1055675/submissions/24094343" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="hidden" name="_method" value="put" autocomplete="off" /><input type="hidden" name="authenticity_token" value="8bPG8DhA5ZewOGFGXYYm451bCeCI9V+/RPiSOT+Se9mShvKddTOG4PliLmkn9B+w9zlg2ODGa48ontcJSOFNrg==" autocomplete="off" />
+    <input type="hidden" name="override_scores" value="true"/>
+    <input type="hidden" name="hide_student_name" value="0"/>
+
+    <input type="hidden" name="submission_version_number" value="2"/>
+    
+<div class="quiz-submission ">
+
+
+<div class="quiz_score" style="">
+    Score for this attempt:
+  <span class="score_value">0</span> out of 0.1
+  
+    </div>
+<div>
+  Submitted Oct 30 at 5:51pm
+</div>
+<div class="quiz_duration" style="">
+  This attempt took less than 1 minute.
+</div>
+<div id="questions" class="assessment_results  show_correct_answers">
+  
+<div role="region" aria-label="Question" class="quiz_sortable question_holder " id="" style="" data-group-id="">
+  <div style="display: block; height: 1px; overflow: hidden;">&nbsp;</div>
+  <a name="question_15572720"></a>
+  <div class="display_question question multiple_choice_question   incorrect unanswered " id="question_15572720">
+    
+<div class="move">
+  <a tabindex="0" class="draggable-handle" role="button">
+    <i class="icon-drag-handle">
+      <span class="screenreader-only">Move To...</span>
+      <span class="accessibility-warning screenreader-only">
+        This element is a more accessible alternative to drag &amp; drop reordering. Press Enter or Space to move this question.
+      </span>
+    </i>
+  </a>
+</div>
+
+
+    <div class="header" >
+      <span class="name question_name" role="heading" aria-level="2">Question 1</span>
+      <span class="question_points_holder" style="">
+        <div class="user_points" >
+                0
+          <span class="points question_points"> / 0.01</span> pts
+        </div>
+    </span>
+    </div>
+      <div class="links" style="display: none;">
+        <a href="#" class="edit_question_link no-hover" title="Edit this Question"><i class="icon-edit standalone-icon"><span class="screenreader-only">Edit this Question</span></i></a>
+          <a href="#" class="delete_question_link no-hover" title="Delete this Question"><i class="icon-end standalone-icon"><span class="screenreader-only">Delete this Question</span></i></a>
+      </div>
+    <div style="display: none;">
+      <span class="regrade_option"></span>
+      <span class="regrade_disabled">0</span>
+      <span class="question_type">multiple_choice_question</span>
+      <span class="answer_selection_type"></span>
+        <a href="/courses/511424/quizzes/1055675/questions/15572720" class="update_question_url">&nbsp;</a>
+      <span class="assessment_question_id">33734602</span>
+    </div>
+    <div class="text">
+      <div class="original_question_text" style="display: none;">
+        <textarea disabled style="display: none;" name="text_after_answers" class="textarea_text_after_answers"></textarea>
+        <textarea disabled style="display: none;" name="question_text" class="textarea_question_text">In a particular plant, leaf color is controlled by gene locus &lt;i&gt;D&lt;/i&gt;. Plants with at least one allele &lt;i&gt;D&lt;/i&gt; have dark green leaves, and plants with the homozygous recessive &lt;i&gt;dd&lt;/i&gt; genotype have light green leaves. A true-breeding dark-leaved plant is crossed with a light-leaved one, and the F1&amp;nbsp;offspring is allowed to self-pollinate. The predicted outcome of the F2&amp;nbsp;is diagrammed in the Punnett square shown in the figure below, where 1, 2, 3, and 4 represent the genotypes corresponding to each box within the square. Which of the boxes marked 1-4 correspond to plants with dark leaves?&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;img src=&quot;/assessment_questions/3932360/files/4009306/download?verifier=3jrcfeQFdeO9pqw9TPChMLWC7fwf9LYYnNzhRM6K&quot; alt=&quot;&quot;&gt;
+</textarea>
+      </div>
+      <div id="question_15572720_question_text" class="question_text user_content">
+          In a particular plant, leaf color is controlled by gene locus <i>D</i>. Plants with at least one allele <i>D</i> have dark green leaves, and plants with the homozygous recessive <i>dd</i> genotype have light green leaves. A true-breeding dark-leaved plant is crossed with a light-leaved one, and the F1&nbsp;offspring is allowed to self-pollinate. The predicted outcome of the F2&nbsp;is diagrammed in the Punnett square shown in the figure below, where 1, 2, 3, and 4 represent the genotypes corresponding to each box within the square. Which of the boxes marked 1-4 correspond to plants with dark leaves?<br>&nbsp;<br><img src="/assessment_questions/3932360/files/4009306/download?verifier=3jrcfeQFdeO9pqw9TPChMLWC7fwf9LYYnNzhRM6K" alt="" loading="lazy">
+
+      </div>
+      <div class="answers">
+                <div class="answers_wrapper">
+                  
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_59640"
+       style=""
+      title="2 and 3.">
+
+
+      <span class='hidden id'>59640</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-59640" name="question-15572720" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-59640">
+        <div class="answer_text" >2 and 3</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="2 and 3"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >2 and 3</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15572720</span>
+      <span class="id">59640</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_61842"
+       style=""
+      title="1 and 2.">
+
+
+      <span class='hidden id'>61842</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-61842" name="question-15572720" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-61842">
+        <div class="answer_text" >1 and 2</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="1 and 2"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >1 and 2</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15572720</span>
+      <span class="id">61842</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          correct_answer"
+       id="answer_38937"
+       style=""
+      title="1, 2, and 3. This was the correct answer.">
+
+
+      <span class='hidden id'>38937</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-38937" name="question-15572720" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-38937">
+        <div class="answer_text" >1, 2, and 3</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="1, 2, and 3"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >1, 2, and 3</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15572720</span>
+      <span class="id">38937</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">100</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_69881"
+       style=""
+      title="1 only.">
+
+
+      <span class='hidden id'>69881</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-69881" name="question-15572720" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-69881">
+        <div class="answer_text" >1 only</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="1 only"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >1 only</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15572720</span>
+      <span class="id">69881</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_44016"
+       style=""
+      title="4 only.">
+
+
+      <span class='hidden id'>44016</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-44016" name="question-15572720" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-44016">
+        <div class="answer_text" >4 only</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="4 only"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >4 only</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15572720</span>
+      <span class="id">44016</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+                </div>
+      </div>
+      <div class="after_answers">
+      </div>
+    </div>
+      <div class="quiz_comment"><p class="neutral_comments">Plants with at least copy of the D allele will have dark leaves. F<sub>2</sub><i></i><sub></sub><i></i><sub></sub><i></i><sub></sub><i></i><br><sub></sub>plants represented by box 1 are <i>DD</i>, and thus have dark leaves. F<sub>2</sub><i></i><sub></sub><i></i><sub></sub><i></i><br><sub></sub><i></i><sub></sub>plants represented by box 2 are <i>Dd</i>, and thus have dark leaves. F<sub>2</sub><i></i><sub></sub><i></i><br><sub></sub><i></i><sub></sub><i></i><sub></sub>plants represented by box 3 are <i>dD</i>, and thus have dark leaves. In contrast, F<sub>2</sub> plants represented by box 4 are <i>dd</i>, and thus have light green leaves.</p></div>
+    <div class="clear"></div>
+  </div>
+</div>
+
+<div role="region" aria-label="Question" class="quiz_sortable question_holder " id="" style="" data-group-id="">
+  <div style="display: block; height: 1px; overflow: hidden;">&nbsp;</div>
+  <a name="question_15569465"></a>
+  <div class="display_question question multiple_choice_question   incorrect unanswered " id="question_15569465">
+    
+<div class="move">
+  <a tabindex="0" class="draggable-handle" role="button">
+    <i class="icon-drag-handle">
+      <span class="screenreader-only">Move To...</span>
+      <span class="accessibility-warning screenreader-only">
+        This element is a more accessible alternative to drag &amp; drop reordering. Press Enter or Space to move this question.
+      </span>
+    </i>
+  </a>
+</div>
+
+
+    <div class="header" >
+      <span class="name question_name" role="heading" aria-level="2">Question 2</span>
+      <span class="question_points_holder" style="">
+        <div class="user_points" >
+                0
+          <span class="points question_points"> / 0.01</span> pts
+        </div>
+    </span>
+    </div>
+      <div class="links" style="display: none;">
+        <a href="#" class="edit_question_link no-hover" title="Edit this Question"><i class="icon-edit standalone-icon"><span class="screenreader-only">Edit this Question</span></i></a>
+          <a href="#" class="delete_question_link no-hover" title="Delete this Question"><i class="icon-end standalone-icon"><span class="screenreader-only">Delete this Question</span></i></a>
+      </div>
+    <div style="display: none;">
+      <span class="regrade_option"></span>
+      <span class="regrade_disabled">0</span>
+      <span class="question_type">multiple_choice_question</span>
+      <span class="answer_selection_type"></span>
+        <a href="/courses/511424/quizzes/1055675/questions/15569465" class="update_question_url">&nbsp;</a>
+      <span class="assessment_question_id">33734618</span>
+    </div>
+    <div class="text">
+      <div class="original_question_text" style="display: none;">
+        <textarea disabled style="display: none;" name="text_after_answers" class="textarea_text_after_answers"></textarea>
+        <textarea disabled style="display: none;" name="question_text" class="textarea_question_text">The progeny of a cross between two individuals of the “parental generation” are known as</textarea>
+      </div>
+      <div id="question_15569465_question_text" class="question_text user_content">
+          The progeny of a cross between two individuals of the “parental generation” are known as
+      </div>
+      <div class="answers">
+                <div class="answers_wrapper">
+                  
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_87599"
+       style=""
+      title="the F2 generation..">
+
+
+      <span class='hidden id'>87599</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-87599" name="question-15569465" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-87599">
+        <div class="answer_text" style='display:none;'>the F2 generation.</div>
+        <div class="answer_html">the F<sub>2</sub> generation.</div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="the F2 generation."/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" style='display:none;'>the F2 generation.</div>
+      <div class="answer_match_left_html" >the F<sub>2</sub> generation.</div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15569465</span>
+      <span class="id">87599</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_44715"
+       style=""
+      title="heterozygotes..">
+
+
+      <span class='hidden id'>44715</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-44715" name="question-15569465" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-44715">
+        <div class="answer_text" >heterozygotes.</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="heterozygotes."/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >heterozygotes.</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15569465</span>
+      <span class="id">44715</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          correct_answer"
+       id="answer_27990"
+       style=""
+      title="the F1 generation.. This was the correct answer.">
+
+
+      <span class='hidden id'>27990</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-27990" name="question-15569465" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-27990">
+        <div class="answer_text" style='display:none;'>the F1 generation.</div>
+        <div class="answer_html">the F<sub>1</sub> generation.</div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="the F1 generation."/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" style='display:none;'>the F1 generation.</div>
+      <div class="answer_match_left_html" >the F<sub>1</sub> generation.</div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15569465</span>
+      <span class="id">27990</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">100</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_81985"
+       style=""
+      title="dihybrids..">
+
+
+      <span class='hidden id'>81985</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-81985" name="question-15569465" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-81985">
+        <div class="answer_text" >dihybrids.</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="dihybrids."/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >dihybrids.</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15569465</span>
+      <span class="id">81985</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+                </div>
+      </div>
+      <div class="after_answers">
+      </div>
+    </div>
+      <div class="quiz_comment"><p class="incorrect_comments">The progeny of a cross may or may not be heterozygotes.</p><p class="neutral_comments">Remember that “F<sub>1</sub>” stands for “Filial generation 1”, which is the first generation produced by a cross between two individuals of the parental (typically homozygous for different alleles of the gene or genes being studies) generation. In other words, if you cross parents “X” and “Y”, their children would be the F<sub>1</sub><sub></sub><sub></sub><br><sub></sub><sub></sub>generation. If you then cross two F<sub>1</sub> individuals, the resulting progeny would be the F<sub>2</sub> generation, and would be the “grandchildren” of X and Y.</p></div>
+    <div class="clear"></div>
+  </div>
+</div>
+
+<div role="region" aria-label="Question" class="quiz_sortable question_holder " id="" style="" data-group-id="">
+  <div style="display: block; height: 1px; overflow: hidden;">&nbsp;</div>
+  <a name="question_15533173"></a>
+  <div class="display_question question multiple_choice_question   incorrect unanswered " id="question_15533173">
+    
+<div class="move">
+  <a tabindex="0" class="draggable-handle" role="button">
+    <i class="icon-drag-handle">
+      <span class="screenreader-only">Move To...</span>
+      <span class="accessibility-warning screenreader-only">
+        This element is a more accessible alternative to drag &amp; drop reordering. Press Enter or Space to move this question.
+      </span>
+    </i>
+  </a>
+</div>
+
+
+    <div class="header" >
+      <span class="name question_name" role="heading" aria-level="2">Question 3</span>
+      <span class="question_points_holder" style="">
+        <div class="user_points" >
+                0
+          <span class="points question_points"> / 0.01</span> pts
+        </div>
+    </span>
+    </div>
+      <div class="links" style="display: none;">
+        <a href="#" class="edit_question_link no-hover" title="Edit this Question"><i class="icon-edit standalone-icon"><span class="screenreader-only">Edit this Question</span></i></a>
+          <a href="#" class="delete_question_link no-hover" title="Delete this Question"><i class="icon-end standalone-icon"><span class="screenreader-only">Delete this Question</span></i></a>
+      </div>
+    <div style="display: none;">
+      <span class="regrade_option"></span>
+      <span class="regrade_disabled">0</span>
+      <span class="question_type">multiple_choice_question</span>
+      <span class="answer_selection_type"></span>
+        <a href="/courses/511424/quizzes/1055675/questions/15533173" class="update_question_url">&nbsp;</a>
+      <span class="assessment_question_id">33734596</span>
+    </div>
+    <div class="text">
+      <div class="original_question_text" style="display: none;">
+        <textarea disabled style="display: none;" name="text_after_answers" class="textarea_text_after_answers"></textarea>
+        <textarea disabled style="display: none;" name="question_text" class="textarea_question_text">If each parent can produce 100 genetically distinct gametes, how many genetically distinct offspring can two parents produce?</textarea>
+      </div>
+      <div id="question_15533173_question_text" class="question_text user_content">
+          If each parent can produce 100 genetically distinct gametes, how many genetically distinct offspring can two parents produce?
+      </div>
+      <div class="answers">
+                <div class="answers_wrapper">
+                  
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_87918"
+       style=""
+      title="1,000.">
+
+
+      <span class='hidden id'>87918</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-87918" name="question-15533173" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-87918">
+        <div class="answer_text" >1,000</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="1,000"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >1,000</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533173</span>
+      <span class="id">87918</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          correct_answer"
+       id="answer_43419"
+       style=""
+      title="10,000. This was the correct answer.">
+
+
+      <span class='hidden id'>43419</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-43419" name="question-15533173" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-43419">
+        <div class="answer_text" >10,000</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="10,000"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >10,000</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533173</span>
+      <span class="id">43419</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">100</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_84474"
+       style=""
+      title="100.">
+
+
+      <span class='hidden id'>84474</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-84474" name="question-15533173" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-84474">
+        <div class="answer_text" >100</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="100"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >100</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533173</span>
+      <span class="id">84474</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_900"
+       style=""
+      title="200.">
+
+
+      <span class='hidden id'>900</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-900" name="question-15533173" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-900">
+        <div class="answer_text" >200</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="200"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >200</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533173</span>
+      <span class="id">900</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_29219"
+       style=""
+      title="1,000,000.">
+
+
+      <span class='hidden id'>29219</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-29219" name="question-15533173" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-29219">
+        <div class="answer_text" >1,000,000</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="1,000,000"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >1,000,000</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533173</span>
+      <span class="id">29219</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+                </div>
+      </div>
+      <div class="after_answers">
+      </div>
+    </div>
+      <div class="quiz_comment"><p class="neutral_comments">100 × 100 = 10,000. The rule of multiplication applies to these independent events.</p></div>
+    <div class="clear"></div>
+  </div>
+</div>
+
+<div role="region" aria-label="Question" class="quiz_sortable question_holder " id="" style="" data-group-id="">
+  <div style="display: block; height: 1px; overflow: hidden;">&nbsp;</div>
+  <a name="question_15599434"></a>
+  <div class="display_question question multiple_choice_question   incorrect unanswered " id="question_15599434">
+    
+<div class="move">
+  <a tabindex="0" class="draggable-handle" role="button">
+    <i class="icon-drag-handle">
+      <span class="screenreader-only">Move To...</span>
+      <span class="accessibility-warning screenreader-only">
+        This element is a more accessible alternative to drag &amp; drop reordering. Press Enter or Space to move this question.
+      </span>
+    </i>
+  </a>
+</div>
+
+
+    <div class="header" >
+      <span class="name question_name" role="heading" aria-level="2">Question 4</span>
+      <span class="question_points_holder" style="">
+        <div class="user_points" >
+                0
+          <span class="points question_points"> / 0.01</span> pts
+        </div>
+    </span>
+    </div>
+      <div class="links" style="display: none;">
+        <a href="#" class="edit_question_link no-hover" title="Edit this Question"><i class="icon-edit standalone-icon"><span class="screenreader-only">Edit this Question</span></i></a>
+          <a href="#" class="delete_question_link no-hover" title="Delete this Question"><i class="icon-end standalone-icon"><span class="screenreader-only">Delete this Question</span></i></a>
+      </div>
+    <div style="display: none;">
+      <span class="regrade_option"></span>
+      <span class="regrade_disabled">0</span>
+      <span class="question_type">multiple_choice_question</span>
+      <span class="answer_selection_type"></span>
+        <a href="/courses/511424/quizzes/1055675/questions/15599434" class="update_question_url">&nbsp;</a>
+      <span class="assessment_question_id">33734617</span>
+    </div>
+    <div class="text">
+      <div class="original_question_text" style="display: none;">
+        <textarea disabled style="display: none;" name="text_after_answers" class="textarea_text_after_answers"></textarea>
+        <textarea disabled style="display: none;" name="question_text" class="textarea_question_text">Genotype</textarea>
+      </div>
+      <div id="question_15599434_question_text" class="question_text user_content">
+          Genotype
+      </div>
+      <div class="answers">
+                <div class="answers_wrapper">
+                  
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_41509"
+       style=""
+      title="describes the lengths of different chromosomes..">
+
+
+      <span class='hidden id'>41509</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-41509" name="question-15599434" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-41509">
+        <div class="answer_text" >describes the lengths of different chromosomes.</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="describes the lengths of different chromosomes."/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >describes the lengths of different chromosomes.</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15599434</span>
+      <span class="id">41509</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_55992"
+       style=""
+      title="describes an individual’s observable traits..">
+
+
+      <span class='hidden id'>55992</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-55992" name="question-15599434" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-55992">
+        <div class="answer_text" >describes an individual’s observable traits.</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="describes an individual’s observable traits."/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >describes an individual’s observable traits.</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15599434</span>
+      <span class="id">55992</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          correct_answer"
+       id="answer_86951"
+       style=""
+      title="describes the genes (or alleles of genes) carried by a particular individual.. This was the correct answer.">
+
+
+      <span class='hidden id'>86951</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-86951" name="question-15599434" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-86951">
+        <div class="answer_text" >describes the genes (or alleles of genes) carried by a particular individual.</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="describes the genes (or alleles of genes) carried by a particular individual."/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >describes the genes (or alleles of genes) carried by a particular individual.</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15599434</span>
+      <span class="id">86951</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">100</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_28460"
+       style=""
+      title="describes the position of the centromeres on different chromosomes..">
+
+
+      <span class='hidden id'>28460</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-28460" name="question-15599434" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-28460">
+        <div class="answer_text" >describes the position of the centromeres on different chromosomes.</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="describes the position of the centromeres on different chromosomes."/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >describes the position of the centromeres on different chromosomes.</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15599434</span>
+      <span class="id">28460</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+                </div>
+      </div>
+      <div class="after_answers">
+      </div>
+    </div>
+      
+    <div class="clear"></div>
+  </div>
+</div>
+
+<div role="region" aria-label="Question" class="quiz_sortable question_holder " id="" style="" data-group-id="">
+  <div style="display: block; height: 1px; overflow: hidden;">&nbsp;</div>
+  <a name="question_15571198"></a>
+  <div class="display_question question multiple_choice_question   incorrect unanswered " id="question_15571198">
+    
+<div class="move">
+  <a tabindex="0" class="draggable-handle" role="button">
+    <i class="icon-drag-handle">
+      <span class="screenreader-only">Move To...</span>
+      <span class="accessibility-warning screenreader-only">
+        This element is a more accessible alternative to drag &amp; drop reordering. Press Enter or Space to move this question.
+      </span>
+    </i>
+  </a>
+</div>
+
+
+    <div class="header" >
+      <span class="name question_name" role="heading" aria-level="2">Question 5</span>
+      <span class="question_points_holder" style="">
+        <div class="user_points" >
+                0
+          <span class="points question_points"> / 0.01</span> pts
+        </div>
+    </span>
+    </div>
+      <div class="links" style="display: none;">
+        <a href="#" class="edit_question_link no-hover" title="Edit this Question"><i class="icon-edit standalone-icon"><span class="screenreader-only">Edit this Question</span></i></a>
+          <a href="#" class="delete_question_link no-hover" title="Delete this Question"><i class="icon-end standalone-icon"><span class="screenreader-only">Delete this Question</span></i></a>
+      </div>
+    <div style="display: none;">
+      <span class="regrade_option"></span>
+      <span class="regrade_disabled">0</span>
+      <span class="question_type">multiple_choice_question</span>
+      <span class="answer_selection_type"></span>
+        <a href="/courses/511424/quizzes/1055675/questions/15571198" class="update_question_url">&nbsp;</a>
+      <span class="assessment_question_id">33734620</span>
+    </div>
+    <div class="text">
+      <div class="original_question_text" style="display: none;">
+        <textarea disabled style="display: none;" name="text_after_answers" class="textarea_text_after_answers"></textarea>
+        <textarea disabled style="display: none;" name="question_text" class="textarea_question_text">The observable physical and physiological traits of an organism, which are determined by its genetic makeup, are its</textarea>
+      </div>
+      <div id="question_15571198_question_text" class="question_text user_content">
+          The observable physical and physiological traits of an organism, which are determined by its genetic makeup, are its
+      </div>
+      <div class="answers">
+                <div class="answers_wrapper">
+                  
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_49201"
+       style=""
+      title="genotype.">
+
+
+      <span class='hidden id'>49201</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-49201" name="question-15571198" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-49201">
+        <div class="answer_text" >genotype</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="genotype"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >genotype</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15571198</span>
+      <span class="id">49201</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          correct_answer"
+       id="answer_2951"
+       style=""
+      title="phenotype. This was the correct answer.">
+
+
+      <span class='hidden id'>2951</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-2951" name="question-15571198" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-2951">
+        <div class="answer_text" >phenotype</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="phenotype"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >phenotype</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15571198</span>
+      <span class="id">2951</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">100</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_38338"
+       style=""
+      title="codominance.">
+
+
+      <span class='hidden id'>38338</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-38338" name="question-15571198" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-38338">
+        <div class="answer_text" >codominance</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="codominance"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >codominance</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15571198</span>
+      <span class="id">38338</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_91342"
+       style=""
+      title="recessiveness.">
+
+
+      <span class='hidden id'>91342</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-91342" name="question-15571198" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-91342">
+        <div class="answer_text" >recessiveness</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="recessiveness"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >recessiveness</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15571198</span>
+      <span class="id">91342</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+                </div>
+      </div>
+      <div class="after_answers">
+      </div>
+    </div>
+      
+    <div class="clear"></div>
+  </div>
+</div>
+
+<div role="region" aria-label="Question" class="quiz_sortable question_holder " id="" style="" data-group-id="">
+  <div style="display: block; height: 1px; overflow: hidden;">&nbsp;</div>
+  <a name="question_15533177"></a>
+  <div class="display_question question multiple_choice_question   incorrect unanswered " id="question_15533177">
+    
+<div class="move">
+  <a tabindex="0" class="draggable-handle" role="button">
+    <i class="icon-drag-handle">
+      <span class="screenreader-only">Move To...</span>
+      <span class="accessibility-warning screenreader-only">
+        This element is a more accessible alternative to drag &amp; drop reordering. Press Enter or Space to move this question.
+      </span>
+    </i>
+  </a>
+</div>
+
+
+    <div class="header" >
+      <span class="name question_name" role="heading" aria-level="2">Question 6</span>
+      <span class="question_points_holder" style="">
+        <div class="user_points" >
+                0
+          <span class="points question_points"> / 0.01</span> pts
+        </div>
+    </span>
+    </div>
+      <div class="links" style="display: none;">
+        <a href="#" class="edit_question_link no-hover" title="Edit this Question"><i class="icon-edit standalone-icon"><span class="screenreader-only">Edit this Question</span></i></a>
+          <a href="#" class="delete_question_link no-hover" title="Delete this Question"><i class="icon-end standalone-icon"><span class="screenreader-only">Delete this Question</span></i></a>
+      </div>
+    <div style="display: none;">
+      <span class="regrade_option"></span>
+      <span class="regrade_disabled">0</span>
+      <span class="question_type">multiple_choice_question</span>
+      <span class="answer_selection_type"></span>
+        <a href="/courses/511424/quizzes/1055675/questions/15533177" class="update_question_url">&nbsp;</a>
+      <span class="assessment_question_id">33734628</span>
+    </div>
+    <div class="text">
+      <div class="original_question_text" style="display: none;">
+        <textarea disabled style="display: none;" name="text_after_answers" class="textarea_text_after_answers"></textarea>
+        <textarea disabled style="display: none;" name="question_text" class="textarea_question_text">Alleles are</textarea>
+      </div>
+      <div id="question_15533177_question_text" class="question_text user_content">
+          Alleles are
+      </div>
+      <div class="answers">
+                <div class="answers_wrapper">
+                  
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_99174"
+       style=""
+      title="genes that do not segregate together.">
+
+
+      <span class='hidden id'>99174</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-99174" name="question-15533177" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-99174">
+        <div class="answer_text" >genes that do not segregate together</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="genes that do not segregate together"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >genes that do not segregate together</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533177</span>
+      <span class="id">99174</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          correct_answer"
+       id="answer_69353"
+       style=""
+      title="different versions of a gene. This was the correct answer.">
+
+
+      <span class='hidden id'>69353</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-69353" name="question-15533177" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-69353">
+        <div class="answer_text" >different versions of a gene</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="different versions of a gene"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >different versions of a gene</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533177</span>
+      <span class="id">69353</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">100</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_54970"
+       style=""
+      title="genes that segregate together.">
+
+
+      <span class='hidden id'>54970</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-54970" name="question-15533177" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-54970">
+        <div class="answer_text" >genes that segregate together</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="genes that segregate together"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >genes that segregate together</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533177</span>
+      <span class="id">54970</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_97471"
+       style=""
+      title="the phenotypic characters expressed by different genes.">
+
+
+      <span class='hidden id'>97471</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-97471" name="question-15533177" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-97471">
+        <div class="answer_text" >the phenotypic characters expressed by different genes</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="the phenotypic characters expressed by different genes"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >the phenotypic characters expressed by different genes</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533177</span>
+      <span class="id">97471</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+                </div>
+      </div>
+      <div class="after_answers">
+      </div>
+    </div>
+      
+    <div class="clear"></div>
+  </div>
+</div>
+
+<div role="region" aria-label="Question" class="quiz_sortable question_holder " id="" style="" data-group-id="">
+  <div style="display: block; height: 1px; overflow: hidden;">&nbsp;</div>
+  <a name="question_15569655"></a>
+  <div class="display_question question multiple_choice_question   incorrect unanswered " id="question_15569655">
+    
+<div class="move">
+  <a tabindex="0" class="draggable-handle" role="button">
+    <i class="icon-drag-handle">
+      <span class="screenreader-only">Move To...</span>
+      <span class="accessibility-warning screenreader-only">
+        This element is a more accessible alternative to drag &amp; drop reordering. Press Enter or Space to move this question.
+      </span>
+    </i>
+  </a>
+</div>
+
+
+    <div class="header" >
+      <span class="name question_name" role="heading" aria-level="2">Question 7</span>
+      <span class="question_points_holder" style="">
+        <div class="user_points" >
+                0
+          <span class="points question_points"> / 0.01</span> pts
+        </div>
+    </span>
+    </div>
+      <div class="links" style="display: none;">
+        <a href="#" class="edit_question_link no-hover" title="Edit this Question"><i class="icon-edit standalone-icon"><span class="screenreader-only">Edit this Question</span></i></a>
+          <a href="#" class="delete_question_link no-hover" title="Delete this Question"><i class="icon-end standalone-icon"><span class="screenreader-only">Delete this Question</span></i></a>
+      </div>
+    <div style="display: none;">
+      <span class="regrade_option"></span>
+      <span class="regrade_disabled">0</span>
+      <span class="question_type">multiple_choice_question</span>
+      <span class="answer_selection_type"></span>
+        <a href="/courses/511424/quizzes/1055675/questions/15569655" class="update_question_url">&nbsp;</a>
+      <span class="assessment_question_id">33734616</span>
+    </div>
+    <div class="text">
+      <div class="original_question_text" style="display: none;">
+        <textarea disabled style="display: none;" name="text_after_answers" class="textarea_text_after_answers"></textarea>
+        <textarea disabled style="display: none;" name="question_text" class="textarea_question_text">Phenotype</textarea>
+      </div>
+      <div id="question_15569655_question_text" class="question_text user_content">
+          Phenotype
+      </div>
+      <div class="answers">
+                <div class="answers_wrapper">
+                  
+    <div class="answer answer_for_
+         
+         
+         
+         
+          correct_answer"
+       id="answer_80180"
+       style=""
+      title="describes an individual’s observable traits.. This was the correct answer.">
+
+
+      <span class='hidden id'>80180</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-80180" name="question-15569655" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-80180">
+        <div class="answer_text" >describes an individual’s observable traits.</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="describes an individual’s observable traits."/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >describes an individual’s observable traits.</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15569655</span>
+      <span class="id">80180</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">100</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_92537"
+       style=""
+      title="describes the position of the centromeres on different chromosomes..">
+
+
+      <span class='hidden id'>92537</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-92537" name="question-15569655" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-92537">
+        <div class="answer_text" >describes the position of the centromeres on different chromosomes.</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="describes the position of the centromeres on different chromosomes."/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >describes the position of the centromeres on different chromosomes.</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15569655</span>
+      <span class="id">92537</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_52275"
+       style=""
+      title="describes the genes (or alleles of genes) carried by a particular individual..">
+
+
+      <span class='hidden id'>52275</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-52275" name="question-15569655" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-52275">
+        <div class="answer_text" >describes the genes (or alleles of genes) carried by a particular individual.</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="describes the genes (or alleles of genes) carried by a particular individual."/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >describes the genes (or alleles of genes) carried by a particular individual.</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15569655</span>
+      <span class="id">52275</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_8015"
+       style=""
+      title="describes the lengths of different chromosomes..">
+
+
+      <span class='hidden id'>8015</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-8015" name="question-15569655" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-8015">
+        <div class="answer_text" >describes the lengths of different chromosomes.</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="describes the lengths of different chromosomes."/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >describes the lengths of different chromosomes.</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15569655</span>
+      <span class="id">8015</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+                </div>
+      </div>
+      <div class="after_answers">
+      </div>
+    </div>
+      
+    <div class="clear"></div>
+  </div>
+</div>
+
+<div role="region" aria-label="Question" class="quiz_sortable question_holder " id="" style="" data-group-id="">
+  <div style="display: block; height: 1px; overflow: hidden;">&nbsp;</div>
+  <a name="question_15533170"></a>
+  <div class="display_question question multiple_choice_question   incorrect unanswered " id="question_15533170">
+    
+<div class="move">
+  <a tabindex="0" class="draggable-handle" role="button">
+    <i class="icon-drag-handle">
+      <span class="screenreader-only">Move To...</span>
+      <span class="accessibility-warning screenreader-only">
+        This element is a more accessible alternative to drag &amp; drop reordering. Press Enter or Space to move this question.
+      </span>
+    </i>
+  </a>
+</div>
+
+
+    <div class="header" >
+      <span class="name question_name" role="heading" aria-level="2">Question 8</span>
+      <span class="question_points_holder" style="">
+        <div class="user_points" >
+                0
+          <span class="points question_points"> / 0.01</span> pts
+        </div>
+    </span>
+    </div>
+      <div class="links" style="display: none;">
+        <a href="#" class="edit_question_link no-hover" title="Edit this Question"><i class="icon-edit standalone-icon"><span class="screenreader-only">Edit this Question</span></i></a>
+          <a href="#" class="delete_question_link no-hover" title="Delete this Question"><i class="icon-end standalone-icon"><span class="screenreader-only">Delete this Question</span></i></a>
+      </div>
+    <div style="display: none;">
+      <span class="regrade_option"></span>
+      <span class="regrade_disabled">0</span>
+      <span class="question_type">multiple_choice_question</span>
+      <span class="answer_selection_type"></span>
+        <a href="/courses/511424/quizzes/1055675/questions/15533170" class="update_question_url">&nbsp;</a>
+      <span class="assessment_question_id">33734574</span>
+    </div>
+    <div class="text">
+      <div class="original_question_text" style="display: none;">
+        <textarea disabled style="display: none;" name="text_after_answers" class="textarea_text_after_answers"></textarea>
+        <textarea disabled style="display: none;" name="question_text" class="textarea_question_text">If you cross a plant that is homozygous for the recessive allele of a trait with a plant that is homozygous for the dominant allele of the same trait, the F&lt;sub&gt;1&lt;/sub&gt; generation will differ from the F&lt;sub&gt;2&lt;/sub&gt; in that _____.</textarea>
+      </div>
+      <div id="question_15533170_question_text" class="question_text user_content">
+          If you cross a plant that is homozygous for the recessive allele of a trait with a plant that is homozygous for the dominant allele of the same trait, the F<sub>1</sub> generation will differ from the F<sub>2</sub> in that _____.
+      </div>
+      <div class="answers">
+                <div class="answers_wrapper">
+                  
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_40167"
+       style=""
+      title="one-half of the F1 will show the dominant phenotype, and three-fourths of the F2 will.">
+
+
+      <span class='hidden id'>40167</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-40167" name="question-15533170" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-40167">
+        <div class="answer_text" style='display:none;'>one-half of the F1 will show the dominant phenotype, and three-fourths of the F2 will</div>
+        <div class="answer_html">one-half of the F<sub>1</sub> will show the dominant phenotype, and three-fourths of the F<sub>2</sub> will</div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="one-half of the F1 will show the dominant phenotype, and three-fourths of the F2 will"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" style='display:none;'>one-half of the F1 will show the dominant phenotype, and three-fourths of the F2 will</div>
+      <div class="answer_match_left_html" >one-half of the F<sub>1</sub> will show the dominant phenotype, and three-fourths of the F<sub>2</sub> will</div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533170</span>
+      <span class="id">40167</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_15445"
+       style=""
+      title="all of the F1 will show the dominant phenotype, whereas only half of the F2 will.">
+
+
+      <span class='hidden id'>15445</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-15445" name="question-15533170" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-15445">
+        <div class="answer_text" style='display:none;'>all of the F1 will show the dominant phenotype, whereas only half of the F2 will</div>
+        <div class="answer_html">all of the F<sub>1</sub> will show the dominant phenotype, whereas only half of the F<sub>2</sub> will</div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="all of the F1 will show the dominant phenotype, whereas only half of the F2 will"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" style='display:none;'>all of the F1 will show the dominant phenotype, whereas only half of the F2 will</div>
+      <div class="answer_match_left_html" >all of the F<sub>1</sub> will show the dominant phenotype, whereas only half of the F<sub>2</sub> will</div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533170</span>
+      <span class="id">15445</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_36438"
+       style=""
+      title="none of the F1 will show the dominant phenotype, but one-half of the F2 will.">
+
+
+      <span class='hidden id'>36438</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-36438" name="question-15533170" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-36438">
+        <div class="answer_text" style='display:none;'>none of the F1 will show the dominant phenotype, but one-half of the F2 will</div>
+        <div class="answer_html">none of the F<sub>1</sub> will show the dominant phenotype, but one-half of the F<sub>2</sub> will</div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="none of the F1 will show the dominant phenotype, but one-half of the F2 will"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" style='display:none;'>none of the F1 will show the dominant phenotype, but one-half of the F2 will</div>
+      <div class="answer_match_left_html" >none of the F<sub>1</sub> will show the dominant phenotype, but one-half of the F<sub>2</sub> will</div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533170</span>
+      <span class="id">36438</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          correct_answer"
+       id="answer_85724"
+       style=""
+      title="all of the F1 will show the dominant phenotype, but only three-fourths of the F2 will. This was the correct answer.">
+
+
+      <span class='hidden id'>85724</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-85724" name="question-15533170" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-85724">
+        <div class="answer_text" style='display:none;'>all of the F1 will show the dominant phenotype, but only three-fourths of the F2 will</div>
+        <div class="answer_html">all of the F<sub>1</sub> will show the dominant phenotype, but only three-fourths of the F<sub>2</sub> will</div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="all of the F1 will show the dominant phenotype, but only three-fourths of the F2 will"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" style='display:none;'>all of the F1 will show the dominant phenotype, but only three-fourths of the F2 will</div>
+      <div class="answer_match_left_html" >all of the F<sub>1</sub> will show the dominant phenotype, but only three-fourths of the F<sub>2</sub> will</div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533170</span>
+      <span class="id">85724</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">100</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_79038"
+       style=""
+      title="all of the F1 will show the dominant phenotype, and all of the F2 will show the recessive phenotype.">
+
+
+      <span class='hidden id'>79038</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-79038" name="question-15533170" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-79038">
+        <div class="answer_text" style='display:none;'>all of the F1 will show the dominant phenotype, and all of the F2 will show the recessive phenotype</div>
+        <div class="answer_html">all of the F<sub>1</sub> will show the dominant phenotype, and all of the F<sub>2</sub> will show the recessive phenotype</div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="all of the F1 will show the dominant phenotype, and all of the F2 will show the recessive phenotype"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" style='display:none;'>all of the F1 will show the dominant phenotype, and all of the F2 will show the recessive phenotype</div>
+      <div class="answer_match_left_html" >all of the F<sub>1</sub> will show the dominant phenotype, and all of the F<sub>2</sub> will show the recessive phenotype</div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533170</span>
+      <span class="id">79038</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+                </div>
+      </div>
+      <div class="after_answers">
+      </div>
+    </div>
+      <div class="quiz_comment"><p class="neutral_comments">All of the F<sub>1</sub> will be heterozygous and therefore show the dominant phenotype. In the F<sub>2</sub>, one-half will be heterozygous, and another quarter will be homozygous for the dominant allele so that ¾ of the F<sub>2</sub> plants will show the dominant phenotype.</p></div>
+    <div class="clear"></div>
+  </div>
+</div>
+
+<div role="region" aria-label="Question" class="quiz_sortable question_holder " id="" style="" data-group-id="">
+  <div style="display: block; height: 1px; overflow: hidden;">&nbsp;</div>
+  <a name="question_15533169"></a>
+  <div class="display_question question multiple_choice_question   incorrect unanswered " id="question_15533169">
+    
+<div class="move">
+  <a tabindex="0" class="draggable-handle" role="button">
+    <i class="icon-drag-handle">
+      <span class="screenreader-only">Move To...</span>
+      <span class="accessibility-warning screenreader-only">
+        This element is a more accessible alternative to drag &amp; drop reordering. Press Enter or Space to move this question.
+      </span>
+    </i>
+  </a>
+</div>
+
+
+    <div class="header" >
+      <span class="name question_name" role="heading" aria-level="2">Question 9</span>
+      <span class="question_points_holder" style="">
+        <div class="user_points" >
+                0
+          <span class="points question_points"> / 0.01</span> pts
+        </div>
+    </span>
+    </div>
+      <div class="links" style="display: none;">
+        <a href="#" class="edit_question_link no-hover" title="Edit this Question"><i class="icon-edit standalone-icon"><span class="screenreader-only">Edit this Question</span></i></a>
+          <a href="#" class="delete_question_link no-hover" title="Delete this Question"><i class="icon-end standalone-icon"><span class="screenreader-only">Delete this Question</span></i></a>
+      </div>
+    <div style="display: none;">
+      <span class="regrade_option"></span>
+      <span class="regrade_disabled">0</span>
+      <span class="question_type">multiple_choice_question</span>
+      <span class="answer_selection_type"></span>
+        <a href="/courses/511424/quizzes/1055675/questions/15533169" class="update_question_url">&nbsp;</a>
+      <span class="assessment_question_id">33734568</span>
+    </div>
+    <div class="text">
+      <div class="original_question_text" style="display: none;">
+        <textarea disabled style="display: none;" name="text_after_answers" class="textarea_text_after_answers"></textarea>
+        <textarea disabled style="display: none;" name="question_text" class="textarea_question_text">Why did Mendel continue some of his experiments to the F2&amp;nbsp;or F3&amp;nbsp;generation?</textarea>
+      </div>
+      <div id="question_15533169_question_text" class="question_text user_content">
+          Why did Mendel continue some of his experiments to the F2&nbsp;or F3&nbsp;generation?
+      </div>
+      <div class="answers">
+                <div class="answers_wrapper">
+                  
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_34117"
+       style=""
+      title="to distinguish which alleles were segregating.">
+
+
+      <span class='hidden id'>34117</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-34117" name="question-15533169" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-34117">
+        <div class="answer_text" >to distinguish which alleles were segregating</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="to distinguish which alleles were segregating"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >to distinguish which alleles were segregating</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533169</span>
+      <span class="id">34117</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_16063"
+       style=""
+      title="to observe whether or not the dominant trait would reappear.">
+
+
+      <span class='hidden id'>16063</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-16063" name="question-15533169" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-16063">
+        <div class="answer_text" >to observe whether or not the dominant trait would reappear</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="to observe whether or not the dominant trait would reappear"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >to observe whether or not the dominant trait would reappear</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533169</span>
+      <span class="id">16063</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          correct_answer"
+       id="answer_80790"
+       style=""
+      title="to observe whether or not a recessive trait would reappear. This was the correct answer.">
+
+
+      <span class='hidden id'>80790</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-80790" name="question-15533169" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-80790">
+        <div class="answer_text" >to observe whether or not a recessive trait would reappear</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="to observe whether or not a recessive trait would reappear"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >to observe whether or not a recessive trait would reappear</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533169</span>
+      <span class="id">80790</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">100</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_88116"
+       style=""
+      title="to be able to describe the frequency of recombination.">
+
+
+      <span class='hidden id'>88116</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-88116" name="question-15533169" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-88116">
+        <div class="answer_text" >to be able to describe the frequency of recombination</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="to be able to describe the frequency of recombination"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >to be able to describe the frequency of recombination</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533169</span>
+      <span class="id">88116</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_94705"
+       style=""
+      title="to obtain a larger number of offspring on which to base statistics.">
+
+
+      <span class='hidden id'>94705</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-94705" name="question-15533169" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-94705">
+        <div class="answer_text" >to obtain a larger number of offspring on which to base statistics</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="to obtain a larger number of offspring on which to base statistics"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >to obtain a larger number of offspring on which to base statistics</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15533169</span>
+      <span class="id">94705</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+                </div>
+      </div>
+      <div class="after_answers">
+      </div>
+    </div>
+      <div class="quiz_comment"><p class="neutral_comments">For most of his experiments, Mendel crossed two individuals that were each homozygous for different alleles of a particular character. For example, he crossed plants that were homozygous for the purple (P) allele of the flower color gene with plants that were homozygous for the white (p) allele of the flower color gene. All the F<sub>1</sub> progeny thus had the Pp genotype and all had purple flowers, because the purple allele is dominant. If Mendel had stopped with the F<sub>1</sub> generation, he would not have known whether the plants simply didn’t inherit the white allele, or whether the effects of the white allele were masked by the presence of a purple allele. By crossing two F<sub>1</sub> plants that were Pp, he got a 1:2:1 ratio of F<sub>2</sub><br><sub></sub><sub></sub><sub></sub><sub></sub>plants with the following genotypes: PP, Pp and pp. The pp plants had white flowers, demonstrating that the white allele wasn’t lost, its effect was simply masked by the presence of the purple allele.</p></div>
+    <div class="clear"></div>
+  </div>
+</div>
+
+<div role="region" aria-label="Question" class="quiz_sortable question_holder " id="" style="" data-group-id="">
+  <div style="display: block; height: 1px; overflow: hidden;">&nbsp;</div>
+  <a name="question_15600434"></a>
+  <div class="display_question question multiple_choice_question   incorrect unanswered " id="question_15600434">
+    
+<div class="move">
+  <a tabindex="0" class="draggable-handle" role="button">
+    <i class="icon-drag-handle">
+      <span class="screenreader-only">Move To...</span>
+      <span class="accessibility-warning screenreader-only">
+        This element is a more accessible alternative to drag &amp; drop reordering. Press Enter or Space to move this question.
+      </span>
+    </i>
+  </a>
+</div>
+
+
+    <div class="header" >
+      <span class="name question_name" role="heading" aria-level="2">Question 10</span>
+      <span class="question_points_holder" style="">
+        <div class="user_points" >
+                0
+          <span class="points question_points"> / 0.01</span> pts
+        </div>
+    </span>
+    </div>
+      <div class="links" style="display: none;">
+        <a href="#" class="edit_question_link no-hover" title="Edit this Question"><i class="icon-edit standalone-icon"><span class="screenreader-only">Edit this Question</span></i></a>
+          <a href="#" class="delete_question_link no-hover" title="Delete this Question"><i class="icon-end standalone-icon"><span class="screenreader-only">Delete this Question</span></i></a>
+      </div>
+    <div style="display: none;">
+      <span class="regrade_option"></span>
+      <span class="regrade_disabled">0</span>
+      <span class="question_type">multiple_choice_question</span>
+      <span class="answer_selection_type"></span>
+        <a href="/courses/511424/quizzes/1055675/questions/15600434" class="update_question_url">&nbsp;</a>
+      <span class="assessment_question_id">33734619</span>
+    </div>
+    <div class="text">
+      <div class="original_question_text" style="display: none;">
+        <textarea disabled style="display: none;" name="text_after_answers" class="textarea_text_after_answers"></textarea>
+        <textarea disabled style="display: none;" name="question_text" class="textarea_question_text">The set of alleles carried by a particular organism are its</textarea>
+      </div>
+      <div id="question_15600434_question_text" class="question_text user_content">
+          The set of alleles carried by a particular organism are its
+      </div>
+      <div class="answers">
+                <div class="answers_wrapper">
+                  
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_64343"
+       style=""
+      title="phenotype.">
+
+
+      <span class='hidden id'>64343</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-64343" name="question-15600434" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-64343">
+        <div class="answer_text" >phenotype</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="phenotype"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >phenotype</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15600434</span>
+      <span class="id">64343</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          correct_answer"
+       id="answer_25646"
+       style=""
+      title="genotype. This was the correct answer.">
+
+
+      <span class='hidden id'>25646</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-25646" name="question-15600434" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-25646">
+        <div class="answer_text" >genotype</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="genotype"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >genotype</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15600434</span>
+      <span class="id">25646</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">100</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_9252"
+       style=""
+      title="recessiveness.">
+
+
+      <span class='hidden id'>9252</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-9252" name="question-15600434" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-9252">
+        <div class="answer_text" >recessiveness</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="recessiveness"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >recessiveness</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15600434</span>
+      <span class="id">9252</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+    <div class="answer answer_for_
+         
+         
+         
+         
+          "
+       id="answer_52568"
+       style=""
+      title="codominance.">
+
+
+      <span class='hidden id'>52568</span>
+
+    <div class="select_answer answer_type" >
+        <input id="answer-52568" name="question-15600434" type="radio"  class="question_input" aria-disabled="true" disabled />&nbsp;
+      <label for="answer-52568">
+        <div class="answer_text" >codominance</div>
+        <div class="answer_html"></div>
+      </label>
+    </div>
+    <div class="answer_type short_answer" style='display:none;'>
+      <input name="answer_text" type="text" style="width: 200px; margin-bottom: 5px; color: #000;" disabled="true" value="codominance"/>
+    </div>
+    <div class="answer_match matching_answer answer_type" style='display:none;'>
+      <div class="answer_match_left" >codominance</div>
+      <div class="answer_match_left_html" style='display:none;'></div>
+      <div class="answer_match_middle">&nbsp;</div>
+      <div class="answer_match_right">
+              
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div style="display: none;">
+      <span class="numerical_answer_type">exact_answer</span>
+      <span class="blank_id">none</span>
+      <span class="question_id">15600434</span>
+      <span class="id">52568</span>
+      <span class="match_id"></span>
+    </div>
+      <div class="numerical_exact_answer answer_type" style='display:none;'>
+        <span class="answer_exact">0</span> (with margin: <span class="answer_error_margin">0</span>)
+      </div>
+      <div class="numerical_precision_answer answer_type" style='display:none;'>
+        <span class="answer_approximate">
+          0
+        </span> (with precision: <span class="answer_precision">10</span>)
+      </div>
+      <div class="numerical_range_answer answer_type" style='display:none;'>
+        Between <span class="answer_range_start">0</span> and <span class="answer_range_end">0</span>
+      </div>
+    <div class="numerical_range_answer answer_type" style='display:none;'>
+      <span class="answer_equation"></span>
+      <span class="margin" style="display: none;">
+        margin of error
+        <span style="font-size: 0.8em;">
+          +/-
+        </span>
+        <span class="answer_tolerance"></span>
+      </span>
+    </div>
+      <span class="answer_weight" style="display: none;">0</span>
+
+    <div class="clear"></div>
+  </div>
+
+    <div class="clear"></div>
+
+                </div>
+      </div>
+      <div class="after_answers">
+      </div>
+    </div>
+      
+    <div class="clear"></div>
+  </div>
+</div>
+
+</div>
+  <div id="update_scores">
+
+
+<div class="quiz_score" style="text-align: right; font-size: 1.2em; ">
+    Quiz Score:
+  <span class="score_value">0</span> out of 0.1
+</div>
+</div> <!-- #speed_update_scores || #update_scores -->
+</div>
+
+</form>
+<div style="display: none;" id="submission_details">
+  <div class="version_number">2</div>
+  <div class="user_id">1323015</div>
+</div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+                    <h2>
+            Quiz Submissions
+        </h2>
+      <div>
+        <ul id="quiz_versions" style="max-height: 250px; overflow: auto;">
+          <li class="quiz_version ">
+            <a class="no-hover" href="?version=1">
+              Attempt 1: 0.1
+            </a>
+          </li>
+          <li class="quiz_version selected">
+            <a class="no-hover" href="?version=2">
+              Attempt 2: 0
+            </a>
+          </li>
+          <li class="quiz_version ">
+            <a class="no-hover" href="?version=3">
+              Attempt 3: 0
+            </a>
+          </li>
+          <li class="quiz_version ">
+            <a class="no-hover" href="?version=4">
+              Attempt 4: 0
+            </a>
+          </li>
+          <li class="quiz_version ">
+            <a class="no-hover" href="?version=5">
+              Attempt 5: 0
+            </a>
+          </li>
+        </ul>
+        <div style="margin-bottom: 10px;">
+              This quiz has unlimited attempts
+        </div>
+        <a href="/courses/511424/quizzes/1055675" class='no-hover icon-arrow-left'> Back to Quiz</a>
+      </div>
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+        <div id="page_view_id">726c63f5-13be-4f04-9f26-b251b26a90d7</div>
+    </div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  <div id="react-router-portals"></div>
+  
+
+  <iframe src="https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-de8233d392aa15f4&amp;token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLnVtbi5lZHUifQ.1sjb9x2rC_l1374iyqgf4GR3zpQ2TsAk8SX0t7Wc9j7K_GBtTFuYZi6FPxWBhO_87rJFTo_ycyjj02p4ZJLfLA" name="post_message_forwarding" title="post_message_forwarding" id="post_message_forwarding" sandbox="allow-scripts allow-same-origin" style="display:none;"></iframe>
+
+
+  <script>
+    Object.assign(
+      ENV,
+      {}
+    )
+  </script>
+
+<script>
+//<![CDATA[
+(window.deferredBundles || (window.deferredBundles = [])).push('usage_metrics');
+(window.bundles || (window.bundles = [])).push('inst_fs_service_worker');
+//]]>
+</script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_43560000000000001/attachments/53454998/root20250601.js" defer="defer"></script>
+
+
+</div> <!-- #application -->
+</body>
+</html>
