@@ -28794,5 +28794,41 @@
       }
     ],
     "unique_questions": 1
+  },
+  {
+    "quiz_title": "Quiz 10",
+    "questions": [
+      {
+        "raw_html_question": "According to the “semi-conservative” model of DNA replication,",
+        "question": "According to the “semi-conservative” model of DNA replication,",
+        "question_image_url": [],
+        "unique": true,
+        "id": 1008,
+        "options": [
+          {
+            "text": "after DNA replication occurs, one of the two double-stranded DNA molecules will consist of two “daughter” DNA strands and the other will consist of two “parental” DNA strands",
+            "is_correct": false
+          },
+          {
+            "text": "after DNA replication occurs, each of the two double-stranded DNA molecules will consist of one “daughter” and one “parental” DNA strand",
+            "is_correct": true
+          },
+          {
+            "text": "after DNA replication occurs, one of the DNA strands in each double-stranded DNA molecule will consist of a mixture of “daughter” and “parental” DNA and the other DNA strand in each double-stranded DNA molecule will consist of all “daughter” DNA",
+            "is_correct": false
+          },
+          {
+            "text": "each of the DNA strands in the double-stranded DNA molecules will consist of partly “parental” DNA and partly “daughter” DNA",
+            "is_correct": false
+          }
+        ],
+        "comments": "Replication of double-stranded DNA molecules occurs by what is known as the “semi-conservative” model. The DNA strands in the original double-stranded DNA molecule are known as the “parental” DNA strands. The DNA strands that are made by copying the parental DNA strands are known as the “daughter” DNA strands. According to the semiconservative model of DNA replication, each parental DNA strand is copied. So, after one round of DNA replication occurs, each of the two resulting double-stranded DNA molecules will consist of one parental DNA strand and one daughter DNA strand.",
+        "raw_html_comments": "<p class=\"neutral_comments\">Replication of double-stranded DNA molecules occurs by what is known as the “semi-conservative” model. The DNA strands in the original double-stranded DNA molecule are known as the “parental” DNA strands. The DNA strands that are made by copying the parental DNA strands are known as the “daughter” DNA strands. According to the semiconservative model of DNA replication, each parental DNA strand is copied. <br/>So, after one round of DNA replication occurs, each of the two resulting double-stranded DNA molecules will consist of one parental DNA strand and one daughter DNA strand.<br/> <br/><img src=\"/assessment_questions/3859004/files/3823894/download?verifier=i9j0DoRpZ1WWpGcd43ET7vTzMyAApUxlGKgaJnVP\" style=\"vertical-align: text-bottom;\"/></p>",
+        "comments_image_url": [
+          "https://canvas.umn.edu/assessment_questions/3859004/files/3823894/download?verifier=i9j0DoRpZ1WWpGcd43ET7vTzMyAApUxlGKgaJnVP"
+        ]
+      }
+    ],
+    "unique_questions": 1
   }
 ]
