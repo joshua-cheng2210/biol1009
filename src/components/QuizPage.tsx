@@ -327,7 +327,7 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
               {/* Next Question Button */}
               <button
                 onClick={handleNextQuestion}
-                className="flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-primary to-secondary text-white rounded-2xl font-bold text-lg hover:shadow-glow transition-all transform hover:scale-105 animate-bounce-in"
+                className="flex items-center gap-3 px-8 py-4 rounded-2xl font-bold text-lg transition-all transform hover:scale-105 shadow-lg z-50 opacity-100 pointer-events-auto focus:outline-none focus:ring-4 focus:ring-primary/30"
               >
                 <span>Next Question</span>
                 <ArrowRight className="w-6 h-6" />
