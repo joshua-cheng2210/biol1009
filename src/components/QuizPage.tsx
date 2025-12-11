@@ -191,16 +191,8 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
               />
             </div>
           </div>
-
-          <button
-            onClick={handleDone}
-            className="px-4 py-2 bg-gradient-to-r from-primary to-secondary text-white rounded-lg font-medium hover:shadow-lg transition-all"
-          >
-            Done
-          </button>
         </div>
       </div>
-
       {/* Main Quiz Content */}
       <main className="max-w-4xl mx-auto px-6 py-12">
         <div className="bg-card rounded-3xl shadow-elegant border border-border p-8 animate-fade-in relative">
@@ -308,10 +300,13 @@ export default function QuizPage({ questions, selectedTopics, onComplete, onBack
 
           {/* Next Button */}
           {selectedAnswer !== null && !showFeedback && (
-            <div className="flex justify-center animate-bounce-in">
+            <div className="flex justify-center">
               <button
+                type="button"
                 onClick={handleNext}
-                className="flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-primary to-secondary text-white rounded-2xl font-bold text-lg hover:shadow-glow transition-all transform hover:scale-105"
+                className="flex items-center gap-3 px-8 py-4 text-white rounded-2xl font-bold text-lg transition-all transform hover:scale-105 shadow-lg z-50 opacity-100 pointer-events-auto focus:outline-none focus:ring-4 focus:ring-primary/30"
+                style={{ background: 'linear-gradient(90deg,#10b981,#3b82f6)' }}
+                aria-label="Check Answer"
               >
                 <span>Check Answer</span>
                 <ArrowRight className="w-6 h-6" />
