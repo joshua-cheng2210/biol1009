@@ -13939,7 +13939,7 @@
     "unique_questions": 64
   },
   {
-    "quiz_title": "SQ final exam level 1a (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")",
+    "quiz_title": "SQ final exam",
     "questions": [
       {
         "raw_html_question": "Which example below correctly lists members of a desert ecosystem from the producer level to the top consumer level?",
@@ -14120,13 +14120,7 @@
         "comments": "Because food is a factor that limits the size of the particular bear population, the increased food availability would increase carrying capacity (K).",
         "raw_html_comments": "<p class=\"neutral_comments\">Because food is a factor that limits the size of the particular bear population, the increased food availability would increase carrying capacity (<i>K</i>).</p>",
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 6
-  },
-  {
-    "quiz_title": "SQ final exam level 1a (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_2",
-    "questions": [
+      },
       {
         "raw_html_question": "The symbols +, -, and o are to be used to show the results of interactions between individuals and groups of individuals in the example that follows. The symbol + denotes a positive interaction, - denotes a negative interaction, and o denotes where individuals are not affected by interacting. The first symbol refers to the first organism mentioned. What interactions exist between a lion pride and a hyena pack?",
         "question": "The symbols +, -, and o are to be used to show the results of interactions between individuals and groups of individuals in the example that follows. The symbol + denotes a positive interaction, - denotes a negative interaction, and o denotes where individuals are not affected by interacting. The first symbol refers to the first organism mentioned. What interactions exist between a lion pride and a hyena pack?",
@@ -14334,13 +14328,7 @@
         "comments": "Carrying capacity will change as environmental conditions change. For example, if a drought causes the death of most of the plants on which a particular animal species feeds, the carrying capacity of that environment for that animal species may be significantly decreased. The logistic growth model allows an estimate of growth rates as a function of how close the population is to its carrying capacity, but does not provide an estimate of carrying capacity. Carrying capacities can be somewhat exceeded on a temporary basis. For example, a wolf population may continue to grow and eat all the deer, until the wolf population has exceeded its carrying capacity. However, within a short period of time this situation would likely lead to the deaths of many of the wolves, as they starved to death.",
         "raw_html_comments": "<p class=\"neutral_comments\">Carrying capacity will change as environmental conditions change. For example, if a drought causes the death of most of the plants on which a particular animal species feeds, the carrying capacity of that environment for that animal species may be significantly decreased. The logistic growth model allows an estimate of growth rates as a function of how close the population is to its carrying capacity, but does not provide an estimate of carrying capacity. Carrying capacities can be somewhat exceeded on a temporary basis. For example, a wolf population may continue to grow and eat all the deer, until the wolf population has exceeded its carrying capacity. However, within a short period of time this situation would likely lead to the deaths of many of the wolves, as they starved to death.</p>",
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 7
-  },
-  {
-    "quiz_title": "SQ final exam level 1a (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_3",
-    "questions": [
+      },
       {
         "raw_html_question": "A species of malaria-carrying mosquito lives in a forest in which two species of monkeys, A and B, coexist. Species A is immune to malaria, but species B is not. The malaria-carrying mosquito is the chief food for a particular kind of bird in the forest. If all these birds were suddenly eliminated by hunters, which of the following would be an immediately observable consequence?",
         "question": "A species of malaria-carrying mosquito lives in a forest in which two species of monkeys, A and B, coexist. Species A is immune to malaria, but species B is not. The malaria-carrying mosquito is the chief food for a particular kind of bird in the forest. If all these birds were suddenly eliminated by hunters, which of the following would be an immediately observable consequence?",
@@ -14520,13 +14508,7 @@
         "comments": "Most species in an old growth forest should be present at numbers near the carrying capacity of the forest. As a result, one would expect little population growth in those species. In a forest that has been logged, many trees of certain species have suddenly been removed from the population. The removal of those trees opens up resources (space, nutrients, water, etc) that can now be used by individuals of the same or different species. As a result, in the time soon after logging some species may be able to experience exponential growth rates.",
         "raw_html_comments": "<p class=\"neutral_comments\">Most species in an old growth forest should be present at numbers near the carrying capacity of the forest. As a result, one would expect little population growth in those species. In a forest that has been logged, many trees of certain species have suddenly been removed from the population. The removal of those trees opens up resources (space, nutrients, water, etc) that can now be used by individuals of the same or different species. As a result, in the time soon after logging some species may be able to experience exponential growth rates.</p>",
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 6
-  },
-  {
-    "quiz_title": "SQ final exam level 1a (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_4",
-    "questions": [
+      },
       {
         "raw_html_question": "<span style=\"font-size: 12.0pt; font-family: Cambria;\">The process whereby science experts determine\nwhether a manuscript is suitable for publication in a scientific journal is\nknow as</span><br>",
         "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is know as",
@@ -14706,13 +14688,7 @@
         "comments": "After the first 20 minutes, the individual will have divided and there will now be two bacteria. After 40 minutes (i.e. an additional 20 minutes), both those cells will divide to produce a total of 4 cells. After 60 minutes, there will be 8 cells. After 80 minutes, there will be 16 cells. After 100 minutes, there will be 32 cells. After 120 minutes (= 2 hours) there will be 64 cells.",
         "raw_html_comments": "<p class=\"neutral_comments\">After the first 20 minutes, the individual will have divided and there will now be two bacteria. After 40 minutes (i.e. an additional 20 minutes), both those cells will divide to produce a total of 4 cells. After 60 minutes, there will be 8 cells. After 80 minutes, there will be 16 cells. After 100 minutes, there will be 32 cells. After 120 minutes (= 2 hours) there will be 64 cells.</p>",
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 6
-  },
-  {
-    "quiz_title": "SQ final exam level 1a (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_5",
-    "questions": [
+      },
       {
         "raw_html_question": "As material diffuses across a membrane from the side of higher concentration to the side of lower concentration,",
         "question": "As material diffuses across a membrane from the side of higher concentration to the side of lower concentration,",
@@ -14856,13 +14832,7 @@
         "comments": null,
         "raw_html_comments": null,
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 5
-  },
-  {
-    "quiz_title": "SQ final exam level 1b (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")",
-    "questions": [
+      },
       {
         "raw_html_question": "A species moved by humans, either intentionally or accidentally, from its native location to a new geographic region is known as",
         "question": "A species moved by humans, either intentionally or accidentally, from its native location to a new geographic region is known as",
@@ -15038,13 +15008,7 @@
         "comments": null,
         "raw_html_comments": null,
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 6
-  },
-  {
-    "quiz_title": "SQ final exam level 1b (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_2",
-    "questions": [
+      },
       {
         "raw_html_question": "Which of the following is the best example of uniform distribution?",
         "question": "Which of the following is the best example of uniform distribution?",
@@ -15156,13 +15120,7 @@
         "comments": "“Competitive exclusion” is the concept that when populations of two similar species compete for the same limited resources, one population will use the resources more efficiently and have a reproductive advantage that will eventually lead to the elimination of the other population. In this example, the niches of the goats and deer overlapped so much that they could not coexist.",
         "raw_html_comments": "<p class=\"neutral_comments\">“Competitive exclusion” is the concept that when populations of two similar species compete for the same limited resources, one population will use the resources more efficiently and have a reproductive advantage that will eventually lead to the elimination of the other population. In this example, the niches of the goats and deer overlapped so much that they could not coexist.</p>",
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 4
-  },
-  {
-    "quiz_title": "SQ final exam level 1b (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_3",
-    "questions": [
+      },
       {
         "raw_html_question": "Which of the following groups is most severely threatened with extinction?",
         "question": "Which of the following groups is most severely threatened with extinction?",
@@ -15342,13 +15300,7 @@
         "comments": null,
         "raw_html_comments": null,
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 6
-  },
-  {
-    "quiz_title": "SQ final exam level 1b (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_4",
-    "questions": [
+      },
       {
         "raw_html_question": "A certain toxic substance that is retained in cells is taken up by plants. The plants are eaten by small fish. The small fish are, in turn, eaten by large fish. The large fish are eaten by very large fish. Which of the following would be safest to eat?",
         "question": "A certain toxic substance that is retained in cells is taken up by plants. The plants are eaten by small fish. The small fish are, in turn, eaten by large fish. The large fish are eaten by very large fish. Which of the following would be safest to eat?",
@@ -15524,13 +15476,7 @@
         "comments": "The niche describes a set of resources and the degree to which they are used by an organism.",
         "raw_html_comments": "<p class=\"neutral_comments\">The niche describes a set of resources and the degree to which they are used by an organism.</p>",
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 6
-  },
-  {
-    "quiz_title": "SQ final exam level 1b (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_5",
-    "questions": [
+      },
       {
         "raw_html_question": "Which of the following graphs illustrates the growth curve of an initially small population of rodents that has grown to reach a static carrying capacity?",
         "question": "Which of the following graphs illustrates the growth curve of an initially small population of rodents that has grown to reach a static carrying capacity?",
@@ -15678,13 +15624,7 @@
         "comments": "“Trophic levels” are levels in the food chain. In a lake, the first trophic level is composed of cyanobacteria, which produce organic material through photosynthesis. The second trophic level is composed of zooplankton, which eat cyanobacteria. The third trophic level is composed of fish and other organisms that eat zooplankton. In this example, if the predators of zooplankton are removed from the lake, then the population of zooplankton should increase and the population of cyanobacteria should decrease.",
         "raw_html_comments": "<p class=\"neutral_comments\">“Trophic levels” are levels in the food chain. In a lake, the first trophic level is composed of cyanobacteria, which produce organic material through photosynthesis. The second trophic level is composed of zooplankton, which eat cyanobacteria. The third trophic level is composed of fish and other organisms that eat zooplankton. In this example, if the predators of zooplankton are removed from the lake, then the population of zooplankton should increase and the population of cyanobacteria should decrease.</p>",
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 5
-  },
-  {
-    "quiz_title": "SQ final exam level 1c (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")",
-    "questions": [
+      },
       {
         "raw_html_question": "In the evolutionary tree shown below, the horizontal axis represents time (present time is on the far right) and the vertical axis represents morphological change. Which species is most closely related to species W?<br>&nbsp;<br><img src=\"/assessment_questions/3979371/files/4143472/download?verifier=axZCQZlvpoQp3FCVfzhc1vi6OAm5STtWn9Q0xfF7\" alt=\"\">",
         "question": "In the evolutionary tree shown below, the horizontal axis represents time (present time is on the far right) and the vertical axis represents morphological change. Which species is most closely related to species W?",
@@ -15830,13 +15770,7 @@
         "comments": "Ecologists define \"carrying capacity\" as the maximum population size that a particular environment can support. A single pair of frogs would be expected to only replace itself by having 2 progeny that live to reproduce.",
         "raw_html_comments": "<p class=\"neutral_comments\">Ecologists define \"carrying capacity\" as the maximum population size that a particular environment can support. A single pair of frogs would be expected to only replace itself by having 2 progeny that live to reproduce.</p>",
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 5
-  },
-  {
-    "quiz_title": "SQ final exam level 1c (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_2",
-    "questions": [
+      },
       {
         "raw_html_question": "Lake Victoria, in Africa, is home to a group of related fishes known as cichlids. Many of these fishes are similar in appearance but have different feeding habits. What is the best method for scientists to determine conclusively whether the fish are members of a population that has a lot of variation or members of entirely different species?",
         "question": "Lake Victoria, in Africa, is home to a group of related fishes known as cichlids. Many of these fishes are similar in appearance but have different feeding habits. What is the best method for scientists to determine conclusively whether the fish are members of a population that has a lot of variation or members of entirely different species?",
@@ -15952,13 +15886,7 @@
         "comments": null,
         "raw_html_comments": null,
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 4
-  },
-  {
-    "quiz_title": "SQ final exam level 1c (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_3",
-    "questions": [
+      },
       {
         "raw_html_question": "Three species of frogs, <i>Rana pipiens</i>, <i>Rana clamitans</i>, and <i>Rana sylvatica</i>, all mate in the same ponds, but they pair off correctly because they have different calls. This is a specific example of a _____ barrier, called _____.",
         "question": "Three species of frogs, Rana pipiens, Rana clamitans, and Rana sylvatica, all mate in the same ponds, but they pair off correctly because they have different calls. This is a specific example of a _____ barrier, called _____.",
@@ -16170,13 +16098,7 @@
         "comments": "Territorial behavior often results in a uniform distribution.",
         "raw_html_comments": "<p class=\"neutral_comments\">Territorial behavior often results in a uniform distribution.</p>",
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 7
-  },
-  {
-    "quiz_title": "SQ final exam level 1c (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_4",
-    "questions": [
+      },
       {
         "raw_html_question": "Prezygotic barriers _____.",
         "question": "Prezygotic barriers _____.",
@@ -16296,13 +16218,7 @@
         "comments": null,
         "raw_html_comments": null,
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 4
-  },
-  {
-    "quiz_title": "SQ final exam level 1c (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_5",
-    "questions": [
+      },
       {
         "raw_html_question": "A definition of species as the smallest group of individuals that share a common ancestor, forming one branch of the tree of life, is known as the",
         "question": "A definition of species as the smallest group of individuals that share a common ancestor, forming one branch of the tree of life, is known as the",
@@ -16482,13 +16398,7 @@
         "comments": "There is a high probability of survival through adulthood, with the probability of death increasing significantly in old age. So, initially few chimps would die, meaning survivorship would be represented by a relatively flat line. As the chimps reach the end of their expected lifespan, many chimps would begin to die and the survivorship line would go down quickly.",
         "raw_html_comments": "<p class=\"neutral_comments\">There is a high probability of survival through adulthood, with the probability of death increasing significantly in old age. So, initially few chimps would die, meaning survivorship would be represented by a relatively flat line. As the chimps reach the end of their expected lifespan, many chimps would begin to die and the survivorship line would go down quickly.</p>",
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 6
-  },
-  {
-    "quiz_title": "SQ final exam level 1d (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")",
-    "questions": [
+      },
       {
         "raw_html_question": "A spaceship is designed to support animal life for a multiyear voyage to the outer planets of the solar system. Plants will be grown to provide oxygen and to recycle carbon dioxide.<br> If the power fails and the lights go dark, what will happen to CO<sub>2</sub> levels?",
         "question": "A spaceship is designed to support animal life for a multiyear voyage to the outer planets of the solar system. Plants will be grown to provide oxygen and to recycle carbon dioxide. If the power fails and the lights go dark, what will happen to CO2 levels?",
@@ -16636,13 +16546,7 @@
         "comments": null,
         "raw_html_comments": null,
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 5
-  },
-  {
-    "quiz_title": "SQ final exam level 1d (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_2",
-    "questions": [
+      },
       {
         "raw_html_question": "A demographer may study _____.",
         "question": "A demographer may study _____.",
@@ -16762,13 +16666,7 @@
         "comments": "Peripheral proteins, by definition, are attached to the periphery of the membrane rather than being embedded in it.",
         "raw_html_comments": "<p class=\"neutral_comments\">Peripheral proteins, by definition, are attached to the periphery of the membrane rather than being embedded in it.</p>",
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 4
-  },
-  {
-    "quiz_title": "SQ final exam level 1d (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_3",
-    "questions": [
+      },
       {
         "raw_html_question": "_________________ is a period of stability in population size, when additions to populations through births and immigration are balanced by subtractions through death and emigration.",
         "question": "_________________ is a period of stability in population size, when additions to populations through births and immigration are balanced by subtractions through death and emigration.",
@@ -16914,13 +16812,7 @@
         "comments": null,
         "raw_html_comments": null,
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 5
-  },
-  {
-    "quiz_title": "SQ final exam level 1d (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_4",
-    "questions": [
+      },
       {
         "raw_html_question": "Kingfish, Louisiana, had a population of 1,100 individuals. They had a birth rate of 12/100, a death rate of 8/100, an emigration (individuals leaving the population) rate of 2/100 and an immigration rate of 0/100. How many people were added to Kingfish's population in one year?",
         "question": "Kingfish, Louisiana, had a population of 1,100 individuals. They had a birth rate of 12/100, a death rate of 8/100, an emigration (individuals leaving the population) rate of 2/100 and an immigration rate of 0/100. How many people were added to Kingfish's population in one year?",
@@ -17092,13 +16984,7 @@
         "comments": null,
         "raw_html_comments": null,
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 6
-  },
-  {
-    "quiz_title": "SQ final exam level 1d (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_5",
-    "questions": [
+      },
       {
         "raw_html_question": "Synaptonemal complexes form or are still present during which of the following stages of meiosis:<br>I.  Prophase I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;\tV.  Prophase II<br>II.  Metaphase I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \tVI.  Metaphase II<br>III.  Anaphase I &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;\tVII.  Anaphase II<br>IV.  Telophase I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \tVIII.  Telophase II",
         "question": "Synaptonemal complexes form or are still present during which of the following stages of meiosis:I. Prophase I                     V. Prophase IIII. Metaphase I                 VI. Metaphase IIIII. Anaphase I                  VII. Anaphase IIIV. Telophase I                  VIII. Telophase II",
@@ -17246,13 +17132,7 @@
         "comments": "All of the listed answers represent serious threats to global diversity. However, conservation biologists consider alteration and destruction of physical habitats to be the biggest threat.",
         "raw_html_comments": "<p class=\"neutral_comments\">All of the listed answers represent serious threats to global diversity. However, conservation biologists consider alteration and destruction of physical habitats to be the biggest threat.</p>",
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 5
-  },
-  {
-    "quiz_title": "SQ final exam level 2 (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")",
-    "questions": [
+      },
       {
         "raw_html_question": "The logistic growth model differs from the exponential growth model in that it _____.",
         "question": "The logistic growth model differs from the exponential growth model in that it _____.",
@@ -17464,13 +17344,7 @@
         "comments": null,
         "raw_html_comments": null,
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 7
-  },
-  {
-    "quiz_title": "SQ final exam level 2 (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_2",
-    "questions": [
+      },
       {
         "raw_html_question": "Growth of a population in an ideal, unlimited environment, represented by a J-shaped curve when population size is plotted over time, is known as",
         "question": "Growth of a population in an ideal, unlimited environment, represented by a J-shaped curve when population size is plotted over time, is known as",
@@ -17590,13 +17464,7 @@
         "comments": null,
         "raw_html_comments": null,
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 4
-  },
-  {
-    "quiz_title": "SQ final exam level 2 (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_3",
-    "questions": [
+      },
       {
         "raw_html_question": "A population will grow exponentially _____.",
         "question": "A population will grow exponentially _____.",
@@ -17740,13 +17608,7 @@
         "comments": null,
         "raw_html_comments": null,
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 5
-  },
-  {
-    "quiz_title": "SQ final exam level 2 (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_4",
-    "questions": [
+      },
       {
         "raw_html_question": "_______________ refers to any characteristic that is not affected by population density.",
         "question": "_______________ refers to any characteristic that is not affected by population density.",
@@ -17890,13 +17752,7 @@
         "comments": "Think of it this way: If you were asked to build a polymer that was just one monomer long (ok, that wouldn’t be a polymer, but let’s ignore that for the moment), and you had only “A” and “B” monomers available to use, you would be able to build just two different “polymers”: A and B. If you were asked to build a polymer that was just 2 monomers long (again, that wouldn’t be a polymer, but let’s ignore that for the moment), and had only “A” and “B” monomers available, you would be able to build just 4 different “polymers”: AA, AB, BA and BB. If you were asked to build a polymer that was just 3 monomers long (again, that wouldn’t be a polymer, but let’s ignore that for the moment), and had only “A” and “B” monomers available, you would be able to build just 8 different “polymers”: AAA, AAB, ABA, BAA, ABB, BAB. BBA and BBB. Are you seeing a pattern here? The answer to this type of question may be found using the following formula: Number of different polymers that may be formed = XY, where “X” is the number of different types of monomers available and “Y” is the number of monomers in the polymer. So, if you were asked to build a polymer that is 20 monomers long, and you could use four different types of monomers, the number of different polymers you could build would be: 420 = ~ 1 x 1012",
         "raw_html_comments": "<p class=\"neutral_comments\">Think of it this way: If you were asked to build a polymer that was just one monomer long (ok, that wouldn’t be a polymer, but let’s ignore that for the moment), and you had only “A” and “B” monomers available to use, you would be able to build just two different “polymers”: A and B. If you were asked to build a polymer that was just 2 monomers long (again, that wouldn’t be a polymer, but let’s ignore that for the moment), and had only “A” and “B” monomers available, you would be able to build just 4 different “polymers”: AA, AB, BA and BB. If you were asked to build a polymer that was just 3 monomers long (again, that wouldn’t be a polymer, but let’s ignore that for the moment), and had only “A” and “B” monomers available, you would be able to build just 8 different “polymers”: AAA, AAB, ABA, BAA, ABB, BAB. BBA and BBB. Are you seeing a pattern here? The answer to this type of question may be found using the following formula: Number of different polymers that may be formed = X<sup>Y</sup>, where “X” is the number of different types of monomers available and “Y” is the number of monomers in the polymer. So, if you were asked to build a polymer that is 20 monomers long, and you could use four different types of monomers, the number of different polymers you could build would be: 4<sup>20</sup> = ~ 1 x 10<sup>12</sup></p>",
         "comments_image_url": []
-      }
-    ],
-    "unique_questions": 5
-  },
-  {
-    "quiz_title": "SQ final exam level 2 (topics 1-25, emphasis topics 20-25, includes \"Gene expression in development, cancer\")_5",
-    "questions": [
+      },
       {
         "raw_html_question": "Kingfish, Louisiana, had a population of 1,100 individuals. They had a birth rate of 12/100, a death rate of 8/100, an emigration (individuals leaving the population) rate of 2/100 and an immigration rate of 0/100. What was the per capita rate of increase, including emigration, for this year in Kingfish?",
         "question": "Kingfish, Louisiana, had a population of 1,100 individuals. They had a birth rate of 12/100, a death rate of 8/100, an emigration (individuals leaving the population) rate of 2/100 and an immigration rate of 0/100. What was the per capita rate of increase, including emigration, for this year in Kingfish?",
@@ -17986,7 +17842,7 @@
         "comments_image_url": []
       }
     ],
-    "unique_questions": 3
+    "unique_questions": 132
   },
   {
     "quiz_title": "SQ topic 22",
